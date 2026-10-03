@@ -7,7 +7,7 @@ import io
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
-project_root = r"D:\Nour"
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
 lib_dir = os.path.join(project_root, "lib")
 
 all_dart_files = []
