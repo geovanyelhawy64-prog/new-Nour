@@ -1,0 +1,16 @@
+{
+  "tables": {
+    "bible_verses": {
+      "source_ref": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null
+    },
+    "agpeya_sections": {
+      "source_ref": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null
+    }
+  }
+}
