@@ -137,7 +137,7 @@ for f, nv in all_nav.items():
     print(f"- {f}: {nv}")
 
 all_disconnected = [f for f in file_audits if not file_audits[f]['is_connected'] and not f.endswith(".g.dart")]
-print(f"\nDisconnected files (not imported by anything): {len(all_disconnected)}")
+print(f"\nPotentially unreferenced files (static import scan; review candidates): {len(all_disconnected)}")
 for f in all_disconnected:
     print(f"- {f}")
 
