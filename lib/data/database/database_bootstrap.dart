@@ -35,13 +35,17 @@ class DatabaseBootstrap {
     final contentIsValid =
         await content.exists() && await content.length() > 1024 * 1024;
 
+    // الترحيل مستقل عن إصدار المحتوى: قد يكون content.db حديثاً بالفعل،
+    // بينما لا يزال noor.db القديم موجوداً ولم تُنقل بيانات المستخدم بعد.
+    // لذلك يجب فحص علامة الترحيل في كل تشغيل قبل أي استبدال للمحتوى.
+    // أي استثناء هنا يمنع لمس قاعدة المحتوى تماماً.
+    const UserDataMigrator().migrate(
+      legacyDatabase: legacy,
+      userDatabase: user,
+    );
+
     if (!contentIsValid ||
         installedVersion < AppConstants.currentDbVersion) {
-      // يجب أن ينجح الترحيل أولاً. أي استثناء هنا يمنع لمس قاعدة المحتوى.
-      const UserDataMigrator().migrate(
-        legacyDatabase: legacy,
-        userDatabase: user,
-      );
       await _installVerifiedContent(content);
       await prefs.setInt(
         AppConstants.prefInstalledDbVersion,
@@ -58,6 +62,25 @@ class DatabaseBootstrap {
       mode: sqlite.OpenMode.readOnly,
     );
     try {
+      final integrity = database.select('PRAGMA integrity_check');
+      if (integrity.isEmpty || integrity.first.values.first != 'ok') {
+        throw const FileSystemException(
+          'فشل فحص سلامة قاعدة المحتوى.',
+          'content.db',
+        );
+      }
+
+      final requiredTables = database.select(
+        "SELECT name FROM sqlite_master "
+        "WHERE type = 'table' AND name IN ('bible_books', 'bible_verses', 'bible_verses_fts')",
+      );
+      if (requiredTables.length != 3) {
+        throw const FileSystemException(
+          'قاعدة المحتوى ناقصة الجداول الأساسية.',
+          'content.db',
+        );
+      }
+
       final table = database.select(
         "SELECT 1 FROM sqlite_master "
         "WHERE type = 'table' AND name = 'bible_verses_fts' LIMIT 1",

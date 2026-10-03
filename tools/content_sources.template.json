@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "bible.primary.translation-to-be-decided",
+      "category": "bible",
+      "title": "يُملأ بعد اعتماد الترجمة والطبعة",
+      "publisher": null,
+      "edition": null,
+      "publication_year": null,
+      "authority_level": "primary_church_edition",
+      "rights_status": "unknown",
+      "permission_reference": null,
+      "url": null,
+      "notes": "ممنوع إدخال النص في إصدار النشر قبل تحديد الترجمة والحقوق كتابيًا."
+    },
+    {
+      "id": "agpeya.primary.edition-to-be-decided",
+      "category": "agpeya",
+      "title": "يُملأ بعد اعتماد طبعة الأجبية",
+      "publisher": null,
+      "edition": null,
+      "publication_year": null,
+      "authority_level": "primary_church_edition",
+      "rights_status": "unknown",
+      "permission_reference": null,
+      "url": null,
+      "notes": "يجب تحديد الطبعة والصفحات قبل التفريغ."
+    },
+    {
+      "id": "liturgy.primary.edition-to-be-decided",
+      "category": "liturgy",
+      "title": "يُملأ بعد اعتماد كتب القداسات",
+      "publisher": null,
+      "edition": null,
+      "publication_year": null,
+      "authority_level": "primary_church_edition",
+      "rights_status": "unknown",
+      "permission_reference": null,
+      "url": null,
+      "notes": "يفصل باسيلي وكيرلسي وغريغوري ومراجع كل قداس."
+    },
+    {
+      "id": "calendar.official.reference-to-be-decided",
+      "category": "calendar",
+      "title": "يُملأ بعد اعتماد جدول التقويم والقراءات",
+      "publisher": null,
+      "edition": null,
+      "publication_year": null,
+      "authority_level": "primary_church_edition",
+      "rights_status": "unknown",
+      "permission_reference": null,
+      "url": null,
+      "notes": "الخوارزمية لا تكفي وحدها لإثبات الحكم الطقسي."
+    },
+    {
+      "id": "comparison.coptic-reader",
+      "category": "comparison",
+      "title": "Coptic Reader",
+      "publisher": "Coptic Orthodox Diocese of the Southern United States",
+      "edition": null,
+      "publication_year": null,
+      "authority_level": "diocese_edition",
+      "rights_status": "link_only",
+      "permission_reference": null,
+      "url": "https://wiki.suscopts.org/Coptic_Reader",
+      "notes": "للمقارنة واكتشاف الاختلافات فقط، وليس مصدر نسخ دون إذن."
+    }
+  ],
+  "table_metadata": {
+    "bible_verses": {
+      "source_ref": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null
+    },
+    "agpeya_sections": {
+      "source_ref": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null
+    }
+  }
+}

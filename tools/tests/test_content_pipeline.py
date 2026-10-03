@@ -78,10 +78,58 @@ class ContentPipelineTest(unittest.TestCase):
         self.assertEqual(user.execute("SELECT COUNT(*) FROM verse_highlights").fetchone()[0], 0)
         user.close()
 
+    def test_per_record_provenance_is_written_to_content_database(self):
+        sources = self.root / "record-sources.json"
+        sources.write_text(
+            '{"sources": [{"id": "bible.test", "category": "bible"}], '
+            '"records": {"bible_verses": [{"id": 1, '
+            '"source_id": "bible.test", "source_ref": "edition page 1", '
+            '"review_status": "approved", "verified_by": "Reviewer", '
+            '"verified_at": "2026-10-03"}]}}',
+            encoding="utf-8",
+        )
+        args = self.args()
+        args.sources = sources
+        manifest = build(args)
+        self.assertIsNotNone(manifest["content_db"]["sha256"])
+        self.assertIsNotNone(manifest["content_db"]["source_registry_sha256"])
+
+        db = sqlite3.connect(self.root / "content.db")
+        row = db.execute(
+            "SELECT source_id, source_ref, review_status, verified_by "
+            "FROM bible_verses WHERE id = 1"
+        ).fetchone()
+        db.close()
+        self.assertEqual(row, ("bible.test", "edition page 1", "approved", "Reviewer"))
+
     def test_release_fails_closed_for_unapproved_content(self):
         with self.assertRaisesRegex(RuntimeError, "Release blocked"):
             build(self.args(release=True))
         self.assertFalse((self.root / "content.db").exists())
+
+    def test_categorized_source_id_is_validated(self):
+        sources = self.root / "sources.json"
+        sources.write_text(
+            '{"schema_version": 1, '
+            '"sources": [{"id": "bible.test", "category": "bible"}], '
+            '"table_metadata": {"bible_verses": {'
+            '"source_id": "bible.test", "review_status": "draft"}}}',
+            encoding="utf-8",
+        )
+        args = self.args()
+        args.sources = sources
+        build(args)
+
+        invalid = self.root / "invalid-sources.json"
+        invalid.write_text(
+            '{"sources": [{"id": "bible.test"}], '
+            '"table_metadata": {"bible_verses": {'
+            '"source_id": "missing", "review_status": "draft"}}}',
+            encoding="utf-8",
+        )
+        args.sources = invalid
+        with self.assertRaisesRegex(ValueError, "Unknown source_id"):
+            build(args)
 
 
 if __name__ == "__main__":

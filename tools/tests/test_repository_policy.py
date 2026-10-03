@@ -45,6 +45,11 @@ class RepositoryPolicyTest(unittest.TestCase):
         self.assertFalse((self.root / 'sqlite3.dll').exists())
         self.assertFalse((self.root / 'update_phone.bat').exists())
 
+    def test_release_does_not_use_debug_signing(self):
+        gradle = (self.root / 'android/app/build.gradle.kts').read_text()
+        self.assertNotIn('signingConfig = signingConfigs.getByName("debug")', gradle)
+        self.assertIn('signingConfigs.getByName("release")', gradle)
+
     def test_signing_secrets_are_absent(self):
         secret_names = {'key.properties'}
         secret_suffixes = {'.jks', '.keystore', '.p12', '.pem'}

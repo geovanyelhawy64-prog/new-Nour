@@ -57,6 +57,15 @@ class NotificationService {
     }
   }
 
+  /// إلغاء كل التنبيهات المجدولة عند تعطيلها من الإعدادات.
+  static Future<void> cancelAll() async {
+    try {
+      await _plugin.cancelAll();
+    } catch (e, st) {
+      LoggerService.error('فشل إلغاء التنبيهات المجدولة', e, st);
+    }
+  }
+
   /// إظهار إشعار فوري
   static Future<void> showInstantNotification({
     int id = 100,

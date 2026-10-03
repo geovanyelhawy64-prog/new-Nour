@@ -150,8 +150,10 @@ class UserDataMigrator {
     ''');
     try {
       for (final row in rows) {
-        final contentType = row['content_type'] as String;
-        final contentId = row['content_id'] as String;
+        // بعض الإصدارات القديمة خزنت المعرّف رقمياً. تحويله إلى نص
+        // يحافظ على المفتاح الثابت بدلاً من إسقاط الترحيل بسبب cast ضيق.
+        final contentType = row['content_type'].toString();
+        final contentId = row['content_id'].toString();
         statement.execute([
           contentType,
           ContentKey.canonicalizeBookmark(contentType, contentId),

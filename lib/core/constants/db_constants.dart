@@ -1,8 +1,18 @@
 class DbConstants {
   DbConstants._();
 
+  /// اسم قاعدة الإصدارات القديمة التي تُقرأ مرة واحدة للترحيل فقط.
   static const String databaseFileName = 'noor.db';
-  static const int databaseVersion = 1;
+
+  /// إصدار مخطط قاعدة المحتوى (يختلف عن إصدار Drift الداخلي في AppDatabase).
+  static const int contentDatabaseVersion = 18;
+
+  /// إصدار ترحيل بيانات المستخدم المستقل.
+  static const int userDataMigrationVersion = 1;
+
+  /// للتوافق مع المستهلكين القدامى؛ لا تستخدمه لتقرير تحديث المحتوى.
+  @Deprecated('استخدم contentDatabaseVersion أو userDataMigrationVersion')
+  static const int databaseVersion = userDataMigrationVersion;
 
   // أسماء الجداول
   static const String tableBibleBooks = 'bible_books';

@@ -95,6 +95,71 @@ void main() {
     user.dispose();
   });
 
+  test('يتراجع عن كل النسخ إذا فشل جزء من الترحيل', () {
+    final old = sqlite3.open(legacy.path);
+    old.execute('''CREATE TABLE bookmarks (
+      id INTEGER PRIMARY KEY, content_type TEXT, content_id TEXT,
+      display_title TEXT, note TEXT, created_at INTEGER)''');
+    old.execute(
+      "INSERT INTO bookmarks VALUES (1, 'bible', '43:3:16', 'يوحنا', NULL, 1)",
+    );
+    old.execute('''CREATE TABLE verse_highlights (
+      id TEXT PRIMARY KEY, book_id INTEGER NOT NULL, chapter INTEGER NOT NULL,
+      verse_number INTEGER NOT NULL, color TEXT NOT NULL, created_at TEXT NOT NULL,
+      UNIQUE(book_id, chapter, verse_number))''');
+    old.execute(
+      "INSERT INTO verse_highlights VALUES ('first', 43, 3, 16, 'gold', 'now')",
+    );
+    old.execute(
+      "INSERT INTO verse_highlights VALUES ('second', 43, 3, 17, 'blue', 'now')",
+    );
+    old.dispose();
+
+    // قاعدة المستخدم تحتوي مسبقاً على الموضع نفسه بمعرّف مختلف؛ هذا
+    // يسبب تعارضاً مقصوداً في القيد الفريد ويجب أن يلغي المعاملة كلها.
+    final existing = sqlite3.open(userFile.path);
+    existing.execute('''CREATE TABLE verse_highlights (
+      id TEXT PRIMARY KEY, book_id INTEGER NOT NULL, chapter INTEGER NOT NULL,
+      verse_number INTEGER NOT NULL, color TEXT NOT NULL, created_at TEXT NOT NULL,
+      UNIQUE(book_id, chapter, verse_number))''');
+    existing.execute(
+      "INSERT INTO verse_highlights VALUES ('existing', 43, 3, 17, 'red', 'now')",
+    );
+    existing.dispose();
+
+    expect(
+      () => const UserDataMigrator().migrate(
+        legacyDatabase: legacy,
+        userDatabase: userFile,
+      ),
+      throwsStateError,
+    );
+
+    final user = sqlite3.open(userFile.path);
+    expect(user.select('SELECT * FROM bookmarks'), isEmpty);
+    expect(user.select('SELECT * FROM migration_metadata'), isEmpty);
+    expect(user.select('SELECT * FROM verse_highlights'), hasLength(1));
+    expect(user.select('SELECT color FROM verse_highlights').single['color'], 'red');
+    user.dispose();
+  });
+
+  test('يدعم المعرف الرقمي في مخطط قديم', () {
+    final old = sqlite3.open(legacy.path);
+    old.execute('''CREATE TABLE bookmarks (
+      id INTEGER PRIMARY KEY, content_type TEXT, content_id INTEGER,
+      display_title TEXT, note TEXT, created_at INTEGER)''');
+    old.execute("INSERT INTO bookmarks VALUES (1, 'agpeya', 42, 'باكر', NULL, 5)");
+    old.dispose();
+
+    const UserDataMigrator().migrate(
+      legacyDatabase: legacy,
+      userDatabase: userFile,
+    );
+    final user = sqlite3.open(userFile.path);
+    expect(user.select('SELECT content_id FROM bookmarks').single['content_id'], '42');
+    user.dispose();
+  });
+
   test('يدعم مخطط المحفوظات الأقدم', () {
     final old = sqlite3.open(legacy.path);
     old.execute('''CREATE TABLE bookmarks (
