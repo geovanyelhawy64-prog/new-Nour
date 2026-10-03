@@ -1,0 +1,83 @@
+{
+  "schema_version": 1,
+  "rules": [
+    {
+      "id": "calendar.coptic_date_conversion",
+      "title_ar": "تحويل التاريخ الميلادي إلى التاريخ القبطي",
+      "category": "calendar_computation",
+      "condition": "تاريخ ميلادي صالح",
+      "result": "تاريخ قبطي محسوب مع معالجة السنة الكبيسة",
+      "source_ref": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "enabled_in_release": false,
+      "implementation": "CopticDate.fromGregorian"
+    },
+    {
+      "id": "calendar.orthodox_easter",
+      "title_ar": "حساب عيد القيامة وفق التقويم اليولياني",
+      "category": "calendar_computation",
+      "condition": "سنة ميلادية صالحة",
+      "result": "تاريخ عيد القيامة بالتقويم الغريغوري",
+      "source_ref": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "enabled_in_release": false,
+      "implementation": "EasterCalculator.calculateEaster"
+    },
+    {
+      "id": "rite.daily_adam_watos",
+      "title_ar": "تحديد نغمة اليوم: آدام أو واطس",
+      "category": "ecclesiastical_rubric",
+      "condition": "اليوم والمناسبة والموسم الطقسي",
+      "result": "النغمة اليومية المعتمدة",
+      "source_ref": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "enabled_in_release": false,
+      "implementation": null
+    },
+    {
+      "id": "rite.joyous_period_boundaries",
+      "title_ar": "حدود الفترات الفرايحية",
+      "category": "ecclesiastical_rubric",
+      "condition": "التاريخ القبطي والمناسبة المتحركة",
+      "result": "بداية ونهاية الفترة الفرايحية",
+      "source_ref": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "enabled_in_release": false,
+      "implementation": "RiteDeterminer"
+    },
+    {
+      "id": "rite.coptic_month_day_29",
+      "title_ar": "تذكار اليوم التاسع والعشرين من الشهر القبطي واستثناءاته",
+      "category": "ecclesiastical_rubric",
+      "condition": "اليوم التاسع والعشرون من شهر قبطي",
+      "result": "التذكار والطقس والاستثناءات الصحيحة",
+      "source_ref": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "enabled_in_release": false,
+      "implementation": null
+    },
+    {
+      "id": "rite.lenten_and_mournful_tunes",
+      "title_ar": "الألحان الصيامية والحزايني",
+      "category": "ecclesiastical_rubric",
+      "condition": "الموسم واليوم والساعة الطقسية",
+      "result": "اللحن المسموح به في الموضع المحدد",
+      "source_ref": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "enabled_in_release": false,
+      "implementation": null
+    }
+  ]
+}

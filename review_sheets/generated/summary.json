@@ -1,0 +1,15 @@
+{
+  "generated_at_utc": "2026-10-03T15:00:02.211224+00:00",
+  "database": "noor.db",
+  "integrity_check": "ok",
+  "total_verses": 35761,
+  "chapters": 1335,
+  "verse_numbering_anomalies": 5,
+  "verse_text_issues": 0,
+  "non_nfc_verse_texts": 0,
+  "missing_cross_references": 22,
+  "hymns_without_segments": 0,
+  "reference_count_mismatches": 0,
+  "reference_counts_supplied": false,
+  "note": "An anomaly is a review target, not an automatic textual correction."
+}
