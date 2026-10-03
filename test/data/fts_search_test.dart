@@ -49,4 +49,15 @@ void main() {
     );
     expect(SearchNormalizer.toFts5Query(''), isEmpty);
   });
+
+  test('يزيل العلامات القرآنية من الفهرسة والاستعلام', () {
+    expect(
+      SearchNormalizer.normalize('وَقَالَ ۝'),
+      SearchNormalizer.normalize('وقال'),
+    );
+    expect(
+      SearchNormalizer.toFts5Query('قَالَ ٱلرَّبُّ'),
+      '\"قال\" AND \"الرب\"',
+    );
+  });
 }

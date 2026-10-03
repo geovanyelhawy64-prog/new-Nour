@@ -66,6 +66,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
         });
         await PreferencesService.setNotificationsEnabled(true);
         await PreferencesService.setPrayerReminders(true);
+        await NotificationService.init();
         try {
           await NotificationService.scheduleDailyVerse(
             hour: _alertHour,
@@ -554,10 +555,13 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
                         setState(() => _notificationsEnabled = val);
                         await PreferencesService.setNotificationsEnabled(val);
                         if (val) {
+                          await NotificationService.init();
                           await NotificationService.scheduleDailyVerse(
                             hour: _alertHour,
                             minute: _alertMinute,
                           );
+                        } else {
+                          await NotificationService.cancelAll();
                         }
                       },
                     ),

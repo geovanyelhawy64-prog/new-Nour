@@ -79,7 +79,7 @@ class PreferencesService {
 
   // ========== التنبيهات والإشعارات ==========
   static bool getNotificationsEnabled() {
-    return _prefs.getBool(AppConstants.prefNotificationsEnabled) ?? true;
+    return _prefs.getBool(AppConstants.prefNotificationsEnabled) ?? false;
   }
 
   static Future<void> setNotificationsEnabled(bool value) async {
@@ -110,7 +110,7 @@ class PreferencesService {
 
   // ========== تذكيرات صلوات الأجبية ==========
   static bool getPrayerReminders() {
-    return _prefs.getBool(AppConstants.prefPrayerReminders) ?? true;
+    return _prefs.getBool(AppConstants.prefPrayerReminders) ?? false;
   }
 
   static Future<void> setPrayerReminders(bool value) async {
@@ -145,10 +145,10 @@ class PreferencesService {
     await setThemeMode('system');
     await setShowTashkeel(true);
     await setKeepScreenOn(true);
-    await setNotificationsEnabled(true);
+    await setNotificationsEnabled(false);
     await setDailyVerseTime(8, 0);
     await setShowCoptic(true);
-    await setPrayerReminders(true);
+    await setPrayerReminders(false);
     await setPrayerReminderTime(9, 0);
     await setHapticHazat(true);
   }

@@ -43,8 +43,13 @@ Future<void> _bootstrap() async {
 
     // الخدمات المساعدة لا يجوز أن تمنع فتح التطبيق عند تعثرها.
     try {
-      await NotificationService.init();
-      await NotificationService.scheduleDailyVerse();
+      if (PreferencesService.getNotificationsEnabled()) {
+        await NotificationService.init();
+        await NotificationService.scheduleDailyVerse(
+          hour: PreferencesService.getDailyVerseHour(),
+          minute: PreferencesService.getDailyVerseMinute(),
+        );
+      }
     } catch (error, stack) {
       LoggerService.error('تعذر تهيئة التنبيهات', error, stack);
     }

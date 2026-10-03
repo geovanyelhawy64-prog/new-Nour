@@ -7,7 +7,7 @@ import io
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
 
-project_root = r"D:\Nour"
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), os.pardir))
 lib_dir = os.path.join(project_root, "lib")
 
 all_dart_files = []
@@ -43,6 +43,16 @@ for rel_path in all_dart_files:
         if target in import_map:
             import_map[norm_path].append(target)
             imported_by[target].append(norm_path)
+
+# Test imports also prove that a library is intentionally retained; they were
+# previously invisible because the graph only contained lib/ files.
+for test_path in glob.glob(os.path.join(project_root, "test", "**", "*.dart"), recursive=True):
+    with open(test_path, "r", encoding="utf-8", errors="ignore") as stream:
+        for imp in re.findall(r"import\s+['\"]([^'\"]+)['\"]", stream.read()):
+            if imp.startswith("package:noor_app/"):
+                target = imp.replace("package:noor_app/", "lib/")
+                if target in imported_by:
+                    imported_by[target].append("test/" + os.path.basename(test_path))
 
 file_audits = {}
 
@@ -137,7 +147,7 @@ for f, nv in all_nav.items():
     print(f"- {f}: {nv}")
 
 all_disconnected = [f for f in file_audits if not file_audits[f]['is_connected'] and not f.endswith(".g.dart")]
-print(f"\nDisconnected files (not imported by anything): {len(all_disconnected)}")
+print(f"\nPotentially unreferenced files (static import scan; review candidates): {len(all_disconnected)}")
 for f in all_disconnected:
     print(f"- {f}")
 

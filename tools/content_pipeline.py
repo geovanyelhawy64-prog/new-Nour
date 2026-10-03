@@ -21,10 +21,11 @@ from typing import Any
 
 USER_TABLES = {"bookmarks", "verse_highlights"}
 REVIEW_STATES = {"draft", "reviewed", "approved"}
-ARABIC_MARKS = re.compile(r"[\u064b-\u065f\u0670]")
+# Arabic and Quranic annotation marks; must stay identical to the Dart query normalizer.
+ARABIC_MARKS = re.compile(r"[\u0610-\u061a\u064b-\u065f\u0670\u06d6-\u06ed]")
 SPACES = re.compile(r"\s+")
 SEARCH_TRANSLATION = str.maketrans(
-    {"أ": "ا", "إ": "ا", "آ": "ا", "ء": "", "ؤ": "و", "ئ": "ي", "ة": "ه", "ى": "ي"}
+    {"أ": "ا", "إ": "ا", "آ": "ا", "ٱ": "ا", "ء": "", "ؤ": "و", "ئ": "ي", "ة": "ه", "ى": "ي"}
 )
 
 
@@ -68,6 +69,7 @@ def add_review_columns(db: sqlite3.Connection, tables: list[str]) -> None:
             continue
         existing = {row[1] for row in table_columns(db, table)}
         additions = {
+            "source_id": "TEXT",
             "source_ref": "TEXT",
             "review_status": (
                 "TEXT NOT NULL DEFAULT 'draft' "
@@ -88,7 +90,20 @@ def apply_source_metadata(db: sqlite3.Connection, metadata_path: Path | None) ->
     if metadata_path is None:
         return
     payload = json.loads(metadata_path.read_text(encoding="utf-8"))
-    table_metadata = payload.get("tables", {})
+    sources = payload.get("sources", [])
+    if not isinstance(sources, list):
+        raise ValueError("sources must be a list")
+    source_ids = set()
+    for source in sources:
+        if not isinstance(source, dict) or not source.get("id"):
+            raise ValueError("Every source must have a non-empty id")
+        source_id = source["id"]
+        if source_id in source_ids:
+            raise ValueError(f"Duplicate source id: {source_id}")
+        source_ids.add(source_id)
+
+    # table_metadata is the new name; tables remains supported for compatibility.
+    table_metadata = payload.get("table_metadata", payload.get("tables", {}))
     known = set(regular_tables(db)) - USER_TABLES
     unknown = set(table_metadata) - known
     if unknown:
@@ -98,7 +113,10 @@ def apply_source_metadata(db: sqlite3.Connection, metadata_path: Path | None) ->
         state = values.get("review_status", "draft")
         if state not in REVIEW_STATES:
             raise ValueError(f"Invalid review_status for {table}: {state}")
-        source_ref = values.get("source_ref")
+        source_id = values.get("source_id")
+        if source_id is not None and source_id not in source_ids:
+            raise ValueError(f"Unknown source_id for {table}: {source_id}")
+        source_ref = values.get("source_ref") or source_id
         verified_by = values.get("verified_by")
         verified_at = values.get("verified_at")
         if state == "approved" and (not source_ref or not verified_by or not verified_at):
@@ -107,9 +125,42 @@ def apply_source_metadata(db: sqlite3.Connection, metadata_path: Path | None) ->
             )
         db.execute(
             f"""UPDATE {quote_identifier(table)}
-                SET source_ref = ?, review_status = ?, verified_by = ?, verified_at = ?""",
-            (source_ref, state, verified_by, verified_at),
+                SET source_id = ?, source_ref = ?, review_status = ?,
+                    verified_by = ?, verified_at = ?""",
+            (source_id, source_ref, state, verified_by, verified_at),
         )
+
+    for table, rows in payload.get("records", {}).items():
+        if table not in known:
+            raise ValueError(f"Unknown table in record metadata: {table}")
+        if not isinstance(rows, list):
+            raise ValueError(f"Record metadata for {table} must be a list")
+        columns = {row[1] for row in table_columns(db, table)}
+        if "id" not in columns:
+            raise ValueError(f"Per-record metadata requires an id column: {table}")
+        for values in rows:
+            if not isinstance(values, dict) or not values.get("id"):
+                raise ValueError(f"Every {table} metadata row requires id")
+            source_id = values.get("source_id")
+            if source_id not in source_ids:
+                raise ValueError(f"Unknown source_id for {table} record: {source_id}")
+            state = values.get("review_status", "draft")
+            source_ref = values.get("source_ref") or source_id
+            verified_by = values.get("verified_by")
+            verified_at = values.get("verified_at")
+            if state not in REVIEW_STATES:
+                raise ValueError(f"Invalid review_status for {table}: {state}")
+            if state == "approved" and (not source_ref or not verified_by or not verified_at):
+                raise ValueError(f"Approved record in {table} requires source and reviewer")
+            cursor = db.execute(
+                f"""UPDATE {quote_identifier(table)}
+                    SET source_id = ?, source_ref = ?, review_status = ?,
+                        verified_by = ?, verified_at = ?
+                    WHERE id = ?""",
+                (source_id, source_ref, state, verified_by, verified_at, values["id"]),
+            )
+            if cursor.rowcount == 0:
+                raise ValueError(f"Unknown record id in {table}: {values['id']}")
 
 
 def normalize_all_text_to_nfc(db: sqlite3.Connection, tables: list[str]) -> int:
@@ -180,6 +231,7 @@ def assert_release_ready(db: sqlite3.Connection, tables: list[str]) -> None:
         row = db.execute(
             f"""SELECT COUNT(*) FROM {quote_identifier(table)}
                 WHERE review_status <> 'approved'
+                   OR source_id IS NULL OR trim(source_id) = ''
                    OR source_ref IS NULL OR trim(source_ref) = ''
                    OR verified_by IS NULL OR trim(verified_by) = ''
                    OR verified_at IS NULL OR trim(verified_at) = ''"""
@@ -254,6 +306,42 @@ def table_counts(db: sqlite3.Connection, tables: list[str]) -> dict[str, int]:
     }
 
 
+def source_registry_snapshot(metadata_path: Path | None) -> list[dict[str, Any]]:
+    if metadata_path is None:
+        return []
+    payload = json.loads(metadata_path.read_text(encoding="utf-8"))
+    return [
+        {
+            "id": source["id"],
+            "category": source.get("category"),
+            "title": source.get("title"),
+            "authority_level": source.get("authority_level"),
+            "rights_status": source.get("rights_status"),
+            "permission_reference": source.get("permission_reference"),
+        }
+        for source in payload.get("sources", [])
+    ]
+
+
+def provenance_summary(db: sqlite3.Connection, tables: list[str]) -> dict[str, dict[str, int]]:
+    summary: dict[str, dict[str, int]] = {}
+    for table in tables:
+        columns = {row[1] for row in table_columns(db, table)}
+        if not {'source_id', 'review_status'}.issubset(columns):
+            continue
+        rows = db.execute(
+            f"""SELECT COALESCE(source_id, '<missing>'), review_status, COUNT(*)
+                FROM {quote_identifier(table)}
+                GROUP BY source_id, review_status
+                ORDER BY source_id, review_status"""
+        )
+        summary[table] = {
+            f"{source_id}:{status}": count
+            for source_id, status, count in rows
+        }
+    return summary
+
+
 def build(args: argparse.Namespace) -> dict[str, Any]:
     source = args.source.resolve()
     output = args.output.resolve()
@@ -284,6 +372,7 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
         db.commit()
         verify_database(db, regular_tables(db))
         counts = table_counts(db, tables)
+        provenance = provenance_summary(db, tables)
         db.execute("VACUUM")
     except Exception:
         db.rollback()
@@ -306,6 +395,11 @@ def build(args: argparse.Namespace) -> dict[str, Any]:
             "sha256": sha256_file(output),
             "bytes": output.stat().st_size,
             "table_counts": counts,
+            "provenance": provenance,
+            "source_registry": source_registry_snapshot(args.sources),
+            "source_registry_sha256": (
+                sha256_file(args.sources) if args.sources is not None else None
+            ),
             "fts_rows": fts_rows,
             "nfc_values_changed": normalized_values,
         },

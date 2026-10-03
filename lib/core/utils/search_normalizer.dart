@@ -1,7 +1,9 @@
 class SearchNormalizer {
   SearchNormalizer._();
 
-  static final RegExp _tashkeelRegex = RegExp(r'[\u064B-\u065F\u0670]');
+  // تشمل علامات التشكيل العربية والعلامات القرآنية، لا التشكيل الأساسي فقط.
+  static final RegExp _tashkeelRegex =
+      RegExp(r'[\u0610-\u061A\u064B-\u065F\u0670\u06D6-\u06ED]');
   static final RegExp _tatweelRegex = RegExp(r'\u0640');
   static final RegExp _extraSpacesRegex = RegExp(r'\s+');
 
@@ -22,6 +24,7 @@ class SearchNormalizer {
         .replaceAll('أ', 'ا')
         .replaceAll('إ', 'ا')
         .replaceAll('آ', 'ا')
+        .replaceAll('ٱ', 'ا')
         .replaceAll('ء', '')
         .replaceAll('ؤ', 'و')
         .replaceAll('ئ', 'ي');

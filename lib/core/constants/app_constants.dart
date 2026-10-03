@@ -1,10 +1,12 @@
+import 'db_constants.dart';
+
 class AppConstants {
   AppConstants._();
 
   static const String appName = 'Noor';
   static const String appTitleAr = 'نور - التطبيق المسيحي الأرثوذكسي الشامل';
-  static const String appVersion = '2.3.0';
-  static const int currentDbVersion = 18;
+  static const String appVersion = '2.4.0';
+  static const int currentDbVersion = DbConstants.contentDatabaseVersion;
   static const String prefInstalledDbVersion = 'installed_db_version';
 
   // التخزين والإعدادات
