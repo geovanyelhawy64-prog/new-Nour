@@ -44,6 +44,16 @@ for rel_path in all_dart_files:
             import_map[norm_path].append(target)
             imported_by[target].append(norm_path)
 
+# Test imports also prove that a library is intentionally retained; they were
+# previously invisible because the graph only contained lib/ files.
+for test_path in glob.glob(os.path.join(project_root, "test", "**", "*.dart"), recursive=True):
+    with open(test_path, "r", encoding="utf-8", errors="ignore") as stream:
+        for imp in re.findall(r"import\s+['\"]([^'\"]+)['\"]", stream.read()):
+            if imp.startswith("package:noor_app/"):
+                target = imp.replace("package:noor_app/", "lib/")
+                if target in imported_by:
+                    imported_by[target].append("test/" + os.path.basename(test_path))
+
 file_audits = {}
 
 for rel_path in sorted(all_dart_files):
