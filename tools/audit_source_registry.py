@@ -24,6 +24,12 @@ def audit(path: Path) -> list[str]:
         for field in REQUIRED:
             if not isinstance(source.get(field), str) or not source[field].strip():
                 issues.append(f"{prefix}: missing {field}")
+        if source.get("authority_level") in {"primary_church_edition", "claimed_primary"}:
+            for field in ("publisher", "edition"):
+                if not isinstance(source.get(field), str) or not source[field].strip():
+                    issues.append(f"{prefix}: {field} required for primary source")
+        if source.get("rights_status") == "unknown":
+            issues.append(f"{prefix}: rights_status must be resolved before release")
         source_id = source.get("id")
         if source_id in ids:
             issues.append(f"{prefix}: duplicate id {source_id}")

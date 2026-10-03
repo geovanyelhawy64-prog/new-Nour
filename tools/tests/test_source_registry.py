@@ -20,7 +20,7 @@ class SourceRegistryAuditTest(unittest.TestCase):
                 }],
             }), encoding='utf-8')
             issues = audit(path)
-        self.assertIn('permission_reference required for claimed permission', issues[0])
+        self.assertTrue(any('permission_reference required for claimed permission' in issue for issue in issues))
 
     def test_accepts_structurally_complete_source(self):
         with tempfile.TemporaryDirectory() as directory:
@@ -31,6 +31,8 @@ class SourceRegistryAuditTest(unittest.TestCase):
                     'category': 'bible',
                     'title': 'Bible',
                     'authority_level': 'primary_church_edition',
+                    'publisher': 'Publisher',
+                    'edition': 'First',
                     'rights_status': 'written_permission',
                     'permission_reference': 'letter-1',
                 }],
