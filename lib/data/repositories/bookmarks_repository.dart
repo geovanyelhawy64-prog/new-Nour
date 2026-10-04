@@ -1,13 +1,9 @@
-import '../database/app_database.dart';
 import '../../core/services/database_service.dart';
+import '../database/bookmark_model.dart';
 
 class BookmarksRepository {
-  final AppDatabase _db;
-
-  BookmarksRepository([AppDatabase? db]) : _db = db ?? DatabaseService.instance;
-
   Future<List<Bookmark>> getAll() {
-    return _db.bookmarksDao.getAllBookmarks();
+    return DatabaseService.userStore.getAllBookmarks();
   }
 
   Future<void> add({
@@ -16,7 +12,7 @@ class BookmarksRepository {
     required String displayTitle,
     String? note,
   }) {
-    return _db.bookmarksDao.addBookmark(
+    return DatabaseService.userStore.addBookmark(
       contentType: contentType,
       contentId: contentId,
       displayTitle: displayTitle,
@@ -25,13 +21,13 @@ class BookmarksRepository {
   }
 
   Future<void> remove(int id) {
-    return _db.bookmarksDao.removeBookmark(id);
+    return DatabaseService.userStore.removeBookmark(id);
   }
 
   Future<bool> isBookmarked(
     String contentType,
     String contentId,
   ) {
-    return _db.bookmarksDao.isBookmarked(contentType, contentId);
+    return DatabaseService.userStore.isBookmarked(contentType, contentId);
   }
 }

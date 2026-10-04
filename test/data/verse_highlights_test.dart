@@ -1,5 +1,6 @@
 import 'package:drift/native.dart';
 import 'package:flutter_test/flutter_test.dart';
+import 'package:noor_app/core/services/database_service.dart';
 import 'package:noor_app/data/database/app_database.dart';
 import 'package:noor_app/data/repositories/bible_repository.dart';
 
@@ -9,11 +10,12 @@ void main() {
 
   setUp(() {
     db = AppDatabase.test(NativeDatabase.memory());
+    DatabaseService.init(db);
     repo = BibleRepository(db);
   });
 
   tearDown(() async {
-    await db.close();
+    await DatabaseService.close();
   });
 
   test('verse_highlights table is created on fresh DB and roundtrips', () async {

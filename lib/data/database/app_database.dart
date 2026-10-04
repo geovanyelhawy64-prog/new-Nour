@@ -8,11 +8,11 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:sqlite3/sqlite3.dart' as sq;
 import '../../core/constants/app_constants.dart';
 import '../../core/services/logger_service.dart';
+export 'bookmark_model.dart';
 
 // الجداول
 import 'tables/agpeya_tables.dart';
 import 'tables/bible_tables.dart';
-import 'tables/bookmarks_tables.dart';
 import 'tables/daily_verse_tables.dart';
 import 'tables/difnar_tables.dart';
 import 'tables/feasts_tables.dart';
@@ -33,7 +33,6 @@ import 'tables/psali_tables.dart';
 import 'tables/rite_tables.dart';
 import 'tables/holy_place_tables.dart';
 import 'tables/emotion_prayer_tables.dart';
-import 'tables/verse_highlights_tables.dart';
 
 // DAOs
 import 'daos/agpeya_dao.dart';
@@ -45,7 +44,6 @@ import 'daos/dictionary_dao.dart';
 import 'daos/cross_reference_dao.dart';
 import 'daos/psali_dao.dart';
 import 'daos/rite_dao.dart';
-import 'daos/bookmarks_dao.dart';
 import 'daos/daily_verse_dao.dart';
 import 'daos/difnar_dao.dart';
 import 'daos/feasts_dao.dart';
@@ -97,8 +95,6 @@ part 'app_database.g.dart';
     TheologyArticles,
     // آية اليوم
     DailyVerses,
-    // المحفوظات
-    Bookmarks,
     // الأسرار الكنسية
     Sacraments,
     SacramentSections,
@@ -120,8 +116,6 @@ part 'app_database.g.dart';
     HolyPlaces,
     // صلوات المشاعر والحاجة
     EmotionPrayers,
-    // تظليلات الآيات
-    VerseHighlights,
   ],
   daos: [
     BibleDao,
@@ -146,7 +140,6 @@ part 'app_database.g.dart';
     DifnarDao,
     TheologyDao,
     SearchDao,
-    BookmarksDao,
     MonasteriesDao,
   ],
 )
@@ -218,18 +211,6 @@ class AppDatabase extends _$AppDatabase {
             await customStatement('CREATE INDEX IF NOT EXISTS idx_holy_places_type ON holy_places (type);');
             await customStatement('CREATE INDEX IF NOT EXISTS idx_holy_places_gov ON holy_places (governorate);');
             await customStatement('CREATE INDEX IF NOT EXISTS idx_emotion_prayers_cat ON emotion_prayers (category);');
-          }
-          if (from < 18) {
-            await customStatement('''
-              CREATE TABLE IF NOT EXISTS verse_highlights (
-                id TEXT NOT NULL PRIMARY KEY,
-                book_id INTEGER NOT NULL,
-                chapter INTEGER NOT NULL,
-                verse_number INTEGER NOT NULL,
-                color TEXT NOT NULL,
-                created_at TEXT NOT NULL
-              );
-            ''');
           }
         },
         beforeOpen: (details) async {

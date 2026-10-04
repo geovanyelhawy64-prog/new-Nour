@@ -41,7 +41,7 @@ class _BookmarksScreenState extends State<BookmarksScreen> {
 
   Future<void> _loadBookmarks() async {
     setState(() => _isLoading = true);
-    final items = await DatabaseService.instance.bookmarksDao.getAllBookmarks();
+    final items = await DatabaseService.bookmarksDao.getAllBookmarks();
     if (mounted) {
       setState(() {
         _allBookmarks = items;
@@ -91,7 +91,7 @@ class _BookmarksScreenState extends State<BookmarksScreen> {
 
   Future<void> _deleteBookmark(int id) async {
     HapticFeedback.lightImpact();
-    await DatabaseService.instance.bookmarksDao.removeBookmark(id);
+    await DatabaseService.bookmarksDao.removeBookmark(id);
     _loadBookmarks();
   }
 
@@ -134,9 +134,9 @@ class _BookmarksScreenState extends State<BookmarksScreen> {
         final map = item as Map<String, dynamic>;
         final cType = map['contentType'] as String;
         final cId = map['contentId'] as String;
-        final exists = await DatabaseService.instance.bookmarksDao.isBookmarked(cType, cId);
+        final exists = await DatabaseService.bookmarksDao.isBookmarked(cType, cId);
         if (!exists) {
-          await DatabaseService.instance.bookmarksDao.addBookmark(
+          await DatabaseService.bookmarksDao.addBookmark(
             contentType: cType,
             contentId: cId,
             displayTitle: map['displayTitle'] as String,

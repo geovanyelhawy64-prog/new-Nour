@@ -39,7 +39,7 @@ class _LiturgyReaderScreenState extends State<LiturgyReaderScreen> {
   }
 
   Future<void> _checkBookmarkStatus() async {
-    final status = await DatabaseService.instance.bookmarksDao
+    final status = await DatabaseService.bookmarksDao
         .isBookmarked('liturgy', widget.liturgyId);
     if (mounted) {
       setState(() => _isBookmarked = status);
@@ -48,7 +48,7 @@ class _LiturgyReaderScreenState extends State<LiturgyReaderScreen> {
 
   Future<void> _toggleBookmark() async {
     HapticFeedback.selectionClick();
-    final dao = DatabaseService.instance.bookmarksDao;
+    final dao = DatabaseService.bookmarksDao;
     if (_isBookmarked) {
       final all = await dao.getBookmarksByType('liturgy');
       final target = all.where((b) => b.contentId == widget.liturgyId).firstOrNull;

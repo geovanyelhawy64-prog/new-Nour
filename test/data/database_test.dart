@@ -3,6 +3,7 @@ import 'package:drift/drift.dart' as drift;
 import 'package:drift/native.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:noor_app/data/database/app_database.dart';
+import 'package:noor_app/data/database/user_data_store.dart';
 
 void main() {
   late AppDatabase db;
@@ -93,9 +94,10 @@ void main() {
       expect(sections.first.title, 'مقدمة الصلوات');
     });
 
-    test('BookmarksDao supports adding, querying, and checking status', () async {
+    test('Bookmarks (user store) supports adding, querying, and checking status', () async {
+      final userStore = UserDataStore.memory();
       // 1. Add Bookmark
-      final id = await db.bookmarksDao.addBookmark(
+      final id = await userStore.addBookmark(
         contentType: 'bible',
         contentId: '1_1_1',
         displayTitle: 'التكوين 1:1',
@@ -104,15 +106,15 @@ void main() {
       expect(id, isPositive);
 
       // 2. Check isBookmarked
-      final exists = await db.bookmarksDao.isBookmarked('bible', '1_1_1');
+      final exists = await userStore.isBookmarked('bible', '1_1_1');
       expect(exists, isTrue);
 
-      final notExists = await db.bookmarksDao.isBookmarked('bible', '1_1_2');
+      final notExists = await userStore.isBookmarked('bible', '1_1_2');
       expect(notExists, isFalse);
 
       // 3. Remove Bookmark
-      await db.bookmarksDao.removeBookmark(id);
-      final existsAfterDelete = await db.bookmarksDao.isBookmarked('bible', '1_1_1');
+      await userStore.removeBookmark(id);
+      final existsAfterDelete = await userStore.isBookmarked('bible', '1_1_1');
       expect(existsAfterDelete, isFalse);
     });
 

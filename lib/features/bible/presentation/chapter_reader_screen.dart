@@ -80,7 +80,7 @@ class _ChapterReaderScreenState extends ConsumerState<ChapterReaderScreen> {
   }
 
   Future<void> _checkChapterBookmark() async {
-    final status = await DatabaseService.instance.bookmarksDao
+    final status = await DatabaseService.bookmarksDao
         .isBookmarked('bible', _chapterContentId);
     if (mounted) {
       setState(() => _isChapterBookmarked = status);
@@ -89,7 +89,7 @@ class _ChapterReaderScreenState extends ConsumerState<ChapterReaderScreen> {
 
   Future<void> _toggleChapterBookmark(String bookName) async {
     HapticFeedback.selectionClick();
-    final dao = DatabaseService.instance.bookmarksDao;
+    final dao = DatabaseService.bookmarksDao;
     if (_isChapterBookmarked) {
       final all = await dao.getBookmarksByType('bible');
       final target = all.where((b) => b.contentId == _chapterContentId).firstOrNull;

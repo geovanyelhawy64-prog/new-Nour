@@ -52,7 +52,7 @@ class _HourReaderScreenState extends ConsumerState<HourReaderScreen> {
   }
 
   Future<void> _checkBookmarkStatus() async {
-    final status = await DatabaseService.instance.bookmarksDao
+    final status = await DatabaseService.bookmarksDao
         .isBookmarked('agpeya', widget.hourId);
     if (mounted) {
       setState(() => _isBookmarked = status);
@@ -61,7 +61,7 @@ class _HourReaderScreenState extends ConsumerState<HourReaderScreen> {
 
   Future<void> _toggleBookmark(String title) async {
     HapticFeedback.selectionClick();
-    final dao = DatabaseService.instance.bookmarksDao;
+    final dao = DatabaseService.bookmarksDao;
     if (_isBookmarked) {
       final all = await dao.getBookmarksByType('agpeya');
       final target = all.where((b) => b.contentId == widget.hourId).firstOrNull;

@@ -172,7 +172,7 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
   }
 
   Future<void> _exportBookmarks() async {
-    final items = await DatabaseService.instance.bookmarksDao.getAllBookmarks();
+    final items = await DatabaseService.bookmarksDao.getAllBookmarks();
     if (items.isEmpty) {
       if (mounted) {
         ScaffoldMessenger.of(context).showSnackBar(
@@ -220,9 +220,9 @@ class _SettingsScreenState extends ConsumerState<SettingsScreen> {
         final map = item as Map<String, dynamic>;
         final cType = map['contentType'] as String;
         final cId = map['contentId'] as String;
-        final exists = await DatabaseService.instance.bookmarksDao.isBookmarked(cType, cId);
+        final exists = await DatabaseService.bookmarksDao.isBookmarked(cType, cId);
         if (!exists) {
-          await DatabaseService.instance.bookmarksDao.addBookmark(
+          await DatabaseService.bookmarksDao.addBookmark(
             contentType: cType,
             contentId: cId,
             displayTitle: map['displayTitle'] as String,

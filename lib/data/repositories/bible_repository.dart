@@ -23,14 +23,14 @@ class BibleRepository {
   }
 
   Future<Map<int, String>> getChapterHighlights(int bookId, int chapter) {
-    return _db.bibleDao.getChapterHighlights(bookId, chapter);
+    return DatabaseService.userStore.getChapterHighlights(bookId, chapter);
   }
 
   Future<void> setVerseHighlight(int bookId, int chapter, int verseNumber, String color) {
-    return _db.bibleDao.setVerseHighlight(bookId, chapter, verseNumber, color);
+    return DatabaseService.userStore.setVerseHighlight(bookId, chapter, verseNumber, color);
   }
 
   Future<void> removeVerseHighlight(int bookId, int chapter, int verseNumber) {
-    return _db.bibleDao.removeVerseHighlight(bookId, chapter, verseNumber);
+    return DatabaseService.userStore.removeVerseHighlight(bookId, chapter, verseNumber);
   }
 }

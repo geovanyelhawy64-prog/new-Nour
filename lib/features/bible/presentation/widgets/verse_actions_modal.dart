@@ -70,13 +70,13 @@ class _VerseActionsModalState extends State<VerseActionsModal> {
   Future<void> _updateHighlight(String? color) async {
     HapticFeedback.selectionClick();
     if (color == null) {
-      await DatabaseService.instance.bibleDao.removeVerseHighlight(
+      await DatabaseService.userStore.removeVerseHighlight(
         widget.book.id,
         widget.chapter,
         widget.verse.verseNumber,
       );
     } else {
-      await DatabaseService.instance.bibleDao.setVerseHighlight(
+      await DatabaseService.userStore.setVerseHighlight(
         widget.book.id,
         widget.chapter,
         widget.verse.verseNumber,
@@ -130,7 +130,7 @@ class _VerseActionsModalState extends State<VerseActionsModal> {
   }
 
   Future<void> _checkBookmarkStatus() async {
-    final status = await DatabaseService.instance.bookmarksDao
+    final status = await DatabaseService.bookmarksDao
         .isBookmarked('bible', _verseContentId);
     if (mounted) {
       setState(() {
@@ -142,7 +142,7 @@ class _VerseActionsModalState extends State<VerseActionsModal> {
 
   Future<void> _toggleBookmark() async {
     HapticFeedback.selectionClick();
-    final dao = DatabaseService.instance.bookmarksDao;
+    final dao = DatabaseService.bookmarksDao;
     if (_isBookmarked) {
       final all = await dao.getBookmarksByType('bible');
       final target = all.where((b) => b.contentId == _verseContentId).firstOrNull;

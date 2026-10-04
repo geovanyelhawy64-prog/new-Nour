@@ -18,14 +18,14 @@ void main() {
     await DatabaseService.init(db);
 
     // Insert test bookmarks
-    await db.bookmarksDao.addBookmark(
+    await DatabaseService.bookmarksDao.addBookmark(
       contentType: 'bible',
       contentId: '1/1',
       displayTitle: 'التكوين ١: ١',
       note: 'آية جميلة',
     );
 
-    await db.bookmarksDao.addBookmark(
+    await DatabaseService.bookmarksDao.addBookmark(
       contentType: 'agpeya',
       contentId: 'prime',
       displayTitle: 'صلاة باكر - مزمور ٥٠',

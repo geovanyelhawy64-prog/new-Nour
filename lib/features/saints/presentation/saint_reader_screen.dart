@@ -34,7 +34,7 @@ class _SaintReaderScreenState extends State<SaintReaderScreen> {
   }
 
   Future<void> _checkBookmarkStatus() async {
-    final status = await DatabaseService.instance.bookmarksDao
+    final status = await DatabaseService.bookmarksDao
         .isBookmarked('saints', widget.saintId);
     if (mounted) {
       setState(() => _isBookmarked = status);
@@ -43,7 +43,7 @@ class _SaintReaderScreenState extends State<SaintReaderScreen> {
 
   Future<void> _toggleBookmark(Saint saint) async {
     HapticFeedback.selectionClick();
-    final dao = DatabaseService.instance.bookmarksDao;
+    final dao = DatabaseService.bookmarksDao;
     if (_isBookmarked) {
       final all = await dao.getBookmarksByType('saints');
       final target = all.where((b) => b.contentId == widget.saintId).firstOrNull;

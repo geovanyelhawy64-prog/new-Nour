@@ -33,7 +33,7 @@ class _TheologyArticleReaderScreenState extends State<TheologyArticleReaderScree
   }
 
   Future<void> _checkBookmarkStatus() async {
-    final status = await DatabaseService.instance.bookmarksDao
+    final status = await DatabaseService.bookmarksDao
         .isBookmarked('theology', widget.articleId);
     if (mounted) {
       setState(() => _isBookmarked = status);
@@ -42,7 +42,7 @@ class _TheologyArticleReaderScreenState extends State<TheologyArticleReaderScree
 
   Future<void> _toggleBookmark(TheologyArticle article) async {
     HapticFeedback.selectionClick();
-    final dao = DatabaseService.instance.bookmarksDao;
+    final dao = DatabaseService.bookmarksDao;
     if (_isBookmarked) {
       final all = await dao.getBookmarksByType('theology');
       final target = all.where((b) => b.contentId == widget.articleId).firstOrNull;

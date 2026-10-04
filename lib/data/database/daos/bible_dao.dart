@@ -1,5 +1,4 @@
 import 'package:drift/drift.dart';
-import '../../../core/services/logger_service.dart';
 import '../../../core/utils/search_normalizer.dart';
 import '../app_database.dart';
 import '../tables/bible_tables.dart';
@@ -68,44 +67,5 @@ class BibleDao extends DatabaseAccessor<AppDatabase> with _$BibleDaoMixin {
     }
 
     return q.get();
-  }
-
-  /// جلب تظليلات آيات الإصحاح
-  Future<Map<int, String>> getChapterHighlights(int bookId, int chapter) async {
-    try {
-      final rows = await customSelect(
-        'SELECT verse_number, color FROM verse_highlights WHERE book_id = ? AND chapter = ?',
-        variables: [Variable<int>(bookId), Variable<int>(chapter)],
-      ).get();
-      return {
-        for (final r in rows) r.read<int>('verse_number'): r.read<String>('color'),
-      };
-    } catch (e) {
-      LoggerService.error('getChapterHighlights failed', 'BIBLE_DAO', e);
-      return {};
-    }
-  }
-
-  /// حفظ أو تحديث تظليل آية
-  Future<void> setVerseHighlight(int bookId, int chapter, int verseNumber, String color) async {
-    final id = '$bookId:$chapter:$verseNumber';
-    final now = DateTime.now().toIso8601String();
-    await customStatement(
-      '''
-      INSERT INTO verse_highlights (id, book_id, chapter, verse_number, color, created_at)
-      VALUES (?, ?, ?, ?, ?, ?)
-      ON CONFLICT(id) DO UPDATE SET color = excluded.color
-      ''',
-      [id, bookId, chapter, verseNumber, color, now],
-    );
-  }
-
-  /// حذف تظليل آية
-  Future<void> removeVerseHighlight(int bookId, int chapter, int verseNumber) async {
-    final id = '$bookId:$chapter:$verseNumber';
-    await customStatement(
-      'DELETE FROM verse_highlights WHERE id = ?',
-      [id],
-    );
   }
 }

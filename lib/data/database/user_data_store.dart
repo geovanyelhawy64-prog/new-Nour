@@ -2,7 +2,7 @@ import 'dart:io';
 
 import 'package:sqlite3/sqlite3.dart';
 
-import 'app_database.dart';
+import 'bookmark_model.dart';
 import 'content_key.dart';
 
 /// طبقة الوصول الوحيدة إلى البيانات التي ينشئها المستخدم.
