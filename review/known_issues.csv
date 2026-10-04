@@ -1,0 +1,4 @@
+verse_record_id;book;chapter;verse;issue;canonical_expected;status;proposed_reviewer_notes
+50;Leviticus;14;50-51;two merged verses in one record;50 split?;needs_ecclesiastical_review;Leviticus 14 (Verses 50 & 51 combined in record 50).
+13;Ezra;6;13-14;two merged verses in one record;13 split?;needs_ecclesiastical_review;Ezra 6 (Verses 13 & 14 combined in record 13).
+5;Psalm;77;5-6;two merged verses in one record;5 split?;needs_ecclesiastical_review;Psalm 77 (Verses 5 & 6 combined in record 5).

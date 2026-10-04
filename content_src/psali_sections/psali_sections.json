@@ -1,0 +1,71 @@
+{
+  "table": "psali_sections",
+  "rows": [
+    {
+      "id": 1,
+      "psali_id": "hos_1",
+      "section_order": 1,
+      "text_coptic": "ⲱϣⲉ ⲁ ⲛⲙⲟⲩⲥⲏⲥ ⲉⲧⲃⲉ ⲡⲓⲉⲃⲟⲗ ⲛⲧⲉ ⲛⲓⲓⲥⲣⲁⲏⲗ",
+      "text_phonetic": "أوشي إن مويسيس إيتفي بي إفول إن تي ني إسرائيل",
+      "text_arabic": "تسبحة موسى عن خلاص بني إسرائيل",
+      "rubric": "يبدأ الكاهن",
+      "response": null,
+      "content_id": "psali:section:1"
+    },
+    {
+      "id": 2,
+      "psali_id": "hos_1",
+      "section_order": 2,
+      "text_coptic": "ⲁⲓⲱϣ ⲉⲡⲭⲟⲉⲓⲥ ⲅⲁⲣ ⲉⲛⲇⲟⲝⲁⲍⲉⲥⲑⲁⲓ",
+      "text_phonetic": "أيوش إب خويس غار إن ذوكسازيسثاي",
+      "text_arabic": "لأنه تمجد وتعظم",
+      "rubric": null,
+      "response": "الشعب: كيرياليسون",
+      "content_id": "psali:section:2"
+    },
+    {
+      "id": 3,
+      "psali_id": "hos_1",
+      "section_order": 3,
+      "text_coptic": "ⲡⲓⲙⲁⲣⲉ ⲛⲧⲉ ϩⲓⲡⲡⲟⲥ ⲛⲉⲙ ⲡⲓⲣⲱⲙⲓ ⲁϥⲭⲉⲛ ⲉⲃⲟⲗ ⲉⲡⲓⲟⲙ",
+      "text_phonetic": "بي ماري إن تي هيبوس نيم بي رومي أف خين إفول إبي يوم",
+      "text_arabic": "الفرس وراكبه طرحهما في البحر",
+      "rubric": null,
+      "response": null,
+      "content_id": "psali:section:3"
+    },
+    {
+      "id": 4,
+      "psali_id": "theotokia_sun",
+      "section_order": 1,
+      "text_coptic": "ⲑⲉⲟⲧⲟⲕⲓⲁ ⲉⲧⲉⲛⲟⲩ ⲉⲧⲃⲉ ⲡⲓⲉⲃⲟⲗ ⲛⲧⲉ ⲡⲓⲥⲁⲃⲃⲁⲧⲟⲛ",
+      "text_phonetic": "ثيئوتوكيا إتينو إيتفي بي إفدومي إن تي بي ساباتون",
+      "text_arabic": "تئوطوكية الأحد عن التجسد",
+      "rubric": "يبدأ الشماس",
+      "response": null,
+      "content_id": "psali:section:4"
+    },
+    {
+      "id": 5,
+      "psali_id": "theotokia_sun",
+      "section_order": 2,
+      "text_coptic": "ⲧⲉⲛⲟⲩϣⲉ ⲙⲙⲁⲣⲓⲁ ⲧⲑⲉⲟⲧⲟⲕⲟⲥ ⲧⲡⲁⲣⲑⲉⲛⲟⲥ",
+      "text_phonetic": "تينوشيه إم ماريا تي ثيئوتوكوس تي بارثينوس",
+      "text_arabic": "نسبحك يا مريم والدة الإله العذراء",
+      "rubric": null,
+      "response": "الشعب: نسبحك يا والدة الإله",
+      "content_id": "psali:section:5"
+    },
+    {
+      "id": 6,
+      "psali_id": "theotokia_sun",
+      "section_order": 3,
+      "text_coptic": "ⲁⲥⲭⲉ ⲙⲡⲓⲥⲱⲙⲁ ⲛⲧⲉ ⲡⲓⲭⲣⲓⲥⲧⲟⲥ ⲉⲙⲁⲧⲉ",
+      "text_phonetic": "أس خيه إم بي سوما إن تي بي خريستوس إماتي",
+      "text_arabic": "حبلت بالمسيح بالجسد بلا زرع بشر",
+      "rubric": null,
+      "response": null,
+      "content_id": "psali:section:6"
+    }
+  ]
+}

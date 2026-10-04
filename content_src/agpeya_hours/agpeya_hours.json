@@ -1,0 +1,69 @@
+{
+  "table": "agpeya_hours",
+  "rows": [
+    {
+      "id": "prime",
+      "name_ar": "صلاة باكر",
+      "name_en": "Prime",
+      "hour_order": 1,
+      "description": "الساعة الأولى من النهار - تذكار قيامة الرب ونوره الحقيقي",
+      "content_id": "agpeya:hour:prime"
+    },
+    {
+      "id": "terce",
+      "name_ar": "صلاة الساعة الثالثة",
+      "name_en": "Terce",
+      "hour_order": 2,
+      "description": "الساعة التاسعة صباحاً - تذكار محاكمة المسيح وحلول الروح القدس",
+      "content_id": "agpeya:hour:terce"
+    },
+    {
+      "id": "sext",
+      "name_ar": "صلاة الساعة السادسة",
+      "name_en": "Sext",
+      "hour_order": 3,
+      "description": "الساعة الثانية عشرة ظهراً - تذكار صلب مخلصنا الصالح",
+      "content_id": "agpeya:hour:sext"
+    },
+    {
+      "id": "none",
+      "name_ar": "صلاة الساعة التاسعة",
+      "name_en": "None",
+      "hour_order": 4,
+      "description": "الساعة الثالثة عصراً - تذكار موت الرب المحيي بالجسد على الصليب",
+      "content_id": "agpeya:hour:none"
+    },
+    {
+      "id": "vespers",
+      "name_ar": "صلاة الغروب",
+      "name_en": "Vespers",
+      "hour_order": 5,
+      "description": "الساعة الخامسة مساءً - تذكار إنزال جسد الرب وإيداعه في القبر",
+      "content_id": "agpeya:hour:vespers"
+    },
+    {
+      "id": "compline",
+      "name_ar": "صلاة النوم",
+      "name_en": "Compline",
+      "hour_order": 6,
+      "description": "تذكار وضع جسد المسيح في القبر والنوم الأخير",
+      "content_id": "agpeya:hour:compline"
+    },
+    {
+      "id": "curtain",
+      "name_ar": "صلاة الستار",
+      "name_en": "Curtain",
+      "hour_order": 7,
+      "description": "صلاة خاصة بالآباء الرهبان والعذارى",
+      "content_id": "agpeya:hour:curtain"
+    },
+    {
+      "id": "midnight",
+      "name_ar": "صلاة نصف الليل",
+      "name_en": "Midnight",
+      "hour_order": 8,
+      "description": "ثلاث خدمات - تذكار المجيء الثاني والاستعداد للقاء العريس",
+      "content_id": "agpeya:hour:midnight"
+    }
+  ]
+}

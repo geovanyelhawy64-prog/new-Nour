@@ -1,0 +1,635 @@
+{
+  "table": "hymns",
+  "rows": [
+    {
+      "id": "ol01_01",
+      "book_id": "osama_lotfy_01",
+      "name_ar": "مزمور العشية وباكر (سبحوا الرب يا جميع الأمم - ني إثنوس تيرو)",
+      "name_coptic": "Ⲛⲓⲉⲑⲛⲟⲥ ⲧⲏⲣⲟⲩ",
+      "occasion": "vespers",
+      "tone": "annual",
+      "hymn_order": 1,
+      "content_id": "hymns:hymn:ol01_01"
+    },
+    {
+      "id": "ol01_02",
+      "book_id": "osama_lotfy_01",
+      "name_ar": "لحن نسجد لك أيها المسيح وإلهنا الصالح (تين أوؤشت إموك)",
+      "name_coptic": "Ⲧⲉⲛⲟⲩⲱϣⲧ ⲙ̀ⲙⲟⲕ",
+      "occasion": "matins",
+      "tone": "annual",
+      "hymn_order": 2,
+      "content_id": "hymns:hymn:ol01_02"
+    },
+    {
+      "id": "ol01_03",
+      "book_id": "osama_lotfy_01",
+      "name_ar": "لحن باسم الآب والابن والروح القدس السنوي (خين إفران سنوي)",
+      "name_coptic": "Ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲫⲓⲱⲧ",
+      "occasion": "vespers",
+      "tone": "annual",
+      "hymn_order": 3,
+      "content_id": "hymns:hymn:ol01_03"
+    },
+    {
+      "id": "ol01_04",
+      "book_id": "osama_lotfy_01",
+      "name_ar": "لحن هلم نسجد ونطلب من المسيح ملكنا (أمويني مارين أوؤشت)",
+      "name_coptic": "Ⲁⲙⲱⲓⲛⲓ ⲙⲁⲣⲉⲛⲟⲩⲱϣⲧ",
+      "occasion": "matins",
+      "tone": "annual",
+      "hymn_order": 4,
+      "content_id": "hymns:hymn:ol01_04"
+    },
+    {
+      "id": "ol01_05",
+      "book_id": "osama_lotfy_01",
+      "name_ar": "الهوس الأول (حينئذ سبح موسى وبنو إسرائيل - توتي أف هوس)",
+      "name_coptic": "Ⲧⲟⲧⲉ ⲁϥϩⲱⲥ ⲛ̀ϫⲉ Ⲙⲱⲩ̀ⲥⲏⲥ",
+      "occasion": "matins",
+      "tone": "annual",
+      "hymn_order": 5,
+      "content_id": "hymns:hymn:ol01_05"
+    },
+    {
+      "id": "ol01_06",
+      "book_id": "osama_lotfy_01",
+      "name_ar": "الهوس الثاني (اشكروا الرب لأنه صالح وخير - أو أونه إيفول)",
+      "name_coptic": "Ⲟⲩⲱⲛϩ ⲉ̀ⲃⲟⲗ ⲙ̀Ⲡϭⲟⲓⲥ",
+      "occasion": "matins",
+      "tone": "annual",
+      "hymn_order": 6,
+      "content_id": "hymns:hymn:ol01_06"
+    },
+    {
+      "id": "ol01_07",
+      "book_id": "osama_lotfy_01",
+      "name_ar": "الهوس الثالث (سبحوا الرب في قديسيه - أري هوس إيروف)",
+      "name_coptic": "Ⲁⲣⲓϩⲱⲥ ⲉ̀ⲣⲟϥ",
+      "occasion": "matins",
+      "tone": "annual",
+      "hymn_order": 7,
+      "content_id": "hymns:hymn:ol01_07"
+    },
+    {
+      "id": "ol01_08",
+      "book_id": "osama_lotfy_01",
+      "name_ar": "الهوس الرابع (سبحوا الرب من السموات - إسمو إي إبشويس إيفول)",
+      "name_coptic": "Ⲥⲙⲟⲩ ⲉ̀Ⲡϭⲟⲓⲥ ⲉ̀ⲃⲟⲗ",
+      "occasion": "matins",
+      "tone": "annual",
+      "hymn_order": 8,
+      "content_id": "hymns:hymn:ol01_08"
+    },
+    {
+      "id": "ol01_09",
+      "book_id": "osama_lotfy_01",
+      "name_ar": "مقدمة الثيؤطوكيات السنوية (نعظمك باستحقاق يا أم النور)",
+      "name_coptic": "Ⲧⲉⲛϭⲓⲥⲓ ⲙ̀ⲙⲟ ϧⲉⲛ ⲟⲩⲉⲙⲡ̀ϣⲁ",
+      "occasion": "matins",
+      "tone": "annual",
+      "hymn_order": 9,
+      "content_id": "hymns:hymn:ol01_09"
+    },
+    {
+      "id": "ol02_01",
+      "book_id": "osama_lotfy_02",
+      "name_ar": "لحن يا ملك السلام (إبؤرو إنتي تي هيريني)",
+      "name_coptic": "Ⲉⲡⲟⲩⲣⲟ ⲛ̀ⲧⲉ ϯϩⲓⲣⲏⲛⲏ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 1,
+      "content_id": "hymns:hymn:ol02_01"
+    },
+    {
+      "id": "ol02_02",
+      "book_id": "osama_lotfy_02",
+      "name_ar": "الليلـويا هذا هو اليوم الذي صنعه الرب (فاي بي بي إيهو أو)",
+      "name_coptic": "Ⲫⲁⲓ ⲡⲉ ⲡⲓⲉ̀ϩⲟⲟⲩ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 2,
+      "content_id": "hymns:hymn:ol02_02"
+    },
+    {
+      "id": "ol02_03",
+      "book_id": "osama_lotfy_02",
+      "name_ar": "بهيتين شفاعات والدة الإله القديسة مريم (هيتين ني إفكي)",
+      "name_coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 3,
+      "content_id": "hymns:hymn:ol02_03"
+    },
+    {
+      "id": "ol02_04",
+      "book_id": "osama_lotfy_02",
+      "name_ar": "استجابة الإبركسيس السنوية (السلام لك يا مريم الحمامة الحسنة)",
+      "name_coptic": "Ϣⲏⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 4,
+      "content_id": "hymns:hymn:ol02_04"
+    },
+    {
+      "id": "ol02_05",
+      "book_id": "osama_lotfy_02",
+      "name_ar": "لحن قدوس الله قدوس القوي قدوس الحي السنوي (أجيوس أو ثيئوس)",
+      "name_coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 5,
+      "content_id": "hymns:hymn:ol02_05"
+    },
+    {
+      "id": "ol02_06",
+      "book_id": "osama_lotfy_02",
+      "name_ar": "إسباسموس سنوي (قبلوا بعضكم بعضاً بقبلة مقدسة - أسبازيسثي)",
+      "name_coptic": "Ⲁⲥⲡⲁⲍⲉⲥⲑⲉ ⲁⲗⲗⲏⲗⲟⲩⲥ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 6,
+      "content_id": "hymns:hymn:ol02_06"
+    },
+    {
+      "id": "ol02_07",
+      "book_id": "osama_lotfy_02",
+      "name_ar": "الرحمة والسلام وذبيحة التسبيح (بي إخمات نيم تي هيريني)",
+      "name_coptic": "Ⲡⲓⲉ̀ϩⲙⲟⲧ ⲛⲉⲙ ϯϩⲓⲣⲏⲛⲏ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 7,
+      "content_id": "hymns:hymn:ol02_07"
+    },
+    {
+      "id": "ol02_08",
+      "book_id": "osama_lotfy_02",
+      "name_ar": "لحن الشاروبيم يسجدون لك (أجيوس أجيوس أجيوس كيريوس صباؤوت)",
+      "name_coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ ⲁ̀ⲅⲓⲟⲥ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 8,
+      "content_id": "hymns:hymn:ol02_08"
+    },
+    {
+      "id": "ol02_09",
+      "book_id": "osama_lotfy_02",
+      "name_ar": "مرد الاعتراف بموت الرب وقيامته (آمين آمين آمين بموتك يارب نبشر)",
+      "name_coptic": "Ⲁⲙⲏⲛ ⲁⲙⲏⲛ ⲁⲙⲏⲛ ⲧⲟⲛ ⲑⲁⲛⲁⲧⲟⲛ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 9,
+      "content_id": "hymns:hymn:ol02_09"
+    },
+    {
+      "id": "ol02_10",
+      "book_id": "osama_lotfy_02",
+      "name_ar": "لحن بي أويك (هذا الخبز يجعله جسداً مقدساً له)",
+      "name_coptic": "Ⲡⲓⲱⲓⲕ ⲙⲉⲛ ⲁϥⲁⲓϥ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 10,
+      "content_id": "hymns:hymn:ol02_10"
+    },
+    {
+      "id": "ol03_01",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن اللهم ارحمنا الكيهكي الكبير (إفنوتي ناي نان)",
+      "name_coptic": "Ⲫⲛⲟⲩϯ ⲛⲁⲓ ⲛⲁⲛ",
+      "occasion": "vespers",
+      "tone": "kiahki",
+      "hymn_order": 1,
+      "content_id": "hymns:hymn:ol03_01"
+    },
+    {
+      "id": "ol03_02",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن خين إفران الكيهكي المبهج (باسم الآب والابن والروح القدس)",
+      "name_coptic": "Ϧⲉⲛ ⲫ̀ⲣⲁⲛ ⲙ̀Ⲫⲓⲱⲧ",
+      "occasion": "vespers",
+      "tone": "kiahki",
+      "hymn_order": 2,
+      "content_id": "hymns:hymn:ol03_02"
+    },
+    {
+      "id": "ol03_03",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن نمدحك ونباركك ونسجد لك الكيهكي (تين إن هوس إيروك)",
+      "name_coptic": "Ⲧⲉⲛϩⲱⲥ ⲉ̀ⲣⲟⲕ",
+      "occasion": "matins",
+      "tone": "kiahki",
+      "hymn_order": 3,
+      "content_id": "hymns:hymn:ol03_03"
+    },
+    {
+      "id": "ol03_04",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن المسيح ولد في بيت لحم (آ بي إخرستوس ميسي)",
+      "name_coptic": "Ⲁ Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲙⲓⲥⲓ",
+      "occasion": "liturgy",
+      "tone": "kiahki",
+      "hymn_order": 4,
+      "content_id": "hymns:hymn:ol03_04"
+    },
+    {
+      "id": "ol03_05",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "إبصالية كيهكية (رتلوا للرب ترتيلاً جديداً - أري بسالين)",
+      "name_coptic": "Ⲁⲣⲓⲯⲁⲗⲓⲛ",
+      "occasion": "matins",
+      "tone": "kiahki",
+      "hymn_order": 5,
+      "content_id": "hymns:hymn:ol03_05"
+    },
+    {
+      "id": "ol03_06",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن أم النور المكرمة وفخر جنسنا (ماف إن أونو في)",
+      "name_coptic": "Ⲑⲙⲁⲩ ⲙ̀ⲡⲓⲟⲩⲱⲓⲛⲓ",
+      "occasion": "liturgy",
+      "tone": "kiahki",
+      "hymn_order": 6,
+      "content_id": "hymns:hymn:ol03_06"
+    },
+    {
+      "id": "ol04_01",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "مزمور الميلاد الفرايحي (الليلويا جي آف ماس بي إخرستوس)",
+      "name_coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲁⲩⲙⲁⲥ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 1,
+      "content_id": "hymns:hymn:ol04_01"
+    },
+    {
+      "id": "ol04_02",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن ميلاد المخلص البهيج (بي جين ميسي إن أوموت)",
+      "name_coptic": "Ⲡⲓϫⲓⲛⲙⲓⲥⲓ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 2,
+      "content_id": "hymns:hymn:ol04_02"
+    },
+    {
+      "id": "ol04_03",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن أوران سيف إن رومبي (اسم شريف مبارك الميلاد والغطاس)",
+      "name_coptic": "Ⲟⲩⲣⲁⲛ ⲥⲉⲡ ⲛ̀ⲣⲟⲙⲡⲓ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 3,
+      "content_id": "hymns:hymn:ol04_03"
+    },
+    {
+      "id": "ol04_04",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "الليلـويا جي إن دان (توزيع طقس الغطاس المجيد)",
+      "name_coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ϫⲉ ⲉⲛⲇⲁⲛ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 4,
+      "content_id": "hymns:hymn:ol04_04"
+    },
+    {
+      "id": "ol04_05",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن اعتمد من يوحنا المعمدان في نهر الأردن (إيفول هيتين يوحانس)",
+      "name_coptic": "Ⲉ̀ⲃⲟⲗ ϩⲓⲧⲉⲛ Ⲓⲱⲁⲛⲛⲏⲥ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 5,
+      "content_id": "hymns:hymn:ol04_05"
+    },
+    {
+      "id": "ol05_01",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "لحن أنت هي المجمرة الذهب الصيامية (إنثوك تي تي شوري)",
+      "name_coptic": "Ⲁⲛⲑⲟⲕ ⲧⲉ ϯϣⲟⲩⲣⲏ",
+      "occasion": "liturgy",
+      "tone": "lenten",
+      "hymn_order": 1,
+      "content_id": "hymns:hymn:ol05_01"
+    },
+    {
+      "id": "ol05_02",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "مرد الإنجيل الكبير للصوم المقدس (ميغالو إيبروسبين)",
+      "name_coptic": "Ⲙⲉⲅⲁⲗⲟ ⲡⲣⲟⲥⲱⲡⲟⲛ",
+      "occasion": "liturgy",
+      "tone": "lenten",
+      "hymn_order": 2,
+      "content_id": "hymns:hymn:ol05_02"
+    },
+    {
+      "id": "ol05_03",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "لحن رتلوا للذي صلب على عود الصليب (أري بسالين الصيامي)",
+      "name_coptic": "Ⲁⲣⲓⲯⲁⲗⲓⲛ ⲉ̀ⲡⲉⲧⲁⲩⲁϣϥ",
+      "occasion": "liturgy",
+      "tone": "lenten",
+      "hymn_order": 3,
+      "content_id": "hymns:hymn:ol05_03"
+    },
+    {
+      "id": "ol05_04",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "ألحان التوبة والتذلل (ني سوس ني فا إفنوتي)",
+      "name_coptic": "Ⲛⲓⲥⲟⲩⲥ ⲛⲓ ⲫⲁ Ⲫⲛⲟⲩϯ",
+      "occasion": "matins",
+      "tone": "lenten",
+      "hymn_order": 4,
+      "content_id": "hymns:hymn:ol05_04"
+    },
+    {
+      "id": "ol05_05",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "مبارك الآتي باسم الرب الصيامي (جي إفماروؤوت)",
+      "name_coptic": "Ϫⲉ ⲉϥⲥ̀ⲙⲁⲣⲱⲟⲩⲧ",
+      "occasion": "liturgy",
+      "tone": "lenten",
+      "hymn_order": 5,
+      "content_id": "hymns:hymn:ol05_05"
+    },
+    {
+      "id": "ol06_01",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "مبارك الآتي باسم الرب الشعانيني (إفلوجيمينوس أوصنا)",
+      "name_coptic": "Ⲉⲩⲗⲟⲅⲏⲙⲉⲛⲟⲥ ⲟ̀ ⲉⲣⲭⲟⲙⲉⲛⲟⲥ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 1,
+      "content_id": "hymns:hymn:ol06_01"
+    },
+    {
+      "id": "ol06_02",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "لحن أوصنا في الأعالي هذا هو ملك إسرائيل (أوصنا خين ني إتتشوسي)",
+      "name_coptic": "Ⲱⲥⲁⲛⲛⲁ ϧⲉⲛ ⲛⲏⲉⲧϭⲟⲥⲓ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 2,
+      "content_id": "hymns:hymn:ol06_02"
+    },
+    {
+      "id": "ol06_03",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "لحن سبت إقامة لعازر من بين الأموات (فاي بي بي إيهو أو إم فاي)",
+      "name_coptic": "Ⲫⲁⲓ ⲡⲉ ⲡⲓⲉ̀ϩⲟⲟⲩ ⲙ̀ⲫⲁⲓ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 3,
+      "content_id": "hymns:hymn:ol06_03"
+    },
+    {
+      "id": "ol06_04",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "لحن قنديل جمعة ختام الصوم المقدس (السلام لك يا مريم - شيري ني ماريا)",
+      "name_coptic": "Ϣⲏⲣⲉ ⲛⲉ Ⲙⲁⲣⲓⲁ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 4,
+      "content_id": "hymns:hymn:ol06_04"
+    },
+    {
+      "id": "ol07_01",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "لحن لك القوة والمجد والبركة والعزة (ثوك تي تي جوم بالهزات البصخية)",
+      "name_coptic": "Ⲑⲱⲕ ⲧⲉ ϯϫⲟⲙ",
+      "occasion": "burial",
+      "tone": "lenten",
+      "hymn_order": 1,
+      "content_id": "hymns:hymn:ol07_01"
+    },
+    {
+      "id": "ol07_02",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "كيرياليصون باللحن الحزايني البصخي (كي إيبير)",
+      "name_coptic": "Ⲕⲩⲣⲓⲉ ⲉ̀ⲗⲉⲏⲥⲟⲛ",
+      "occasion": "burial",
+      "tone": "lenten",
+      "hymn_order": 2,
+      "content_id": "hymns:hymn:ol07_02"
+    },
+    {
+      "id": "ol07_03",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "مرد البصخة (من أجل قيامتك المقدسة نطلب إليك - إثفي تيف أناستاسيس)",
+      "name_coptic": "Ⲉⲑⲃⲉ ⲧⲉϥⲁ̀ⲛⲁⲥⲧⲁⲥⲓⲥ",
+      "occasion": "burial",
+      "tone": "lenten",
+      "hymn_order": 3,
+      "content_id": "hymns:hymn:ol07_03"
+    },
+    {
+      "id": "ol07_04",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "لحن أيها الابن الوحيد الجنس والكلمة الأزلي (أومونو جينيس)",
+      "name_coptic": "Ⲟ Ⲙⲟⲛⲟⲅⲉⲛⲏⲥ",
+      "occasion": "burial",
+      "tone": "lenten",
+      "hymn_order": 4,
+      "content_id": "hymns:hymn:ol07_04"
+    },
+    {
+      "id": "ol07_05",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "قدوس الله الحزايني البصخي (أجيوس أسبوع الآلام)",
+      "name_coptic": "Ⲁ̀ⲅⲓⲟⲥ ⲟ̀ Ⲑⲉⲟⲥ ⲡⲁⲥⲭⲁ",
+      "occasion": "burial",
+      "tone": "lenten",
+      "hymn_order": 5,
+      "content_id": "hymns:hymn:ol07_05"
+    },
+    {
+      "id": "ol08_01",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "مرد إنجيل خميس العهد (يهوذا تلميذ الغدر - يهوذا بارادوتيس)",
+      "name_coptic": "Ⲓⲟⲩⲇⲁⲥ ⲡⲁⲣⲁⲇⲟⲧⲏⲥ",
+      "occasion": "burial",
+      "tone": "lenten",
+      "hymn_order": 1,
+      "content_id": "hymns:hymn:ol08_01"
+    },
+    {
+      "id": "ol08_02",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "لحن كرسيك يا الله إلى دهر الدهور (بيك إثرونوس - الجمعة الكبيرة)",
+      "name_coptic": "Ⲡⲉⲕⲑ̀ⲣⲟⲛⲟⲥ Ⲫⲛⲟⲩϯ",
+      "occasion": "burial",
+      "tone": "lenten",
+      "hymn_order": 2,
+      "content_id": "hymns:hymn:ol08_02"
+    },
+    {
+      "id": "ol08_03",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "لحن فاي إيتاف إنف (هذا الذي أصعد ذاته ذبيحة مقبولة على الصليب)",
+      "name_coptic": "Ⲫⲁⲓ ⲉ̀ⲧⲁϥⲉⲛϥ",
+      "occasion": "burial",
+      "tone": "lenten",
+      "hymn_order": 3,
+      "content_id": "hymns:hymn:ol08_03"
+    },
+    {
+      "id": "ol08_04",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "لحن دفنة المخلص الصالح في القبر (غولغوثا بالهزات الحزاينية الكاملة)",
+      "name_coptic": "Ⲅⲟⲗⲅⲟⲑⲁ",
+      "occasion": "burial",
+      "tone": "lenten",
+      "hymn_order": 4,
+      "content_id": "hymns:hymn:ol08_04"
+    },
+    {
+      "id": "ol08_05",
+      "book_id": "osama_lotfy_04",
+      "name_ar": "مقدمة سفر الرؤيا سبت الفرح والنور (الليلويا بي هوس)",
+      "name_coptic": "Ⲁⲗⲗⲏⲗⲟⲩⲓⲁ ⲡⲓϩⲱⲥ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 5,
+      "content_id": "hymns:hymn:ol08_05"
+    },
+    {
+      "id": "ol09_01",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن يا كل الصفوف السمائيين رتلوا بابتهاج (آني خوروس تيرو)",
+      "name_coptic": "Ⲁⲛⲓ ⲭⲟⲣⲟⲥ ⲧⲏⲣⲟⲩ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 1,
+      "content_id": "hymns:hymn:ol09_01"
+    },
+    {
+      "id": "ol09_02",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن المسيح قام من بين الأموات (إخرستوس آنيستي القيامة المجيد)",
+      "name_coptic": "Ⲡⲓⲭ̀ⲣⲓⲥⲧⲟⲥ ⲁϥⲧⲱⲛϥ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 2,
+      "content_id": "hymns:hymn:ol09_02"
+    },
+    {
+      "id": "ol09_03",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "توزيع القيامة والخمسين المقدسة (كاطا ني خوروس)",
+      "name_coptic": "Ⲕⲁⲧⲁ ⲛⲓⲭⲟⲣⲟⲥ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 3,
+      "content_id": "hymns:hymn:ol09_03"
+    },
+    {
+      "id": "ol09_04",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن رآه الرسل وهو صاعد إلى السموات (أراف إيروف إنجي ني أبوستولوس)",
+      "name_coptic": "Ⲁⲩⲛⲁⲩ ⲉ̀ⲣⲟϥ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 4,
+      "content_id": "hymns:hymn:ol09_04"
+    },
+    {
+      "id": "ol09_05",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن باكر عيد القيامة المجيد (طو منيما إي بي إخرستوس)",
+      "name_coptic": "Ⲧⲟ ⲙⲛⲏⲙⲁ",
+      "occasion": "matins",
+      "tone": "festive",
+      "hymn_order": 5,
+      "content_id": "hymns:hymn:ol09_05"
+    },
+    {
+      "id": "ol10_01",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن طأطأ السموات ونزل (أفريك إتفي - عيد الصعود المجيد)",
+      "name_coptic": "Ⲁϥⲣⲉⲕ ⲧ̀ⲫⲉ ⲁϥⲓ̀ ⲉ̀ⲡⲉⲥⲏⲧ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 1,
+      "content_id": "hymns:hymn:ol10_01"
+    },
+    {
+      "id": "ol10_02",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن الروح القدس المعزي المنبثق من الآب (العنصرة المجيدة)",
+      "name_coptic": "ⲠⲓⲠⲛⲉⲩⲙⲁ ⲙ̀Ⲡⲁⲣⲁⲕⲗⲏⲧⲟⲛ",
+      "occasion": "liturgy",
+      "tone": "festive",
+      "hymn_order": 2,
+      "content_id": "hymns:hymn:ol10_02"
+    },
+    {
+      "id": "ol10_03",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن فلنسبح الرب لأنه بالمجد قد تمجد (صوم وعيد الرسل - أسومين طو كيريو)",
+      "name_coptic": "Ⲁ̀ⲥⲱⲙⲉⲛ ⲧⲱ Ⲕⲩⲣⲓⲱ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 3,
+      "content_id": "hymns:hymn:ol10_03"
+    },
+    {
+      "id": "ol10_04",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن السلام لرسل فادينا الأطهار (شيري ني أبوستولوس)",
+      "name_coptic": "Ϣⲏⲣⲉ ⲛⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ",
+      "occasion": "matins",
+      "tone": "annual",
+      "hymn_order": 4,
+      "content_id": "hymns:hymn:ol10_04"
+    },
+    {
+      "id": "ol11_01",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن هذه المجمرة الذهب النقي (طاي شوري - أعياد العذراء والقديسين)",
+      "name_coptic": "Ⲧⲁⲓϣⲟⲩⲣⲏ ⲛ̀ⲛⲟⲩⲃ ⲛ̀ⲕⲁⲑⲁⲣⲟⲥ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 1,
+      "content_id": "hymns:hymn:ol11_01"
+    },
+    {
+      "id": "ol11_02",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "بهيتين والدة الإله القديسة مريم العذراء (أيام وتذكارات العذراء)",
+      "name_coptic": "Ϩⲓⲧⲉⲛ ⲛⲓⲉⲩⲭⲏ ⲛ̀ⲧⲉ ϯⲐⲉⲟⲧⲟⲕⲟⲥ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 2,
+      "content_id": "hymns:hymn:ol11_02"
+    },
+    {
+      "id": "ol11_03",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "لحن افرحي يا مريم العبدة والأم (شيري ثيؤطوكي ماريا)",
+      "name_coptic": "Ϣⲏⲣⲉ Ⲑⲉⲟ̀ⲧⲟⲕⲉ Ⲙⲁⲣⲓⲁ",
+      "occasion": "matins",
+      "tone": "annual",
+      "hymn_order": 3,
+      "content_id": "hymns:hymn:ol11_03"
+    },
+    {
+      "id": "ol11_04",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "مستحق بالحقيقة أن نطوبك يا والدة الإله (أكسيون إستين أليثوس)",
+      "name_coptic": "Ⲁ̀ⲝⲓⲟⲛ ⲉⲥⲧⲓⲛ ⲁ̀ⲗⲏⲑⲱⲥ",
+      "occasion": "liturgy",
+      "tone": "annual",
+      "hymn_order": 4,
+      "content_id": "hymns:hymn:ol11_04"
+    },
+    {
+      "id": "ol11_05",
+      "book_id": "osama_lotfy_03",
+      "name_ar": "ذوكصولوجية الشهداء والقديسين والشهيد مارمرقس الرسول (شيري ني أفا ماركوس)",
+      "name_coptic": "Ϣⲏⲣⲉ ⲛⲁⲕ ⲱ̀ ⲡⲓⲙⲁⲣⲧⲩⲣⲟⲥ",
+      "occasion": "matins",
+      "tone": "annual",
+      "hymn_order": 5,
+      "content_id": "hymns:hymn:ol11_05"
+    }
+  ]
+}

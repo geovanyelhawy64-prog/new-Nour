@@ -1,0 +1,29 @@
+{
+  "table": "hymn_books",
+  "rows": [
+    {
+      "id": "osama_lotfy_01",
+      "name_ar": "الجزء الأول: ألحان رفع بخور عشية وباكر",
+      "book_order": 1,
+      "content_id": "hymns:book:osama_lotfy_01"
+    },
+    {
+      "id": "osama_lotfy_02",
+      "name_ar": "الجزء الثاني: ألحان القداس الإلهي الباسيلي",
+      "book_order": 2,
+      "content_id": "hymns:book:osama_lotfy_02"
+    },
+    {
+      "id": "osama_lotfy_03",
+      "name_ar": "الجزء الثالث: ألحان المناسبات والأعياد السيدية",
+      "book_order": 3,
+      "content_id": "hymns:book:osama_lotfy_03"
+    },
+    {
+      "id": "osama_lotfy_04",
+      "name_ar": "الجزء الرابع: ألحان الصوم الكبير وأسبوع الآلام",
+      "book_order": 4,
+      "content_id": "hymns:book:osama_lotfy_04"
+    }
+  ]
+}

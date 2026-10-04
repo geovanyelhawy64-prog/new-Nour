@@ -1,0 +1,880 @@
+{
+  "table": "liturgy_sections",
+  "rows": [
+    {
+      "id": "basil_sec_001_4000",
+      "liturgy_id": "basil",
+      "name_ar": "صلاة الصلح",
+      "section_order": 1,
+      "content_id": "liturgy:section:basil_sec_001_4000"
+    },
+    {
+      "id": "basil_sec_002_4001",
+      "liturgy_id": "basil",
+      "name_ar": "صلاة الصلح الثانية",
+      "section_order": 2,
+      "content_id": "liturgy:section:basil_sec_002_4001"
+    },
+    {
+      "id": "basil_sec_003_1002",
+      "liturgy_id": "basil",
+      "name_ar": "اسبسمس ادام افرحي يا مريم",
+      "section_order": 3,
+      "content_id": "liturgy:section:basil_sec_003_1002"
+    },
+    {
+      "id": "basil_sec_004_1003",
+      "liturgy_id": "basil",
+      "name_ar": "قبلوا",
+      "section_order": 4,
+      "content_id": "liturgy:section:basil_sec_004_1003"
+    },
+    {
+      "id": "basil_sec_005_1004",
+      "liturgy_id": "basil",
+      "name_ar": "بشفاعات والدة",
+      "section_order": 5,
+      "content_id": "liturgy:section:basil_sec_005_1004"
+    },
+    {
+      "id": "basil_sec_006_4002",
+      "liturgy_id": "basil",
+      "name_ar": "الرب مع جميعكم - مستحق وعادل",
+      "section_order": 6,
+      "content_id": "liturgy:section:basil_sec_006_4002"
+    },
+    {
+      "id": "basil_sec_007_1006",
+      "liturgy_id": "basil",
+      "name_ar": "اسبسمس - ايها الرب اله القوات",
+      "section_order": 7,
+      "content_id": "liturgy:section:basil_sec_007_1006"
+    },
+    {
+      "id": "basil_sec_008_1007",
+      "liturgy_id": "basil",
+      "name_ar": "اسبسمس - الشاروبيم يسجدون لك",
+      "section_order": 8,
+      "content_id": "liturgy:section:basil_sec_008_1007"
+    },
+    {
+      "id": "basil_sec_009_4003",
+      "liturgy_id": "basil",
+      "name_ar": "قدوس قدوس",
+      "section_order": 9,
+      "content_id": "liturgy:section:basil_sec_009_4003"
+    },
+    {
+      "id": "basil_sec_010_1009",
+      "liturgy_id": "basil",
+      "name_ar": "تجسد وتأنس",
+      "section_order": 10,
+      "content_id": "liturgy:section:basil_sec_010_1009"
+    },
+    {
+      "id": "basil_sec_011_1010",
+      "liturgy_id": "basil",
+      "name_ar": "وقام من بين الاموات",
+      "section_order": 11,
+      "content_id": "liturgy:section:basil_sec_011_1010"
+    },
+    {
+      "id": "basil_sec_012_4004",
+      "liturgy_id": "basil",
+      "name_ar": "الرشومات",
+      "section_order": 12,
+      "content_id": "liturgy:section:basil_sec_012_4004"
+    },
+    {
+      "id": "basil_sec_013_1012",
+      "liturgy_id": "basil",
+      "name_ar": "حلول الروح القدس - ففيما نحن",
+      "section_order": 13,
+      "content_id": "liturgy:section:basil_sec_013_1012"
+    },
+    {
+      "id": "basil_sec_014_4005",
+      "liturgy_id": "basil",
+      "name_ar": "طلبات نعم نسألك من القداس الغريغوري",
+      "section_order": 14,
+      "content_id": "liturgy:section:basil_sec_014_4005"
+    },
+    {
+      "id": "basil_sec_015_1013",
+      "liturgy_id": "basil",
+      "name_ar": "اوشية السلامة",
+      "section_order": 15,
+      "content_id": "liturgy:section:basil_sec_015_1013"
+    },
+    {
+      "id": "basil_sec_016_1014",
+      "liturgy_id": "basil",
+      "name_ar": "اوشية الاباء",
+      "section_order": 16,
+      "content_id": "liturgy:section:basil_sec_016_1014"
+    },
+    {
+      "id": "basil_sec_017_1015",
+      "liturgy_id": "basil",
+      "name_ar": "اوشية القمامصة",
+      "section_order": 17,
+      "content_id": "liturgy:section:basil_sec_017_1015"
+    },
+    {
+      "id": "basil_sec_018_1016",
+      "liturgy_id": "basil",
+      "name_ar": "اوشية الرحمة",
+      "section_order": 18,
+      "content_id": "liturgy:section:basil_sec_018_1016"
+    },
+    {
+      "id": "basil_sec_019_1017",
+      "liturgy_id": "basil",
+      "name_ar": "اوشية العالم",
+      "section_order": 19,
+      "content_id": "liturgy:section:basil_sec_019_1017"
+    },
+    {
+      "id": "basil_sec_020_1018",
+      "liturgy_id": "basil",
+      "name_ar": "والساكنين فيها",
+      "section_order": 20,
+      "content_id": "liturgy:section:basil_sec_020_1018"
+    },
+    {
+      "id": "basil_sec_021_4006",
+      "liturgy_id": "basil",
+      "name_ar": "شعبك_ارحمنا من القداس الغريغوري",
+      "section_order": 21,
+      "content_id": "liturgy:section:basil_sec_021_4006"
+    },
+    {
+      "id": "basil_sec_022_1019",
+      "liturgy_id": "basil",
+      "name_ar": "اوشية المياه",
+      "section_order": 22,
+      "content_id": "liturgy:section:basil_sec_022_1019"
+    },
+    {
+      "id": "basil_sec_023_1020",
+      "liturgy_id": "basil",
+      "name_ar": "اوشية الزروع",
+      "section_order": 23,
+      "content_id": "liturgy:section:basil_sec_023_1020"
+    },
+    {
+      "id": "basil_sec_024_1021",
+      "liturgy_id": "basil",
+      "name_ar": "اوشية الاهوية والثمار",
+      "section_order": 24,
+      "content_id": "liturgy:section:basil_sec_024_1021"
+    },
+    {
+      "id": "basil_sec_025_1022",
+      "liturgy_id": "basil",
+      "name_ar": "اصعدها كمقدارها",
+      "section_order": 25,
+      "content_id": "liturgy:section:basil_sec_025_1022"
+    },
+    {
+      "id": "basil_sec_026_4007",
+      "liturgy_id": "basil",
+      "name_ar": "طلبات شفاء للمرضى من القداس الغريغوري",
+      "section_order": 26,
+      "content_id": "liturgy:section:basil_sec_026_4007"
+    },
+    {
+      "id": "basil_sec_027_1023",
+      "liturgy_id": "basil",
+      "name_ar": "اوشية  القرابين",
+      "section_order": 27,
+      "content_id": "liturgy:section:basil_sec_027_1023"
+    },
+    {
+      "id": "basil_sec_028_4008",
+      "liturgy_id": "basil",
+      "name_ar": "المجمع",
+      "section_order": 28,
+      "content_id": "liturgy:section:basil_sec_028_4008"
+    },
+    {
+      "id": "basil_sec_029_1025",
+      "liturgy_id": "basil",
+      "name_ar": "بي نيشتي",
+      "section_order": 29,
+      "content_id": "liturgy:section:basil_sec_029_1025"
+    },
+    {
+      "id": "basil_sec_030_1026",
+      "liturgy_id": "basil",
+      "name_ar": "بركتهم",
+      "section_order": 30,
+      "content_id": "liturgy:section:basil_sec_030_1026"
+    },
+    {
+      "id": "basil_sec_031_4009",
+      "liturgy_id": "basil",
+      "name_ar": "اولئك يارب",
+      "section_order": 31,
+      "content_id": "liturgy:section:basil_sec_031_4009"
+    },
+    {
+      "id": "basil_sec_032_1028",
+      "liturgy_id": "basil",
+      "name_ar": "اهدنا الى ملكوتك",
+      "section_order": 32,
+      "content_id": "liturgy:section:basil_sec_032_1028"
+    },
+    {
+      "id": "basil_sec_033_4010",
+      "liturgy_id": "basil",
+      "name_ar": "ايضا فلنشكر",
+      "section_order": 33,
+      "content_id": "liturgy:section:basil_sec_033_4010"
+    },
+    {
+      "id": "basil_sec_034_1030",
+      "liturgy_id": "basil",
+      "name_ar": "الجسد المقدس",
+      "section_order": 34,
+      "content_id": "liturgy:section:basil_sec_034_1030"
+    },
+    {
+      "id": "basil_sec_035_1031",
+      "liturgy_id": "basil",
+      "name_ar": "القسمة",
+      "section_order": 35,
+      "content_id": "liturgy:section:basil_sec_035_1031"
+    },
+    {
+      "id": "basil_sec_036_1032",
+      "liturgy_id": "basil",
+      "name_ar": "ابانا الذي",
+      "section_order": 36,
+      "content_id": "liturgy:section:basil_sec_036_1032"
+    },
+    {
+      "id": "basil_sec_037_1033",
+      "liturgy_id": "basil",
+      "name_ar": "احنوا رؤوسكم",
+      "section_order": 37,
+      "content_id": "liturgy:section:basil_sec_037_1033"
+    },
+    {
+      "id": "basil_sec_038_1034",
+      "liturgy_id": "basil",
+      "name_ar": "الاعتراف",
+      "section_order": 38,
+      "content_id": "liturgy:section:basil_sec_038_1034"
+    },
+    {
+      "id": "basil_sec_039_1035",
+      "liturgy_id": "basil",
+      "name_ar": "صلاة قبل التناول",
+      "section_order": 39,
+      "content_id": "liturgy:section:basil_sec_039_1035"
+    },
+    {
+      "id": "basil_sec_040_1036",
+      "liturgy_id": "basil",
+      "name_ar": "صلاة قبل التناول خاصة بالاب الكاهن",
+      "section_order": 40,
+      "content_id": "liturgy:section:basil_sec_040_1036"
+    },
+    {
+      "id": "basil_sec_041_1037",
+      "liturgy_id": "basil",
+      "name_ar": "التوزيع",
+      "section_order": 41,
+      "content_id": "liturgy:section:basil_sec_041_1037"
+    },
+    {
+      "id": "basil_sec_042_951",
+      "liturgy_id": "basil",
+      "name_ar": "أبيكران",
+      "section_order": 42,
+      "content_id": "liturgy:section:basil_sec_042_951"
+    },
+    {
+      "id": "basil_sec_043_1137",
+      "liturgy_id": "basil",
+      "name_ar": "لحن بي اويك",
+      "section_order": 43,
+      "content_id": "liturgy:section:basil_sec_043_1137"
+    },
+    {
+      "id": "basil_sec_044_1237",
+      "liturgy_id": "basil",
+      "name_ar": "مديح المسيح أنعم لنا بالخلاص",
+      "section_order": 44,
+      "content_id": "liturgy:section:basil_sec_044_1237"
+    },
+    {
+      "id": "basil_sec_045_1337",
+      "liturgy_id": "basil",
+      "name_ar": "مديح يارب ارحم صنعة يديك",
+      "section_order": 45,
+      "content_id": "liturgy:section:basil_sec_045_1337"
+    },
+    {
+      "id": "basil_sec_046_1437",
+      "liturgy_id": "basil",
+      "name_ar": "مديح يا ابانا الذي في السموات",
+      "section_order": 46,
+      "content_id": "liturgy:section:basil_sec_046_1437"
+    },
+    {
+      "id": "basil_sec_047_1038",
+      "liturgy_id": "basil",
+      "name_ar": "صلاة بعد التناول",
+      "section_order": 47,
+      "content_id": "liturgy:section:basil_sec_047_1038"
+    },
+    {
+      "id": "basil_sec_048_1039",
+      "liturgy_id": "basil",
+      "name_ar": "صلاة بعد التناول خاصة بالاب الكاهن",
+      "section_order": 48,
+      "content_id": "liturgy:section:basil_sec_048_1039"
+    },
+    {
+      "id": "basil_sec_049_1040",
+      "liturgy_id": "basil",
+      "name_ar": "صلاة الشكر بعد التناول",
+      "section_order": 49,
+      "content_id": "liturgy:section:basil_sec_049_1040"
+    },
+    {
+      "id": "basil_sec_050_1041",
+      "liturgy_id": "basil",
+      "name_ar": "صلاة الختام والبركة",
+      "section_order": 50,
+      "content_id": "liturgy:section:basil_sec_050_1041"
+    },
+    {
+      "id": "gregory_sec_001_4000",
+      "liturgy_id": "gregory",
+      "name_ar": "صلاة الصلح",
+      "section_order": 1,
+      "content_id": "liturgy:section:gregory_sec_001_4000"
+    },
+    {
+      "id": "gregory_sec_002_4001",
+      "liturgy_id": "gregory",
+      "name_ar": "صلاة صلح ثانية",
+      "section_order": 2,
+      "content_id": "liturgy:section:gregory_sec_002_4001"
+    },
+    {
+      "id": "gregory_sec_003_2002",
+      "liturgy_id": "gregory",
+      "name_ar": "اسبسمس ادام افرحي يا مريم",
+      "section_order": 3,
+      "content_id": "liturgy:section:gregory_sec_003_2002"
+    },
+    {
+      "id": "gregory_sec_004_2003",
+      "liturgy_id": "gregory",
+      "name_ar": "قبلوا",
+      "section_order": 4,
+      "content_id": "liturgy:section:gregory_sec_004_2003"
+    },
+    {
+      "id": "gregory_sec_005_2004",
+      "liturgy_id": "gregory",
+      "name_ar": "بشفاعات والدة",
+      "section_order": 5,
+      "content_id": "liturgy:section:gregory_sec_005_2004"
+    },
+    {
+      "id": "gregory_sec_006_4002",
+      "liturgy_id": "gregory",
+      "name_ar": "محبة الله الاب",
+      "section_order": 6,
+      "content_id": "liturgy:section:gregory_sec_006_4002"
+    },
+    {
+      "id": "gregory_sec_007_2006",
+      "liturgy_id": "gregory",
+      "name_ar": "اسبسمس - ايها الرب اله القوات",
+      "section_order": 7,
+      "content_id": "liturgy:section:gregory_sec_007_2006"
+    },
+    {
+      "id": "gregory_sec_008_2007",
+      "liturgy_id": "gregory",
+      "name_ar": "اسبسمس - الشاروبيم يسجدون لك",
+      "section_order": 8,
+      "content_id": "liturgy:section:gregory_sec_008_2007"
+    },
+    {
+      "id": "gregory_sec_009_4003",
+      "liturgy_id": "gregory",
+      "name_ar": "قدوس قدوس",
+      "section_order": 9,
+      "content_id": "liturgy:section:gregory_sec_009_4003"
+    },
+    {
+      "id": "gregory_sec_010_2009",
+      "liturgy_id": "gregory",
+      "name_ar": "انت يا سيدي + انت الكائن",
+      "section_order": 10,
+      "content_id": "liturgy:section:gregory_sec_010_2009"
+    },
+    {
+      "id": "gregory_sec_011_2010",
+      "liturgy_id": "gregory",
+      "name_ar": "اتيت الى الذبح + اقدم لك يا سيدي",
+      "section_order": 11,
+      "content_id": "liturgy:section:gregory_sec_011_2010"
+    },
+    {
+      "id": "gregory_sec_012_4004",
+      "liturgy_id": "gregory",
+      "name_ar": "الرشومات",
+      "section_order": 12,
+      "content_id": "liturgy:section:gregory_sec_012_4004"
+    },
+    {
+      "id": "gregory_sec_013_2012",
+      "liturgy_id": "gregory",
+      "name_ar": "حلول الروح القدس + فاذا يا سيدنا",
+      "section_order": 13,
+      "content_id": "liturgy:section:gregory_sec_013_2012"
+    },
+    {
+      "id": "gregory_sec_014_4005",
+      "liturgy_id": "gregory",
+      "name_ar": "طلبات نعم نسالك",
+      "section_order": 14,
+      "content_id": "liturgy:section:gregory_sec_014_4005"
+    },
+    {
+      "id": "gregory_sec_015_2014",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية السلامة",
+      "section_order": 15,
+      "content_id": "liturgy:section:gregory_sec_015_2014"
+    },
+    {
+      "id": "gregory_sec_016_2015",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية الاباء",
+      "section_order": 16,
+      "content_id": "liturgy:section:gregory_sec_016_2015"
+    },
+    {
+      "id": "gregory_sec_017_2016",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية القمامصة",
+      "section_order": 17,
+      "content_id": "liturgy:section:gregory_sec_017_2016"
+    },
+    {
+      "id": "gregory_sec_018_2017",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية الملوك",
+      "section_order": 18,
+      "content_id": "liturgy:section:gregory_sec_018_2017"
+    },
+    {
+      "id": "gregory_sec_019_2018",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية الذين في البلاط",
+      "section_order": 19,
+      "content_id": "liturgy:section:gregory_sec_019_2018"
+    },
+    {
+      "id": "gregory_sec_020_2019",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية القرابين",
+      "section_order": 20,
+      "content_id": "liturgy:section:gregory_sec_020_2019"
+    },
+    {
+      "id": "gregory_sec_021_2020",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية المسبيين",
+      "section_order": 21,
+      "content_id": "liturgy:section:gregory_sec_021_2020"
+    },
+    {
+      "id": "gregory_sec_022_2021",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية الخديم",
+      "section_order": 22,
+      "content_id": "liturgy:section:gregory_sec_022_2021"
+    },
+    {
+      "id": "gregory_sec_023_4006",
+      "liturgy_id": "gregory",
+      "name_ar": "ارحمنا (لان شعبك)",
+      "section_order": 23,
+      "content_id": "liturgy:section:gregory_sec_023_4006"
+    },
+    {
+      "id": "gregory_sec_024_2023",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية الاهوية",
+      "section_order": 24,
+      "content_id": "liturgy:section:gregory_sec_024_2023"
+    },
+    {
+      "id": "gregory_sec_025_2024",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية الزروع والعشب",
+      "section_order": 25,
+      "content_id": "liturgy:section:gregory_sec_025_2024"
+    },
+    {
+      "id": "gregory_sec_026_2025",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية المياه",
+      "section_order": 26,
+      "content_id": "liturgy:section:gregory_sec_026_2025"
+    },
+    {
+      "id": "gregory_sec_027_2026",
+      "liturgy_id": "gregory",
+      "name_ar": "اصعدها كمقدارها",
+      "section_order": 27,
+      "content_id": "liturgy:section:gregory_sec_027_2026"
+    },
+    {
+      "id": "gregory_sec_028_4007",
+      "liturgy_id": "gregory",
+      "name_ar": "طلبات شفاء للمرضى",
+      "section_order": 28,
+      "content_id": "liturgy:section:gregory_sec_028_4007"
+    },
+    {
+      "id": "gregory_sec_029_2028",
+      "liturgy_id": "gregory",
+      "name_ar": "اوشية الموضع",
+      "section_order": 29,
+      "content_id": "liturgy:section:gregory_sec_029_2028"
+    },
+    {
+      "id": "gregory_sec_030_4008",
+      "liturgy_id": "gregory",
+      "name_ar": "المجمع",
+      "section_order": 30,
+      "content_id": "liturgy:section:gregory_sec_030_4008"
+    },
+    {
+      "id": "gregory_sec_031_2030",
+      "liturgy_id": "gregory",
+      "name_ar": "بي نيشتي",
+      "section_order": 31,
+      "content_id": "liturgy:section:gregory_sec_031_2030"
+    },
+    {
+      "id": "gregory_sec_032_2031",
+      "liturgy_id": "gregory",
+      "name_ar": "بركتهم",
+      "section_order": 32,
+      "content_id": "liturgy:section:gregory_sec_032_2031"
+    },
+    {
+      "id": "gregory_sec_033_4009",
+      "liturgy_id": "gregory",
+      "name_ar": "اذكر يارب المؤمنين + حل واغفر واصفح",
+      "section_order": 33,
+      "content_id": "liturgy:section:gregory_sec_033_4009"
+    },
+    {
+      "id": "gregory_sec_034_2033",
+      "liturgy_id": "gregory",
+      "name_ar": "لانك انت هو الله كما كان",
+      "section_order": 34,
+      "content_id": "liturgy:section:gregory_sec_034_2033"
+    },
+    {
+      "id": "gregory_sec_035_4010",
+      "liturgy_id": "gregory",
+      "name_ar": "يا سيدنا ومخلصنا",
+      "section_order": 35,
+      "content_id": "liturgy:section:gregory_sec_035_4010"
+    },
+    {
+      "id": "gregory_sec_036_2035",
+      "liturgy_id": "gregory",
+      "name_ar": "يا من بارك",
+      "section_order": 36,
+      "content_id": "liturgy:section:gregory_sec_036_2035"
+    },
+    {
+      "id": "gregory_sec_037_2036",
+      "liturgy_id": "gregory",
+      "name_ar": "القسمة",
+      "section_order": 37,
+      "content_id": "liturgy:section:gregory_sec_037_2036"
+    },
+    {
+      "id": "gregory_sec_038_2037",
+      "liturgy_id": "gregory",
+      "name_ar": "ابانا الذي",
+      "section_order": 38,
+      "content_id": "liturgy:section:gregory_sec_038_2037"
+    },
+    {
+      "id": "gregory_sec_039_2038",
+      "liturgy_id": "gregory",
+      "name_ar": "احنوا رؤوسكم",
+      "section_order": 39,
+      "content_id": "liturgy:section:gregory_sec_039_2038"
+    },
+    {
+      "id": "gregory_sec_040_2039",
+      "liturgy_id": "gregory",
+      "name_ar": "التحاليل",
+      "section_order": 40,
+      "content_id": "liturgy:section:gregory_sec_040_2039"
+    },
+    {
+      "id": "gregory_sec_041_2040",
+      "liturgy_id": "gregory",
+      "name_ar": "الاعتراف",
+      "section_order": 41,
+      "content_id": "liturgy:section:gregory_sec_041_2040"
+    },
+    {
+      "id": "gregory_sec_042_2041",
+      "liturgy_id": "gregory",
+      "name_ar": "صلاة قبل التناول",
+      "section_order": 42,
+      "content_id": "liturgy:section:gregory_sec_042_2041"
+    },
+    {
+      "id": "gregory_sec_043_2042",
+      "liturgy_id": "gregory",
+      "name_ar": "صلاة قبل التناول (للاب الكاهن)",
+      "section_order": 43,
+      "content_id": "liturgy:section:gregory_sec_043_2042"
+    },
+    {
+      "id": "gregory_sec_044_2043",
+      "liturgy_id": "gregory",
+      "name_ar": "التوزيع",
+      "section_order": 44,
+      "content_id": "liturgy:section:gregory_sec_044_2043"
+    },
+    {
+      "id": "gregory_sec_045_951",
+      "liturgy_id": "gregory",
+      "name_ar": "أبيكران",
+      "section_order": 45,
+      "content_id": "liturgy:section:gregory_sec_045_951"
+    },
+    {
+      "id": "gregory_sec_046_1137",
+      "liturgy_id": "gregory",
+      "name_ar": "لحن بي اويك",
+      "section_order": 46,
+      "content_id": "liturgy:section:gregory_sec_046_1137"
+    },
+    {
+      "id": "gregory_sec_047_1237",
+      "liturgy_id": "gregory",
+      "name_ar": "مديح المسيح أنعم لنا بالخلاص",
+      "section_order": 47,
+      "content_id": "liturgy:section:gregory_sec_047_1237"
+    },
+    {
+      "id": "gregory_sec_048_1337",
+      "liturgy_id": "gregory",
+      "name_ar": "مديح يارب ارحم صنعة يديك",
+      "section_order": 48,
+      "content_id": "liturgy:section:gregory_sec_048_1337"
+    },
+    {
+      "id": "gregory_sec_049_1437",
+      "liturgy_id": "gregory",
+      "name_ar": "مديح يا ابانا الذي في السموات",
+      "section_order": 49,
+      "content_id": "liturgy:section:gregory_sec_049_1437"
+    },
+    {
+      "id": "gregory_sec_050_2044",
+      "liturgy_id": "gregory",
+      "name_ar": "صلاة بعد التناول",
+      "section_order": 50,
+      "content_id": "liturgy:section:gregory_sec_050_2044"
+    },
+    {
+      "id": "gregory_sec_051_2045",
+      "liturgy_id": "gregory",
+      "name_ar": "صلاة بعد التناول (للاب الكاهن)",
+      "section_order": 51,
+      "content_id": "liturgy:section:gregory_sec_051_2045"
+    },
+    {
+      "id": "gregory_sec_052_2046",
+      "liturgy_id": "gregory",
+      "name_ar": "صلاة الشكر بعد التناول",
+      "section_order": 52,
+      "content_id": "liturgy:section:gregory_sec_052_2046"
+    },
+    {
+      "id": "gregory_sec_053_2047",
+      "liturgy_id": "gregory",
+      "name_ar": "صلاة الختام والبركة",
+      "section_order": 53,
+      "content_id": "liturgy:section:gregory_sec_053_2047"
+    },
+    {
+      "id": "incense_sec_001_1000",
+      "liturgy_id": "raising_incense",
+      "name_ar": "صلاة الشكر وبخور باكر",
+      "section_order": 1,
+      "content_id": "liturgy:section:incense_sec_001_1000"
+    },
+    {
+      "id": "incense_sec_002_1019",
+      "liturgy_id": "raising_incense",
+      "name_ar": "أوشية المياه",
+      "section_order": 2,
+      "content_id": "liturgy:section:incense_sec_002_1019"
+    },
+    {
+      "id": "incense_sec_003_1020",
+      "liturgy_id": "raising_incense",
+      "name_ar": "أوشية الزروع",
+      "section_order": 3,
+      "content_id": "liturgy:section:incense_sec_003_1020"
+    },
+    {
+      "id": "incense_sec_004_1021",
+      "liturgy_id": "raising_incense",
+      "name_ar": "أوشية الأهوية والثمار",
+      "section_order": 4,
+      "content_id": "liturgy:section:incense_sec_004_1021"
+    },
+    {
+      "id": "incense_sec_005_1022",
+      "liturgy_id": "raising_incense",
+      "name_ar": "اصعدها كمقدارها",
+      "section_order": 5,
+      "content_id": "liturgy:section:incense_sec_005_1022"
+    },
+    {
+      "id": "incense_sec_006_1030",
+      "liturgy_id": "raising_incense",
+      "name_ar": "الذكصولوجيات",
+      "section_order": 6,
+      "content_id": "liturgy:section:incense_sec_006_1030"
+    },
+    {
+      "id": "incense_sec_007_1032",
+      "liturgy_id": "raising_incense",
+      "name_ar": "أبانا الذي في السماوات",
+      "section_order": 7,
+      "content_id": "liturgy:section:incense_sec_007_1032"
+    },
+    {
+      "id": "incense_sec_008_1033",
+      "liturgy_id": "raising_incense",
+      "name_ar": "تسبحة الملائكة",
+      "section_order": 8,
+      "content_id": "liturgy:section:incense_sec_008_1033"
+    },
+    {
+      "id": "incense_sec_009_1034",
+      "liturgy_id": "raising_incense",
+      "name_ar": "الثلاث تقديسات",
+      "section_order": 9,
+      "content_id": "liturgy:section:incense_sec_009_1034"
+    },
+    {
+      "id": "cyril_sec_001_945",
+      "liturgy_id": "cyril",
+      "name_ar": "صلاة الحجاب للقداس الكيرلسي",
+      "section_order": 1,
+      "content_id": "liturgy:section:cyril_sec_001_945"
+    },
+    {
+      "id": "cyril_sec_002_912",
+      "liturgy_id": "cyril",
+      "name_ar": "تحليل الخدام ناظر الإله مرقس",
+      "section_order": 2,
+      "content_id": "liturgy:section:cyril_sec_002_912"
+    },
+    {
+      "id": "cyril_sec_003_914",
+      "liturgy_id": "cyril",
+      "name_ar": "تي شوري (المبخرة الذهب)",
+      "section_order": 3,
+      "content_id": "liturgy:section:cyril_sec_003_914"
+    },
+    {
+      "id": "cyril_sec_004_917",
+      "liturgy_id": "cyril",
+      "name_ar": "الهيتنيات (سؤالات القديسين)",
+      "section_order": 4,
+      "content_id": "liturgy:section:cyril_sec_004_917"
+    },
+    {
+      "id": "cyril_sec_005_920",
+      "liturgy_id": "cyril",
+      "name_ar": "بي أهموت غار",
+      "section_order": 5,
+      "content_id": "liturgy:section:cyril_sec_005_920"
+    },
+    {
+      "id": "cyril_sec_006_927",
+      "liturgy_id": "cyril",
+      "name_ar": "أوشية القرابين الكيرلسية",
+      "section_order": 6,
+      "content_id": "liturgy:section:cyril_sec_006_927"
+    },
+    {
+      "id": "cyril_sec_007_934",
+      "liturgy_id": "cyril",
+      "name_ar": "أجيوس (الثلاث تقديسات)",
+      "section_order": 7,
+      "content_id": "liturgy:section:cyril_sec_007_934"
+    },
+    {
+      "id": "cyril_sec_008_935",
+      "liturgy_id": "cyril",
+      "name_ar": "أوشية الإنجيل",
+      "section_order": 8,
+      "content_id": "liturgy:section:cyril_sec_008_935"
+    },
+    {
+      "id": "cyril_sec_009_946",
+      "liturgy_id": "cyril",
+      "name_ar": "أوشية السلام الكيرلسية",
+      "section_order": 9,
+      "content_id": "liturgy:section:cyril_sec_009_946"
+    },
+    {
+      "id": "cyril_sec_010_947",
+      "liturgy_id": "cyril",
+      "name_ar": "أوشية الآباء الكيرلسية",
+      "section_order": 10,
+      "content_id": "liturgy:section:cyril_sec_010_947"
+    },
+    {
+      "id": "cyril_sec_011_948",
+      "liturgy_id": "cyril",
+      "name_ar": "أوشية الاجتماعات",
+      "section_order": 11,
+      "content_id": "liturgy:section:cyril_sec_011_948"
+    },
+    {
+      "id": "cyril_sec_012_950",
+      "liturgy_id": "cyril",
+      "name_ar": "قانون الإيمان الأرثوذكسي",
+      "section_order": 12,
+      "content_id": "liturgy:section:cyril_sec_012_950"
+    },
+    {
+      "id": "cyril_sec_013_954",
+      "liturgy_id": "cyril",
+      "name_ar": "أللي القربان والاعتراف الأخير",
+      "section_order": 13,
+      "content_id": "liturgy:section:cyril_sec_013_954"
+    }
+  ]
+}

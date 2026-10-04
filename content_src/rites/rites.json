@@ -1,0 +1,115 @@
+{
+  "table": "rites",
+  "rows": [
+    {
+      "id": 1,
+      "name_ar": "طقس المعمودية",
+      "name_en": "Baptism Rite",
+      "name_coptic": "Ⲡⲓⲱⲙⲥ",
+      "category": "sacrament",
+      "description": "السر الأول من أسرار الكنيسة السبعة",
+      "sort_order": 1,
+      "icon": "water_drop",
+      "content_id": "rite:1"
+    },
+    {
+      "id": 2,
+      "name_ar": "طقس الميرون المقدس",
+      "name_en": "Holy Myron",
+      "name_coptic": "Ⲡⲓⲙⲩⲣⲟⲛ",
+      "category": "sacrament",
+      "description": "مسحة التثبيت بالميرون المقدس",
+      "sort_order": 2,
+      "icon": "local_florist",
+      "content_id": "rite:2"
+    },
+    {
+      "id": 3,
+      "name_ar": "طقس التوبة والاعتراف",
+      "name_en": "Confession",
+      "name_coptic": "Ⲙⲉⲧⲁⲛⲟⲓⲁ",
+      "category": "sacrament",
+      "description": "سر التوبة والمصالحة مع الله",
+      "sort_order": 3,
+      "icon": "favorite",
+      "content_id": "rite:3"
+    },
+    {
+      "id": 4,
+      "name_ar": "طقس مسحة المرضى",
+      "name_en": "Anointing of the Sick",
+      "name_coptic": "Ⲡⲓⲉⲩⲭⲉⲗⲁⲓⲟⲛ",
+      "category": "sacrament",
+      "description": "سر مسحة القنديل لشفاء المرضى",
+      "sort_order": 4,
+      "icon": "healing",
+      "content_id": "rite:4"
+    },
+    {
+      "id": 5,
+      "name_ar": "طقس الزواج",
+      "name_en": "Marriage Rite",
+      "name_coptic": "Ⲡⲓⲅⲁⲙⲟⲥ",
+      "category": "sacrament",
+      "description": "سر الإكليل المقدس",
+      "sort_order": 5,
+      "icon": "favorite_border",
+      "content_id": "rite:5"
+    },
+    {
+      "id": 6,
+      "name_ar": "طقس رسامة الشمامسة",
+      "name_en": "Deacon Ordination",
+      "name_coptic": "",
+      "category": "ordination",
+      "description": "سيامة الشمامسة بمختلف رتبهم",
+      "sort_order": 6,
+      "icon": "how_to_reg",
+      "content_id": "rite:6"
+    },
+    {
+      "id": 7,
+      "name_ar": "طقس رسامة الكهنة",
+      "name_en": "Priest Ordination",
+      "name_coptic": "",
+      "category": "ordination",
+      "description": "سيامة الكهنة (القسوس والقمصان)",
+      "sort_order": 7,
+      "icon": "how_to_reg",
+      "content_id": "rite:7"
+    },
+    {
+      "id": 8,
+      "name_ar": "طقس اللقان",
+      "name_en": "Laqan Rite",
+      "name_coptic": "Ⲡⲓⲗⲁⲕⲁⲛ",
+      "category": "laqan",
+      "description": "طقس غسل الأرجل في خميس العهد واللقان",
+      "sort_order": 8,
+      "icon": "opacity",
+      "content_id": "rite:8"
+    },
+    {
+      "id": 9,
+      "name_ar": "طقس تجنيز الموتى",
+      "name_en": "Funeral Rite",
+      "name_coptic": "Ⲡⲓⲧⲁⲫⲟⲥ",
+      "category": "funeral",
+      "description": "صلوات الجنازة للرجال والنساء والأطفال والكهنة",
+      "sort_order": 9,
+      "icon": "local_florist",
+      "content_id": "rite:9"
+    },
+    {
+      "id": 10,
+      "name_ar": "طقس تدشين الكنائس",
+      "name_en": "Church Consecration",
+      "name_coptic": "",
+      "category": "consecration",
+      "description": "تكريس وتدشين الكنائس والمذابح",
+      "sort_order": 10,
+      "icon": "church",
+      "content_id": "rite:10"
+    }
+  ]
+}
