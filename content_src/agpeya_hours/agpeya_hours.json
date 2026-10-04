@@ -7,7 +7,15 @@
       "name_en": "Prime",
       "hour_order": 1,
       "description": "الساعة الأولى من النهار - تذكار قيامة الرب ونوره الحقيقي",
-      "content_id": "agpeya:hour:prime"
+      "content_id": "agpeya:hour:prime",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "terce",
@@ -15,7 +23,15 @@
       "name_en": "Terce",
       "hour_order": 2,
       "description": "الساعة التاسعة صباحاً - تذكار محاكمة المسيح وحلول الروح القدس",
-      "content_id": "agpeya:hour:terce"
+      "content_id": "agpeya:hour:terce",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "sext",
@@ -23,7 +39,15 @@
       "name_en": "Sext",
       "hour_order": 3,
       "description": "الساعة الثانية عشرة ظهراً - تذكار صلب مخلصنا الصالح",
-      "content_id": "agpeya:hour:sext"
+      "content_id": "agpeya:hour:sext",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "none",
@@ -31,7 +55,15 @@
       "name_en": "None",
       "hour_order": 4,
       "description": "الساعة الثالثة عصراً - تذكار موت الرب المحيي بالجسد على الصليب",
-      "content_id": "agpeya:hour:none"
+      "content_id": "agpeya:hour:none",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "vespers",
@@ -39,7 +71,15 @@
       "name_en": "Vespers",
       "hour_order": 5,
       "description": "الساعة الخامسة مساءً - تذكار إنزال جسد الرب وإيداعه في القبر",
-      "content_id": "agpeya:hour:vespers"
+      "content_id": "agpeya:hour:vespers",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "compline",
@@ -47,7 +87,15 @@
       "name_en": "Compline",
       "hour_order": 6,
       "description": "تذكار وضع جسد المسيح في القبر والنوم الأخير",
-      "content_id": "agpeya:hour:compline"
+      "content_id": "agpeya:hour:compline",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "curtain",
@@ -55,7 +103,15 @@
       "name_en": "Curtain",
       "hour_order": 7,
       "description": "صلاة خاصة بالآباء الرهبان والعذارى",
-      "content_id": "agpeya:hour:curtain"
+      "content_id": "agpeya:hour:curtain",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "midnight",
@@ -63,7 +119,15 @@
       "name_en": "Midnight",
       "hour_order": 8,
       "description": "ثلاث خدمات - تذكار المجيء الثاني والاستعداد للقاء العريس",
-      "content_id": "agpeya:hour:midnight"
+      "content_id": "agpeya:hour:midnight",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

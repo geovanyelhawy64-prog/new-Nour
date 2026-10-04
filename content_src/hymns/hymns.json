@@ -9,7 +9,15 @@
       "occasion": "vespers",
       "tone": "annual",
       "hymn_order": 1,
-      "content_id": "hymns:hymn:ol01_01"
+      "content_id": "hymns:hymn:ol01_01",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol01_02",
@@ -19,7 +27,15 @@
       "occasion": "matins",
       "tone": "annual",
       "hymn_order": 2,
-      "content_id": "hymns:hymn:ol01_02"
+      "content_id": "hymns:hymn:ol01_02",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol01_03",
@@ -29,7 +45,15 @@
       "occasion": "vespers",
       "tone": "annual",
       "hymn_order": 3,
-      "content_id": "hymns:hymn:ol01_03"
+      "content_id": "hymns:hymn:ol01_03",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol01_04",
@@ -39,7 +63,15 @@
       "occasion": "matins",
       "tone": "annual",
       "hymn_order": 4,
-      "content_id": "hymns:hymn:ol01_04"
+      "content_id": "hymns:hymn:ol01_04",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol01_05",
@@ -49,7 +81,15 @@
       "occasion": "matins",
       "tone": "annual",
       "hymn_order": 5,
-      "content_id": "hymns:hymn:ol01_05"
+      "content_id": "hymns:hymn:ol01_05",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol01_06",
@@ -59,7 +99,15 @@
       "occasion": "matins",
       "tone": "annual",
       "hymn_order": 6,
-      "content_id": "hymns:hymn:ol01_06"
+      "content_id": "hymns:hymn:ol01_06",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol01_07",
@@ -69,7 +117,15 @@
       "occasion": "matins",
       "tone": "annual",
       "hymn_order": 7,
-      "content_id": "hymns:hymn:ol01_07"
+      "content_id": "hymns:hymn:ol01_07",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol01_08",
@@ -79,7 +135,15 @@
       "occasion": "matins",
       "tone": "annual",
       "hymn_order": 8,
-      "content_id": "hymns:hymn:ol01_08"
+      "content_id": "hymns:hymn:ol01_08",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol01_09",
@@ -89,7 +153,15 @@
       "occasion": "matins",
       "tone": "annual",
       "hymn_order": 9,
-      "content_id": "hymns:hymn:ol01_09"
+      "content_id": "hymns:hymn:ol01_09",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol02_01",
@@ -99,7 +171,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 1,
-      "content_id": "hymns:hymn:ol02_01"
+      "content_id": "hymns:hymn:ol02_01",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol02_02",
@@ -109,7 +189,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 2,
-      "content_id": "hymns:hymn:ol02_02"
+      "content_id": "hymns:hymn:ol02_02",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol02_03",
@@ -119,7 +207,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 3,
-      "content_id": "hymns:hymn:ol02_03"
+      "content_id": "hymns:hymn:ol02_03",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol02_04",
@@ -129,7 +225,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 4,
-      "content_id": "hymns:hymn:ol02_04"
+      "content_id": "hymns:hymn:ol02_04",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol02_05",
@@ -139,7 +243,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 5,
-      "content_id": "hymns:hymn:ol02_05"
+      "content_id": "hymns:hymn:ol02_05",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol02_06",
@@ -149,7 +261,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 6,
-      "content_id": "hymns:hymn:ol02_06"
+      "content_id": "hymns:hymn:ol02_06",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol02_07",
@@ -159,7 +279,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 7,
-      "content_id": "hymns:hymn:ol02_07"
+      "content_id": "hymns:hymn:ol02_07",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol02_08",
@@ -169,7 +297,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 8,
-      "content_id": "hymns:hymn:ol02_08"
+      "content_id": "hymns:hymn:ol02_08",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol02_09",
@@ -179,7 +315,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 9,
-      "content_id": "hymns:hymn:ol02_09"
+      "content_id": "hymns:hymn:ol02_09",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol02_10",
@@ -189,7 +333,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 10,
-      "content_id": "hymns:hymn:ol02_10"
+      "content_id": "hymns:hymn:ol02_10",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol03_01",
@@ -199,7 +351,15 @@
       "occasion": "vespers",
       "tone": "kiahki",
       "hymn_order": 1,
-      "content_id": "hymns:hymn:ol03_01"
+      "content_id": "hymns:hymn:ol03_01",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol03_02",
@@ -209,7 +369,15 @@
       "occasion": "vespers",
       "tone": "kiahki",
       "hymn_order": 2,
-      "content_id": "hymns:hymn:ol03_02"
+      "content_id": "hymns:hymn:ol03_02",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol03_03",
@@ -219,7 +387,15 @@
       "occasion": "matins",
       "tone": "kiahki",
       "hymn_order": 3,
-      "content_id": "hymns:hymn:ol03_03"
+      "content_id": "hymns:hymn:ol03_03",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol03_04",
@@ -229,7 +405,15 @@
       "occasion": "liturgy",
       "tone": "kiahki",
       "hymn_order": 4,
-      "content_id": "hymns:hymn:ol03_04"
+      "content_id": "hymns:hymn:ol03_04",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol03_05",
@@ -239,7 +423,15 @@
       "occasion": "matins",
       "tone": "kiahki",
       "hymn_order": 5,
-      "content_id": "hymns:hymn:ol03_05"
+      "content_id": "hymns:hymn:ol03_05",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol03_06",
@@ -249,7 +441,15 @@
       "occasion": "liturgy",
       "tone": "kiahki",
       "hymn_order": 6,
-      "content_id": "hymns:hymn:ol03_06"
+      "content_id": "hymns:hymn:ol03_06",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol04_01",
@@ -259,7 +459,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 1,
-      "content_id": "hymns:hymn:ol04_01"
+      "content_id": "hymns:hymn:ol04_01",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol04_02",
@@ -269,7 +477,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 2,
-      "content_id": "hymns:hymn:ol04_02"
+      "content_id": "hymns:hymn:ol04_02",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol04_03",
@@ -279,7 +495,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 3,
-      "content_id": "hymns:hymn:ol04_03"
+      "content_id": "hymns:hymn:ol04_03",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol04_04",
@@ -289,7 +513,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 4,
-      "content_id": "hymns:hymn:ol04_04"
+      "content_id": "hymns:hymn:ol04_04",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol04_05",
@@ -299,7 +531,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 5,
-      "content_id": "hymns:hymn:ol04_05"
+      "content_id": "hymns:hymn:ol04_05",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol05_01",
@@ -309,7 +549,15 @@
       "occasion": "liturgy",
       "tone": "lenten",
       "hymn_order": 1,
-      "content_id": "hymns:hymn:ol05_01"
+      "content_id": "hymns:hymn:ol05_01",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol05_02",
@@ -319,7 +567,15 @@
       "occasion": "liturgy",
       "tone": "lenten",
       "hymn_order": 2,
-      "content_id": "hymns:hymn:ol05_02"
+      "content_id": "hymns:hymn:ol05_02",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol05_03",
@@ -329,7 +585,15 @@
       "occasion": "liturgy",
       "tone": "lenten",
       "hymn_order": 3,
-      "content_id": "hymns:hymn:ol05_03"
+      "content_id": "hymns:hymn:ol05_03",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol05_04",
@@ -339,7 +603,15 @@
       "occasion": "matins",
       "tone": "lenten",
       "hymn_order": 4,
-      "content_id": "hymns:hymn:ol05_04"
+      "content_id": "hymns:hymn:ol05_04",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol05_05",
@@ -349,7 +621,15 @@
       "occasion": "liturgy",
       "tone": "lenten",
       "hymn_order": 5,
-      "content_id": "hymns:hymn:ol05_05"
+      "content_id": "hymns:hymn:ol05_05",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol06_01",
@@ -359,7 +639,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 1,
-      "content_id": "hymns:hymn:ol06_01"
+      "content_id": "hymns:hymn:ol06_01",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol06_02",
@@ -369,7 +657,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 2,
-      "content_id": "hymns:hymn:ol06_02"
+      "content_id": "hymns:hymn:ol06_02",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol06_03",
@@ -379,7 +675,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 3,
-      "content_id": "hymns:hymn:ol06_03"
+      "content_id": "hymns:hymn:ol06_03",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol06_04",
@@ -389,7 +693,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 4,
-      "content_id": "hymns:hymn:ol06_04"
+      "content_id": "hymns:hymn:ol06_04",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol07_01",
@@ -399,7 +711,15 @@
       "occasion": "burial",
       "tone": "lenten",
       "hymn_order": 1,
-      "content_id": "hymns:hymn:ol07_01"
+      "content_id": "hymns:hymn:ol07_01",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol07_02",
@@ -409,7 +729,15 @@
       "occasion": "burial",
       "tone": "lenten",
       "hymn_order": 2,
-      "content_id": "hymns:hymn:ol07_02"
+      "content_id": "hymns:hymn:ol07_02",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol07_03",
@@ -419,7 +747,15 @@
       "occasion": "burial",
       "tone": "lenten",
       "hymn_order": 3,
-      "content_id": "hymns:hymn:ol07_03"
+      "content_id": "hymns:hymn:ol07_03",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol07_04",
@@ -429,7 +765,15 @@
       "occasion": "burial",
       "tone": "lenten",
       "hymn_order": 4,
-      "content_id": "hymns:hymn:ol07_04"
+      "content_id": "hymns:hymn:ol07_04",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol07_05",
@@ -439,7 +783,15 @@
       "occasion": "burial",
       "tone": "lenten",
       "hymn_order": 5,
-      "content_id": "hymns:hymn:ol07_05"
+      "content_id": "hymns:hymn:ol07_05",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol08_01",
@@ -449,7 +801,15 @@
       "occasion": "burial",
       "tone": "lenten",
       "hymn_order": 1,
-      "content_id": "hymns:hymn:ol08_01"
+      "content_id": "hymns:hymn:ol08_01",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol08_02",
@@ -459,7 +819,15 @@
       "occasion": "burial",
       "tone": "lenten",
       "hymn_order": 2,
-      "content_id": "hymns:hymn:ol08_02"
+      "content_id": "hymns:hymn:ol08_02",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol08_03",
@@ -469,7 +837,15 @@
       "occasion": "burial",
       "tone": "lenten",
       "hymn_order": 3,
-      "content_id": "hymns:hymn:ol08_03"
+      "content_id": "hymns:hymn:ol08_03",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol08_04",
@@ -479,7 +855,15 @@
       "occasion": "burial",
       "tone": "lenten",
       "hymn_order": 4,
-      "content_id": "hymns:hymn:ol08_04"
+      "content_id": "hymns:hymn:ol08_04",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol08_05",
@@ -489,7 +873,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 5,
-      "content_id": "hymns:hymn:ol08_05"
+      "content_id": "hymns:hymn:ol08_05",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol09_01",
@@ -499,7 +891,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 1,
-      "content_id": "hymns:hymn:ol09_01"
+      "content_id": "hymns:hymn:ol09_01",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol09_02",
@@ -509,7 +909,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 2,
-      "content_id": "hymns:hymn:ol09_02"
+      "content_id": "hymns:hymn:ol09_02",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol09_03",
@@ -519,7 +927,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 3,
-      "content_id": "hymns:hymn:ol09_03"
+      "content_id": "hymns:hymn:ol09_03",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol09_04",
@@ -529,7 +945,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 4,
-      "content_id": "hymns:hymn:ol09_04"
+      "content_id": "hymns:hymn:ol09_04",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol09_05",
@@ -539,7 +963,15 @@
       "occasion": "matins",
       "tone": "festive",
       "hymn_order": 5,
-      "content_id": "hymns:hymn:ol09_05"
+      "content_id": "hymns:hymn:ol09_05",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol10_01",
@@ -549,7 +981,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 1,
-      "content_id": "hymns:hymn:ol10_01"
+      "content_id": "hymns:hymn:ol10_01",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol10_02",
@@ -559,7 +999,15 @@
       "occasion": "liturgy",
       "tone": "festive",
       "hymn_order": 2,
-      "content_id": "hymns:hymn:ol10_02"
+      "content_id": "hymns:hymn:ol10_02",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol10_03",
@@ -569,7 +1017,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 3,
-      "content_id": "hymns:hymn:ol10_03"
+      "content_id": "hymns:hymn:ol10_03",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol10_04",
@@ -579,7 +1035,15 @@
       "occasion": "matins",
       "tone": "annual",
       "hymn_order": 4,
-      "content_id": "hymns:hymn:ol10_04"
+      "content_id": "hymns:hymn:ol10_04",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol11_01",
@@ -589,7 +1053,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 1,
-      "content_id": "hymns:hymn:ol11_01"
+      "content_id": "hymns:hymn:ol11_01",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol11_02",
@@ -599,7 +1071,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 2,
-      "content_id": "hymns:hymn:ol11_02"
+      "content_id": "hymns:hymn:ol11_02",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol11_03",
@@ -609,7 +1089,15 @@
       "occasion": "matins",
       "tone": "annual",
       "hymn_order": 3,
-      "content_id": "hymns:hymn:ol11_03"
+      "content_id": "hymns:hymn:ol11_03",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol11_04",
@@ -619,7 +1107,15 @@
       "occasion": "liturgy",
       "tone": "annual",
       "hymn_order": 4,
-      "content_id": "hymns:hymn:ol11_04"
+      "content_id": "hymns:hymn:ol11_04",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ol11_05",
@@ -629,7 +1125,15 @@
       "occasion": "matins",
       "tone": "annual",
       "hymn_order": 5,
-      "content_id": "hymns:hymn:ol11_05"
+      "content_id": "hymns:hymn:ol11_05",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

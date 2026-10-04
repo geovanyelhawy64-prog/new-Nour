@@ -1,0 +1,9 @@
+﻿content_id,origin,source_id,source_page,review_status,critical,decision,notes,key_fields
+agpeya:hour:compline,reference,,,draft,0,,,صلاة النوم
+agpeya:hour:curtain,reference,,,draft,0,,,صلاة الستار
+agpeya:hour:midnight,reference,,,draft,0,,,صلاة نصف الليل
+agpeya:hour:none,reference,,,draft,0,,,صلاة الساعة التاسعة
+agpeya:hour:prime,reference,,,draft,0,,,صلاة باكر
+agpeya:hour:sext,reference,,,draft,0,,,صلاة الساعة السادسة
+agpeya:hour:terce,reference,,,draft,0,,,صلاة الساعة الثالثة
+agpeya:hour:vespers,reference,,,draft,0,,,صلاة الغروب

@@ -12,7 +12,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:1"
+      "content_id": "agpeya:section:1",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 2,
@@ -25,7 +33,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:2"
+      "content_id": "agpeya:section:2",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 3,
@@ -38,7 +54,15 @@
       "text_coptic": "Ⲙⲁⲣⲉⲛϣⲏⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ Ⲫⲛⲟⲩϯ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ ⲡⲉⲛⲚⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲤⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ: ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ: ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ: ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ: ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ: ⲁϥϯⲧⲟⲧⲉⲛ: ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ.",
       "text_phonetic": "مارين شيب إهموت إنتوتف إمبي ريف إير بيثنانيف أووه إن نايت إفنوتي: إفيوت إمبين شويس أووه بين نوتي أووه بين سوتير إيسوس بي إخرستوس: جي أف إير اسكيبازين إيجون: أف إير بويثين إيرون: أف آريح إيرون: أف شوبتين إيروف: أف تي آسو إيرون: أف تيتوتين: أف إنتين شا إيخون إي تاي أونو ثاي.",
       "reference": null,
-      "content_id": "agpeya:section:3"
+      "content_id": "agpeya:section:3",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 4,
@@ -51,7 +75,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:4"
+      "content_id": "agpeya:section:4",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 5,
@@ -64,7 +96,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:5"
+      "content_id": "agpeya:section:5",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 6,
@@ -77,7 +117,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "البولس (أفسس 4: 1 – 5 )",
-      "content_id": "agpeya:section:6"
+      "content_id": "agpeya:section:6",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 7,
@@ -90,7 +138,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:7"
+      "content_id": "agpeya:section:7",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 8,
@@ -103,7 +159,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:8"
+      "content_id": "agpeya:section:8",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 9,
@@ -116,7 +180,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 1",
-      "content_id": "agpeya:section:9"
+      "content_id": "agpeya:section:9",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 10,
@@ -129,7 +201,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 2",
-      "content_id": "agpeya:section:10"
+      "content_id": "agpeya:section:10",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 11,
@@ -142,7 +222,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 3",
-      "content_id": "agpeya:section:11"
+      "content_id": "agpeya:section:11",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 12,
@@ -155,7 +243,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 4",
-      "content_id": "agpeya:section:12"
+      "content_id": "agpeya:section:12",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 13,
@@ -168,7 +264,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 5",
-      "content_id": "agpeya:section:13"
+      "content_id": "agpeya:section:13",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 14,
@@ -181,7 +285,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 6",
-      "content_id": "agpeya:section:14"
+      "content_id": "agpeya:section:14",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 15,
@@ -194,7 +306,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 8",
-      "content_id": "agpeya:section:15"
+      "content_id": "agpeya:section:15",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 16,
@@ -207,7 +327,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 11",
-      "content_id": "agpeya:section:16"
+      "content_id": "agpeya:section:16",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 17,
@@ -220,7 +348,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 12",
-      "content_id": "agpeya:section:17"
+      "content_id": "agpeya:section:17",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 18,
@@ -233,7 +369,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 14",
-      "content_id": "agpeya:section:18"
+      "content_id": "agpeya:section:18",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 19,
@@ -246,7 +390,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 15",
-      "content_id": "agpeya:section:19"
+      "content_id": "agpeya:section:19",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 20,
@@ -259,7 +411,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 18",
-      "content_id": "agpeya:section:20"
+      "content_id": "agpeya:section:20",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 21,
@@ -272,7 +432,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 24",
-      "content_id": "agpeya:section:21"
+      "content_id": "agpeya:section:21",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 22,
@@ -285,7 +453,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 26",
-      "content_id": "agpeya:section:22"
+      "content_id": "agpeya:section:22",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 23,
@@ -298,7 +474,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 62",
-      "content_id": "agpeya:section:23"
+      "content_id": "agpeya:section:23",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 24,
@@ -311,7 +495,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 66",
-      "content_id": "agpeya:section:24"
+      "content_id": "agpeya:section:24",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 25,
@@ -324,7 +516,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 69",
-      "content_id": "agpeya:section:25"
+      "content_id": "agpeya:section:25",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 26,
@@ -337,7 +537,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 112",
-      "content_id": "agpeya:section:26"
+      "content_id": "agpeya:section:26",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 27,
@@ -350,7 +558,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 142",
-      "content_id": "agpeya:section:27"
+      "content_id": "agpeya:section:27",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 28,
@@ -363,7 +579,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "الإنجيل (يوحنا 1 : 1 – 17)",
-      "content_id": "agpeya:section:28"
+      "content_id": "agpeya:section:28",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 29,
@@ -376,7 +600,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:29"
+      "content_id": "agpeya:section:29",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 30,
@@ -389,7 +621,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:30"
+      "content_id": "agpeya:section:30",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 31,
@@ -402,7 +642,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:31"
+      "content_id": "agpeya:section:31",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 32,
@@ -415,7 +663,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:32"
+      "content_id": "agpeya:section:32",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 33,
@@ -428,7 +684,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:33"
+      "content_id": "agpeya:section:33",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 34,
@@ -441,7 +705,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:34"
+      "content_id": "agpeya:section:34",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 35,
@@ -454,7 +726,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:35"
+      "content_id": "agpeya:section:35",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 36,
@@ -467,7 +747,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:36"
+      "content_id": "agpeya:section:36",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 37,
@@ -480,7 +768,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:37"
+      "content_id": "agpeya:section:37",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 38,
@@ -493,7 +789,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:38"
+      "content_id": "agpeya:section:38",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 39,
@@ -506,7 +810,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:39"
+      "content_id": "agpeya:section:39",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 40,
@@ -519,7 +831,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:40"
+      "content_id": "agpeya:section:40",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 41,
@@ -532,7 +852,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:41"
+      "content_id": "agpeya:section:41",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 42,
@@ -545,7 +873,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:42"
+      "content_id": "agpeya:section:42",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 43,
@@ -558,7 +894,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:43"
+      "content_id": "agpeya:section:43",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 44,
@@ -571,7 +915,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:44"
+      "content_id": "agpeya:section:44",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 45,
@@ -584,7 +936,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:45"
+      "content_id": "agpeya:section:45",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 46,
@@ -597,7 +957,15 @@
       "text_coptic": "Ⲙⲁⲣⲉⲛϣⲏⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ Ⲫⲛⲟⲩϯ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ ⲡⲉⲛⲚⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲤⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ: ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ: ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ: ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ: ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ: ⲁϥϯⲧⲟⲧⲉⲛ: ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ.",
       "text_phonetic": "مارين شيب إهموت إنتوتف إمبي ريف إير بيثنانيف أووه إن نايت إفنوتي: إفيوت إمبين شويس أووه بين نوتي أووه بين سوتير إيسوس بي إخرستوس: جي أف إير اسكيبازين إيجون: أف إير بويثين إيرون: أف آريح إيرون: أف شوبتين إيروف: أف تي آسو إيرون: أف تيتوتين: أف إنتين شا إيخون إي تاي أونو ثاي.",
       "reference": null,
-      "content_id": "agpeya:section:46"
+      "content_id": "agpeya:section:46",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 47,
@@ -610,7 +978,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:47"
+      "content_id": "agpeya:section:47",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 48,
@@ -623,7 +999,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:48"
+      "content_id": "agpeya:section:48",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 49,
@@ -636,7 +1020,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 19",
-      "content_id": "agpeya:section:49"
+      "content_id": "agpeya:section:49",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 50,
@@ -649,7 +1041,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 22",
-      "content_id": "agpeya:section:50"
+      "content_id": "agpeya:section:50",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 51,
@@ -662,7 +1062,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 23",
-      "content_id": "agpeya:section:51"
+      "content_id": "agpeya:section:51",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 52,
@@ -675,7 +1083,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 25",
-      "content_id": "agpeya:section:52"
+      "content_id": "agpeya:section:52",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 53,
@@ -688,7 +1104,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 28",
-      "content_id": "agpeya:section:53"
+      "content_id": "agpeya:section:53",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 54,
@@ -701,7 +1125,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 29",
-      "content_id": "agpeya:section:54"
+      "content_id": "agpeya:section:54",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 55,
@@ -714,7 +1146,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 33",
-      "content_id": "agpeya:section:55"
+      "content_id": "agpeya:section:55",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 56,
@@ -727,7 +1167,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 40",
-      "content_id": "agpeya:section:56"
+      "content_id": "agpeya:section:56",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 57,
@@ -740,7 +1188,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 42",
-      "content_id": "agpeya:section:57"
+      "content_id": "agpeya:section:57",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 58,
@@ -753,7 +1209,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 44",
-      "content_id": "agpeya:section:58"
+      "content_id": "agpeya:section:58",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 59,
@@ -766,7 +1230,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 45",
-      "content_id": "agpeya:section:59"
+      "content_id": "agpeya:section:59",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 60,
@@ -779,7 +1251,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 46",
-      "content_id": "agpeya:section:60"
+      "content_id": "agpeya:section:60",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 61,
@@ -792,7 +1272,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "الإنجيل (يوحنا 14 : 15 – 26 )",
-      "content_id": "agpeya:section:61"
+      "content_id": "agpeya:section:61",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 62,
@@ -805,7 +1293,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:62"
+      "content_id": "agpeya:section:62",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 63,
@@ -818,7 +1314,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:63"
+      "content_id": "agpeya:section:63",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 64,
@@ -831,7 +1335,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:64"
+      "content_id": "agpeya:section:64",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 65,
@@ -844,7 +1356,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:65"
+      "content_id": "agpeya:section:65",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 66,
@@ -857,7 +1377,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:66"
+      "content_id": "agpeya:section:66",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 67,
@@ -870,7 +1398,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:67"
+      "content_id": "agpeya:section:67",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 68,
@@ -883,7 +1419,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:68"
+      "content_id": "agpeya:section:68",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 69,
@@ -896,7 +1440,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:69"
+      "content_id": "agpeya:section:69",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 70,
@@ -909,7 +1461,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:70"
+      "content_id": "agpeya:section:70",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 71,
@@ -922,7 +1482,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:71"
+      "content_id": "agpeya:section:71",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 72,
@@ -935,7 +1503,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:72"
+      "content_id": "agpeya:section:72",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 73,
@@ -948,7 +1524,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:73"
+      "content_id": "agpeya:section:73",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 74,
@@ -961,7 +1545,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:74"
+      "content_id": "agpeya:section:74",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 75,
@@ -974,7 +1566,15 @@
       "text_coptic": "Ⲙⲁⲣⲉⲛϣⲏⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ Ⲫⲛⲟⲩϯ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ ⲡⲉⲛⲚⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲤⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ: ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ: ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ: ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ: ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ: ⲁϥϯⲧⲟⲧⲉⲛ: ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ.",
       "text_phonetic": "مارين شيب إهموت إنتوتف إمبي ريف إير بيثنانيف أووه إن نايت إفنوتي: إفيوت إمبين شويس أووه بين نوتي أووه بين سوتير إيسوس بي إخرستوس: جي أف إير اسكيبازين إيجون: أف إير بويثين إيرون: أف آريح إيرون: أف شوبتين إيروف: أف تي آسو إيرون: أف تيتوتين: أف إنتين شا إيخون إي تاي أونو ثاي.",
       "reference": null,
-      "content_id": "agpeya:section:75"
+      "content_id": "agpeya:section:75",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 76,
@@ -987,7 +1587,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:76"
+      "content_id": "agpeya:section:76",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 77,
@@ -1000,7 +1608,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:77"
+      "content_id": "agpeya:section:77",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 78,
@@ -1013,7 +1629,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 53",
-      "content_id": "agpeya:section:78"
+      "content_id": "agpeya:section:78",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 79,
@@ -1026,7 +1650,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 56",
-      "content_id": "agpeya:section:79"
+      "content_id": "agpeya:section:79",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 80,
@@ -1039,7 +1671,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 60",
-      "content_id": "agpeya:section:80"
+      "content_id": "agpeya:section:80",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 81,
@@ -1052,7 +1692,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 62",
-      "content_id": "agpeya:section:81"
+      "content_id": "agpeya:section:81",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 82,
@@ -1065,7 +1713,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 66",
-      "content_id": "agpeya:section:82"
+      "content_id": "agpeya:section:82",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 83,
@@ -1078,7 +1734,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 69",
-      "content_id": "agpeya:section:83"
+      "content_id": "agpeya:section:83",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 84,
@@ -1091,7 +1755,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 83",
-      "content_id": "agpeya:section:84"
+      "content_id": "agpeya:section:84",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 85,
@@ -1104,7 +1776,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 84",
-      "content_id": "agpeya:section:85"
+      "content_id": "agpeya:section:85",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 86,
@@ -1117,7 +1797,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 85",
-      "content_id": "agpeya:section:86"
+      "content_id": "agpeya:section:86",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 87,
@@ -1130,7 +1818,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 86",
-      "content_id": "agpeya:section:87"
+      "content_id": "agpeya:section:87",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 88,
@@ -1143,7 +1839,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 90",
-      "content_id": "agpeya:section:88"
+      "content_id": "agpeya:section:88",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 89,
@@ -1156,7 +1860,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 92",
-      "content_id": "agpeya:section:89"
+      "content_id": "agpeya:section:89",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 90,
@@ -1169,7 +1881,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "الإنجيل ( متى 5 : 1 – 16 )",
-      "content_id": "agpeya:section:90"
+      "content_id": "agpeya:section:90",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 91,
@@ -1182,7 +1902,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:91"
+      "content_id": "agpeya:section:91",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 92,
@@ -1195,7 +1923,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:92"
+      "content_id": "agpeya:section:92",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 93,
@@ -1208,7 +1944,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:93"
+      "content_id": "agpeya:section:93",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 94,
@@ -1221,7 +1965,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:94"
+      "content_id": "agpeya:section:94",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 95,
@@ -1234,7 +1986,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:95"
+      "content_id": "agpeya:section:95",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 96,
@@ -1247,7 +2007,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:96"
+      "content_id": "agpeya:section:96",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 97,
@@ -1260,7 +2028,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:97"
+      "content_id": "agpeya:section:97",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 98,
@@ -1273,7 +2049,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:98"
+      "content_id": "agpeya:section:98",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 99,
@@ -1286,7 +2070,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:99"
+      "content_id": "agpeya:section:99",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 100,
@@ -1299,7 +2091,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:100"
+      "content_id": "agpeya:section:100",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 101,
@@ -1312,7 +2112,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:101"
+      "content_id": "agpeya:section:101",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 102,
@@ -1325,7 +2133,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:102"
+      "content_id": "agpeya:section:102",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 103,
@@ -1338,7 +2154,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:103"
+      "content_id": "agpeya:section:103",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 104,
@@ -1351,7 +2175,15 @@
       "text_coptic": "Ⲙⲁⲣⲉⲛϣⲏⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ Ⲫⲛⲟⲩϯ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ ⲡⲉⲛⲚⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲤⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ: ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ: ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ: ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ: ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ: ⲁϥϯⲧⲟⲧⲉⲛ: ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ.",
       "text_phonetic": "مارين شيب إهموت إنتوتف إمبي ريف إير بيثنانيف أووه إن نايت إفنوتي: إفيوت إمبين شويس أووه بين نوتي أووه بين سوتير إيسوس بي إخرستوس: جي أف إير اسكيبازين إيجون: أف إير بويثين إيرون: أف آريح إيرون: أف شوبتين إيروف: أف تي آسو إيرون: أف تيتوتين: أف إنتين شا إيخون إي تاي أونو ثاي.",
       "reference": null,
-      "content_id": "agpeya:section:104"
+      "content_id": "agpeya:section:104",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 105,
@@ -1364,7 +2196,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:105"
+      "content_id": "agpeya:section:105",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 106,
@@ -1377,7 +2217,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:106"
+      "content_id": "agpeya:section:106",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 107,
@@ -1390,7 +2238,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 95",
-      "content_id": "agpeya:section:107"
+      "content_id": "agpeya:section:107",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 108,
@@ -1403,7 +2259,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 96",
-      "content_id": "agpeya:section:108"
+      "content_id": "agpeya:section:108",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 109,
@@ -1416,7 +2280,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 97",
-      "content_id": "agpeya:section:109"
+      "content_id": "agpeya:section:109",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 110,
@@ -1429,7 +2301,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 98",
-      "content_id": "agpeya:section:110"
+      "content_id": "agpeya:section:110",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 111,
@@ -1442,7 +2322,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 99",
-      "content_id": "agpeya:section:111"
+      "content_id": "agpeya:section:111",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 112,
@@ -1455,7 +2343,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 100",
-      "content_id": "agpeya:section:112"
+      "content_id": "agpeya:section:112",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 113,
@@ -1468,7 +2364,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 109",
-      "content_id": "agpeya:section:113"
+      "content_id": "agpeya:section:113",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 114,
@@ -1481,7 +2385,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 110",
-      "content_id": "agpeya:section:114"
+      "content_id": "agpeya:section:114",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 115,
@@ -1494,7 +2406,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 111",
-      "content_id": "agpeya:section:115"
+      "content_id": "agpeya:section:115",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 116,
@@ -1507,7 +2427,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 112",
-      "content_id": "agpeya:section:116"
+      "content_id": "agpeya:section:116",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 117,
@@ -1520,7 +2448,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 114",
-      "content_id": "agpeya:section:117"
+      "content_id": "agpeya:section:117",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 118,
@@ -1533,7 +2469,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 115",
-      "content_id": "agpeya:section:118"
+      "content_id": "agpeya:section:118",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 119,
@@ -1546,7 +2490,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "الإنجيل (لوقا 9 : 10 - 17)",
-      "content_id": "agpeya:section:119"
+      "content_id": "agpeya:section:119",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 120,
@@ -1559,7 +2511,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:120"
+      "content_id": "agpeya:section:120",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 121,
@@ -1572,7 +2532,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:121"
+      "content_id": "agpeya:section:121",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 122,
@@ -1585,7 +2553,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:122"
+      "content_id": "agpeya:section:122",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 123,
@@ -1598,7 +2574,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:123"
+      "content_id": "agpeya:section:123",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 124,
@@ -1611,7 +2595,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:124"
+      "content_id": "agpeya:section:124",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 125,
@@ -1624,7 +2616,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:125"
+      "content_id": "agpeya:section:125",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 126,
@@ -1637,7 +2637,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:126"
+      "content_id": "agpeya:section:126",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 127,
@@ -1650,7 +2658,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:127"
+      "content_id": "agpeya:section:127",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 128,
@@ -1663,7 +2679,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:128"
+      "content_id": "agpeya:section:128",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 129,
@@ -1676,7 +2700,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:129"
+      "content_id": "agpeya:section:129",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 130,
@@ -1689,7 +2721,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:130"
+      "content_id": "agpeya:section:130",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 131,
@@ -1702,7 +2742,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:131"
+      "content_id": "agpeya:section:131",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 132,
@@ -1715,7 +2763,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:132"
+      "content_id": "agpeya:section:132",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 133,
@@ -1728,7 +2784,15 @@
       "text_coptic": "Ⲙⲁⲣⲉⲛϣⲏⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ Ⲫⲛⲟⲩϯ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ ⲡⲉⲛⲚⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲤⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ: ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ: ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ: ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ: ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ: ⲁϥϯⲧⲟⲧⲉⲛ: ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ.",
       "text_phonetic": "مارين شيب إهموت إنتوتف إمبي ريف إير بيثنانيف أووه إن نايت إفنوتي: إفيوت إمبين شويس أووه بين نوتي أووه بين سوتير إيسوس بي إخرستوس: جي أف إير اسكيبازين إيجون: أف إير بويثين إيرون: أف آريح إيرون: أف شوبتين إيروف: أف تي آسو إيرون: أف تيتوتين: أف إنتين شا إيخون إي تاي أونو ثاي.",
       "reference": null,
-      "content_id": "agpeya:section:133"
+      "content_id": "agpeya:section:133",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 134,
@@ -1741,7 +2805,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:134"
+      "content_id": "agpeya:section:134",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 135,
@@ -1754,7 +2826,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:135"
+      "content_id": "agpeya:section:135",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 136,
@@ -1767,7 +2847,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 116",
-      "content_id": "agpeya:section:136"
+      "content_id": "agpeya:section:136",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 137,
@@ -1780,7 +2868,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 117",
-      "content_id": "agpeya:section:137"
+      "content_id": "agpeya:section:137",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 138,
@@ -1793,7 +2889,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 119",
-      "content_id": "agpeya:section:138"
+      "content_id": "agpeya:section:138",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 139,
@@ -1806,7 +2910,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 120",
-      "content_id": "agpeya:section:139"
+      "content_id": "agpeya:section:139",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 140,
@@ -1819,7 +2931,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 121",
-      "content_id": "agpeya:section:140"
+      "content_id": "agpeya:section:140",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 141,
@@ -1832,7 +2952,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 122",
-      "content_id": "agpeya:section:141"
+      "content_id": "agpeya:section:141",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 142,
@@ -1845,7 +2973,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 123",
-      "content_id": "agpeya:section:142"
+      "content_id": "agpeya:section:142",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 143,
@@ -1858,7 +2994,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 124",
-      "content_id": "agpeya:section:143"
+      "content_id": "agpeya:section:143",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 144,
@@ -1871,7 +3015,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 125",
-      "content_id": "agpeya:section:144"
+      "content_id": "agpeya:section:144",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 145,
@@ -1884,7 +3036,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 126",
-      "content_id": "agpeya:section:145"
+      "content_id": "agpeya:section:145",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 146,
@@ -1897,7 +3057,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 127",
-      "content_id": "agpeya:section:146"
+      "content_id": "agpeya:section:146",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 147,
@@ -1910,7 +3078,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 128",
-      "content_id": "agpeya:section:147"
+      "content_id": "agpeya:section:147",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 148,
@@ -1923,7 +3099,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "الإنجيل ( لوقا 4 : 38 – 41 ).",
-      "content_id": "agpeya:section:148"
+      "content_id": "agpeya:section:148",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 149,
@@ -1936,7 +3120,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:149"
+      "content_id": "agpeya:section:149",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 150,
@@ -1949,7 +3141,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:150"
+      "content_id": "agpeya:section:150",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 151,
@@ -1962,7 +3162,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:151"
+      "content_id": "agpeya:section:151",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 152,
@@ -1975,7 +3183,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:152"
+      "content_id": "agpeya:section:152",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 153,
@@ -1988,7 +3204,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:153"
+      "content_id": "agpeya:section:153",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 154,
@@ -2001,7 +3225,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:154"
+      "content_id": "agpeya:section:154",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 155,
@@ -2014,7 +3246,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:155"
+      "content_id": "agpeya:section:155",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 156,
@@ -2027,7 +3267,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:156"
+      "content_id": "agpeya:section:156",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 157,
@@ -2040,7 +3288,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:157"
+      "content_id": "agpeya:section:157",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 158,
@@ -2053,7 +3309,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:158"
+      "content_id": "agpeya:section:158",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 159,
@@ -2066,7 +3330,15 @@
       "text_coptic": "Ⲙⲁⲣⲉⲛϣⲏⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ Ⲫⲛⲟⲩϯ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ ⲡⲉⲛⲚⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲤⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ: ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ: ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ: ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ: ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ: ⲁϥϯⲧⲟⲧⲉⲛ: ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ.",
       "text_phonetic": "مارين شيب إهموت إنتوتف إمبي ريف إير بيثنانيف أووه إن نايت إفنوتي: إفيوت إمبين شويس أووه بين نوتي أووه بين سوتير إيسوس بي إخرستوس: جي أف إير اسكيبازين إيجون: أف إير بويثين إيرون: أف آريح إيرون: أف شوبتين إيروف: أف تي آسو إيرون: أف تيتوتين: أف إنتين شا إيخون إي تاي أونو ثاي.",
       "reference": null,
-      "content_id": "agpeya:section:159"
+      "content_id": "agpeya:section:159",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 160,
@@ -2079,7 +3351,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:160"
+      "content_id": "agpeya:section:160",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 161,
@@ -2092,7 +3372,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:161"
+      "content_id": "agpeya:section:161",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 162,
@@ -2105,7 +3393,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 129",
-      "content_id": "agpeya:section:162"
+      "content_id": "agpeya:section:162",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 163,
@@ -2118,7 +3414,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 130",
-      "content_id": "agpeya:section:163"
+      "content_id": "agpeya:section:163",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 164,
@@ -2131,7 +3435,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 131",
-      "content_id": "agpeya:section:164"
+      "content_id": "agpeya:section:164",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 165,
@@ -2144,7 +3456,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 132",
-      "content_id": "agpeya:section:165"
+      "content_id": "agpeya:section:165",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 166,
@@ -2157,7 +3477,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 133",
-      "content_id": "agpeya:section:166"
+      "content_id": "agpeya:section:166",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 167,
@@ -2170,7 +3498,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 136",
-      "content_id": "agpeya:section:167"
+      "content_id": "agpeya:section:167",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 168,
@@ -2183,7 +3519,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 137",
-      "content_id": "agpeya:section:168"
+      "content_id": "agpeya:section:168",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 169,
@@ -2196,7 +3540,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 140",
-      "content_id": "agpeya:section:169"
+      "content_id": "agpeya:section:169",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 170,
@@ -2209,7 +3561,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 141",
-      "content_id": "agpeya:section:170"
+      "content_id": "agpeya:section:170",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 171,
@@ -2222,7 +3582,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 145",
-      "content_id": "agpeya:section:171"
+      "content_id": "agpeya:section:171",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 172,
@@ -2235,7 +3603,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 146",
-      "content_id": "agpeya:section:172"
+      "content_id": "agpeya:section:172",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 173,
@@ -2248,7 +3624,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 147",
-      "content_id": "agpeya:section:173"
+      "content_id": "agpeya:section:173",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 174,
@@ -2261,7 +3645,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "الإنجيل ( لوقا 2 : 25 – 32 )",
-      "content_id": "agpeya:section:174"
+      "content_id": "agpeya:section:174",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 175,
@@ -2274,7 +3666,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:175"
+      "content_id": "agpeya:section:175",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 176,
@@ -2287,7 +3687,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:176"
+      "content_id": "agpeya:section:176",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 177,
@@ -2300,7 +3708,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:177"
+      "content_id": "agpeya:section:177",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 178,
@@ -2313,7 +3729,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:178"
+      "content_id": "agpeya:section:178",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 179,
@@ -2326,7 +3750,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:179"
+      "content_id": "agpeya:section:179",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 180,
@@ -2339,7 +3771,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:180"
+      "content_id": "agpeya:section:180",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 181,
@@ -2352,7 +3792,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:181"
+      "content_id": "agpeya:section:181",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 182,
@@ -2365,7 +3813,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:182"
+      "content_id": "agpeya:section:182",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 183,
@@ -2378,7 +3834,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:183"
+      "content_id": "agpeya:section:183",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 184,
@@ -2391,7 +3855,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:184"
+      "content_id": "agpeya:section:184",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 185,
@@ -2404,7 +3876,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:185"
+      "content_id": "agpeya:section:185",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 186,
@@ -2417,7 +3897,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:186"
+      "content_id": "agpeya:section:186",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 187,
@@ -2430,7 +3918,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:187"
+      "content_id": "agpeya:section:187",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 188,
@@ -2443,7 +3939,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:188"
+      "content_id": "agpeya:section:188",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 189,
@@ -2456,7 +3960,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:189"
+      "content_id": "agpeya:section:189",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 190,
@@ -2469,7 +3981,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:190"
+      "content_id": "agpeya:section:190",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 191,
@@ -2482,7 +4002,15 @@
       "text_coptic": "Ⲙⲁⲣⲉⲛϣⲏⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ Ⲫⲛⲟⲩϯ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ ⲡⲉⲛⲚⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲤⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ: ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ: ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ: ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ: ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ: ⲁϥϯⲧⲟⲧⲉⲛ: ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ.",
       "text_phonetic": "مارين شيب إهموت إنتوتف إمبي ريف إير بيثنانيف أووه إن نايت إفنوتي: إفيوت إمبين شويس أووه بين نوتي أووه بين سوتير إيسوس بي إخرستوس: جي أف إير اسكيبازين إيجون: أف إير بويثين إيرون: أف آريح إيرون: أف شوبتين إيروف: أف تي آسو إيرون: أف تيتوتين: أف إنتين شا إيخون إي تاي أونو ثاي.",
       "reference": null,
-      "content_id": "agpeya:section:191"
+      "content_id": "agpeya:section:191",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 192,
@@ -2495,7 +4023,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:192"
+      "content_id": "agpeya:section:192",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 193,
@@ -2508,7 +4044,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:193"
+      "content_id": "agpeya:section:193",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 194,
@@ -2521,7 +4065,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 4",
-      "content_id": "agpeya:section:194"
+      "content_id": "agpeya:section:194",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 195,
@@ -2534,7 +4086,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 6",
-      "content_id": "agpeya:section:195"
+      "content_id": "agpeya:section:195",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 196,
@@ -2547,7 +4107,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 12",
-      "content_id": "agpeya:section:196"
+      "content_id": "agpeya:section:196",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 197,
@@ -2560,7 +4128,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 15",
-      "content_id": "agpeya:section:197"
+      "content_id": "agpeya:section:197",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 198,
@@ -2573,7 +4149,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 24",
-      "content_id": "agpeya:section:198"
+      "content_id": "agpeya:section:198",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 199,
@@ -2586,7 +4170,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 26",
-      "content_id": "agpeya:section:199"
+      "content_id": "agpeya:section:199",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 200,
@@ -2599,7 +4191,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 66",
-      "content_id": "agpeya:section:200"
+      "content_id": "agpeya:section:200",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 201,
@@ -2612,7 +4212,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 69",
-      "content_id": "agpeya:section:201"
+      "content_id": "agpeya:section:201",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 202,
@@ -2625,7 +4233,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 22",
-      "content_id": "agpeya:section:202"
+      "content_id": "agpeya:section:202",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 203,
@@ -2638,7 +4254,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 29",
-      "content_id": "agpeya:section:203"
+      "content_id": "agpeya:section:203",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 204,
@@ -2651,7 +4275,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 42",
-      "content_id": "agpeya:section:204"
+      "content_id": "agpeya:section:204",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 205,
@@ -2664,7 +4296,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 56",
-      "content_id": "agpeya:section:205"
+      "content_id": "agpeya:section:205",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 206,
@@ -2677,7 +4317,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 85",
-      "content_id": "agpeya:section:206"
+      "content_id": "agpeya:section:206",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 207,
@@ -2690,7 +4338,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 90",
-      "content_id": "agpeya:section:207"
+      "content_id": "agpeya:section:207",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 208,
@@ -2703,7 +4359,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 96",
-      "content_id": "agpeya:section:208"
+      "content_id": "agpeya:section:208",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 209,
@@ -2716,7 +4380,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 109",
-      "content_id": "agpeya:section:209"
+      "content_id": "agpeya:section:209",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 210,
@@ -2729,7 +4401,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 114",
-      "content_id": "agpeya:section:210"
+      "content_id": "agpeya:section:210",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 211,
@@ -2742,7 +4422,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 115",
-      "content_id": "agpeya:section:211"
+      "content_id": "agpeya:section:211",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 212,
@@ -2755,7 +4443,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 120",
-      "content_id": "agpeya:section:212"
+      "content_id": "agpeya:section:212",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 213,
@@ -2768,7 +4464,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 128",
-      "content_id": "agpeya:section:213"
+      "content_id": "agpeya:section:213",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 214,
@@ -2781,7 +4485,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 129",
-      "content_id": "agpeya:section:214"
+      "content_id": "agpeya:section:214",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 215,
@@ -2794,7 +4506,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 130",
-      "content_id": "agpeya:section:215"
+      "content_id": "agpeya:section:215",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 216,
@@ -2807,7 +4527,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 131",
-      "content_id": "agpeya:section:216"
+      "content_id": "agpeya:section:216",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 217,
@@ -2820,7 +4548,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 132",
-      "content_id": "agpeya:section:217"
+      "content_id": "agpeya:section:217",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 218,
@@ -2833,7 +4569,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 133",
-      "content_id": "agpeya:section:218"
+      "content_id": "agpeya:section:218",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 219,
@@ -2846,7 +4590,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 136",
-      "content_id": "agpeya:section:219"
+      "content_id": "agpeya:section:219",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 220,
@@ -2859,7 +4611,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 140",
-      "content_id": "agpeya:section:220"
+      "content_id": "agpeya:section:220",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 221,
@@ -2872,7 +4632,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 145",
-      "content_id": "agpeya:section:221"
+      "content_id": "agpeya:section:221",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 222,
@@ -2885,7 +4653,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 118",
-      "content_id": "agpeya:section:222"
+      "content_id": "agpeya:section:222",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 223,
@@ -2898,7 +4674,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "الإنجيل ( يوحنا 6 : 15 – 23 )",
-      "content_id": "agpeya:section:223"
+      "content_id": "agpeya:section:223",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 224,
@@ -2911,7 +4695,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:224"
+      "content_id": "agpeya:section:224",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 225,
@@ -2920,11 +4712,19 @@
       "type": "litanies",
       "title": "القِطْعَةُ الثانِيَةُ",
       "role": "people",
-      "text_ar": "يا رَبُّ إنَّ دَيْنونَتِكَ لَمَرْهوبة، إذ تُحْشَرُ النَاسُ وتَقِفُ المَلَائِكَةُ، وتُفْتَحُ الأَسْفَارُ، وتُكْشَفُ الأَعْمَالُ وتُفْحَصٌ الأَفْكَارُ. أيَّةُ إدانَةٍ تَكونُ إدانَتي أنا المَضْبوطُ بِالخَطايا؟ مَن يُطْفِئُ لَهيبِ النَّارِ عَنّى؟‍‍‍‍‍‍ مَن يُضِئُ ظُلْمَتي إن لَم تَرْحَمَني أَنتَ يا رَبُّ؟ لأَنَّكَ مُتَعَطِّفٌ عّلى البَشَرِ. (كى نين كى أ إى كى إسطوس إى أوناسطون إى أونون آمين).\n+",
+      "text_ar": "يا رَبُّ إنَّ دَيْنونَتِكَ لَمَرْهوبة، إذ تُحْشَرُ النَاسُ وتَقِفُ المَلَائِكَةُ، وتُفْتَحُ الأَسْفَارُ، وتُكْشَفُ الأَعْمَالُ وتُفْحَصٌ الأَفْكَارُ. أيَّةُ إدانَةٍ تَكونُ إدانَتي أنا المَضْبوطُ بِالخَطايا؟ مَن يُطْفِئُ لَهيبِ النَّارِ عَنّى؟ مَن يُضِئُ ظُلْمَتي إن لَم تَرْحَمَني أَنتَ يا رَبُّ؟ لأَنَّكَ مُتَعَطِّفٌ عّلى البَشَرِ. (كى نين كى أ إى كى إسطوس إى أوناسطون إى أونون آمين).\n+",
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:225"
+      "content_id": "agpeya:section:225",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 226,
@@ -2937,7 +4737,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:226"
+      "content_id": "agpeya:section:226",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 227,
@@ -2950,7 +4758,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:227"
+      "content_id": "agpeya:section:227",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 228,
@@ -2963,7 +4779,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:228"
+      "content_id": "agpeya:section:228",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 229,
@@ -2976,7 +4800,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:229"
+      "content_id": "agpeya:section:229",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 230,
@@ -2989,7 +4821,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:230"
+      "content_id": "agpeya:section:230",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 231,
@@ -3002,7 +4842,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:231"
+      "content_id": "agpeya:section:231",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 232,
@@ -3015,7 +4863,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:232"
+      "content_id": "agpeya:section:232",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 233,
@@ -3028,7 +4884,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:233"
+      "content_id": "agpeya:section:233",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 234,
@@ -3041,7 +4905,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:234"
+      "content_id": "agpeya:section:234",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 235,
@@ -3054,7 +4926,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:235"
+      "content_id": "agpeya:section:235",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 236,
@@ -3067,7 +4947,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:236"
+      "content_id": "agpeya:section:236",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 237,
@@ -3080,7 +4968,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:237"
+      "content_id": "agpeya:section:237",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 238,
@@ -3093,7 +4989,15 @@
       "text_coptic": "Ⲙⲁⲣⲉⲛϣⲏⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ Ⲫⲛⲟⲩϯ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ ⲡⲉⲛⲚⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲤⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ: ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ: ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ: ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ: ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ: ⲁϥϯⲧⲟⲧⲉⲛ: ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ.",
       "text_phonetic": "مارين شيب إهموت إنتوتف إمبي ريف إير بيثنانيف أووه إن نايت إفنوتي: إفيوت إمبين شويس أووه بين نوتي أووه بين سوتير إيسوس بي إخرستوس: جي أف إير اسكيبازين إيجون: أف إير بويثين إيرون: أف آريح إيرون: أف شوبتين إيروف: أف تي آسو إيرون: أف تيتوتين: أف إنتين شا إيخون إي تاي أونو ثاي.",
       "reference": null,
-      "content_id": "agpeya:section:238"
+      "content_id": "agpeya:section:238",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 239,
@@ -3106,7 +5010,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:239"
+      "content_id": "agpeya:section:239",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 240,
@@ -3119,7 +5031,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:240"
+      "content_id": "agpeya:section:240",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 241,
@@ -3132,7 +5052,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:241"
+      "content_id": "agpeya:section:241",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 242,
@@ -3145,7 +5073,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 3",
-      "content_id": "agpeya:section:242"
+      "content_id": "agpeya:section:242",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 243,
@@ -3158,7 +5094,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 6",
-      "content_id": "agpeya:section:243"
+      "content_id": "agpeya:section:243",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 244,
@@ -3171,7 +5115,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 12",
-      "content_id": "agpeya:section:244"
+      "content_id": "agpeya:section:244",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 245,
@@ -3184,7 +5136,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 69",
-      "content_id": "agpeya:section:245"
+      "content_id": "agpeya:section:245",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 246,
@@ -3197,7 +5157,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 85",
-      "content_id": "agpeya:section:246"
+      "content_id": "agpeya:section:246",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 247,
@@ -3210,7 +5178,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 90",
-      "content_id": "agpeya:section:247"
+      "content_id": "agpeya:section:247",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 248,
@@ -3223,7 +5199,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 116",
-      "content_id": "agpeya:section:248"
+      "content_id": "agpeya:section:248",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 249,
@@ -3236,7 +5220,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 117",
-      "content_id": "agpeya:section:249"
+      "content_id": "agpeya:section:249",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 250,
@@ -3249,7 +5241,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 118",
-      "content_id": "agpeya:section:250"
+      "content_id": "agpeya:section:250",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 251,
@@ -3262,7 +5262,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "الإنجيل ( متى 25 : 1 – 13 )",
-      "content_id": "agpeya:section:251"
+      "content_id": "agpeya:section:251",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 252,
@@ -3275,7 +5283,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:252"
+      "content_id": "agpeya:section:252",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 253,
@@ -3288,7 +5304,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:253"
+      "content_id": "agpeya:section:253",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 254,
@@ -3301,7 +5325,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:254"
+      "content_id": "agpeya:section:254",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 255,
@@ -3314,7 +5346,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:255"
+      "content_id": "agpeya:section:255",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 256,
@@ -3327,7 +5367,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:256"
+      "content_id": "agpeya:section:256",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 257,
@@ -3340,7 +5388,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:257"
+      "content_id": "agpeya:section:257",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 258,
@@ -3353,7 +5409,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:258"
+      "content_id": "agpeya:section:258",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 259,
@@ -3366,7 +5430,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:259"
+      "content_id": "agpeya:section:259",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 260,
@@ -3379,7 +5451,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:260"
+      "content_id": "agpeya:section:260",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 261,
@@ -3392,7 +5472,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:261"
+      "content_id": "agpeya:section:261",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 262,
@@ -3405,7 +5493,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:262"
+      "content_id": "agpeya:section:262",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 263,
@@ -3418,7 +5514,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:263"
+      "content_id": "agpeya:section:263",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 264,
@@ -3431,7 +5535,15 @@
       "text_coptic": "Ⲙⲁⲣⲉⲛϣⲏⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ Ⲫⲛⲟⲩϯ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ ⲡⲉⲛⲚⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲤⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ: ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ: ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ: ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ: ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ: ⲁϥϯⲧⲟⲧⲉⲛ: ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ.",
       "text_phonetic": "مارين شيب إهموت إنتوتف إمبي ريف إير بيثنانيف أووه إن نايت إفنوتي: إفيوت إمبين شويس أووه بين نوتي أووه بين سوتير إيسوس بي إخرستوس: جي أف إير اسكيبازين إيجون: أف إير بويثين إيرون: أف آريح إيرون: أف شوبتين إيروف: أف تي آسو إيرون: أف تيتوتين: أف إنتين شا إيخون إي تاي أونو ثاي.",
       "reference": null,
-      "content_id": "agpeya:section:264"
+      "content_id": "agpeya:section:264",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 265,
@@ -3444,7 +5556,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:265"
+      "content_id": "agpeya:section:265",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 266,
@@ -3457,7 +5577,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:266"
+      "content_id": "agpeya:section:266",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 267,
@@ -3470,7 +5598,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 119",
-      "content_id": "agpeya:section:267"
+      "content_id": "agpeya:section:267",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 268,
@@ -3483,7 +5619,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 120",
-      "content_id": "agpeya:section:268"
+      "content_id": "agpeya:section:268",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 269,
@@ -3496,7 +5640,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 121",
-      "content_id": "agpeya:section:269"
+      "content_id": "agpeya:section:269",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 270,
@@ -3509,7 +5661,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 122",
-      "content_id": "agpeya:section:270"
+      "content_id": "agpeya:section:270",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 271,
@@ -3522,7 +5682,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 123",
-      "content_id": "agpeya:section:271"
+      "content_id": "agpeya:section:271",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 272,
@@ -3535,7 +5703,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 124",
-      "content_id": "agpeya:section:272"
+      "content_id": "agpeya:section:272",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 273,
@@ -3548,7 +5724,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 125",
-      "content_id": "agpeya:section:273"
+      "content_id": "agpeya:section:273",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 274,
@@ -3561,7 +5745,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 126",
-      "content_id": "agpeya:section:274"
+      "content_id": "agpeya:section:274",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 275,
@@ -3574,7 +5766,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 127",
-      "content_id": "agpeya:section:275"
+      "content_id": "agpeya:section:275",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 276,
@@ -3587,7 +5787,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 128",
-      "content_id": "agpeya:section:276"
+      "content_id": "agpeya:section:276",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 277,
@@ -3600,7 +5808,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "الإنجيل ( لوقا 7 : 36 – 50 )",
-      "content_id": "agpeya:section:277"
+      "content_id": "agpeya:section:277",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 278,
@@ -3613,7 +5829,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:278"
+      "content_id": "agpeya:section:278",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 279,
@@ -3626,7 +5850,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:279"
+      "content_id": "agpeya:section:279",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 280,
@@ -3639,7 +5871,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:280"
+      "content_id": "agpeya:section:280",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 281,
@@ -3652,7 +5892,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:281"
+      "content_id": "agpeya:section:281",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 282,
@@ -3665,7 +5913,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:282"
+      "content_id": "agpeya:section:282",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 283,
@@ -3678,7 +5934,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:283"
+      "content_id": "agpeya:section:283",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 284,
@@ -3691,7 +5955,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:284"
+      "content_id": "agpeya:section:284",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 285,
@@ -3704,7 +5976,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:285"
+      "content_id": "agpeya:section:285",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 286,
@@ -3717,7 +5997,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:286"
+      "content_id": "agpeya:section:286",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 287,
@@ -3730,7 +6018,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:287"
+      "content_id": "agpeya:section:287",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 288,
@@ -3743,7 +6039,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:288"
+      "content_id": "agpeya:section:288",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 289,
@@ -3756,7 +6060,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:289"
+      "content_id": "agpeya:section:289",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 290,
@@ -3769,7 +6081,15 @@
       "text_coptic": "Ⲙⲁⲣⲉⲛϣⲏⲡϩ̀ⲙⲟⲧ ⲛ̀ⲧⲟⲧϥ ⲙ̀ⲡⲓⲣⲉϥⲉⲣⲡⲉⲑⲛⲁⲛⲉϥ ⲟⲩⲟϩ ⲛ̀ⲛⲁⲏⲧ Ⲫⲛⲟⲩϯ: Ⲫⲓⲱⲧ ⲙ̀Ⲡⲉⲛϭⲟⲓⲥ ⲟⲩⲟϩ ⲡⲉⲛⲚⲟⲩϯ ⲟⲩⲟϩ ⲡⲉⲛⲤⲱⲧⲏⲣ Ⲓⲏⲥⲟⲩⲥ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ: ϫⲉ ⲁϥⲉⲣⲥ̀ⲕⲉⲡⲁⲍⲓⲛ ⲉ̀ϫⲱⲛ: ⲁϥⲉⲣⲃⲟⲏ̀ⲑⲓⲛ ⲉ̀ⲣⲟⲛ: ⲁϥⲁ̀ⲣⲉϩ ⲉ̀ⲣⲟⲛ: ⲁϥϣⲟⲡⲧⲉⲛ ⲉ̀ⲣⲟϥ: ⲁϥϯⲁ̀ⲥⲟ ⲉ̀ⲣⲟⲛ: ⲁϥϯⲧⲟⲧⲉⲛ: ⲁϥⲉⲛⲧⲉⲛ ϣⲁ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲧⲁⲓⲟⲩⲛⲟⲩ ⲑⲁⲓ.",
       "text_phonetic": "مارين شيب إهموت إنتوتف إمبي ريف إير بيثنانيف أووه إن نايت إفنوتي: إفيوت إمبين شويس أووه بين نوتي أووه بين سوتير إيسوس بي إخرستوس: جي أف إير اسكيبازين إيجون: أف إير بويثين إيرون: أف آريح إيرون: أف شوبتين إيروف: أف تي آسو إيرون: أف تيتوتين: أف إنتين شا إيخون إي تاي أونو ثاي.",
       "reference": null,
-      "content_id": "agpeya:section:290"
+      "content_id": "agpeya:section:290",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 291,
@@ -3782,7 +6102,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:291"
+      "content_id": "agpeya:section:291",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 292,
@@ -3795,7 +6123,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:292"
+      "content_id": "agpeya:section:292",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 293,
@@ -3808,7 +6144,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 129",
-      "content_id": "agpeya:section:293"
+      "content_id": "agpeya:section:293",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 294,
@@ -3821,7 +6165,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 130",
-      "content_id": "agpeya:section:294"
+      "content_id": "agpeya:section:294",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 295,
@@ -3834,7 +6186,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 131",
-      "content_id": "agpeya:section:295"
+      "content_id": "agpeya:section:295",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 296,
@@ -3847,7 +6207,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 132",
-      "content_id": "agpeya:section:296"
+      "content_id": "agpeya:section:296",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 297,
@@ -3860,7 +6228,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 133",
-      "content_id": "agpeya:section:297"
+      "content_id": "agpeya:section:297",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 298,
@@ -3873,7 +6249,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 136",
-      "content_id": "agpeya:section:298"
+      "content_id": "agpeya:section:298",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 299,
@@ -3886,7 +6270,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 137",
-      "content_id": "agpeya:section:299"
+      "content_id": "agpeya:section:299",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 300,
@@ -3899,7 +6291,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 140",
-      "content_id": "agpeya:section:300"
+      "content_id": "agpeya:section:300",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 301,
@@ -3912,7 +6312,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 141",
-      "content_id": "agpeya:section:301"
+      "content_id": "agpeya:section:301",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 302,
@@ -3925,7 +6333,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 145",
-      "content_id": "agpeya:section:302"
+      "content_id": "agpeya:section:302",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 303,
@@ -3938,7 +6354,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 146",
-      "content_id": "agpeya:section:303"
+      "content_id": "agpeya:section:303",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 304,
@@ -3951,7 +6375,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "مز 147",
-      "content_id": "agpeya:section:304"
+      "content_id": "agpeya:section:304",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 305,
@@ -3964,7 +6396,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "الإنجيل ( لوقا 12 : 32 – 46 )",
-      "content_id": "agpeya:section:305"
+      "content_id": "agpeya:section:305",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 306,
@@ -3977,7 +6417,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:306"
+      "content_id": "agpeya:section:306",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 307,
@@ -3990,7 +6438,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:307"
+      "content_id": "agpeya:section:307",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 308,
@@ -4003,7 +6459,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:308"
+      "content_id": "agpeya:section:308",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 309,
@@ -4016,7 +6480,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:309"
+      "content_id": "agpeya:section:309",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 310,
@@ -4029,7 +6501,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:310"
+      "content_id": "agpeya:section:310",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 311,
@@ -4042,7 +6522,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:311"
+      "content_id": "agpeya:section:311",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 312,
@@ -4055,7 +6543,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:312"
+      "content_id": "agpeya:section:312",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 313,
@@ -4068,7 +6564,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:313"
+      "content_id": "agpeya:section:313",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 314,
@@ -4081,7 +6585,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:314"
+      "content_id": "agpeya:section:314",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 315,
@@ -4094,7 +6606,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": "الإنجيل ( لوقا 2 : 29 – 32 )",
-      "content_id": "agpeya:section:315"
+      "content_id": "agpeya:section:315",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 316,
@@ -4107,7 +6627,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:316"
+      "content_id": "agpeya:section:316",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 317,
@@ -4120,7 +6648,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:317"
+      "content_id": "agpeya:section:317",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 318,
@@ -4133,7 +6669,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:318"
+      "content_id": "agpeya:section:318",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 319,
@@ -4146,7 +6690,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:319"
+      "content_id": "agpeya:section:319",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 320,
@@ -4159,7 +6711,15 @@
       "text_coptic": "ⲠⲉⲛⲒⲱⲧ ⲉⲧϧⲉⲛ ⲛⲓⲫⲏⲟⲩⲓ: ⲙⲁⲣⲉϥⲧⲟⲩⲃⲟ ⲛ̀ϫⲉ ⲡⲉⲕⲣⲁⲛ: ⲙⲁⲣⲉⲥ'ⲓ ⲛ̀ϫⲉ ⲧⲉⲕⲙⲉⲧⲟⲩⲣⲟ: ⲡⲉⲧⲉϩⲛⲁⲕ ⲙⲁⲣⲉϥϣⲱⲡⲓ: ⲙ̀ⲫ̀ⲣⲏϯ ϧⲉⲛ ⲧ̀ⲫⲉ ⲛⲉⲙ ϩⲓϫⲉⲛ ⲡⲓⲕⲁϩⲓ: ⲡⲉⲛⲱⲓⲕ ⲛ̀ⲧⲉ ⲣⲁⲥϯ ⲙⲏⲓϥ ⲛⲁⲛ ⲙ̀ⲫⲟⲟⲩ: ⲟⲩⲟϩ ⲭⲁ ⲛⲏⲉⲧⲉ̀ⲣⲟⲛ ⲛⲁⲛ ⲉ̀ⲃⲟⲗ: ⲙ̀ⲫ̀ⲣⲏϯ ϩⲱⲛ ⲛ̀ⲧⲉⲛⲭⲱ ⲉ̀ⲃⲟⲗ ⲛ̀ⲛⲏⲉⲧⲉ ⲟⲩⲟⲛ ⲛ̀ⲧⲁⲛ ⲉ̀ⲣⲱⲟⲩ: ⲟⲩⲟϩ ⲙ̀ⲡⲉⲣⲉⲛⲧⲉⲛ ⲉ̀ϧⲟⲩⲛ ⲉ̀ⲡⲓⲣⲁⲥⲙⲟⲥ: ⲁⲗⲗⲁ ⲛⲁϩⲙⲉⲛ ⲉ̀ⲃⲟⲗ ϩⲁ ⲡⲓⲡⲉⲧϩⲱⲟⲩ: ϧⲉⲛ Ⲡⲓ'Ⲭⲣⲓⲥⲧⲟⲥ Ⲓⲏⲥⲟⲩⲥ Ⲡⲉⲛϭⲟⲓⲥ: ϫⲉ ⲑⲱⲕ ⲧⲉ ϯⲙⲉⲧⲟⲩⲣⲟ ⲛⲉⲙ ϯϫⲟⲙ ⲛⲉⲙ ⲡⲓⲱ̀ⲟⲩ ϣⲁ ⲉ̀ⲛⲉϩ ⲁ̀ⲙⲏⲛ.",
       "text_phonetic": "بينيوت إتخين نيفي أوئي: ماريف طوفو إنجي بيكران: ماريس إي إنجي تيك ميت أورو: بيتيهناك ماريف شوبي: إمفريتي خين إتفي نيم هيجين بي كاهي: بين أويك إنتي راستي ميف نان إمفو أو: أووه خا ني إت إيرون نان إيفول: إمفريتي هون إنتين كو إيفول إن ني إتي أو أون إنتان إيرو أو: أووه إمبير إنتين إيخون إي بيراسموس: أللا ناهمين إيفول ها بي بيت هو أو: خين بي إخرستوس إيسوس بين شويس: جي ثوك تي تي ميت أورو نيم تي جوم نيم بي أو أو شا إينيه آمين.",
       "reference": null,
-      "content_id": "agpeya:section:320"
+      "content_id": "agpeya:section:320",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 321,
@@ -4172,7 +6732,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:321"
+      "content_id": "agpeya:section:321",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 322,
@@ -4185,7 +6753,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:322"
+      "content_id": "agpeya:section:322",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 323,
@@ -4198,7 +6774,15 @@
       "text_coptic": null,
       "text_phonetic": null,
       "reference": null,
-      "content_id": "agpeya:section:323"
+      "content_id": "agpeya:section:323",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

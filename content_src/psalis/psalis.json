@@ -12,7 +12,15 @@
       "day_of_week": null,
       "season": null,
       "order": 1,
-      "content_id": "psali:1"
+      "content_id": "psali:1",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 2,
@@ -25,7 +33,15 @@
       "day_of_week": null,
       "season": null,
       "order": 2,
-      "content_id": "psali:2"
+      "content_id": "psali:2",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 3,
@@ -38,7 +54,15 @@
       "day_of_week": null,
       "season": null,
       "order": 3,
-      "content_id": "psali:3"
+      "content_id": "psali:3",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 4,
@@ -51,7 +75,15 @@
       "day_of_week": null,
       "season": null,
       "order": 4,
-      "content_id": "psali:4"
+      "content_id": "psali:4",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 5,
@@ -64,7 +96,15 @@
       "day_of_week": "sunday",
       "season": "annual",
       "order": 1,
-      "content_id": "psali:5"
+      "content_id": "psali:5",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 6,
@@ -77,7 +117,15 @@
       "day_of_week": "monday",
       "season": "annual",
       "order": 2,
-      "content_id": "psali:6"
+      "content_id": "psali:6",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 7,
@@ -90,7 +138,15 @@
       "day_of_week": "tuesday",
       "season": "annual",
       "order": 3,
-      "content_id": "psali:7"
+      "content_id": "psali:7",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 8,
@@ -103,7 +159,15 @@
       "day_of_week": "wednesday",
       "season": "annual",
       "order": 4,
-      "content_id": "psali:8"
+      "content_id": "psali:8",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 9,
@@ -116,7 +180,15 @@
       "day_of_week": "thursday",
       "season": "annual",
       "order": 5,
-      "content_id": "psali:9"
+      "content_id": "psali:9",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 10,
@@ -129,7 +201,15 @@
       "day_of_week": "friday",
       "season": "annual",
       "order": 6,
-      "content_id": "psali:10"
+      "content_id": "psali:10",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 11,
@@ -142,7 +222,15 @@
       "day_of_week": "saturday",
       "season": "annual",
       "order": 7,
-      "content_id": "psali:11"
+      "content_id": "psali:11",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 12,
@@ -155,7 +243,15 @@
       "day_of_week": null,
       "season": "kiahki",
       "order": 1,
-      "content_id": "psali:12"
+      "content_id": "psali:12",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 13,
@@ -168,7 +264,15 @@
       "day_of_week": null,
       "season": "kiahki",
       "order": 2,
-      "content_id": "psali:13"
+      "content_id": "psali:13",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 14,
@@ -181,7 +285,15 @@
       "day_of_week": null,
       "season": "kiahki",
       "order": 3,
-      "content_id": "psali:14"
+      "content_id": "psali:14",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 15,
@@ -194,7 +306,15 @@
       "day_of_week": "sunday",
       "season": "annual",
       "order": 1,
-      "content_id": "psali:15"
+      "content_id": "psali:15",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 16,
@@ -207,7 +327,15 @@
       "day_of_week": "monday",
       "season": "annual",
       "order": 2,
-      "content_id": "psali:16"
+      "content_id": "psali:16",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 17,
@@ -220,7 +348,15 @@
       "day_of_week": "wednesday",
       "season": "annual",
       "order": 3,
-      "content_id": "psali:17"
+      "content_id": "psali:17",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 18,
@@ -233,7 +369,15 @@
       "day_of_week": "thursday",
       "season": "annual",
       "order": 4,
-      "content_id": "psali:18"
+      "content_id": "psali:18",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

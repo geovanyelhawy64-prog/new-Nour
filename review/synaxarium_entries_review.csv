@@ -1,0 +1,860 @@
+﻿content_id,origin,source_id,source_page,review_status,critical,decision,notes,key_fields
+synaxarium:synax_01_01_01,reference,,,draft,0,,,عيد النيروز رأس السنة القبطية
+synaxarium:synax_01_01_02,reference,,,draft,0,,,تذكار شفاء أيوب الصدِّيق
+synaxarium:synax_01_01_03,reference,,,draft,0,,,استشهاد القديس برثولماوس الرسول
+synaxarium:synax_01_01_04,reference,,,draft,0,,,نياحة البابا ميليوس البطريرك الثالث من بطاركة الكرازة المرقسية
+synaxarium:synax_01_01_05,reference,,,draft,0,,,نياحة البابا مرقس الخامس البطريرك الثامن والتسعين من بطاركة الكرازة المرقسية
+synaxarium:synax_01_02_01,reference,,,draft,0,,,استشهاد القديس يوحنا المعمدان
+synaxarium:synax_01_02_02,reference,,,draft,0,,,استشهاد القديس داسيه الجُندي
+synaxarium:synax_01_03_01,reference,,,draft,0,,,اجتماع مجمع بمدينة الإسكندرية في عهد البابا ديونيسيوس بشأن خلود النفس
+synaxarium:synax_01_03_02,reference,,,draft,0,,,نياحة القديسة ثيئودورة التائبة
+synaxarium:synax_01_04_01,reference,,,draft,0,,,تذكار يشوع بن نون
+synaxarium:synax_01_04_02,reference,,,draft,0,,,نياحة البابا مكاريوس الثاني البطريرك التاسع والستون من بطاركة الكرازة المرقسية
+synaxarium:synax_01_04_03,reference,,,draft,0,,,نياحة القديسة فيرينا
+synaxarium:synax_01_05_01,reference,,,draft,0,,,استشهاد القديسة صوفيا
+synaxarium:synax_01_06_01,reference,,,draft,0,,,استشهاد إشعياء النبي بن آموص
+synaxarium:synax_01_06_02,reference,,,draft,0,,,استشهاد القديسة باشيلية أو باسيليا
+synaxarium:synax_01_07_01,reference,,,draft,0,,,نياحة البابا ديوسقوروس البطريرك الخامس والعشرين من بطاركة الكرازة المرقسية
+synaxarium:synax_01_07_02,reference,,,draft,0,,,نياحة البابا يوأنس الثاني عشر البطريرك الثالث والتسعين من بطاركة الكرازة المرقسية
+synaxarium:synax_01_07_03,reference,,,draft,0,,,استشهاد القديسة رفقة وأولادها الخمسة أغاثون وبطرس ويوحنا وآمون وآمونة
+synaxarium:synax_01_07_04,reference,,,draft,0,,,نياحة القديس سوريانوس أسقف جبلة
+synaxarium:synax_01_08_01,reference,,,draft,0,,,نياحة موسى النبي
+synaxarium:synax_01_08_02,reference,,,draft,0,,,استشهاد زكريا الكاهن
+synaxarium:synax_01_08_03,reference,,,draft,0,,,استشهاد القديس ديميدس القس
+synaxarium:synax_01_09_01,reference,,,draft,0,,,استشهاد الأب القديس الأنبا بيسورة الأسقف
+synaxarium:synax_01_09_02,reference,,,draft,0,,,استشهاد الأسقفين الجليلين بيلوس ونيليوس
+synaxarium:synax_01_10_01,reference,,,draft,0,,,استشهاد القديسين يوأنس المصري وزملائه
+synaxarium:synax_01_10_02,reference,,,draft,0,,,استشهاد القديسة مطرونة
+synaxarium:synax_01_10_03,reference,,,draft,0,,,تذكار استشهاد القديسة باسين وأولادها الثلاثة
+synaxarium:synax_01_11_01,reference,,,draft,0,,,استشهاد القديس واسيليدس الوزير
+synaxarium:synax_01_11_02,reference,,,draft,0,,,استشهاد الثلاثة فلاحين بإسنا
+synaxarium:synax_01_12_01,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل ميخائيل
+synaxarium:synax_01_12_02,reference,,,draft,0,,,تذكار انعقاد المجمع المسكوني بأفسس
+synaxarium:synax_01_12_03,reference,,,draft,0,,,نقل أعضاء القديسين إقليمس وأصحابه
+synaxarium:synax_01_13_01,reference,,,draft,0,,,تذكار الأعجوبة التي صنعها القديس باسيليوس الكبير أسقف قيصارية الكبادوك
+synaxarium:synax_01_13_02,reference,,,draft,0,,,نياحة البابا متاؤس الثاني البطريرك التسعين من بطاركة الكرازة المرقسية
+synaxarium:synax_01_14_01,reference,,,draft,0,,,نياحة القديس أغاثون العمودي
+synaxarium:synax_01_14_02,reference,,,draft,0,,,استشهاد القديس فيلكس وريجولا أخته والقديس أكسيوبرانتيوس
+synaxarium:synax_01_15_01,reference,,,draft,0,,,نقل جسد القديس إسطفانوس
+synaxarium:synax_01_15_02,reference,,,draft,0,,,نياحة الأنبا أثناسيوس القوصي
+synaxarium:synax_01_16_01,reference,,,draft,0,,,تكريس كنيسة القيامة بأورشليم
+synaxarium:synax_01_17_01,reference,,,draft,0,,,تذكار الاحتفال بالصليب المجيد في كنيسة القيامة
+synaxarium:synax_01_17_02,reference,,,draft,0,,,استشهاد القديس قسطور القس
+synaxarium:synax_01_17_03,reference,,,draft,0,,,نياحة القديسة ثاؤغنسطا
+synaxarium:synax_01_17_04,reference,,,draft,0,,,نياحة القديس المعلم جرجس الجوهري
+synaxarium:synax_01_18_01,reference,,,draft,0,,,ثاني يوم عيد الصليب
+synaxarium:synax_01_18_02,reference,,,draft,0,,,استشهاد القديس بروفوريوس
+synaxarium:synax_01_18_03,reference,,,draft,0,,,استشهاد القديس إسطفانوس القس والقديسة نيكيتي
+synaxarium:synax_01_19_01,reference,,,draft,0,,,اليوم الثالث من أيام عيد الصليب المجيد
+synaxarium:synax_01_19_02,reference,,,draft,0,,,تذكار إصعاد القديس غريغوريوس الأرمني من الجب
+synaxarium:synax_01_20_01,reference,,,draft,0,,,نياحة القديسة ثاؤبستى
+synaxarium:synax_01_20_02,reference,,,draft,0,,,نياحة البابا أثناسيوس الثاني البطريرك الثامن والعشرين من بطاركة الكرازة المرقسية
+synaxarium:synax_01_20_03,reference,,,draft,0,,,استشهاد القديسة ملاتينى العذراء
+synaxarium:synax_01_21_01,reference,,,draft,0,,,تذكار والدة الإله القديسة مريم
+synaxarium:synax_01_21_02,reference,,,draft,0,,,استشهاد القديس كبريانوس الأسقف والقديسة يوستينة
+synaxarium:synax_01_22_01,reference,,,draft,0,,,استشهاد القديسين كوتلاس وأكسوا أخته وتاتاس صديقه
+synaxarium:synax_01_22_02,reference,,,draft,0,,,استشهاد القديس يوليوس الأقفهصى كاتب سِيَر الشهداء ومن معه
+synaxarium:synax_01_23_01,reference,,,draft,0,,,استشهاد القديسين أونانيوس وأندراوس أخيه
+synaxarium:synax_01_23_02,reference,,,draft,0,,,تذكار القديسة الشهيدة تكلا
+synaxarium:synax_01_24_01,reference,,,draft,0,,,استشهاد القديس كودارتوس أحد السبعين رسولاً وتلميذاً
+synaxarium:synax_01_24_02,reference,,,draft,0,,,نياحة القديس غريغوريوس الثيئولوغوس
+synaxarium:synax_01_24_03,reference,,,draft,0,,,نياحة القديس غريغوريوس الراهب
+synaxarium:synax_01_25_01,reference,,,draft,0,,,تذكار نياحة يونان النبي
+synaxarium:synax_01_25_02,reference,,,draft,0,,,استشهاد القديس موريس قائد الفرقة الطيبية
+synaxarium:synax_01_26_01,reference,,,draft,0,,,بشارة زكريا الكاهن بميلاد يوحنا المعمدان
+synaxarium:synax_01_27_01,reference,,,draft,0,,,استشهاد القديس أسطاثيوس وولديه وزوجته
+synaxarium:synax_01_28_01,reference,,,draft,0,,,استشهاد القديسين أبادير وإيرائى ( بعض المصادر تذكر اسم إيرينى بدلاً من إيرائى) أخته
+synaxarium:synax_01_29_01,reference,,,draft,0,,,تذكار الأعياد الثلاثة السيدية الكبرى
+synaxarium:synax_01_29_02,reference,,,draft,0,,,استشهاد القديسة أربسيما ومن معها
+synaxarium:synax_01_29_03,reference,,,draft,0,,,استشهاد القديسة فبرونيا
+synaxarium:synax_01_30_01,reference,,,draft,0,,,تذكار المعجزة التي صنعها الرب مع القديس أثناسيوس الرسولي
+synaxarium:synax_02_01_01,reference,,,draft,0,,,استشهاد القديسة أنسطاسيه
+synaxarium:synax_02_02_01,reference,,,draft,0,,,تذكار مجيء القديس ساويرس بطريرك أنطاكية إلى مصر
+synaxarium:synax_02_03_01,reference,,,draft,0,,,نياحة البابا سيمون الثاني البطريرك الحادي والخمسون من بطاركة الكرازة المرقسية
+synaxarium:synax_02_03_02,reference,,,draft,0,,,استشهاد القديسين أورسوس وبقطر من الفرقة الطيبية
+synaxarium:synax_02_03_03,reference,,,draft,0,,,استشهاد القديس يوحنا الجُندي الأشروبي
+synaxarium:synax_02_03_04,reference,,,draft,0,,,نياحة القديسة ثيئودورا الملكة
+synaxarium:synax_02_04_01,reference,,,draft,0,,,استشهاد القديس واخس رفيق القديس سرجيوس
+synaxarium:synax_02_05_01,reference,,,draft,0,,,استشهاد القديس بولس بطريرك القسطنطينية
+synaxarium:synax_02_05_02,reference,,,draft,0,,,نياحة الأنبا بطرس أسقف البهنسا
+synaxarium:synax_02_06_01,reference,,,draft,0,,,نياحة الصديقة حَنَّة أم صموئيل النبي
+synaxarium:synax_02_07_01,reference,,,draft,0,,,نياحة القديس الأنبا بولا الطموهي
+synaxarium:synax_02_08_01,reference,,,draft,0,,,استشهاد القديس مطرا
+synaxarium:synax_02_08_02,reference,,,draft,0,,,استشهاد القديسين أباهور وطوسيا وأولادهما
+synaxarium:synax_02_08_03,reference,,,draft,0,,,نياحة القديس الأنبا أغاثون المتوحد
+synaxarium:synax_02_09_01,reference,,,draft,0,,,نياحة البابا أومانيوس البطريرك السابع من بطاركة الكرازة المرقسية
+synaxarium:synax_02_09_02,reference,,,draft,0,,,تذكار استشهاد القديس سمعان الأسقف ورفقائه
+synaxarium:synax_02_10_01,reference,,,draft,0,,,استشهاد القديس سرجيوس رفيق واخس
+synaxarium:synax_02_11_01,reference,,,draft,0,,,نياحة الأنبا يعقوب بطريرك أنطاكية
+synaxarium:synax_02_11_02,reference,,,draft,0,,,نياحة القديسة بيلاجية التائبة
+synaxarium:synax_02_12_01,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل ميخائيل
+synaxarium:synax_02_12_02,reference,,,draft,0,,,استشهاد القديس متى الإنجيلي المبشر
+synaxarium:synax_02_12_03,reference,,,draft,0,,,نياحة البابا القديس ديمتريوس الكرام البطريرك الثاني عشر من بطاركة الكرازة المرقسية
+synaxarium:synax_02_13_01,reference,,,draft,0,,,نياحة القديس زكريا الراهب
+synaxarium:synax_02_14_01,reference,,,draft,0,,,نياحة القديس فيلبس أحد الشمامسة السبعة
+synaxarium:synax_02_15_01,reference,,,draft,0,,,استشهاد بندلائيمون الطبيب
+synaxarium:synax_02_16_01,reference,,,draft,0,,,نياحة القديس البابا الأنبا أغاثون، البطريرك التاسع والثلاثون من بطاركة الكرازة المرقسية
+synaxarium:synax_02_16_02,reference,,,draft,0,,,تذكار القديسين كاربوس وأبولوس وبطرس
+synaxarium:synax_02_17_01,reference,,,draft,0,,,نياحة البابا الأنبا ديوسقوروس الثاني البطريرك الحادي والثلاثين من بطاركة الكرازة المرقسية
+synaxarium:synax_02_18_01,reference,,,draft,0,,,نياحة البابا القديس ثاؤفيلس البطريرك الثالث والعشرين من بطاركة الكرازة المرقسية
+synaxarium:synax_02_19_01,reference,,,draft,0,,,استشهاد القديس ثاؤفيلس وزوجته بالفيوم
+synaxarium:synax_02_19_02,reference,,,draft,0,,,عقد مجمع بأنطاكية لمحاكمة بولس الساموساطي
+synaxarium:synax_02_20_01,reference,,,draft,0,,,نياحة القديس يوحنا القصير
+synaxarium:synax_02_21_01,reference,,,draft,0,,,التذكار الشهري لوالدة الإله القديسة العذراء مريم
+synaxarium:synax_02_21_02,reference,,,draft,0,,,نياحة يوئيل النبي
+synaxarium:synax_02_21_03,reference,,,draft,0,,,نقل جسد لعازر حبيب الرب
+synaxarium:synax_02_21_04,reference,,,draft,0,,,نياحة القديس الأنبا رويس
+synaxarium:synax_02_22_01,reference,,,draft,0,,,استشهاد القديس لوقا الإنجيلي
+synaxarium:synax_02_23_01,reference,,,draft,0,,,استشهاد القديس ديونيسيوس أسقف كورنثوس
+synaxarium:synax_02_23_02,reference,,,draft,0,,,نياحة البابا يوساب الأول البطريرك الثاني والخمسين من بطاركة الكرازة المرقسية
+synaxarium:synax_02_24_01,reference,,,draft,0,,,نياحة القديس إيلاريون الكبير الراهب
+synaxarium:synax_02_24_02,reference,,,draft,0,,,استشهاد القديسين بولس ولُونجينوس ودينة
+synaxarium:synax_02_25_01,reference,,,draft,0,,,نياحة القديس أبيب صديق القديس أبوللو
+synaxarium:synax_02_25_02,reference,,,draft,0,,,تكريس كنيسة الشهيد يوليوس الأقفهصي كاتب سير الشهداء
+synaxarium:synax_02_26_01,reference,,,draft,0,,,استشهاد القديس تيمون الرسول، أحد السبعين، وأحد الشمامسة السبعة
+synaxarium:synax_02_26_02,reference,,,draft,0,,,تذكار السبعة الشهداء بجبل أنطونيوس
+synaxarium:synax_02_27_01,reference,,,draft,0,,,استشهاد القديس مكاريوس أسقف قاو
+synaxarium:synax_02_28_01,reference,,,draft,0,,,استشهاد القديسين مركيانوس ومركوريوس
+synaxarium:synax_02_29_01,reference,,,draft,0,,,"تذكار الأعياد الثلاثة السيدية "" البشارة والميلاد والقيامة """
+synaxarium:synax_02_29_02,reference,,,draft,0,,,استشهاد القديس ديمتريوس التسالونيكي
+synaxarium:synax_02_29_03,reference,,,draft,0,,,نياحة البابا القديس غبريال السابع البطريرك الخامس والتسعين من بطاركة الكرازة المرقسية
+synaxarium:synax_02_30_01,reference,,,draft,0,,,ظهور رأس القديس مار مرقس الإنجيلي الرسول، وتكريس كنيسته
+synaxarium:synax_02_30_02,reference,,,draft,0,,,نياحة القديس إبراهيم المنوفي المتوحد
+synaxarium:synax_03_01_01,reference,,,draft,0,,,استشهاد القديس كليوباس الرسول أحد تلميذي عمواس
+synaxarium:synax_03_01_02,reference,,,draft,0,,,استشهاد القديس كيرياكوس أسقف أورشليم ووالدته
+synaxarium:synax_03_01_03,reference,,,draft,0,,,استشهاد القديسين مكسيموس ونوميتيوس وبقطر وفيلبس
+synaxarium:synax_03_01_04,reference,,,draft,0,,,استشهاد القديسة أنسطاسية الكبيرة، والقديس كيرلس
+synaxarium:synax_03_02_01,reference,,,draft,0,,,نياحة البابا بطرس الثالث البطريرك السابع والعشرين من بطاركة الكرازة المرقسية
+synaxarium:synax_03_02_02,reference,,,draft,0,,,استشهاد القديس مقار الليبي
+synaxarium:synax_03_02_03,reference,,,draft,0,,,نياحة القديس أفراميوس الرهاوى
+synaxarium:synax_03_03_01,reference,,,draft,0,,,استشهاد القديس أثناسيوس وأخته إيرينى
+synaxarium:synax_03_03_02,reference,,,draft,0,,,استشهاد القديس أغاثون
+synaxarium:synax_03_03_03,reference,,,draft,0,,,نياحة القديس كيرياكوس من أهل كورنثوس
+synaxarium:synax_03_04_01,reference,,,draft,0,,,استشهاد القديسين يوحنا ويعقوب أسقفيّ فارس
+synaxarium:synax_03_04_02,reference,,,draft,0,,,استشهاد الأنبا توماس الأسقف
+synaxarium:synax_03_04_03,reference,,,draft,0,,,استشهاد القديسَيْن أبيماخوس وعزاريانوس
+synaxarium:synax_03_05_01,reference,,,draft,0,,,ظهور رأس القديس لُونجينوس الجُندي
+synaxarium:synax_03_05_02,reference,,,draft,0,,,استشهاد القديس تيموثاوس وزوجته مورا
+synaxarium:synax_03_05_03,reference,,,draft,0,,,نقل جسد الأمير تادرس الشُطبى إلى بلدة شُطب
+synaxarium:synax_03_05_04,reference,,,draft,0,,,نياحة القديس يوساب بجبل شامة
+synaxarium:synax_03_06_01,reference,,,draft,0,,,تذكار تكريس كنيسة القديسة العذراء – الأثرية – بدير المحرق العامر بجبل قسقام
+synaxarium:synax_03_06_02,reference,,,draft,0,,,نياحة القديس فيلكس بابا رومية
+synaxarium:synax_03_07_01,reference,,,draft,0,,,تكريس كنيسة الشهيد العظيم مار جرجس الروماني باللدّ
+synaxarium:synax_03_07_02,reference,,,draft,0,,,استشهاد القديس مار جرجس الإسكندري
+synaxarium:synax_03_07_03,reference,,,draft,0,,,استشهاد الأنبا نهروه
+synaxarium:synax_03_07_04,reference,,,draft,0,,,استشهاد القديسين أكبسيما وإيتالا ويوسف
+synaxarium:synax_03_07_05,reference,,,draft,0,,,نياحة القديس الأنبا مينا أسقف تمي الأمديد
+synaxarium:synax_03_08_01,reference,,,draft,0,,,تذكار الأربعة مخلوقات الحية غير المتجسدين
+synaxarium:synax_03_08_02,reference,,,draft,0,,,استشهاد القديس نيكاندروس كاهن ميرا
+synaxarium:synax_03_08_03,reference,,,draft,0,,,نياحة الأب بيريّوس مدير مدرسة الإسكندرية اللاهوتية
+synaxarium:synax_03_09_01,reference,,,draft,0,,,اجتماع مجمع نيقية المسكونى الأول
+synaxarium:synax_03_09_02,reference,,,draft,0,,,نياحة البابا إسحاق البطريرك الحادي والأربعين من بطاركة الكرازة المرقسية
+synaxarium:synax_03_10_01,reference,,,draft,0,,,استشهاد العذارى الخمسين وأمهن
+synaxarium:synax_03_10_02,reference,,,draft,0,,,اجتماع مجمع بروما بسبب عيد الغطاس المجيد والصوم الكبير
+synaxarium:synax_03_11_01,reference,,,draft,0,,,نياحة القديسة حَنّة والدة القديسة العذراء مريم
+synaxarium:synax_03_11_02,reference,,,draft,0,,,استشهاد القديس ميخائيل الراهب
+synaxarium:synax_03_11_03,reference,,,draft,0,,,استشهاد القديسَيْن أرشيلاؤس وأليشع القمص
+synaxarium:synax_03_12_01,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل ميخائيل رئيس جند الرب
+synaxarium:synax_03_12_02,reference,,,draft,0,,,نياحة القديس يوحنا السرياني
+synaxarium:synax_03_13_01,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل جبرائيل
+synaxarium:synax_03_13_02,reference,,,draft,0,,,نياحة البابا الأنبا زخارياس البطريرك الرابع والستين من بطاركة الكرازة المرقسية
+synaxarium:synax_03_13_03,reference,,,draft,0,,,استشهاد القديس تادرس تيرو
+synaxarium:synax_03_13_04,reference,,,draft,0,,,نياحة الأنبا تيموثاوس أسقف أنصنا
+synaxarium:synax_03_13_05,reference,,,draft,0,,,نياحة الأنبا يوساب بجبل الأساس
+synaxarium:synax_03_14_01,reference,,,draft,0,,,نياحة القديس مرتينوس أسقف ثراكي
+synaxarium:synax_03_14_02,reference,,,draft,0,,,استشهاد الضابط فاروس ومعلّميه
+synaxarium:synax_03_15_01,reference,,,draft,0,,,استشهاد القديس مار مينا العجائبى
+synaxarium:synax_03_15_02,reference,,,draft,0,,,نياحة القديس يوحنا الربان
+synaxarium:synax_03_16_01,reference,,,draft,0,,,يوافق هذا اليوم من كل عام بدء صوم الميلاد المجيد، في كنيستنا القبطية الأرثوذكسية والذي ينتهي بعيد مي
+synaxarium:synax_03_16_02,reference,,,draft,0,,,وفيه أيضاً تم تكريس كنيسة القديس أبى نُفر السائح، التي كانت بالقاهرة، وقد عاش القديس أبو نُفر في الب
+synaxarium:synax_03_16_03,reference,,,draft,0,,,وفيه أيضاً استشهد القديس يسطس الأسقف، الذي نال إكليل الشهادة، على يد مكسيموس الأمير، بعد أن عذَّبه ع
+synaxarium:synax_03_16_04,reference,,,draft,0,,,وفيه أيضاً من سنة 691 للشهداء ( 974م ) تنيَّح الأب القديس البابا مينا الثاني، البطريرك الحادي والستو
+synaxarium:synax_03_16_05,reference,,,draft,0,,,وفيه أيضاً تنيَّح القديس نيلُس السينائى. وُلِدَ هذا القديس نحو منتصف القرن الرابع الميلادي من أسرة م
+synaxarium:synax_03_17_01,reference,,,draft,0,,,نياحة القديس يوحنا ذهبي الفم
+synaxarium:synax_03_17_02,reference,,,draft,0,,,نياحة القديس بولس بجبل دنفيق
+synaxarium:synax_03_18_01,reference,,,draft,0,,,استشهاد القديس فيلبس الرسول
+synaxarium:synax_03_18_02,reference,,,draft,0,,,استشهاد القديستين أدروسيس ويوأنا
+synaxarium:synax_03_18_03,reference,,,draft,0,,,تذكار معجزة نقل الجبل المقطم
+synaxarium:synax_03_19_01,reference,,,draft,0,,,تكريس كنيسة سرجيوس وواخس – بالرصافة
+synaxarium:synax_03_19_02,reference,,,draft,0,,,استشهاد القديس أبيبوس
+synaxarium:synax_03_20_01,reference,,,draft,0,,,نياحة القديس إنيانوس البطريرك الثاني من بطاركة الكرازة المرقسية
+synaxarium:synax_03_20_02,reference,,,draft,0,,,تكريس بيعتي الأمير تادرس الشُطبى والأمير تادرس المشرقي
+synaxarium:synax_03_21_01,reference,,,draft,0,,,تذكار نياحة القديسة مريم العذراء والدة الإله
+synaxarium:synax_03_21_02,reference,,,draft,0,,,نياحة القديس غريغوريوس العجائبى
+synaxarium:synax_03_21_03,reference,,,draft,0,,,نياحة البابا قسما الثاني البطريرك الرابع والخمسين من بطاركة الكرازة المرقسية
+synaxarium:synax_03_21_04,reference,,,draft,0,,,نياحة القديس يوحنا التبايسي بجبل أسيوط
+synaxarium:synax_03_21_05,reference,,,draft,0,,,تذكار القديسين حلفا وزكا ورومانوس ويوحنا الشهداء. وتذكار القديسين توما وبقطر وإسحاق من الأشمونين
+synaxarium:synax_03_21_06,reference,,,draft,0,,,نقل جسد القديس الأنبا يحنس كاما من ديره إلى دير السريان
+synaxarium:synax_03_22_01,reference,,,draft,0,,,استشهاد القديسين قزمان ودميان وإخوتهما وأمهما
+synaxarium:synax_03_23_01,reference,,,draft,0,,,نياحة القديس كرنيليوس قائد المائة
+synaxarium:synax_03_23_02,reference,,,draft,0,,,تذكار تكريس كنيسة القديسة مارينا الشهيدة
+synaxarium:synax_03_24_01,reference,,,draft,0,,,تذكار الأربعة والعشرين قسيساً غير الجسدانيين
+synaxarium:synax_03_24_02,reference,,,draft,0,,,استشهاد الأسقف نارسيس والقديسة تكلا
+synaxarium:synax_03_24_03,reference,,,draft,0,,,نياحة البابا بروكلس بطريرك القسطنطينية
+synaxarium:synax_03_25_01,reference,,,draft,0,,,استشهاد القديس مرقوريوس الشهير بأبي سيفين
+synaxarium:synax_03_26_01,reference,,,draft,0,,,استشهاد القديس بالاريانوس وأخيه تيبورينوس
+synaxarium:synax_03_26_02,reference,,,draft,0,,,نياحة القديس غريغوريوس النيصي أسقف نيصص
+synaxarium:synax_03_27_01,reference,,,draft,0,,,استشهاد القديس يعقوب الفارسي المقطع
+synaxarium:synax_03_27_02,reference,,,draft,0,,,تكريس كنيسة الشهيد بقطر بن رومانوس
+synaxarium:synax_03_28_01,reference,,,draft,0,,,استشهاد القديس صرابامون أسقف نيقيوس
+synaxarium:synax_03_29_01,reference,,,draft,0,,,"تذكار الأعياد الثلاثة السيدية الكبرى "" البشارة والميلاد والقيامة """
+synaxarium:synax_03_29_02,reference,,,draft,0,,,"استشهاد البابا بطرس "" خاتم الشهداء "" البطريرك السابع عشر من بطاركة الكرسي المرقسي"
+synaxarium:synax_03_29_03,reference,,,draft,0,,,استشهاد القديس إكليمنضس الأول بابا روما
+synaxarium:synax_03_29_04,reference,,,draft,0,,,استشهاد القديسة كاترين الإسكندرانية
+synaxarium:synax_03_30_01,reference,,,draft,0,,,استشهاد القديس مكاريوس
+synaxarium:synax_03_30_02,reference,,,draft,0,,,استشهاد الراهب القديس يوحنا القليوبي
+synaxarium:synax_03_30_03,reference,,,draft,0,,,نياحة القديس أكاكيوس بطريرك القسطنطينية
+synaxarium:synax_03_30_04,reference,,,draft,0,,,تكريس بيعة القديسين قزمان ودميان وإخوتهما وأمهم
+synaxarium:synax_04_01_01,reference,,,draft,0,,,نياحة البابا يوأنس الثالث البطريرك الأربعين من بطاركة الكرازة المرقسية
+synaxarium:synax_04_01_02,reference,,,draft,0,,,نياحة البابا أثناسيوس الثالث البطريرك السادس والسبعين من بطاركة الكرازة المرقسية
+synaxarium:synax_04_01_03,reference,,,draft,0,,,نياحة القديس بطرس الرهاوي ( أسقف غزة )
+synaxarium:synax_04_01_04,reference,,,draft,0,,,تكريس كنيسة الشهيد أبى فام الجُندي الطحاوي ببلدة أبنوب
+synaxarium:synax_04_01_05,reference,,,draft,0,,,تكريس كنيسة القديس العظيم الأنبا شنودة رئيس المتوحدين
+synaxarium:synax_04_02_01,reference,,,draft,0,,,نياحة القديس أباهور الراهب
+synaxarium:synax_04_02_02,reference,,,draft,0,,,نياحة القديس الأنبا هورمينا السائح
+synaxarium:synax_04_03_01,reference,,,draft,0,,,تذكار تقديم القديسة العذراء مريم إلى الهيكل بأورشليم
+synaxarium:synax_04_03_02,reference,,,draft,0,,,استشهاد القديس بسطفروس ( صليب الجديد )
+synaxarium:synax_04_04_01,reference,,,draft,0,,,استشهاد القديس أندراوس أحد الاثنى عشر رسولاً
+synaxarium:synax_04_04_02,reference,,,draft,0,,,تذكار تكريس كنيسة القديس مار يوحنا الهرقلي بأم القصور بمنفلوط
+synaxarium:synax_04_04_03,reference,,,draft,0,,,تذكار نقل جسديّ القديسين الأنبا بيشوي والأنبا بولا
+synaxarium:synax_04_05_01,reference,,,draft,0,,,نياحة ناحوم النبي
+synaxarium:synax_04_05_02,reference,,,draft,0,,,استشهاد القديس بقطر الذي من أسيوط
+synaxarium:synax_04_05_03,reference,,,draft,0,,,استشهاد القديس إيسوذوروس
+synaxarium:synax_04_06_01,reference,,,draft,0,,,نياحة البابا أبرآم بن زرعة البطريرك الثاني والستين من بطاركة الكرازة المرقسية
+synaxarium:synax_04_06_02,reference,,,draft,0,,,استشهاد القديس باطلس القس
+synaxarium:synax_04_07_01,reference,,,draft,0,,,نياحة القديس متاؤس الفاخوري بجبل أصفون بإسنا
+synaxarium:synax_04_07_02,reference,,,draft,0,,,استشهاد القديسين بانينا وباناوا
+synaxarium:synax_04_07_03,reference,,,draft,0,,,تذكار تكريس كنيسة الشهيد أبسخيرون القليني
+synaxarium:synax_04_07_04,reference,,,draft,0,,,نياحة القديس يوحنا أسقف أرمنت
+synaxarium:synax_04_07_05,reference,,,draft,0,,,استشهاد المهندس القبطي النابغة سعيد بن كاتب الفرغاني
+synaxarium:synax_04_08_01,reference,,,draft,0,,,استشهاد القديس إيسي وتكلا أخته
+synaxarium:synax_04_08_02,reference,,,draft,0,,,استشهاد القديستين بربارة ويوليانة
+synaxarium:synax_04_08_03,reference,,,draft,0,,,نياحة القديس الأنبا صموئيل المعترف
+synaxarium:synax_04_08_04,reference,,,draft,0,,,نياحة البابا ياروكلاس البطريرك الثالث عشر من بطاركة الكرازة المرقسية
+synaxarium:synax_04_09_01,reference,,,draft,0,,,نياحة القديس بيمن المعترف
+synaxarium:synax_04_10_01,reference,,,draft,0,,,نياحة القديس نيقولاوس أسقف مورا
+synaxarium:synax_04_10_02,reference,,,draft,0,,,استشهاد القديس شورة من أهل أخميم
+synaxarium:synax_04_10_03,reference,,,draft,0,,,تذكار نقل جسد القديس ساويرس بطريرك أنطاكية
+synaxarium:synax_04_11_01,reference,,,draft,0,,,نياحة القديس الأنبا بيجيمي السائح
+synaxarium:synax_04_11_02,reference,,,draft,0,,,استشهاد القديس أبطلماوس من أهل دندرة
+synaxarium:synax_04_11_03,reference,,,draft,0,,,تذكار تكريس كنيسة القديس إقلاديوس بناحية باقور أبو تيج
+synaxarium:synax_04_12_01,reference,,,draft,0,,,تذكار رئيس الملائكة الطاهر ميخائيل
+synaxarium:synax_04_12_02,reference,,,draft,0,,,نياحة القديس الأنبا هدرا الأسواني
+synaxarium:synax_04_12_03,reference,,,draft,0,,,نياحة القديس يوحنا المعترف
+synaxarium:synax_04_12_04,reference,,,draft,0,,,انعقاد مجمع برومية على نوباطس القس
+synaxarium:synax_04_13_01,reference,,,draft,0,,,تذكار تكريس كنيسة رئيس الملائكة الجليل رافائيل بالقسطنطينية
+synaxarium:synax_04_13_02,reference,,,draft,0,,,استشهاد القديس برشنوفيوس الراهب
+synaxarium:synax_04_13_03,reference,,,draft,0,,,نياحة البابا مرقس الثامن البطريرك المائة وثمانية من بطاركة الكرسي المرقسي
+synaxarium:synax_04_13_04,reference,,,draft,0,,,نياحة الأب إبراكيوس
+synaxarium:synax_04_13_05,reference,,,draft,0,,,نياحة القديس إيليا السائح
+synaxarium:synax_04_13_06,reference,,,draft,0,,,تكريس كنيسة القديس ميصائيل السائح
+synaxarium:synax_04_14_01,reference,,,draft,0,,,استشهاد القديس بهنام وسارة أخته
+synaxarium:synax_04_14_02,reference,,,draft,0,,,استشهاد القديس الأنبا أمونيوس أسقف إسنا
+synaxarium:synax_04_14_03,reference,,,draft,0,,,استشهاد القديسين سمعان المنوفي وأباهور وأبا مينا الشيخ
+synaxarium:synax_04_14_04,reference,,,draft,0,,,نياحة البابا خرستوذولوس البطريرك السادس والستين من بطاركة الكرازة المرقسية
+synaxarium:synax_04_14_05,reference,,,draft,0,,,نياحة القديس خرستوذولوس السائح
+synaxarium:synax_04_15_01,reference,,,draft,0,,,نياحة القديس غريغوريوس بطريرك الأرمن
+synaxarium:synax_04_15_02,reference,,,draft,0,,,نياحة القديس لوكاس العمودي
+synaxarium:synax_04_15_03,reference,,,draft,0,,,نياحة القديس الأنبا حزقيال من أرمنت
+synaxarium:synax_04_16_01,reference,,,draft,0,,,نياحة البار جدعون أحد قضاة بنى إسرائيل
+synaxarium:synax_04_16_02,reference,,,draft,0,,,استشهاد القديسين هرواج وحنانيا وخوزى الذين من أخميم
+synaxarium:synax_04_16_03,reference,,,draft,0,,,استشهاد القديسين أولوجيوس وأرسانيوس صاحبيّ دير الحديد بأخميم
+synaxarium:synax_04_16_04,reference,,,draft,0,,,استشهاد القديس إمساح القفطي
+synaxarium:synax_04_16_05,reference,,,draft,0,,,تكريس كنيسة القديس يعقوب الفارسي الشهير بالمقطع
+synaxarium:synax_04_17_01,reference,,,draft,0,,,تذكار نقل جسد القديس لوكاس العمودي
+synaxarium:synax_04_17_02,reference,,,draft,0,,,نياحة القديس إيلياس بجبل بِشْوَاو ( جبل بشْوَاو قريب من جبل الأساس الذي من نقادة حتى الجبل الغربي تجاه القصر، بمحافظة ق…
+synaxarium:synax_04_18_01,reference,,,draft,0,,,نقل جسد القديس تيطس أسقف كريت إلى القسطنطينية
+synaxarium:synax_04_18_02,reference,,,draft,0,,,استشهاد القديسين ياروكلاس وفليمون
+synaxarium:synax_04_19_01,reference,,,draft,0,,,نياحة البابا غبريال السادس البطريرك الحادي والتسعين من بطاركة الكرازة المرقسية
+synaxarium:synax_04_19_02,reference,,,draft,0,,,نياحة الأنبا يوحنا أسقف البُرلُّس – جامع السنكسار
+synaxarium:synax_04_20_01,reference,,,draft,0,,,نياحة حَجِّي النبي
+synaxarium:synax_04_20_02,reference,,,draft,0,,,استشهاد الأنبا إيلياس أسقف دير المحرق والقوصية
+synaxarium:synax_04_21_01,reference,,,draft,0,,,تذكار والدة الإله القديسة الطاهرة مريم العذراء
+synaxarium:synax_04_21_02,reference,,,draft,0,,,استشهاد القديس برنابا أحد السبعين رسولاً
+synaxarium:synax_04_22_01,reference,,,draft,0,,,تذكار الملاك الجليل غبريال المُبشر
+synaxarium:synax_04_22_02,reference,,,draft,0,,,استشهاد القديس باخوم وضالوشام أخته
+synaxarium:synax_04_22_03,reference,,,draft,0,,,نياحة البابا أنسطاسيوس البطريرك السادس والثلاثين من بطاركة الكرازة المرقسية
+synaxarium:synax_04_23_01,reference,,,draft,0,,,نياحة داود النبي والملك
+synaxarium:synax_04_23_02,reference,,,draft,0,,,نياحة القديس تيموثاوس السائح
+synaxarium:synax_04_24_01,reference,,,draft,0,,,استشهاد القديس أغناطيوس الثيئوفوروس ( ثيئوفوروس: كلمة تعنى حامل الإله أو المتوشح بالإله) أسقف أنطاكية
+synaxarium:synax_04_25_01,reference,,,draft,0,,,نياحة القديس الأنبا يحنس كاما القس
+synaxarium:synax_04_25_02,reference,,,draft,0,,,نياحة القديس الأنبا بشاي بجبل الطود
+synaxarium:synax_04_26_01,reference,,,draft,0,,,استشهاد القديسة أنسطاسيه
+synaxarium:synax_04_26_02,reference,,,draft,0,,,تكريس كنيسة الشهيدين أنبا بشاي وأنبا بطرس
+synaxarium:synax_04_27_01,reference,,,draft,0,,,استشهاد القديس الأنبا بساده أسقف أبصاي
+synaxarium:synax_04_28_01,reference,,,draft,0,,,رتَّبت الكنيسة المقدسة أن يكون اليوم برمون عيد الميلاد المجيد. وكلمة برمون يونانية الأصل معناها الاس
+synaxarium:synax_04_28_02,reference,,,draft,0,,,وفيه أيضاً من سنة 20 للشهداء ( 304م ) استشهد مائة وخمسون رجلاً وأربعة وعشرون امرأة، كان هؤلاء من مدي
+synaxarium:synax_04_29_01,reference,,,draft,0,,,عيد الميلاد المجيد
+synaxarium:synax_04_29_02,reference,,,draft,0,,,تذكار شهداء أخميم
+synaxarium:synax_04_30_01,reference,,,draft,0,,,نياحة القديس يوأنس قمص شيهيت
+synaxarium:synax_04_30_02,reference,,,draft,0,,,سجود المجوس للمخلص
+synaxarium:synax_04_30_03,reference,,,draft,0,,,استشهاد القديس القمص ميخائيل الطوخي
+synaxarium:synax_04_30_04,reference,,,draft,0,,,استشهاد الطفل زكريا ومن معه بأخميم
+synaxarium:synax_05_01_01,reference,,,draft,0,,,استشهاد القديس إسطفانوس رئيس الشمامسة
+synaxarium:synax_05_01_02,reference,,,draft,0,,,استشهاد القديس لاونديانوس
+synaxarium:synax_05_01_03,reference,,,draft,0,,,استشهاد القديسين ديوسقوروس وأخيه سكلابيوس
+synaxarium:synax_05_02_01,reference,,,draft,0,,,نياحة الأنبا ثاؤناس البطريرك السادس عشر من بطاركة الكرازة المرقسية
+synaxarium:synax_05_02_02,reference,,,draft,0,,,استشهاد القديس غللينيكوس أسقف أوسيم
+synaxarium:synax_05_02_03,reference,,,draft,0,,,نياحة القديس الأنبا يونا
+synaxarium:synax_05_03_01,reference,,,draft,0,,,استشهاد أطفال بيت لحم
+synaxarium:synax_05_04_01,reference,,,draft,0,,,نياحة القديس يوحنا الإنجيلي
+synaxarium:synax_05_05_01,reference,,,draft,0,,,استشهاد القديس أوساغنيوس الجُندي
+synaxarium:synax_05_05_02,reference,,,draft,0,,,استشهاد القديس بانيكاروس
+synaxarium:synax_05_05_03,reference,,,draft,0,,,نياحة البابا ثيئودوسيوس الثاني البطريرك التاسع والسبعين من بطاركة الكرازة المرقسية
+synaxarium:synax_05_05_04,reference,,,draft,0,,,نياحة البابا متاؤس الأول البطريرك السابع والثمانين من بطاركة الكرازة المرقسية
+synaxarium:synax_05_06_01,reference,,,draft,0,,,عيد الختان المجيد
+synaxarium:synax_05_06_02,reference,,,draft,0,,,تذكار صعود إيليا النبي إلى السماء حياً
+synaxarium:synax_05_06_03,reference,,,draft,0,,,استشهاد الأربعة أراخنة بإسنا
+synaxarium:synax_05_06_04,reference,,,draft,0,,,نياحة البابا مركيانوس البطريرك الثامن من بطاركة الكرازة المرقسية
+synaxarium:synax_05_06_05,reference,,,draft,0,,,نياحة البابا مرقس البطريرك الثالث والسبعين من بطاركة الكرازة المرقسية
+synaxarium:synax_05_06_06,reference,,,draft,0,,,نياحة البابا غبريال الثالث البطريرك السابع والسبعين من بطاركة الكرازة المرقسية
+synaxarium:synax_05_06_07,reference,,,draft,0,,,نياحة القديس باسيليوس الكبير رئيس أساقفة قيصرية الكبادوك
+synaxarium:synax_05_06_08,reference,,,draft,0,,,تكريس كنيسة الشهيد إسحاق الدفراوي
+synaxarium:synax_05_07_01,reference,,,draft,0,,,نياحة القديس سلفستروس بابا روما
+synaxarium:synax_05_08_01,reference,,,draft,0,,,عودة رأس القديس مار مرقس الرسول
+synaxarium:synax_05_08_02,reference,,,draft,0,,,نياحة البابا أندرونيقوس البطريرك السابع والثلاثين من بطاركة الكرازة المرقسية
+synaxarium:synax_05_08_03,reference,,,draft,0,,,نياحة البابا بنيامين الأول البطريرك الثامن والثلاثين من بطاركة الكرازة المرقسية
+synaxarium:synax_05_08_04,reference,,,draft,0,,,نياحة البابا غبريال الخامس البطريرك الثامن والثمانين من بطاركة الكرازة المرقسية
+synaxarium:synax_05_08_05,reference,,,draft,0,,,تذكار تكريس كنيسة القديس مكاريوس الكبير
+synaxarium:synax_05_09_01,reference,,,draft,0,,,نياحة القديس أبرآم رفيق الأنبا جاورجي
+synaxarium:synax_05_09_02,reference,,,draft,0,,,نياحة القديس أنبا فيس
+synaxarium:synax_05_10_01,reference,,,draft,0,,,برمون عيد الغطاس المجيد
+synaxarium:synax_05_10_02,reference,,,draft,0,,,نياحة القديس يسطس تلميذ الأنبا صموئيل المعترف
+synaxarium:synax_05_11_01,reference,,,draft,0,,,عيد الظهور الإلهي ( الغطاس المجيد )
+synaxarium:synax_05_11_02,reference,,,draft,0,,,نياحة البابا يوأنس السادس البطريرك الرابع والسبعين من بطاركة الكرازة المرقسية
+synaxarium:synax_05_11_03,reference,,,draft,0,,,نياحة البابا بنيامين الثاني البطريرك الثاني والثمانين من بطاركة الكرازة المرقسية
+synaxarium:synax_05_12_01,reference,,,draft,0,,,ثاني أيام عيد الغطاس المجيد
+synaxarium:synax_05_12_02,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل ميخائيل
+synaxarium:synax_05_12_03,reference,,,draft,0,,,استشهاد القديس تادرس المشرقي
+synaxarium:synax_05_12_04,reference,,,draft,0,,,استشهاد القديس أناطوليوس
+synaxarium:synax_05_13_01,reference,,,draft,0,,,عيد عرس قانا الجليل
+synaxarium:synax_05_13_02,reference,,,draft,0,,,استشهاد القديسة دميانة
+synaxarium:synax_05_13_03,reference,,,draft,0,,,نياحة القديس ثاؤفيلس الراهب
+synaxarium:synax_05_14_01,reference,,,draft,0,,,نياحة القديس أرشليدس الراهب
+synaxarium:synax_05_14_02,reference,,,draft,0,,,استشهاد القديسة مُهْراتي ( مُهْراتي: كان للقديسة مهراتي اسم آخر هو مُهْرابيل)
+synaxarium:synax_05_14_03,reference,,,draft,0,,,نياحة القديس مكسيموس أخى دوماديوس
+synaxarium:synax_05_15_01,reference,,,draft,0,,,نياحة عوبديا النبي
+synaxarium:synax_05_16_01,reference,,,draft,0,,,استشهاد القديس فيلوثيئوس
+synaxarium:synax_05_16_02,reference,,,draft,0,,,نياحة البابا يوأنس الرابع البطريرك الثامن والأربعين من بطاركة الكرازة المرقسية
+synaxarium:synax_05_17_01,reference,,,draft,0,,,نياحة القديس دوماديوس أخي القديس مكسيموس
+synaxarium:synax_05_17_02,reference,,,draft,0,,,نياحة القديس الأنبا يوساب الأبحّ أسقف جرجا
+synaxarium:synax_05_18_01,reference,,,draft,0,,,نياحة القديس يعقوب أسقف نصيبين
+synaxarium:synax_05_18_02,reference,,,draft,0,,,تذكار مريم ومرثا أختيّ لعازر الحبيب
+synaxarium:synax_05_18_03,reference,,,draft,0,,,نياحة الأنبا أندراس الشهير بـ ( أبو الليف )
+synaxarium:synax_05_19_01,reference,,,draft,0,,,اكتشاف أعضاء القديسين أباهور وبيسوري وأمبيرة أمهما
+synaxarium:synax_05_20_01,reference,,,draft,0,,,نياحة القديس بروخورس أحد السبعين رسولاً
+synaxarium:synax_05_20_02,reference,,,draft,0,,,استشهاد القديس أبا كلوج القس
+synaxarium:synax_05_20_03,reference,,,draft,0,,,استشهاد القديس بهناو
+synaxarium:synax_05_20_04,reference,,,draft,0,,,تذكار تكريس كنيسة القديس يوحنا صاحب الإنجيل الذهب
+synaxarium:synax_05_21_01,reference,,,draft,0,,,نياحة والدة الإله القديسة مريم العذراء
+synaxarium:synax_05_21_02,reference,,,draft,0,,,نياحة القديسة إيلارية ابنة الملك زينون
+synaxarium:synax_05_22_01,reference,,,draft,0,,,نياحة القديس العظيم الأنبا أنطونيوس أب جميع الرهبان
+synaxarium:synax_05_23_01,reference,,,draft,0,,,استشهاد القديس تيموثاوس تلميذ القديس بولس الرسول وأسقف أفسس
+synaxarium:synax_05_23_02,reference,,,draft,0,,,نياحة البابا كيرلس الرابع أبى الإصلاح البطريرك المائة والعاشر من بطاركة الكرازة المرقسية
+synaxarium:synax_05_24_01,reference,,,draft,0,,,نياحة القديسة مريم الحبيسة الناسكة
+synaxarium:synax_05_24_02,reference,,,draft,0,,,استشهاد القديس بساده القس
+synaxarium:synax_05_25_01,reference,,,draft,0,,,نياحة القديس بطرس العابد
+synaxarium:synax_05_25_02,reference,,,draft,0,,,استشهاد القديس أسكلاس
+synaxarium:synax_05_26_01,reference,,,draft,0,,,استشهاد التسعة والأربعين شهيداً شيوخ شيهيت
+synaxarium:synax_05_26_02,reference,,,draft,0,,,استشهاد القديس بجوش
+synaxarium:synax_05_26_03,reference,,,draft,0,,,نياحة القديسة أنسطاسية
+synaxarium:synax_05_27_01,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل سوريال
+synaxarium:synax_05_27_02,reference,,,draft,0,,,استشهاد القديس أبى فام الجُندي الأوسيمي
+synaxarium:synax_05_27_03,reference,,,draft,0,,,استشهاد القديس سيرابيون
+synaxarium:synax_05_27_04,reference,,,draft,0,,,تذكار نقل جسد القديس تيموثاوس تلميذ معلمنا القديس بولس الرسول
+synaxarium:synax_05_28_01,reference,,,draft,0,,,استشهاد القديس الأنبا كاؤو
+synaxarium:synax_05_28_02,reference,,,draft,0,,,استشهاد القديس إكليمنضس أسقف أنقرة
+synaxarium:synax_05_28_03,reference,,,draft,0,,,استشهاد القديس فيلياس أسقف تمي الأمديد
+synaxarium:synax_05_29_01,reference,,,draft,0,,,نياحة القديسة أكساني
+synaxarium:synax_05_29_02,reference,,,draft,0,,,نياحة القديس سرياكوس المجاهد
+synaxarium:synax_05_30_01,reference,,,draft,0,,,استشهاد العذارى القديسات بيستيس وهلبيس وأغابى ونياحة أمهن صوفية
+synaxarium:synax_05_30_02,reference,,,draft,0,,,نياحة البابا مينا الأول البطريرك السابع والأربعين من بطاركة الكرازة المرقسية
+synaxarium:synax_05_30_03,reference,,,draft,0,,,نياحة القديس إبراهيم الرهاوي المتوحد
+synaxarium:synax_06_01_01,reference,,,draft,0,,,تذكار اجتماع المجمع المسكوني الثاني بمدينة القسطنطينية
+synaxarium:synax_06_01_02,reference,,,draft,0,,,استشهاد القديس أباديون أسقف أنصنا
+synaxarium:synax_06_01_03,reference,,,draft,0,,,تكريس كنيسة القديس بطرس خاتم الشهداء بمدينة الإسكندرية
+synaxarium:synax_06_02_01,reference,,,draft,0,,,نياحة القديس العظيم الأنبا بولا أول السواح
+synaxarium:synax_06_02_02,reference,,,draft,0,,,نياحة القديس لُونجينوس رئيس دير الزجاج
+synaxarium:synax_06_03_01,reference,,,draft,0,,,نياحة القديس يعقوب الراهب
+synaxarium:synax_06_03_02,reference,,,draft,0,,,نياحة القديس هدرا بحاجر بنهدب
+synaxarium:synax_06_04_01,reference,,,draft,0,,,استشهاد القديس أغابوس أحد السبعين رسولاً
+synaxarium:synax_06_05_01,reference,,,draft,0,,,تذكار نقل أعضاء التسعة والأربعين شهيداً شيوخ شيهيت
+synaxarium:synax_06_05_02,reference,,,draft,0,,,نياحة البابا أغريبينوس البطريرك العاشر من بطاركة الكرازة المرقسية
+synaxarium:synax_06_05_03,reference,,,draft,0,,,نياحة القديس الأنبا بشاي صاحب الدير الأحمر
+synaxarium:synax_06_05_04,reference,,,draft,0,,,نياحة الأنبا أبوللو رفيق القديس الأنبا أبيب من قديسي القرن الرابع الميلادي
+synaxarium:synax_06_05_05,reference,,,draft,0,,,استشهاد القديس أبوليدس بابا روما
+synaxarium:synax_06_05_06,reference,,,draft,0,,,نياحة القديس أبانوب صاحب المروحة الذهب
+synaxarium:synax_06_06_01,reference,,,draft,0,,,استشهاد القديسين أباكير ويوحنا والثلاث عذارى وأمهن
+synaxarium:synax_06_06_02,reference,,,draft,0,,,نياحة البابا مرقس الرابع البطريرك الرابع والثمانين من بطاركة الكرازة المرقسية
+synaxarium:synax_06_06_03,reference,,,draft,0,,,نياحة القديس زانوفيوس
+synaxarium:synax_06_07_01,reference,,,draft,0,,,نياحة البابا القديس ألكسندروس الثاني البطريرك الثالث والأربعين من بطاركة الكرازة المرقسية
+synaxarium:synax_06_07_02,reference,,,draft,0,,,نياحة البابا القديس ثيئودوروس الأول البطريرك الخامس والأربعين من بطاركة الكرازة المرقسية
+synaxarium:synax_06_08_01,reference,,,draft,0,,,عيد دخول السيد المسيح إلى الهيكل
+synaxarium:synax_06_08_02,reference,,,draft,0,,,نياحة القديس سمعان الشيخ
+synaxarium:synax_06_09_01,reference,,,draft,0,,,نياحة القديس برسوما أب رهبان السريان
+synaxarium:synax_06_09_02,reference,,,draft,0,,,استشهاد القديس بولس السرياني
+synaxarium:synax_06_09_03,reference,,,draft,0,,,استشهاد القديس سمعان
+synaxarium:synax_06_09_04,reference,,,draft,0,,,نياحة القديسة إفروسينا
+synaxarium:synax_06_10_01,reference,,,draft,0,,,استشهاد القديس فيلو أسقف فارس
+synaxarium:synax_06_10_02,reference,,,draft,0,,,استشهاد القديس يسطس ابن الملك نوماريوس
+synaxarium:synax_06_10_03,reference,,,draft,0,,,نياحة القديس إيسوذوروس الفَرمِي
+synaxarium:synax_06_11_01,reference,,,draft,0,,,نياحة البابا القديس يوأنس الثالث عشر البطريرك الرابع والتسعين من بطاركة الكرازة المرقسية
+synaxarium:synax_06_11_02,reference,,,draft,0,,,استشهاد القديس فابيانوس بابا روما
+synaxarium:synax_06_12_01,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل ميخائيل
+synaxarium:synax_06_12_02,reference,,,draft,0,,,نياحة القديس جلاسيوس الناسك
+synaxarium:synax_06_13_01,reference,,,draft,0,,,استشهاد القديس سرجيوس الأتريبي وأبيه وأمه وأخته وكثيرين معهم
+synaxarium:synax_06_13_02,reference,,,draft,0,,,نياحة البابا القديس تيموثاوس الثالث البطريرك الثاني والثلاثين من بطاركة الكرازة المرقسية
+synaxarium:synax_06_14_01,reference,,,draft,0,,,نياحة القديس ساويرس بطريرك أنطاكية
+synaxarium:synax_06_14_02,reference,,,draft,0,,,نياحة البابا القديس يعقوب البطريرك الخمسين من بطاركة الكرازة المرقسية
+synaxarium:synax_06_15_01,reference,,,draft,0,,,نياحة القديس بفنوتيوس الراهب
+synaxarium:synax_06_15_02,reference,,,draft,0,,,استشهاد الصديق زكريا النبي بن بَرَخِيَّا بن عِدُّو
+synaxarium:synax_06_15_03,reference,,,draft,0,,,استشهاد القديس أنبا بيجول القس
+synaxarium:synax_06_15_04,reference,,,draft,0,,,تكريس أول كنيسة للأربعين شهيداً الذين استشهدوا في سبسطية
+synaxarium:synax_06_16_01,reference,,,draft,0,,,نياحة القديسة أليصابات أم القديس يوحنا المعمدان
+synaxarium:synax_06_16_02,reference,,,draft,0,,,نياحة البابا القديس ميخائيل الرابع البطريرك الثاني والتسعين من بطاركة الكرازة المرقسية
+synaxarium:synax_06_16_03,reference,,,draft,0,,,نياحة القديس القمص ميخائيل البحيري المحرقي
+synaxarium:synax_06_17_01,reference,,,draft,0,,,استشهاد القديس مينا الراهب
+synaxarium:synax_06_17_02,reference,,,draft,0,,,تكريس كنيسة القديس قسطور البردنوهي
+synaxarium:synax_06_18_01,reference,,,draft,0,,,نياحة القديس ملاتيوس المعترف بطريرك أنطاكية
+synaxarium:synax_06_18_02,reference,,,draft,0,,,تدشين كنيسة القديس بولس البسيط
+synaxarium:synax_06_19_01,reference,,,draft,0,,,تذكار نقل أعضاء القديس مرتيانوس الراهب إلى أنطاكية
+synaxarium:synax_06_20_01,reference,,,draft,0,,,نياحة البابا القديس بطرس الثاني البطريرك الحادي والعشرين من بطاركة الكرازة المرقسية
+synaxarium:synax_06_20_02,reference,,,draft,0,,,استشهاد القديسين باسيليوس وثاؤدروس وتيموثاوس بالإسكندرية
+synaxarium:synax_06_21_01,reference,,,draft,0,,,تذكار القديسة العذراء مريم والدة الإله
+synaxarium:synax_06_21_02,reference,,,draft,0,,,استشهاد القديس أُنسيموس تلميذ القديس بولس الرسول
+synaxarium:synax_06_21_03,reference,,,draft,0,,,نياحة البابا القديس غبريال الأول البطريرك السابع والخمسين من بطاركة الكرازة المرقسية
+synaxarium:synax_06_21_04,reference,,,draft,0,,,نياحة القديس زخارياس أسقف سخا
+synaxarium:synax_06_22_01,reference,,,draft,0,,,نياحة القديس ماروتا أسقف ميافرقين ( ميافرقين:من بلاد ما بين النهرين شمالي نصيبين)
+synaxarium:synax_06_23_01,reference,,,draft,0,,,استشهاد القديس أوسابيوس ابن القديس واسيليدس الوزير
+synaxarium:synax_06_24_01,reference,,,draft,0,,,نياحة القديس أغابيطوس الأسقف
+synaxarium:synax_06_24_02,reference,,,draft,0,,,استشهاد القديسين تيموثاوس بمدينة غزة ومتياس بمدينة قوص
+synaxarium:synax_06_25_01,reference,,,draft,0,,,استشهاد القديسين فليمون وأبفية وأرخِبُّس ابنهما
+synaxarium:synax_06_25_02,reference,,,draft,0,,,استشهاد القديس قونا بمدينة روما. ( أو الشماس قزماس بروما )
+synaxarium:synax_06_25_03,reference,,,draft,0,,,استشهاد القديس مينا بمدينة قوص
+synaxarium:synax_06_25_04,reference,,,draft,0,,,نياحة القديس أبو فانا بجبل دلجا
+synaxarium:synax_06_26_01,reference,,,draft,0,,,نياحة الصِّدِّيق هوشع النبي
+synaxarium:synax_06_26_02,reference,,,draft,0,,,استشهاد القديس صادوق والمائة والثمانية والعشرين الذين معه
+synaxarium:synax_06_26_03,reference,,,draft,0,,,استشهاد الأسقفين تيرانيوس وسلوانس والكاهن زينوبيوس ورفاقهم في مدينة صور
+synaxarium:synax_06_27_01,reference,,,draft,0,,,نياحة القديس أوسطاسيوس بطريرك أنطاكية
+synaxarium:synax_06_27_02,reference,,,draft,0,,,استشهاد القديسة بِرْبِتْوَا ومَنْ معها
+synaxarium:synax_06_28_01,reference,,,draft,0,,,نقل أعضاء القديس تاوضروس ( تادرس ) المشرقي الشهيد
+synaxarium:synax_06_29_01,reference,,,draft,0,,,استشهاد القديس بوليكاربوس أسقف سميرنا
+synaxarium:synax_06_30_01,reference,,,draft,0,,,وجود رأس القديس يوحنا المعمدان
+synaxarium:synax_06_30_02,reference,,,draft,0,,,نياحة القديس البابا كيرلس السادس البطريرك المائة والسادس عشر من بطاركة الكرازة المرقسية
+synaxarium:synax_07_01_01,reference,,,draft,0,,,في مثل هذا اليوم استشهد القديسان مقرونيوس وتكلا. بركة صلواتهما فلتكن معنا. آمين.
+synaxarium:synax_07_01_02,reference,,,draft,0,,,وفيه أيضاً من سنة 13 للشهداء ( 297م )، استشهد القديس ألكسندروس الجندي. وُلِدَ هذا القديس بمدينة روما
+synaxarium:synax_07_01_03,reference,,,draft,0,,,وفيه أيضاً من سنة 222م تنيَّح الأب القديس نركيسوس أسقف بيت المقدس، وكان قديساً كاملاً فأقاموه أسقفاً
+synaxarium:synax_07_01_04,reference,,,draft,0,,,وفي هذا اليوم تُعيِّد الكنيسة بنياحة القديس الأنبا مرقورة أسقف تلبانة (إحدى قرى مركز الباجور محافظة
+synaxarium:synax_07_01_05,reference,,,draft,0,,,وفيه أيضاً تنيَّح الراهب جرجس بن العميد الشهير بابن المكين. تعلَّم منذ صباه علوم الكنيسة ونبغ فيها.
+synaxarium:synax_07_02_01,reference,,,draft,0,,,استشهاد القديس الأنبا مكراوى الأسقف
+synaxarium:synax_07_03_01,reference,,,draft,0,,,نياحة القديس الأنبا قسما البطريرك الثامن والخمسين من بطاركة الكرازة المرقسية
+synaxarium:synax_07_03_02,reference,,,draft,0,,,استشهاد القديس برفونيوس
+synaxarium:synax_07_03_03,reference,,,draft,0,,,نياحة القديس برفوريوس أسقف غزة
+synaxarium:synax_07_03_04,reference,,,draft,0,,,نياحة القديس الأنبا حديد القس
+synaxarium:synax_07_04_01,reference,,,draft,0,,,انعقاد مجمع، بجزيرة بني عمر، على قوم يُطلق عليهم الأربعتعشرية، بخصوص القيامة المقدسة
+synaxarium:synax_07_04_02,reference,,,draft,0,,,استشهاد القديس هانوليوس الأمير
+synaxarium:synax_07_05_01,reference,,,draft,0,,,نياحة القديس الأنبا صرابامون قمص دير القديس الأنبا يحنس القصير (أحد الأديرة المندثرة ببرية شيهيت)
+synaxarium:synax_07_05_02,reference,,,draft,0,,,استشهاد القديسة أوذوكسية
+synaxarium:synax_07_06_01,reference,,,draft,0,,,استشهاد القديس ديوسقوروس في زمان العرب
+synaxarium:synax_07_06_02,reference,,,draft,0,,,نياحة القديس ثاؤدوطس الأسقف المعترف
+synaxarium:synax_07_07_01,reference,,,draft,0,,,استشهاد القديسين فليمون وأبلانيوس
+synaxarium:synax_07_07_02,reference,,,draft,0,,,استشهاد القديسة مريم الإسرائيلية
+synaxarium:synax_07_08_01,reference,,,draft,0,,,استشهاد القديس متياس الرسول
+synaxarium:synax_07_08_02,reference,,,draft,0,,,نياحة القديس البابا يوليانوس البطريرك الحادي عشر من بطاركة الكرازة المرقسية
+synaxarium:synax_07_08_03,reference,,,draft,0,,,استشهاد القديس أريانوس والي أنصنا
+synaxarium:synax_07_09_01,reference,,,draft,0,,,نياحة القديس كونن المعترف
+synaxarium:synax_07_09_02,reference,,,draft,0,,,استشهاد القديسين أندريانوس ومرثا زوجته وأوسابيوس وأرما وأربعين شهيداً
+synaxarium:synax_07_10_01,reference,,,draft,0,,,تذكار ظهور الصليب المجيد
+synaxarium:synax_07_11_01,reference,,,draft,0,,,استشهاد القديس ( باسيلاوس ) باسيليوس أسقف أورشليم
+synaxarium:synax_07_11_02,reference,,,draft,0,,,نياحة القديس نرسيس أسقف أورشليم
+synaxarium:synax_07_12_01,reference,,,draft,0,,,تذكار رئيس الملائكة الطاهر ميخائيل
+synaxarium:synax_07_12_02,reference,,,draft,0,,,ظهور بتولية البابا ديمتريوس الكرَّام البطريرك الثاني عشر من بطاركة الكرازة المرقسية
+synaxarium:synax_07_12_03,reference,,,draft,0,,,استشهاد القديس ملاخي بأرض فلسطين
+synaxarium:synax_07_12_04,reference,,,draft,0,,,استشهاد القديس جلاذينوس في دمشق
+synaxarium:synax_07_13_01,reference,,,draft,0,,,استشهاد الأربعين شهيداً بسبسطية
+synaxarium:synax_07_13_02,reference,,,draft,0,,,نياحة القديس البابا ديونيسيوس البطريرك الرابع عشر من بطاركة الكرازة المرقسية
+synaxarium:synax_07_13_03,reference,,,draft,0,,,تذكار عودة القديسين مكاريوس الكبير ومكاريوس الإسكندري من منفاهما
+synaxarium:synax_07_14_01,reference,,,draft,0,,,استشهاد الأساقفة أوجانيوس وأغانورس ووالنديوس
+synaxarium:synax_07_14_02,reference,,,draft,0,,,استشهاد القديس شنوده البهنساوي
+synaxarium:synax_07_15_01,reference,,,draft,0,,,نياحة القديسة سارة الراهبة
+synaxarium:synax_07_15_02,reference,,,draft,0,,,استشهاد القديس إيلياس الإهناسى
+synaxarium:synax_07_16_01,reference,,,draft,0,,,ظهور القديسة العذراء مريم بكنيسة الشهيدة دميانة بحي بابا دوبلو بشبرا – القاهرة
+synaxarium:synax_07_16_02,reference,,,draft,0,,,نياحة القديس البابا خائيل الأول البطريرك السادس والأربعين من بطاركة الكرازة المرقسية
+synaxarium:synax_07_17_01,reference,,,draft,0,,,نياحة لعازر حبيب الرب
+synaxarium:synax_07_17_02,reference,,,draft,0,,,استشهاد القديس سيدهم بشاي بدمياط
+synaxarium:synax_07_17_03,reference,,,draft,0,,,نياحة القديس الأنبا باسيليوس مطران القدس
+synaxarium:synax_07_17_04,reference,,,draft,0,,,تذكار القديسين جرجس العابد وبلاسيوس الشهيد والأنبا يوسف الأسقف
+synaxarium:synax_07_18_01,reference,,,draft,0,,,استشهاد القديس إيسوذوروس رفيق سنا الجندي
+synaxarium:synax_07_19_01,reference,,,draft,0,,,استشهاد القديس أرسطوبولس الرسول أحد السبعين رسولاً
+synaxarium:synax_07_19_02,reference,,,draft,0,,,استشهاد القديسين ألكسندروس وأغابيوس ومن معهما
+synaxarium:synax_07_20_01,reference,,,draft,0,,,نياحة القديس البابا خائيل الثالث البطريرك السادس والخمسين من بطاركة الكرازة المرقسية
+synaxarium:synax_07_20_02,reference,,,draft,0,,,تذكار إقامة لعازر حبيب الرب من الموت
+synaxarium:synax_07_21_01,reference,,,draft,0,,,تذكار والدة الإله القديسة الطاهرة مريم العذراء
+synaxarium:synax_07_21_02,reference,,,draft,0,,,دخول المخلص بيت عنيا، وتشاور عظماء الكهنة على قتل لعازر الصديق الذي أقامه الرب
+synaxarium:synax_07_21_03,reference,,,draft,0,,,استشهاد القديسين تاؤدوروس وتيموثاوس
+synaxarium:synax_07_22_01,reference,,,draft,0,,,نياحة القديس كيرلس أسقف أورشليم
+synaxarium:synax_07_22_02,reference,,,draft,0,,,نياحة البار يوسف الرامي
+synaxarium:synax_07_22_03,reference,,,draft,0,,,نياحة القديس ميخائيل أسقف نقادة
+synaxarium:synax_07_23_01,reference,,,draft,0,,,نياحة الصديق العظيم دانيال النبي
+synaxarium:synax_07_24_01,reference,,,draft,0,,,تذكار ظهور القديسة العذراء مريم بكنيستها بالزيتون
+synaxarium:synax_07_24_02,reference,,,draft,0,,,نياحة القديس البابا مكاريوس الأول البطريرك التاسع والخمسين من بطاركة الكرازة المرقسية
+synaxarium:synax_07_25_01,reference,,,draft,0,,,نياحة القديس فريسكا أحد السبعين رسولاً
+synaxarium:synax_07_25_02,reference,,,draft,0,,,استشهاد القديس أنيسيفورس أحد السبعين رسولاً
+synaxarium:synax_07_25_03,reference,,,draft,0,,,نياحة القديس البابا متاؤس الثالث البطريرك المائة من بطاركة الكرازة المرقسية
+synaxarium:synax_07_26_01,reference,,,draft,0,,,نياحة القديسة براكسيا العذراء
+synaxarium:synax_07_26_02,reference,,,draft,0,,,نياحة القديس البابا بطرس السادس البطريرك المائة والرابع من بطاركة الكرازة المرقسية
+synaxarium:synax_07_27_01,reference,,,draft,0,,,صلب ربنا يسوع المسيح بالجسد من أجل خلاص العالم
+synaxarium:synax_07_27_02,reference,,,draft,0,,,نياحة القديس مكاريوس الكبير أب رهبان برية شيهيت
+synaxarium:synax_07_27_03,reference,,,draft,0,,,استشهاد القديس دوميكيوس
+synaxarium:synax_07_28_01,reference,,,draft,0,,,نياحة الإمبراطور قسطنطين الكبير
+synaxarium:synax_07_28_02,reference,,,draft,0,,,نياحة القديس البابا بطرس السابع البطريرك المائة والتاسع من بطاركة الكرازة المرقسية
+synaxarium:synax_07_28_03,reference,,,draft,0,,,نياحة القديس الأنبا صرابامون الشهير بأبي طرحة
+synaxarium:synax_07_29_01,reference,,,draft,0,,,عيد البشارة المجيد
+synaxarium:synax_07_29_02,reference,,,draft,0,,,تذكار قيامة السيد المسيح من الأموات
+synaxarium:synax_07_30_01,reference,,,draft,0,,,تذكار رئيس الملائكة جبرائيل المبشر
+synaxarium:synax_07_30_02,reference,,,draft,0,,,نياحة شمشون، أحد قضاة بني إسرائيل
+synaxarium:synax_07_30_03,reference,,,draft,0,,,تذكار نقل أعضاء القديس يعقوب الفارسي الشهير بالمقطَّع
+synaxarium:synax_08_01_01,reference,,,draft,0,,,في مثل هذا اليوم تنيَّح الأب القديس سلوانس الراهب. ترَّهب هذا القديس منذ صغره على يد القديس الأنبا م
+synaxarium:synax_08_01_02,reference,,,draft,0,,,وفيه أيضاً تنيَّح البار هارون الكاهن بن عمرام من سبط لاوي، شقيق موسى رئيس الأنبياء. عندما بلغ الثالث
+synaxarium:synax_08_01_03,reference,,,draft,0,,,وفيه أيضاً من سنة 582 للشهداء ( 866م )، أغار عُربان الصعيد على برية شيهيت، إسقيط القديس مكاريوس، ونه
+synaxarium:synax_08_02_01,reference,,,draft,0,,,استشهاد القديس خرستوفورس
+synaxarium:synax_08_02_02,reference,,,draft,0,,,نياحة القديس البابا يوأنس التاسع البطريرك الحادي والثمانين من بطاركة الكرازة المرقسية
+synaxarium:synax_08_03_01,reference,,,draft,0,,,نياحة القديس البابا ميخائيل الثاني البطريرك الحادي والسبعين من بطاركة الكرازة المرقسية
+synaxarium:synax_08_03_02,reference,,,draft,0,,,نياحة القديس يوحنا أسقف أورشليم
+synaxarium:synax_08_04_01,reference,,,draft,0,,,شهادة القديسين بقطر وأكاكيوس وداكيوس وإيريني العذراء ومن معهم من رجال ونساء وعذارى
+synaxarium:synax_08_04_02,reference,,,draft,0,,,نياحة القديس أوكين
+synaxarium:synax_08_05_01,reference,,,draft,0,,,استشهاد النبي حزقيال بن بوزي
+synaxarium:synax_08_05_02,reference,,,draft,0,,,استشهاد القديس هيباتيوس أسقف غنغرة
+synaxarium:synax_08_06_01,reference,,,draft,0,,,تذكار نياحة القديسة مريم المصرية السائحة
+synaxarium:synax_08_07_01,reference,,,draft,0,,,نياحة الصديق يواقيم والد القديسة العذراء مريم
+synaxarium:synax_08_07_02,reference,,,draft,0,,,نياحة القديس مقروفيوس
+synaxarium:synax_08_07_03,reference,,,draft,0,,,استشهاد القديسين أغابيوس وثيئودورة
+synaxarium:synax_08_08_01,reference,,,draft,0,,,استشهاد العذارى القديسات أغابي وإيريني وشيونيه
+synaxarium:synax_08_08_02,reference,,,draft,0,,,استشهاد المائة والخمسين مؤمناً على يد ملك الفرس
+synaxarium:synax_08_09_01,reference,,,draft,0,,,نياحة القديس الأنبا زوسيما القس
+synaxarium:synax_08_09_02,reference,,,draft,0,,,تذكار الأعجوبة التي صُنعَت على يد القديس البابا شنوده الأول البطريرك الخامس والخمسين
+synaxarium:synax_08_10_01,reference,,,draft,0,,,نياحة الأنبا إيساك تلميذ الأنبا أبُلوس
+synaxarium:synax_08_10_02,reference,,,draft,0,,,نياحة القديس البابا غبريال الثاني البطريرك السبعين الشهير بابن تريك
+synaxarium:synax_08_11_01,reference,,,draft,0,,,نياحة القديسة ثيئودورا
+synaxarium:synax_08_11_02,reference,,,draft,0,,,نياحة القديس يوحنا أسقف غزة
+synaxarium:synax_08_12_01,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل ميخائيل
+synaxarium:synax_08_12_02,reference,,,draft,0,,,نياحة القديس ألكسندروس المعترف أسقف أورشليم
+synaxarium:synax_08_12_03,reference,,,draft,0,,,نياحة القديس أنطونيوس أسقف طمويه
+synaxarium:synax_08_13_01,reference,,,draft,0,,,استشهاد القديسين يشوع ويوسف
+synaxarium:synax_08_13_02,reference,,,draft,0,,,نياحة القديس البابا يوأنس السابع عشر البطريرك الخامس بعد المائة من بطاركة الكرازة المرقسية
+synaxarium:synax_08_13_03,reference,,,draft,0,,,نياحة القديسة ديونيسة
+synaxarium:synax_08_13_04,reference,,,draft,0,,,استشهاد القديس ميديوس الشهيد
+synaxarium:synax_08_14_01,reference,,,draft,0,,,نياحة القديس البابا مكسيموس البطريرك الخامس عشر من بطاركة الكرازة المرقسية
+synaxarium:synax_08_14_02,reference,,,draft,0,,,نياحة القديس إهرون السرياني
+synaxarium:synax_08_15_01,reference,,,draft,0,,,تكريس كنيسة القديس أغابوس أحد السبعين
+synaxarium:synax_08_15_02,reference,,,draft,0,,,استشهاد القديسة ألكسندرة الملكة
+synaxarium:synax_08_15_03,reference,,,draft,0,,,نياحة القديس البابا مرقس السادس البطريرك الأول بعد المائة من بطاركة الكرازة المرقسية
+synaxarium:synax_08_16_01,reference,,,draft,0,,,استشهاد القديس أنتيباس أسقف برغامس تلميذ القديس يوحنا الرسول
+synaxarium:synax_08_16_02,reference,,,draft,0,,,تذكار إصعاد أخنوخ البار حياً إلى السماء
+synaxarium:synax_08_17_01,reference,,,draft,0,,,استشهاد القديس يعقوب الكبير أحد الاثني عشر رسولاً وشقيق يوحنا الحبيب
+synaxarium:synax_08_17_02,reference,,,draft,0,,,نياحة القديس نيقوديموس
+synaxarium:synax_08_18_01,reference,,,draft,0,,,استشهاد القديس أرسانيوس تلميذ القديس سوسنيوس
+synaxarium:synax_08_18_02,reference,,,draft,0,,,نياحة القديس أبوللو تلميذ القديس الأنبا صموئيل المعترف
+synaxarium:synax_08_19_01,reference,,,draft,0,,,استشهاد القديس سمعان الأرمني أسقف بلاد فارس
+synaxarium:synax_08_19_02,reference,,,draft,0,,,استشهاد الشهداء يوحنا أبو نجاح الكبير والرئيس أبو العلا فهد بن إبراهيم وزملائهما
+synaxarium:synax_08_19_03,reference,,,draft,0,,,استشهاد الراهب داود بن غبريال البرجي
+synaxarium:synax_08_20_01,reference,,,draft,0,,,استشهاد القديس ببنوده الذي من دندرة (دندرة: قرية كبيرة تقع غرب مدينة قنا)
+synaxarium:synax_08_21_01,reference,,,draft,0,,,تذكار القديسة العذراء مريم والدة الإله
+synaxarium:synax_08_21_02,reference,,,draft,0,,,نياحة القديس بروتاؤس أسقف أثينا
+synaxarium:synax_08_22_01,reference,,,draft,0,,,نياحة القديس البابا ألكسندروس الأول البطريرك التاسع عشر من بطاركة الكرازة المرقسية
+synaxarium:synax_08_22_02,reference,,,draft,0,,,نياحة القديس البابا مرقس الثاني البطريرك التاسع والأربعين من بطاركة الكرازة المرقسية
+synaxarium:synax_08_22_03,reference,,,draft,0,,,نياحة القديس البابا خائيل الثاني البطريرك الثالث والخمسين من بطاركة الكرازة المرقسية
+synaxarium:synax_08_22_04,reference,,,draft,0,,,نياحة القديس إسحاق الهوريني
+synaxarium:synax_08_23_01,reference,,,draft,0,,,شهادة القديس جورجيوس العظيم في الشهداء
+synaxarium:synax_08_24_01,reference,,,draft,0,,,استشهاد القديس سنا الجندي رفيق القديس إيسوذوروس
+synaxarium:synax_08_24_02,reference,,,draft,0,,,نياحة القديس البابا شنوده الأول البطريرك الخامس والخمسين من بطاركة الكرازة المرقسية
+synaxarium:synax_08_25_01,reference,,,draft,0,,,استشهاد القديسة سارة وولديها
+synaxarium:synax_08_25_02,reference,,,draft,0,,,استشهاد القديس تاوضروس العابد والمائة والعشرين شهيداً
+synaxarium:synax_08_26_01,reference,,,draft,0,,,شهادة القديس سوسنيوس ومعه 1100 شخصاً
+synaxarium:synax_08_26_02,reference,,,draft,0,,,نياحة القديس البابا يوأنس السابع البطريرك الثامن والسبعين من بطاركة الكرازة المرقسية
+synaxarium:synax_08_27_01,reference,,,draft,0,,,شهادة القديس بقطر بن رومانوس
+synaxarium:synax_08_28_01,reference,,,draft,0,,,استشهاد القديس ميليوس الناسك
+synaxarium:synax_08_29_01,reference,,,draft,0,,,تذكار الأعياد السيدية البشارة والميلاد والقيامة
+synaxarium:synax_08_29_02,reference,,,draft,0,,,نياحة القديس أرسطوس أحد السبعين
+synaxarium:synax_08_29_03,reference,,,draft,0,,,نياحة القديس أكاكيوس أسقف أورشليم
+synaxarium:synax_08_30_01,reference,,,draft,0,,,استشهاد القديس مار مرقس الرسول الإنجيلي كاروز الديار المصرية
+synaxarium:synax_09_01_01,reference,,,draft,0,,,في هذا اليوم تُعيِّد الكنيسة بتذكار ميلاد البتول الطاهرة العذراء مريم والدة الإله. التي منها كان الخ
+synaxarium:synax_09_02_01,reference,,,draft,0,,,نياحة أيوب الصديق
+synaxarium:synax_09_02_02,reference,,,draft,0,,,نياحة القديس تادرس الطبانيسي تلميذ القديس باخوميوس أب الشركة
+synaxarium:synax_09_02_03,reference,,,draft,0,,,استشهاد القديس فيلوثاوس من درنكة
+synaxarium:synax_09_03_01,reference,,,draft,0,,,نياحة القديس ياسون أحد السبعين رسولاً
+synaxarium:synax_09_03_02,reference,,,draft,0,,,استشهاد القديس أوتيموس القس من فوه
+synaxarium:synax_09_03_03,reference,,,draft,0,,,نياحة القديس البابا غبريال الرابع البطريرك السادس والثمانين من بطاركة الكرازة المرقسية
+synaxarium:synax_09_04_01,reference,,,draft,0,,,نياحة القديس البابا يوأنس الأول البطريرك التاسع والعشرين من بطاركة الكرازة المرقسية
+synaxarium:synax_09_04_02,reference,,,draft,0,,,نياحة القديس البابا يوأنس الخامس البطريرك الثاني والسبعين من بطاركة الكرازة المرقسية
+synaxarium:synax_09_05_01,reference,,,draft,0,,,استشهاد إرميا النبي
+synaxarium:synax_09_06_01,reference,,,draft,0,,,استشهاد القديس إسحاق الدفراوي
+synaxarium:synax_09_06_02,reference,,,draft,0,,,استشهاد الأم دولاجي وأولادها الأربعة
+synaxarium:synax_09_06_03,reference,,,draft,0,,,استشهاد الأنبا ببنوده من البندارة
+synaxarium:synax_09_06_04,reference,,,draft,0,,,نياحة القديس مكاريوس الإسكندري
+synaxarium:synax_09_07_01,reference,,,draft,0,,,نياحة القديس العظيم البابا أثناسيوس الرسولي البطريرك العشرين من بطاركة الكرازة المرقسية
+synaxarium:synax_09_08_01,reference,,,draft,0,,,تذكار صعود ربنا يسوع المسيح إلى السماء
+synaxarium:synax_09_08_02,reference,,,draft,0,,,استشهاد القديس يحنس السنهوتي
+synaxarium:synax_09_08_03,reference,,,draft,0,,,نياحة القديس الأنبا دانيال قمص برية شيهيت
+synaxarium:synax_09_09_01,reference,,,draft,0,,,نياحة القديسة هيلانة الملكة
+synaxarium:synax_09_09_02,reference,,,draft,0,,,نياحة القديس البابا يوأنس الحادي عشر البطريرك التاسع والثمانين من بطاركة الكرازة المرقسية
+synaxarium:synax_09_09_03,reference,,,draft,0,,,نياحة القديس البابا غبريال الثامن البطريرك السابع والتسعين من بطاركة الكرازة المرقسية
+synaxarium:synax_09_10_01,reference,,,draft,0,,,إلقاء الثلاثة فتية القديسين حنانيا وعزاريا وميصائيل في أتون النار.(مخطوط 295 ميامر دير السريان وتذكر المصادر أن تاريخ ن…
+synaxarium:synax_09_11_01,reference,,,draft,0,,,تذكار نياحة القديس الأنبا بفنوتيوس الأسقف
+synaxarium:synax_09_11_02,reference,,,draft,0,,,تذكار استشهاد القديسة ثاؤكليا زوجة القديس يسطس ابن الملك نوماريوس
+synaxarium:synax_09_12_01,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل ميخائيل
+synaxarium:synax_09_12_02,reference,,,draft,0,,,تذكار نقل أعضاء القديس يوحنا ذهبي الفم
+synaxarium:synax_09_12_03,reference,,,draft,0,,,تذكار ظهور صليب من نور فوق الجلجثة
+synaxarium:synax_09_12_04,reference,,,draft,0,,,تذكار نياحة القديس البابا مرقس السابع البطريرك السادس بعد المائة من بطاركة الكرازة المرقسية
+synaxarium:synax_09_12_05,reference,,,draft,0,,,تذكار استشهاد الْمُعَلِّم ملطي
+synaxarium:synax_09_12_06,reference,,,draft,0,,,تذكار تكريس كنيسة الشهيدة دميانة
+synaxarium:synax_09_13_01,reference,,,draft,0,,,نياحة القديس أرسانيوس معلم أولاد الملوك
+synaxarium:synax_09_13_02,reference,,,draft,0,,,استشهاد القديس أبا بيجول الجندي
+synaxarium:synax_09_14_01,reference,,,draft,0,,,نياحة القديس الأنبا باخوميوس أب الشركة الرهبانية
+synaxarium:synax_09_14_02,reference,,,draft,0,,,استشهاد القديس أبيماخوس الفرمي
+synaxarium:synax_09_15_01,reference,,,draft,0,,,استشهاد القديس سمعان الغيور القانوي أحد الاثنى عشر
+synaxarium:synax_09_15_02,reference,,,draft,0,,,استشهاد أربعمائة شهيد بدندرة على اسم السيد المسيح
+synaxarium:synax_09_15_03,reference,,,draft,0,,,تذكار الشماس مينا المتوحد
+synaxarium:synax_09_15_04,reference,,,draft,0,,,نياحة الشيخ شمس الرئاسة أبي البركات الشهير بابن كبر
+synaxarium:synax_09_16_01,reference,,,draft,0,,,تكريس كنيسة القديس يوحنا الإنجيلي بمدينة الإسكندرية
+synaxarium:synax_09_17_01,reference,,,draft,0,,,تذكار نياحة القديس إبيفانيوس أسقف قبرص
+synaxarium:synax_09_18_01,reference,,,draft,0,,,تذكار عيد العنصرة
+synaxarium:synax_09_18_02,reference,,,draft,0,,,نياحة القديس جورجى رفيق القديس أبرآم
+synaxarium:synax_09_19_01,reference,,,draft,0,,,نياحة القديس إسحاق قس القلالى
+synaxarium:synax_09_19_02,reference,,,draft,0,,,استشهاد القديس إيسوذوروس الأنطاكي
+synaxarium:synax_09_20_01,reference,,,draft,0,,,استشهاد الجنود الستة الذين رافقوا الأمير إقلاديوس الشهيد
+synaxarium:synax_09_20_02,reference,,,draft,0,,,نياحة القديس الأنبا أمونيوس المتوحد بجبل تونة
+synaxarium:synax_09_21_01,reference,,,draft,0,,,التذكار الشهري للقديسة العذراء مريم والدة الإله
+synaxarium:synax_09_21_02,reference,,,draft,0,,,نياحة القديس مارتينيانوس
+synaxarium:synax_09_22_01,reference,,,draft,0,,,نياحة القديس أندرونيقوس أحد السبعين
+synaxarium:synax_09_22_02,reference,,,draft,0,,,استشهاد 142 صبياً، 28 سيدة
+synaxarium:synax_09_22_03,reference,,,draft,0,,,نياحة القديس آمون مؤسس برية نتريا
+synaxarium:synax_09_23_01,reference,,,draft,0,,,نياحة القديس يونياس أحد السبعين
+synaxarium:synax_09_23_02,reference,,,draft,0,,,شهادة القديسة تكلا أثناء محاكمة الأمير إقلاديوس
+synaxarium:synax_09_23_03,reference,,,draft,0,,,نياحة القديس بوتامون المعترف
+synaxarium:synax_09_23_04,reference,,,draft,0,,,شهادة القديس يوليانوس وأمه بالإسكندرية
+synaxarium:synax_09_24_01,reference,,,draft,0,,,تذكار مجيء السيد المسيح إلى أرض مصر
+synaxarium:synax_09_24_02,reference,,,draft,0,,,نياحة حبقوق النبي
+synaxarium:synax_09_24_03,reference,,,draft,0,,,استشهاد الراهب القديس شتوفا المقاري ( بشنونة )
+synaxarium:synax_09_25_01,reference,,,draft,0,,,استشهاد القديس قلتة الأنصناوي الطبيب
+synaxarium:synax_09_25_02,reference,,,draft,0,,,نياحة الأرخن الكريم المعلم إبراهيم الجوهري
+synaxarium:synax_09_26_01,reference,,,draft,0,,,استشهاد القديس توما أحد الاثني عشر رسولاً
+synaxarium:synax_09_27_01,reference,,,draft,0,,,نياحة القديس لعازر حبيب الرب
+synaxarium:synax_09_27_02,reference,,,draft,0,,,نياحة القديس الأنبا توماس السائح بجبل شنشيف
+synaxarium:synax_09_27_03,reference,,,draft,0,,,نياحة القديس البابا يوأنس الثاني البطريرك الثلاثين من بطاركة الكرازة المرقسية
+synaxarium:synax_09_28_01,reference,,,draft,0,,,تذكار نقل جسد القديس إبيفانيوس أسقف قبرص
+synaxarium:synax_09_29_01,reference,,,draft,0,,,تذكار الأعياد السيدية البشارة والميلاد والقيامة
+synaxarium:synax_09_29_02,reference,,,draft,0,,,نياحة القديس سمعان العمودي
+synaxarium:synax_09_30_01,reference,,,draft,0,,,نياحة القديس فورس الرسول أحد السبعين
+synaxarium:synax_09_30_02,reference,,,draft,0,,,نياحة القديس البابا ميخائيل الأول البطريرك الثامن والستين من بطاركة الكرازة المرقسية
+synaxarium:synax_10_01_01,reference,,,draft,0,,,في مثل هذا اليوم تنيَّح القديس كاربوس أحد السبعين الذين انتخبهم السيد المسيح للتبشير والكرازة. فخدم
+synaxarium:synax_10_01_02,reference,,,draft,0,,,وفيه أيضاً من سنة 21 للشهداء ( 305م )، استشهد القديس أبو فام الجُندي. وُلِدَ هذا القديس في بلدة طحا
+synaxarium:synax_10_01_03,reference,,,draft,0,,,وفيه أيضاً استشهد القديس قزمان الطحاوي ورفقاؤه.
+synaxarium:synax_10_01_04,reference,,,draft,0,,,وفيه أيضاً تم تكريس كنيسة الشهيد لاونديوس الشامي. وذلك أنه بعد أن استشهد القديس في مدينة طرابلس (طرا
+synaxarium:synax_10_02_01,reference,,,draft,0,,,ظهور جسديّ القديس يوحنا المعمدان وأليشع النبي
+synaxarium:synax_10_02_02,reference,,,draft,0,,,نياحة القديس البابا يوأنس الثامن عشر البطريرك السابع بعد المائة من بطاركة الكرازة المرقسية
+synaxarium:synax_10_03_01,reference,,,draft,0,,,استشهاد القديس اللاديوس الأسقف
+synaxarium:synax_10_03_02,reference,,,draft,0,,,نياحة القديس الأنبا أبرآم أسقف الفيوم والجيزة
+synaxarium:synax_10_03_03,reference,,,draft,0,,,نياحة القديسة مرثا المصرية الناسكة
+synaxarium:synax_10_04_01,reference,,,draft,0,,,استشهاد القديس سينوسيوس
+synaxarium:synax_10_04_02,reference,,,draft,0,,,استشهاد القديس يوحنا الهرقلي
+synaxarium:synax_10_04_03,reference,,,draft,0,,,استشهاد القديس الأنبا آمون والبارة صوفية
+synaxarium:synax_10_04_04,reference,,,draft,0,,,نياحة القديس أباهور
+synaxarium:synax_10_04_05,reference,,,draft,0,,,نياحة القديس البابا يوأنس الثامن البطريرك الثمانين من بطاركة الكرازة المرقسية
+synaxarium:synax_10_05_01,reference,,,draft,0,,,نياحة القديس يعقوب المشرقي المعترف
+synaxarium:synax_10_05_02,reference,,,draft,0,,,استشهاد القديس بيفام
+synaxarium:synax_10_05_03,reference,,,draft,0,,,استشهاد القديس بشاي وبطرس
+synaxarium:synax_10_05_04,reference,,,draft,0,,,تكريس كنيسة القديس بقطر بناحية شو
+synaxarium:synax_10_06_01,reference,,,draft,0,,,استشهاد القديس ثيئودوروس الراهب
+synaxarium:synax_10_06_02,reference,,,draft,0,,,نياحة القديس ديديموس الضرير
+synaxarium:synax_10_07_01,reference,,,draft,0,,,استشهاد القديس أبسخيرون الجندي القلينى
+synaxarium:synax_10_07_02,reference,,,draft,0,,,نياحة القديس مويسيس بجبل أخميم
+synaxarium:synax_10_07_03,reference,,,draft,0,,,تكريس كنيسة الأنبا متاؤس الفاخورى بجبل إسنا
+synaxarium:synax_10_08_01,reference,,,draft,0,,,تذكار تكريس كنيسة السيدة العذراء المعروفة بالمحمَّة (المحمة: مسطرد حالياً، قرب القاهرة)
+synaxarium:synax_10_08_02,reference,,,draft,0,,,استشهاد القديس جرجس الجديد
+synaxarium:synax_10_08_03,reference,,,draft,0,,,تذكار القديسة تمادا وأولادها وأرمانوس وأمه
+synaxarium:synax_10_09_01,reference,,,draft,0,,,نياحة القديس صموئيل النبي
+synaxarium:synax_10_09_02,reference,,,draft,0,,,استشهاد القديس لوكيليانوس وأربعة آخرين معه
+synaxarium:synax_10_09_03,reference,,,draft,0,,,استشهاد القديسين أبامون وسرنا
+synaxarium:synax_10_09_04,reference,,,draft,0,,,نقل أعضاء الشهيد مرقوريوس أبى سيفين إلى مصر
+synaxarium:synax_10_10_01,reference,,,draft,0,,,استشهاد القديس القس مكسي الشنراوي
+synaxarium:synax_10_10_02,reference,,,draft,0,,,استشهاد القديسة دابامون وأختها بصطامون وأمهما صوفية
+synaxarium:synax_10_10_03,reference,,,draft,0,,,تذكار فتح الكنائس
+synaxarium:synax_10_10_04,reference,,,draft,0,,,نياحة القديس البابا يوأنس السادس عشر البطريرك 103 من بطاركة الكرازة المرقسية
+synaxarium:synax_10_11_01,reference,,,draft,0,,,استشهاد القديس إقلاديوس
+synaxarium:synax_10_11_02,reference,,,draft,0,,,تذكار تكريس هيكل الأربعين شهيداً بكنيسة إبسوتير ( المخلص ) بالإسكندرية
+synaxarium:synax_10_12_01,reference,,,draft,0,,,تذكار رئيس الملائكة ميخائيل
+synaxarium:synax_10_12_02,reference,,,draft,0,,,نياحة القديسة أوفيمية
+synaxarium:synax_10_12_03,reference,,,draft,0,,,نياحة القديس البابا يسطس البطريرك السادس من بطاركة الكرازة المرقسية
+synaxarium:synax_10_12_04,reference,,,draft,0,,,نياحة القديس البابا كيرلس الثاني البطريرك السابع والستين من بطاركة الكرازة المرقسية
+synaxarium:synax_10_13_01,reference,,,draft,0,,,تذكار رئيس الملائكة جبرائيل المبشر
+synaxarium:synax_10_13_02,reference,,,draft,0,,,نياحة القديس يوحنا أسقف أورشليم
+synaxarium:synax_10_14_01,reference,,,draft,0,,,استشهاد القديسين أباكير وفيلبس ويوحنا وأبطلماوس
+synaxarium:synax_10_14_02,reference,,,draft,0,,,نياحة القديس البابا يوأنس التاسع عشر البطريرك الثالث عشر بعد المائة من بطاركة الكرازة المرقسية
+synaxarium:synax_10_15_01,reference,,,draft,0,,,تكريس كنيسة الشهيد مار مينا العجائبي بمريوط
+synaxarium:synax_10_15_02,reference,,,draft,0,,,استلام جسد مار مرقس
+synaxarium:synax_10_16_01,reference,,,draft,0,,,نياحة القديس أبى نوفر السائح
+synaxarium:synax_10_17_01,reference,,,draft,0,,,نياحة القديس لاتصون البهنساوي
+synaxarium:synax_10_17_02,reference,,,draft,0,,,عودة رفات القديس مار مرقس إلى الكاتدرائية المرقسية الجديدة
+synaxarium:synax_10_18_01,reference,,,draft,0,,,نياحة القديس البابا داميانوس البطريرك الخامس والثلاثين من بطاركة الكرازة المرقسية
+synaxarium:synax_10_18_02,reference,,,draft,0,,,افتتاح الكاتدرائية الجديدة بدير الأنبا رويس بالقاهرة
+synaxarium:synax_10_19_01,reference,,,draft,0,,,استشهاد القديس جرجس المزاحم
+synaxarium:synax_10_19_02,reference,,,draft,0,,,استشهاد القديس بشاي أنوب
+synaxarium:synax_10_19_03,reference,,,draft,0,,,نياحة البابا أرشيلاؤس البطريرك الثامن عشر من بطاركة الكرازة المرقسية
+synaxarium:synax_10_19_04,reference,,,draft,0,,,وضع جسد القديس مار مرقس الرسول بالمزار المخصص له بكنيسته بدير الأنبا رويس
+synaxarium:synax_10_20_01,reference,,,draft,0,,,نياحة القديس أليشع النبي
+synaxarium:synax_10_20_02,reference,,,draft,0,,,تكريس كنيسة القديس أباكلوج القس
+synaxarium:synax_10_21_01,reference,,,draft,0,,,تذكار بناء أول كنيسة للعذراء مريم بمدينة فيليبي
+synaxarium:synax_10_21_02,reference,,,draft,0,,,تذكار معجزة حل الحديد بمدينة برطس بصلوات القديسة العذراء مريم
+synaxarium:synax_10_21_03,reference,,,draft,0,,,استشهاد القديس تيموثاوس المصري
+synaxarium:synax_10_21_04,reference,,,draft,0,,,نياحة القديس البابا كردونوس البطريرك الرابع من بطاركة الكرازة المرقسية
+synaxarium:synax_10_22_01,reference,,,draft,0,,,تكريس كنيسة الشهيدين قزمان ودميان وإخوتهما وأمهما
+synaxarium:synax_10_23_01,reference,,,draft,0,,,نياحة القديس أبانوب المعترف
+synaxarium:synax_10_24_01,reference,,,draft,0,,,استشهاد القديس الأنبا موسى الأسود
+synaxarium:synax_10_24_02,reference,,,draft,0,,,نياحة القديس إيسوذوروس قس الإسقيط
+synaxarium:synax_10_25_01,reference,,,draft,0,,,نياحة القديس البابا بطرس الرابع البطريرك الرابع والثلاثين من بطاركة الكرازة المرقسية
+synaxarium:synax_10_26_01,reference,,,draft,0,,,تكريس كنيسة الملاك غبريال بجبل النقلون بالفيوم
+synaxarium:synax_10_27_01,reference,,,draft,0,,,استشهاد القديس حنانيا الرسول
+synaxarium:synax_10_27_02,reference,,,draft,0,,,استشهاد القديس توماس الذي من شندلات
+synaxarium:synax_10_27_03,reference,,,draft,0,,,نياحة القديس يوحنا بن الأبح
+synaxarium:synax_10_28_01,reference,,,draft,0,,,نياحة القديس البابا ثاؤدوسيوس البطريرك الثالث والثلاثين من بطاركة الكرازة المرقسية
+synaxarium:synax_10_28_02,reference,,,draft,0,,,تذكار تكريس كنيسة الأنبا صرابامون أسقف نيقيوس
+synaxarium:synax_10_29_01,reference,,,draft,0,,,تذكار الأعياد السيدية البشارة والميلاد والقيامة
+synaxarium:synax_10_29_02,reference,,,draft,0,,,استشهاد السبعة نساك بجبل تونة
+synaxarium:synax_10_29_03,reference,,,draft,0,,,استشهاد القديسين أباهور وديودورة أمه
+synaxarium:synax_10_30_01,reference,,,draft,0,,,ميلاد القديس يوحنا المعمدان
+synaxarium:synax_10_30_02,reference,,,draft,0,,,نياحة القديس البابا قسما الأول البطريرك الرابع والأربعين من بطاركة الكرازة المرقسية
+synaxarium:synax_11_01_01,reference,,,draft,0,,,في مثل هذا اليوم من سنة 21 للشهداء ( 305م ) استشهدت القديسة الناسكة العذراء أفرونيا. عاشت هذه القديس
+synaxarium:synax_11_01_02,reference,,,draft,0,,,وفيه أيضاً تنيَّح القديسان بيوخا وتيابان. كان هذان القديسان كاهنين على كنيسة تونة بناحية تندا (تونة
+synaxarium:synax_11_01_03,reference,,,draft,0,,,وفيه أيضاً تُعيِّد الكنيسة بتذكار تكريس كنيسة الشهيد العظيم مار مينا العجايبي الكائنة بديره بجبل أبن
+synaxarium:synax_11_02_01,reference,,,draft,0,,,استشهاد القديس يهوذا الرسول ( لباوس الملقب تداوس )
+synaxarium:synax_11_03_01,reference,,,draft,0,,,نياحة القديس البابا كيرلس الأول البطريرك الرابع والعشرين من بطاركة الكرازة المرقسية
+synaxarium:synax_11_03_02,reference,,,draft,0,,,نياحة القديس كلستينوس بابا روما
+synaxarium:synax_11_04_01,reference,,,draft,0,,,تذكار نقل أعضاء الشهيدين أباكير ويوجنا
+synaxarium:synax_11_05_01,reference,,,draft,0,,,استشهاد القديسين بطرس وبولس
+synaxarium:synax_11_05_02,reference,,,draft,0,,,استشهاد القديس مرقس والي البرلس، والد القديسة دميانة
+synaxarium:synax_11_06_01,reference,,,draft,0,,,استشهاد القديس أولمباس أحد السبعين تلميذاً
+synaxarium:synax_11_06_02,reference,,,draft,0,,,استشهاد القديسة ثاؤدوسية ومن معها
+synaxarium:synax_11_07_01,reference,,,draft,0,,,نياحة القديس العظيم الأنبا شنوده رئيس المتوحدين
+synaxarium:synax_11_08_01,reference,,,draft,0,,,نياحة القديس الأنبا بيشوي
+synaxarium:synax_11_08_02,reference,,,draft,0,,,استشهاد القديسين أبيرؤوه وأثوم
+synaxarium:synax_11_08_03,reference,,,draft,0,,,استشهاد القديس بلانا القس
+synaxarium:synax_11_08_04,reference,,,draft,0,,,استشهاد القديس بيمانون
+synaxarium:synax_11_08_05,reference,,,draft,0,,,نياحة القديس الأنبا كاراس السائح
+synaxarium:synax_11_08_06,reference,,,draft,0,,,نياحة القديس مرقس الأنطوني
+synaxarium:synax_11_09_01,reference,,,draft,0,,,استشهاد القديس سمعان بن حلفي أسقف أورشليم
+synaxarium:synax_11_09_02,reference,,,draft,0,,,نياحة القديس البابا كلاوديانوس البطريرك التاسع من بطاركة الكرازة المرقسية
+synaxarium:synax_11_10_01,reference,,,draft,0,,,استشهاد القديس ثاؤدوروس أسقف الخمس مدن الغربية
+synaxarium:synax_11_10_02,reference,,,draft,0,,,استشهاد القديس ثاؤدوروس أسقف كورنثوس ومن معه
+synaxarium:synax_11_11_01,reference,,,draft,0,,,استشهاد القديسين يوحنا وسمعان ابن عمه
+synaxarium:synax_11_11_02,reference,,,draft,0,,,نياحة القديس العظيم الأنبا إشعياء الإسقيطى
+synaxarium:synax_11_12_01,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل ميخائيل رئيس جند الرب
+synaxarium:synax_11_12_02,reference,,,draft,0,,,استشهاد القديس أباهور السرياقوسي
+synaxarium:synax_11_12_03,reference,,,draft,0,,,نياحة القديس الأنبا شيشوي الكبير
+synaxarium:synax_11_13_01,reference,,,draft,0,,,نياحة القديس بسنتاؤس أسقف قفط
+synaxarium:synax_11_13_02,reference,,,draft,0,,,استشهاد القديس أبامون الطوخى
+synaxarium:synax_11_13_03,reference,,,draft,0,,,استشهاد القديس شنوده في أوائل حكم العرب
+synaxarium:synax_11_14_01,reference,,,draft,0,,,استشهاد القديس بروكونيوس
+synaxarium:synax_11_14_02,reference,,,draft,0,,,نياحة القديس البابا بطرس الخامس البطريرك الثالث والثمانين من بطاركة الكرازة المرقسية
+synaxarium:synax_11_15_01,reference,,,draft,0,,,نياحة القديس مار أفرام السرياني
+synaxarium:synax_11_15_02,reference,,,draft,0,,,استشهاد القديسين كيرياكوس ويوليطة أمه
+synaxarium:synax_11_15_03,reference,,,draft,0,,,استشهاد القديس أوروسيوس
+synaxarium:synax_11_16_01,reference,,,draft,0,,,نياحة القديس يوحنا صاحب الإنجيل الذهب
+synaxarium:synax_11_16_02,reference,,,draft,0,,,وضع جسد الشهيد مار جرجس الروماني بكنيسته بمصر القديمة
+synaxarium:synax_11_16_03,reference,,,draft,0,,,تكريس بيعة الشهيد فيلوثيئوس
+synaxarium:synax_11_17_01,reference,,,draft,0,,,استشهاد القديسة أوفيمية
+synaxarium:synax_11_17_02,reference,,,draft,0,,,استشهاد القديستين تكلا ومرثا من إسنا
+synaxarium:synax_11_18_01,reference,,,draft,0,,,استشهاد القديس يعقوب الرسول أخي الرب
+synaxarium:synax_11_19_01,reference,,,draft,0,,,استشهاد القديسين الأنبا بضابا أسقف قفط وأنبا أندراوس وأنبا خرستوذولوس
+synaxarium:synax_11_19_02,reference,,,draft,0,,,استشهاد شهداء مذبحة إسنا
+synaxarium:synax_11_19_03,reference,,,draft,0,,,استشهاد القديس بطلون الطبيب
+synaxarium:synax_11_19_04,reference,,,draft,0,,,نياحة القديس البابا يوأنس العاشر البطريرك الخامس والثمانين من بطاركة الكرازة المرقسية
+synaxarium:synax_11_20_01,reference,,,draft,0,,,استشهاد القديس تادرس الشُطبي
+synaxarium:synax_11_21_01,reference,,,draft,0,,,تذكار القديسة العذراء مريم
+synaxarium:synax_11_21_02,reference,,,draft,0,,,نياحة القديس سوسنيوس الخصي
+synaxarium:synax_11_22_01,reference,,,draft,0,,,استشهاد القديس مكاريوس بن واسيليدس الوزير
+synaxarium:synax_11_22_02,reference,,,draft,0,,,استشهاد القديس لاونديوس
+synaxarium:synax_11_23_01,reference,,,draft,0,,,استشهاد القديس لونجينوس القائد
+synaxarium:synax_11_23_02,reference,,,draft,0,,,استشهاد القديسة مارينا
+synaxarium:synax_11_24_01,reference,,,draft,0,,,استشهاد القديس أبانوب النهيسي
+synaxarium:synax_11_24_02,reference,,,draft,0,,,نياحة القديس البابا سيماؤن الثاني البطريرك الثاني والأربعين من بطاركة الكرازة المرقسية
+synaxarium:synax_11_25_01,reference,,,draft,0,,,تكريس كنيسة الشهيد مرقوريوس أبي سيفين
+synaxarium:synax_11_25_02,reference,,,draft,0,,,استشهاد القديس إسحاق
+synaxarium:synax_11_25_03,reference,,,draft,0,,,استشهاد القديسة ليارية
+synaxarium:synax_11_25_04,reference,,,draft,0,,,استشهاد القديستين تكلة وموجي
+synaxarium:synax_11_25_05,reference,,,draft,0,,,استشهاد القديس أنطونيوس البباوي
+synaxarium:synax_11_25_06,reference,,,draft,0,,,استشهاد القديس أباكراجون
+synaxarium:synax_11_25_07,reference,,,draft,0,,,استشهاد القديس دوماديوس السرياني
+synaxarium:synax_11_25_08,reference,,,draft,0,,,نياحة القديس بلامون
+synaxarium:synax_11_26_01,reference,,,draft,0,,,نياحة القديس يوسف البار خطيب القديسة مريم العذراء
+synaxarium:synax_11_26_02,reference,,,draft,0,,,نياحة القديس البابا تيموثاوس الأول البطريرك الثاني والعشرين من بطاركة الكرازة المرقسية
+synaxarium:synax_11_27_01,reference,,,draft,0,,,استشهاد القديس أبامون
+synaxarium:synax_11_27_02,reference,,,draft,0,,,تكريس كنيسة القديس أبي فام الجندي الأوسيمي
+synaxarium:synax_11_28_01,reference,,,draft,0,,,نياحة القديسة مريم المجدلية
+synaxarium:synax_11_29_01,reference,,,draft,0,,,تذكار الأعياد السيدية البشارة والميلاد والقيامة
+synaxarium:synax_11_29_02,reference,,,draft,0,,,تذكار نقل أعضاء القديس أندراوس الرسول
+synaxarium:synax_11_29_03,reference,,,draft,0,,,استشهاد القديس ورشنوفيوس
+synaxarium:synax_11_30_01,reference,,,draft,0,,,استشهاد القديس مرقوريوس وأفرام من أخميم
+synaxarium:synax_12_01_01,reference,,,draft,0,,,في مثل هذا اليوم من سنة 20 للشهداء ( 304م ) استشهد القديس أبالي بن يسطس بن الملك نوماريوس، كان فارسا
+synaxarium:synax_12_01_02,reference,,,draft,0,,,وفيه أيضاً من سنة 1643 للشهداء ( 1927م ) تنيَّح القديس البابا كيرلس الخامس البطريرك الثاني عشر بعد ا
+synaxarium:synax_12_02_01,reference,,,draft,0,,,نياحة القديسة بائيسة
+synaxarium:synax_12_03_01,reference,,,draft,0,,,نقل جسد القديس سمعان العمودي إلى مدينة القسطنطينية
+synaxarium:synax_12_03_02,reference,,,draft,0,,,نياحة القديس البابا إبريموس البطريرك الخامس من بطاركة الكرازة المرقسية
+synaxarium:synax_12_04_01,reference,,,draft,0,,,نياحة حزقيا الملك البار
+synaxarium:synax_12_04_02,reference,,,draft,0,,,تكريس كنيسة القديس العظيم الأنبا أنطونيوس
+synaxarium:synax_12_05_01,reference,,,draft,0,,,نياحة القديس يوحنا الجُندي
+synaxarium:synax_12_06_01,reference,,,draft,0,,,استشهاد القديسة يوليطة المجاهدة
+synaxarium:synax_12_06_02,reference,,,draft,0,,,نياحة القديس يعقوب البرادعي
+synaxarium:synax_12_06_03,reference,,,draft,0,,,نياحة القديس الأنبا ويصا تلميذ الأنبا شنوده رئيس المتوحدين
+synaxarium:synax_12_07_01,reference,,,draft,0,,,بشارة الملاك للقديس يواقيم بميلاد القديسة العذراء مريم
+synaxarium:synax_12_07_02,reference,,,draft,0,,,نياحة القديس البابا تيموثاوس الثاني البطريرك السادس والعشرين من بطاركة الكرازة المرقسية
+synaxarium:synax_12_07_03,reference,,,draft,0,,,نياحة القديس بسنتاؤس الناسك بجبل الطود
+synaxarium:synax_12_08_01,reference,,,draft,0,,,استشهاد القديسين أليعازر وزوجته سالومى وأولادهما
+synaxarium:synax_12_09_01,reference,,,draft,0,,,استشهاد القديس آري الشطانوفي القس
+synaxarium:synax_12_10_01,reference,,,draft,0,,,استشهاد القديس بيخبيس
+synaxarium:synax_12_10_02,reference,,,draft,0,,,استشهاد القديس مطرا
+synaxarium:synax_12_11_01,reference,,,draft,0,,,نياحة القديس مويسيس أسقف أوسيم
+synaxarium:synax_12_12_01,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل ميخائيل
+synaxarium:synax_12_12_02,reference,,,draft,0,,,تذكار تملك الإمبراطور قسطنطين على عرش روما
+synaxarium:synax_12_13_01,reference,,,draft,0,,,عيد التجلي المجيد
+synaxarium:synax_12_14_01,reference,,,draft,0,,,تذكار الآية العظيمة التي صنعها الله في عهد البابا ثاؤفيلس البطريرك الثالث والعشرين
+synaxarium:synax_12_15_01,reference,,,draft,0,,,نياحة القديسة مارينا الراهبة
+synaxarium:synax_12_15_02,reference,,,draft,0,,,نياحة القديس الأرشيدياكون حبيب جرجس (اعترف المجمع المقدس بقداسته في جلسة 20 يونيو 2013م)
+synaxarium:synax_12_16_01,reference,,,draft,0,,,إعلان إصعاد جسد القديسة الطاهرة مريم إلى السماء
+synaxarium:synax_12_16_02,reference,,,draft,0,,,نياحة القديس البابا متاؤس الرابع البطريرك الثاني بعد المائة من بطاركة الكرازة المرقسية
+synaxarium:synax_12_17_01,reference,,,draft,0,,,استشهاد القديس يعقوب الجُندي
+synaxarium:synax_12_18_01,reference,,,draft,0,,,نياحة البابا ألكسندروس بطريرك القسطنطينية
+synaxarium:synax_12_18_02,reference,,,draft,0,,,استشهاد وادامون الأرمنتي
+synaxarium:synax_12_19_01,reference,,,draft,0,,,إعادة جسد القديس مكاريوس الكبير إلى ديره ببرية شيهيت
+synaxarium:synax_12_20_01,reference,,,draft,0,,,استشهاد الفتية السبعة الذين من أفسس
+synaxarium:synax_12_21_01,reference,,,draft,0,,,تذكار القديسة العذراء مريم والدة الإله
+synaxarium:synax_12_21_02,reference,,,draft,0,,,نياحة القديسة إيريني
+synaxarium:synax_12_22_01,reference,,,draft,0,,,نياحة ميخا النبي
+synaxarium:synax_12_22_02,reference,,,draft,0,,,نياحة القديس أوغسطينوس
+synaxarium:synax_12_23_01,reference,,,draft,0,,,استشهاد ثلاثين ألف مسيحي بمدينة الإسكندرية
+synaxarium:synax_12_23_02,reference,,,draft,0,,,استشهاد القديس دميان بأنطاكية
+synaxarium:synax_12_24_01,reference,,,draft,0,,,نياحة القديس توما أسقف مرعش
+synaxarium:synax_12_24_02,reference,,,draft,0,,,نياحة القديس تكلاهيمانوت الحبشي
+synaxarium:synax_12_25_01,reference,,,draft,0,,,نياحة القديس بيساريون الكبير
+synaxarium:synax_12_25_02,reference,,,draft,0,,,نياحة القديس البابا مكاريوس الثالث البطريرك الرابع عشر بعد المائة من بطاركة الكرازة المرقسية
+synaxarium:synax_12_26_01,reference,,,draft,0,,,استشهاد القديس مويسيس والبارة سارة أخته
+synaxarium:synax_12_26_02,reference,,,draft,0,,,استشهاد القديس أغابيوس الجندي والبارة تكلة أخته
+synaxarium:synax_12_27_01,reference,,,draft,0,,,استشهاد القديس بنيامين وأودكسية أخته
+synaxarium:synax_12_27_02,reference,,,draft,0,,,استشهاد القديسة مريم الأرمنية
+synaxarium:synax_12_28_01,reference,,,draft,0,,,تذكار الآباء القديسين إبراهيم وإسحاق ويعقوب
+synaxarium:synax_12_29_01,reference,,,draft,0,,,تذكار الأعياد السيدية البشارة والميلاد والقيامة
+synaxarium:synax_12_29_02,reference,,,draft,0,,,استشهاد القديس أثناسيوس الأسقف وغلاميه
+synaxarium:synax_12_29_03,reference,,,draft,0,,,وصول جسد القديس يحنس القصير إلى برية شيهيت
+synaxarium:synax_12_30_01,reference,,,draft,0,,,نياحة ملاخي النبي
+synaxarium:synax_13_01_01,reference,,,draft,0,,,في مثل هذا اليوم تنيَّح القديس أفتيخوس، كان تلميذاً للقديس يوحنا الإنجيلي، وحضر حلول الروح القدس في
+synaxarium:synax_13_01_02,reference,,,draft,0,,,وفيه أيضاً استشهد القديس بشاي أخو القديس أباهور. كان هذا القديس من أهل مدينة أنطاكية، ولكثرة عِلمه و
+synaxarium:synax_13_02_01,reference,,,draft,0,,,نياحة القديس تيطس الرسول
+synaxarium:synax_13_03_01,reference,,,draft,0,,,تذكار رئيس الملائكة الجليل روفائيل
+synaxarium:synax_13_03_02,reference,,,draft,0,,,استشهاد القديسين أندريانوس ومن معه
+synaxarium:synax_13_03_03,reference,,,draft,0,,,نياحة القديس البابا يوأنس الرابع عشر البطريرك السادس والتسعين من بطاركة الكرازة المرقسية
+synaxarium:synax_13_04_01,reference,,,draft,0,,,نياحة القديس بيمن المتوحد
+synaxarium:synax_13_05_01,reference,,,draft,0,,,نياحة عاموس النبي
+synaxarium:synax_13_05_02,reference,,,draft,0,,,نياحة القديس يعقوب أسقف مصر
+synaxarium:synax_13_05_03,reference,,,draft,0,,,نياحة القديس البابا يوأنس الخامس عشر البطريرك التاسع والتسعين من بطاركة الكرازة المرقسية
+synaxarium:synax_13_05_04,reference,,,draft,0,,,نياحة القديس برسوم العريان
+synaxarium:synax_13_06_01,reference,,,draft,0,,,شكر إلى الله

@@ -19,7 +19,15 @@
       "visiting_hours": "طوال أيام الأسبوع من الساعة 6:00 صباحاً حتى 6:00 مساءً (يُغلق خلال فترات خلوات الرهبان وأسبوع الآلام)",
       "architectural_description": "يضم كنيسة القديس أنطونيوس الأثرية ذات الجداريات الفريسكو النادرة التي تعود للقرن الثالث عشر، الحصن الأثري، عين ماء أنطونيوس المتدفقة منذ آلاف السنين، ومغارة القديس الصخرية المرتفعة 680 متراً فوق سطح البحر على قمة جبل القلزم.",
       "feast_date": "22 طوبة (تذكار نياحة القديس أنطونيوس كوكب البرية)",
-      "content_id": "monastery:st_anthony"
+      "content_id": "monastery:st_anthony",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_paul",
@@ -39,7 +47,15 @@
       "visiting_hours": "يومياً من 7:00 ص إلى 5:00 م (مع استثناء أصوام الصوم الكبير وأسبوع البصخة)",
       "architectural_description": "يتميز بكنيسة المغارة الصخرية المنحوتة في باطن الجبل حيث رفات القديس، وحصن دفاعي شاهق من العصور الوسطى، وساقية ماء عذبة تنبع من بطن الصخر، ومخطوطات لاهوتية قبطية نادرة.",
       "feast_date": "2 أمشير (تذكار نياحة القديس أنبا بولا)",
-      "content_id": "monastery:st_paul"
+      "content_id": "monastery:st_paul",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_macarius",
@@ -59,7 +75,15 @@
       "visiting_hours": "يستقبل الزوار والأفواج بتنسيق مسبق (يُراعى الطابع النسكي الهادئ للدير)",
       "architectural_description": "يضم كنيسة القديس مقاريوس التاريخية، قبة القديس مرقس، رفات يوحنا المعمدان وإليشع النبي المكتشفة في القرن العشرين، وحصناً كبيراً ومكتبة تراثية من أعظم مكتبات المخطوطات في الشرق الأوسط.",
       "feast_date": "27 برمهات (نياحة القديس مقاريوس الكبير) و19 توت (تذكار تجميع رفات المقارات الثلاثة)",
-      "content_id": "monastery:st_macarius"
+      "content_id": "monastery:st_macarius",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_bishoy",
@@ -79,7 +103,15 @@
       "visiting_hours": "مفتوح للزيارة ونوال البركة يومياً من 8:00 صباحاً حتى 6:00 مساءً",
       "architectural_description": "يحتوي على جسد الأنبا بيشوي غير المتحلل في أنبوبة زجاجية مهيبة، الكنيسة الأثرية الكبرى بقبابها الخمس، الحصن البيزنطي القديم، بئر الشهداء، والمقر البابوي الحديث ومتحف البابا شنودة.",
       "feast_date": "8 أبيب (تذكار نياحة القديس الأنبا بيشوي)",
-      "content_id": "monastery:st_bishoy"
+      "content_id": "monastery:st_bishoy",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "syrian",
@@ -99,7 +131,15 @@
       "visiting_hours": "يومياً للزيارة والتبرك من 8:00 ص إلى 5:30 م",
       "architectural_description": "كنيسة العذراء الأثرية وباب الرموز الشهير (باب النبوات المنحوت من خشب الأبنوس والعاج ويرمز لعصور الكنيسة)، شجرة القديس مار إفرام السرياني (عكازه الذي أورق شجرة تين عملاقة)، وقباب قبطية فريدة الجمال.",
       "feast_date": "21 طوبة (تذكار نياحة السيدة العذراء) و13 كيهك (تذكار تأسيس كنيسة الدير)",
-      "content_id": "monastery:syrian"
+      "content_id": "monastery:syrian",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "baramous",
@@ -119,7 +159,15 @@
       "visiting_hours": "يستقبل الزوار والأسر يومياً حتى 5:00 مساءً (ما عدا الأصوام الكبرى حيث يُغلق للرهبنة)",
       "architectural_description": "كنيسة العذراء الأثرية، رفات القديس القوي الأنبا موسى الأسود وجسد معلمه القديس إيسيذوروس، الحصن الأثري الضخم، وأسوار قديمة تحكي صمود الرهبنة أمام غارات البربر.",
       "feast_date": "17 طوبة (تذكار نياحة القديسين مكسيموس ودوماديوس) و24 بؤونة (استشهاد القديس موسى الأسود)",
-      "content_id": "monastery:baramous"
+      "content_id": "monastery:baramous",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "muharraq",
@@ -139,7 +187,15 @@
       "visiting_hours": "مفتوح للزوار يومياً على مدار العام لاستقبال البركة من الكنيسة الأثرية",
       "architectural_description": "الكنيسة الأثرية القديمة ذات المذبح الحجري الذي دشنه الرب يسوع بنفسه، الحصن الأثري، الكلية الإكليريكية اللاهوتية العريقة بدير المحرق، ومزار يحوي ذكريات وتراث رهباني فريد.",
       "feast_date": "6 بؤونة (تذكار تكريس كنيسة العذراء بقسقام) ونصف أغسطس (صوم العذراء مريم)",
-      "content_id": "monastery:muharraq"
+      "content_id": "monastery:muharraq",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_shenouda",
@@ -159,7 +215,15 @@
       "visiting_hours": "مفتوح للزيارة والأفواج والرحلات الدينية يومياً من الصباح حتى الغروب",
       "architectural_description": "كنيسة بازيليكية هائلة تُعد أعظم نموذج معماري قبطي باقٍ، ذات أعمدة ضخمة وهياكل رخامية نصف دائرية، جداريات أثرية، ومكتبة تاريخية تفرقت مخطوطاتها في كبرى متاحف العالم.",
       "feast_date": "7 أبيب (تذكار نياحة القديس العظيم الأنبا شنودة رئيس المتوحدين)",
-      "content_id": "monastery:st_shenouda"
+      "content_id": "monastery:st_shenouda",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_samuel",
@@ -179,7 +243,15 @@
       "visiting_hours": "تُنظم الزيارات في الأوقات المسموح بها كنسياً وأمنياً مع التنسيق المسبق",
       "architectural_description": "مغارة الأنبا صموئيل العالية في جبل القلمون المنحوتة في الصخر، الكنائس الأثرية، حصن الدير، وعيون المياه العذبة المتفجرة وسط الصحراء القاحلة كمعجزة إلهية مستمرة.",
       "feast_date": "8 كيهك (تذكار نياحة القديس الأنبا صموئيل المعترف)",
-      "content_id": "monastery:st_samuel"
+      "content_id": "monastery:st_samuel",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_damiana",
@@ -199,7 +271,15 @@
       "visiting_hours": "مفتوح طوال العام للزيارة والصلاة واستقبال آلاف الزوار في موسم عيدها السنوي",
       "architectural_description": "يضم مقبرة الشهيدة دميانة والأربعين عذراء الأثرية بقبابها التاريخية، الكنيسة الكبرى الحديثة، صوامع الراهبات الباسكيات، ومزاراً يقصده الملايين للشفاء ونوال البركة والشفاعة.",
       "feast_date": "12 بشنس (تذكار تكريس كنيسة القديسة دميانة ببلقاس) و13 طوبة (تذكار استشهادها)",
-      "content_id": "monastery:st_damiana"
+      "content_id": "monastery:st_damiana",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_mina",
@@ -219,7 +299,15 @@
       "visiting_hours": "مفتوح يومياً لاستقبال آلاف الزوار والرحلات الكنسية من 7:00 ص حتى 8:00 م",
       "architectural_description": "الكاتدرائية الكبرى الشاهقة، مزار الشهيد مارمينا، مزار وضريح البابا كيرلس السادس الرخامي المهيب، كنيسة الأنبا شنودة، ومنطقة أبو مينا الأثرية المسجلة على قائمة التراث العالمي لليونسكو.",
       "feast_date": "15 هاتور (عيد استشهاد مارمينا) و30 بؤونة (تذكار تكريس كنيسته) و30 أمشير (نياحة البابا كيرلس)",
-      "content_id": "monastery:st_mina"
+      "content_id": "monastery:st_mina",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_philopater_cairo",
@@ -239,7 +327,15 @@
       "visiting_hours": "مفتوح للزوار يومياً في مواعيد الزيارة المحددة بعد انتهاء القداسات حتى 5:00 م",
       "architectural_description": "يضم مزار الشهيد أبي سيفين وكنائس الدير الداخلية، مزار الأم تماف إيريني الرخامي، جداريات كنسية فخمة، ومعارض منتجات ومكتبة رهبانية راقية.",
       "feast_date": "25 أبيب (عيد استشهاد أبي سيفين) و25 هاتور (تذكار تكريس كنيسته) و9 بؤونة (وصول ذخيرة رفاته)",
-      "content_id": "monastery:st_philopater_cairo"
+      "content_id": "monastery:st_philopater_cairo",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_anthony_karnak",
@@ -259,7 +355,15 @@
       "visiting_hours": "مفتوح للزيارة والتبرك يومياً لأبناء الإيبارشية والزوار والأفواج السياحية",
       "architectural_description": "كنيسة تاريخية بقباب صلبة ذات طابع صعيدي مميز، مغطس أثري، وأيقونات نادرة تعكس الفن القبطي في صعيد مصر الأعلى.",
       "feast_date": "22 طوبة (عيد نياحة الأنبا أنطونيوس)",
-      "content_id": "monastery:st_anthony_karnak"
+      "content_id": "monastery:st_anthony_karnak",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_thomas_khatatba",
@@ -279,7 +383,15 @@
       "visiting_hours": "يستقبل الزوار في مواعيد محددة أسبوعياً ونوال بركة صلوات الرهبان",
       "architectural_description": "كاتدرائية مهيبة وقباب قبطية مرتفعة، صوامع وقلالي منفردة للرهبان، ورش عمل ومزارع زراعية وصناعية تدار بيد الرهبان بنسك وتفانٍ.",
       "feast_date": "27 بشنس (تذكار نياحة القديس الأنبا توماس السائح)",
-      "content_id": "monastery:st_thomas_khatatba"
+      "content_id": "monastery:st_thomas_khatatba",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_hermina_assiut",
@@ -299,7 +411,15 @@
       "visiting_hours": "مفتوح طوال الأسبوع لاستقبال الزوار والأسر وأخذ بركة مزار القديس العجائبي",
       "architectural_description": "كنيسة صخرية أثرية تضم رفات القديس هرمينا السائح داخل مقصورة خشبية يفوح منها طيب البركة، الحصن الشرقي القديم، ومغارات الرهبان الصخرية المنحوتة في الجبل.",
       "feast_date": "2 كيهك (تذكار نياحة القديس العظيم الأنبا هرمينا السائح)",
-      "content_id": "monastery:st_hermina_assiut"
+      "content_id": "monastery:st_hermina_assiut",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "hanging_church",
@@ -319,7 +439,15 @@
       "visiting_hours": "مفتوحة للزيارة السياحية والصلوات الكنسية يومياً من 8:00 ص إلى 4:00 م",
       "architectural_description": "صحن بازيليكي بسقف خشبي على شكل سفينة نوح، حجاب الهيكل الأثري المصنوع من خشب الأرز المطعم بالعاج، ومنبر الوعظ الرخامي المرتفع المحمول على 15 عموداً، وأيقونات قبطية أثرية من القرنين الثامن والخامس عشر.",
       "feast_date": "21 بؤونة (تذكار تكريس كنيسة السيدة العذراء مريم)",
-      "content_id": "monastery:hanging_church"
+      "content_id": "monastery:hanging_church",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_sergius",
@@ -339,7 +467,15 @@
       "visiting_hours": "مفتوحة يومياً لاستقبال وفود الحجاج والزوار من شتى بقاع العالم",
       "architectural_description": "المغارة الأثرية بعمق 6 أمتار تحت مستوى الأرض، الأعمدة الرخامية التاريخية، المغطس القديم، والأيقونات الباهرة والرسومات التي تصور رحلة العائلة المقدسة.",
       "feast_date": "24 بشنس (عيد دخول السيد المسيح والعائلة المقدسة أرض مصر)",
-      "content_id": "monastery:st_sergius"
+      "content_id": "monastery:st_sergius",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "virgin_haret_zeweila",
@@ -359,7 +495,15 @@
       "visiting_hours": "مفتوحة يومياً للزيارة والتبرك وطلب شفاعة العذراء المغيثة",
       "architectural_description": "طراز بازيليكي منخفض عن سطح الأرض، بئر ماء شربت منه العائلة المقدسة، أحجبة خشبية أثرية مطعمة بالأبنوس والعاج، ومقصورة أيقونة العذراء المغيثة التاريخية.",
       "feast_date": "21 بشنس (عيد السيدة العذراء مريم والدة الإله)",
-      "content_id": "monastery:virgin_haret_zeweila"
+      "content_id": "monastery:virgin_haret_zeweila",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_mark_alex",
@@ -379,7 +523,15 @@
       "visiting_hours": "مفتوحة يومياً للصلوات والقداسات ونوال بركة مزار الرسل الأطهار",
       "architectural_description": "تضم مزار ورخام بطاركة الإسكندرية التاريخيين، مقصورة رفات مارمرقس، أيقونات بيزنطية وقبطية متفردة، حامل أيقونات رخامي شاهق، وحامل شعلة الإيمان الأرثوذكسي منذ فجر التاريخ.",
       "feast_date": "30 برمودة (عيد استشهاد القديس مارمرقس الإنجيلي)",
-      "content_id": "monastery:st_mark_alex"
+      "content_id": "monastery:st_mark_alex",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_george_khatatba",
@@ -399,7 +551,15 @@
       "visiting_hours": "مفتوح للزيارة والتبرك ونوال الصلوات في أيام الأسبوع المحددة كنسياً",
       "architectural_description": "كاتدرائية شاهقة على الطراز القبطي الحديث بقباب خرسانية عالية مزينة بالصلبان القبطية، قلالي الرهبان، وحدائق نخيل ومزارع واسعة تشهد على بركة يد الرهبان في تعمير الصحراء.",
       "feast_date": "7 هاتور (تذكار تكريس أول كنيسة على اسم مارجرجس باللد)",
-      "content_id": "monastery:st_george_khatatba"
+      "content_id": "monastery:st_george_khatatba",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "virgin_dronka",
@@ -419,7 +579,15 @@
       "visiting_hours": "مفتوح على مدار الساعة في مواسم الأعياد، ويومياً لاستقبال الزوار من 6:00 ص حتى 9:00 م",
       "architectural_description": "المغارة الجبلية الأثرية الفسيحة (طولها 160 متراً)، كنيسة المغارة، مباني الضيافة الضخمة المنحوتة في تدرجات الجبل الشاهق، وإطلالة بانورامية ساحرة على وادي النيل الخصيب.",
       "feast_date": "16 مسرى (عيد صعود جسد السيدة العذراء مريم)",
-      "content_id": "monastery:virgin_dronka"
+      "content_id": "monastery:virgin_dronka",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "virgin_zeitoun",
@@ -439,7 +607,15 @@
       "visiting_hours": "مفتوحة طوال اليوم للصلوات والتسابيح وزيارة قاعة التوثيق التاريخي للظهور",
       "architectural_description": "قبابها الخمس الشهيرة التي تجلت فوقها العذراء، صحن الكنيسة الفسيح المليء بالأيقونات التاريخية للظهور، الكاتدرائية الجديدة المقابلة للكنيسة، ومزار يضم مقتنيات وتوثيقات الحدث التاريخي.",
       "feast_date": "24 برمهات (تذكار ظهور السيدة العذراء مريم بالزيتون)",
-      "content_id": "monastery:virgin_zeitoun"
+      "content_id": "monastery:virgin_zeitoun",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "virgin_maadi",
@@ -459,7 +635,15 @@
       "visiting_hours": "مفتوحة يومياً لاستقبال وفود الزوار ونوال البركة وركوب المراكب النيلية",
       "architectural_description": "السلالم الأثرية الحجرية التي هبطت عليها أقدام المسيح إلى شاطئ النيل، المقبورة الزجاجية التي تحوي الكتاب المقدس الطافي، القباب الأثرية، وإطلالة مباشرة على مياه نيل مصر الخالد.",
       "feast_date": "21 بؤونة (عيد العذراء مريم) و3 برمهات (تذكار معجزة الكتاب المقدس الطافي)",
-      "content_id": "monastery:virgin_maadi"
+      "content_id": "monastery:virgin_maadi",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_mark_cathedral_abbassia",
@@ -479,7 +663,15 @@
       "visiting_hours": "مفتوحة للصلوات والقداسات اليومية ونوال بركة مزار القديس مارمرقس بالأسفل",
       "architectural_description": "صحن ضخم يتسع لخمسة آلاف مصلٍ، منارة شاهقة بارتفاع 85 متراً، مزار رخامي سفلي يحوي رفات مارمرقس والأنبا أثناسيوس، المقر البابوي الرسمي، والكلية الإكليريكية الكبرى وقاعة المؤتمرات والمتحف البابوي.",
       "feast_date": "17 بؤونة (تذكار عودة رفات القديس مارمرقس الرسول إلى مصر) و24 بشنس (عيد تكريس الكاتدرائية)",
-      "content_id": "monastery:st_mark_cathedral_abbassia"
+      "content_id": "monastery:st_mark_cathedral_abbassia",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

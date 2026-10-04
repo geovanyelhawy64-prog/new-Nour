@@ -16,21 +16,35 @@ void main() {
     await db.close();
   });
 
-  group('Hymn Books & 4 Canonical Volumes Tests', () {
-    test('hymn_books returns 4 books corresponding to Osama Lotfy structure', () async {
+  group('Hymn Books & 11 Canonical Volumes Tests', () {
+    test('hymn_books returns 11 books corresponding to Osama Lotfy structure', () async {
       final books = await db.hymnsDao.getAllBooks();
-      expect(books.length, equals(4));
+      expect(books.length, equals(11));
       expect(books[0].id, 'osama_lotfy_01');
       expect(books[0].nameAr, contains('بخور عشية وباكر'));
       expect(books[1].id, 'osama_lotfy_02');
       expect(books[1].nameAr, contains('القداس الإلهي'));
       expect(books[2].id, 'osama_lotfy_03');
-      expect(books[2].nameAr, contains('المناسبات والأعياد'));
+      expect(books[2].nameAr, contains('صوم وأعياد شهر كيهك'));
       expect(books[3].id, 'osama_lotfy_04');
-      expect(books[3].nameAr, contains('الصوم الكبير وأسبوع الآلام'));
+      expect(books[3].nameAr, contains('الميلاد المجيد والغطاس'));
+      expect(books[4].id, 'osama_lotfy_05');
+      expect(books[4].nameAr, contains('صوم يونان والصوم الكبير'));
+      expect(books[5].id, 'osama_lotfy_06');
+      expect(books[5].nameAr, contains('جمعة ختام الصوم'));
+      expect(books[6].id, 'osama_lotfy_07');
+      expect(books[6].nameAr, contains('أسبوع الآلام والبصخة'));
+      expect(books[7].id, 'osama_lotfy_08');
+      expect(books[7].nameAr, contains('خميس العهد والجمعة العظيمة'));
+      expect(books[8].id, 'osama_lotfy_09');
+      expect(books[8].nameAr, contains('عيد القيامة المجيد'));
+      expect(books[9].id, 'osama_lotfy_10');
+      expect(books[9].nameAr, contains('أعياد الصعود والعنصرة'));
+      expect(books[10].id, 'osama_lotfy_11');
+      expect(books[10].nameAr, contains('صوم وعيد السيدة العذراء'));
     });
 
-    test('hymns table maintains all 63 hymns distributed over the 4 books', () async {
+    test('hymns table maintains all 63 hymns distributed over the 11 books', () async {
       final allHymns = await db.select(db.hymns).get();
       expect(allHymns.length, 63);
 
@@ -41,10 +55,31 @@ void main() {
       expect(book2Hymns.length, 10);
 
       final book3Hymns = await db.hymnsDao.getHymnsForBook('osama_lotfy_03');
-      expect(book3Hymns.length, 25);
+      expect(book3Hymns.length, 6);
 
       final book4Hymns = await db.hymnsDao.getHymnsForBook('osama_lotfy_04');
-      expect(book4Hymns.length, 19);
+      expect(book4Hymns.length, 5);
+
+      final book5Hymns = await db.hymnsDao.getHymnsForBook('osama_lotfy_05');
+      expect(book5Hymns.length, 5);
+
+      final book6Hymns = await db.hymnsDao.getHymnsForBook('osama_lotfy_06');
+      expect(book6Hymns.length, 4);
+
+      final book7Hymns = await db.hymnsDao.getHymnsForBook('osama_lotfy_07');
+      expect(book7Hymns.length, 5);
+
+      final book8Hymns = await db.hymnsDao.getHymnsForBook('osama_lotfy_08');
+      expect(book8Hymns.length, 5);
+
+      final book9Hymns = await db.hymnsDao.getHymnsForBook('osama_lotfy_09');
+      expect(book9Hymns.length, 5);
+
+      final book10Hymns = await db.hymnsDao.getHymnsForBook('osama_lotfy_10');
+      expect(book10Hymns.length, 4);
+
+      final book11Hymns = await db.hymnsDao.getHymnsForBook('osama_lotfy_11');
+      expect(book11Hymns.length, 5);
     });
 
     test('database indexes exist on all queried columns', () async {

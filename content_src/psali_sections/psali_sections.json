@@ -10,7 +10,15 @@
       "text_arabic": "تسبحة موسى عن خلاص بني إسرائيل",
       "rubric": "يبدأ الكاهن",
       "response": null,
-      "content_id": "psali:section:1"
+      "content_id": "psali:section:1",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 2,
@@ -21,7 +29,15 @@
       "text_arabic": "لأنه تمجد وتعظم",
       "rubric": null,
       "response": "الشعب: كيرياليسون",
-      "content_id": "psali:section:2"
+      "content_id": "psali:section:2",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 3,
@@ -32,7 +48,15 @@
       "text_arabic": "الفرس وراكبه طرحهما في البحر",
       "rubric": null,
       "response": null,
-      "content_id": "psali:section:3"
+      "content_id": "psali:section:3",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 4,
@@ -43,7 +67,15 @@
       "text_arabic": "تئوطوكية الأحد عن التجسد",
       "rubric": "يبدأ الشماس",
       "response": null,
-      "content_id": "psali:section:4"
+      "content_id": "psali:section:4",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 5,
@@ -54,7 +86,15 @@
       "text_arabic": "نسبحك يا مريم والدة الإله العذراء",
       "rubric": null,
       "response": "الشعب: نسبحك يا والدة الإله",
-      "content_id": "psali:section:5"
+      "content_id": "psali:section:5",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 6,
@@ -65,7 +105,15 @@
       "text_arabic": "حبلت بالمسيح بالجسد بلا زرع بشر",
       "rubric": null,
       "response": null,
-      "content_id": "psali:section:6"
+      "content_id": "psali:section:6",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

@@ -6,28 +6,60 @@
       "name_ar": "رفع بخور عشية وباكر",
       "name_en": "Raising of Incense",
       "liturgy_order": 1,
-      "content_id": "liturgy:raising_incense"
+      "content_id": "liturgy:raising_incense",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "basil",
       "name_ar": "القداس الباسيلي",
       "name_en": "Liturgy of St. Basil",
       "liturgy_order": 2,
-      "content_id": "liturgy:basil"
+      "content_id": "liturgy:basil",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "gregory",
       "name_ar": "القداس الغريغوري",
       "name_en": "Liturgy of St. Gregory",
       "liturgy_order": 3,
-      "content_id": "liturgy:gregory"
+      "content_id": "liturgy:gregory",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "cyril",
       "name_ar": "القداس الكيرلسي",
       "name_en": "Liturgy of St. Cyril",
       "liturgy_order": 4,
-      "content_id": "liturgy:cyril"
+      "content_id": "liturgy:cyril",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

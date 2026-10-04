@@ -1,0 +1,8 @@
+﻿content_id,origin,source_id,source_page,review_status,critical,decision,notes,key_fields
+sacrament:baptism,authored,,,draft,0,,,سِرُّ الْمَعْمُودِيَّةِ الْمُقَدَّسُ
+sacrament:chrismation,authored,,,draft,0,,,سِرُّ الْمَيْرُونِ الْمُقَدَّسُ (التَّثْبِيتُ)
+sacrament:eucharist,authored,,,draft,0,,,سِرُّ الإِفْخَارِسْتِيَا (التَّنَاوُلُ الأَقْدَسُ)
+sacrament:matrimony,authored,,,draft,0,,,سِرُّ الزِّيجَةِ الْمُقَدَّسُ (الإِكْلِيلُ)
+sacrament:priesthood,authored,,,draft,0,,,سِرُّ الْكَهَنُوتِ الْمُقَدَّسُ
+sacrament:repentance,authored,,,draft,0,,,سِرُّ التَّوْبَةِ وَالاعْتِرَافِ
+sacrament:unction,authored,,,draft,0,,,سِرُّ مَسْحَةِ الْمَرْضَى (الْقِنْدِيلُ)

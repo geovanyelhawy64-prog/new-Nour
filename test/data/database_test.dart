@@ -265,18 +265,18 @@ void main() {
       final gregoryParts = await assetDb.liturgyDao.getFullLiturgyParts('gregory', includeSecret: true);
       expect(gregoryParts.length, greaterThan(400));
 
-      // Check Hymns Books & Canonical Hymns from manuscripts (Deacon Osama Lotfy 4 volumes)
+      // Check Hymns Books & Canonical Hymns from manuscripts (Deacon Osama Lotfy 11 volumes)
       final hymnBooks = await assetDb.hymnsDao.getAllBooks();
-      expect(hymnBooks.length, 4);
+      expect(hymnBooks.length, 11);
 
       final volume2Hymns = await assetDb.hymnsDao.getHymnsForBook('osama_lotfy_02');
       expect(volume2Hymns.length, 10);
       expect(volume2Hymns.first.nameAr, contains('إبؤرو'));
 
       final epouroSegments = await assetDb.hymnsDao.getSegmentsForHymn('ol02_01');
-      expect(epouroSegments.length, 5);
+      expect(epouroSegments.length, 2);
       expect(epouroSegments.first.syllablesJson, isNotNull);
-      expect(epouroSegments.first.coptic, contains('Ⲡⲟⲩⲣⲟ'));
+      expect(epouroSegments.first.coptic, contains('Ⲉⲡⲟⲩⲣⲟ'));
 
       // Verify category query
       final paschaHymns = await assetDb.hymnsDao.getHymnsForCategory('pascha');

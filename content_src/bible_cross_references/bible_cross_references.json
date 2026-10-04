@@ -6,11 +6,19 @@
       "source_book_id": 43,
       "source_chapter": 3,
       "source_verse": 16,
-      "target_book_id": 45,
+      "target_book_id": 52,
       "target_chapter": 5,
       "target_verse": 8,
       "relation_type": "love",
-      "content_id": "xref:1"
+      "content_id": "xref:1",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 2,
@@ -21,7 +29,15 @@
       "target_chapter": 4,
       "target_verse": 9,
       "relation_type": "love",
-      "content_id": "xref:2"
+      "content_id": "xref:2",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 3,
@@ -32,7 +48,15 @@
       "target_chapter": 2,
       "target_verse": 4,
       "relation_type": "mercy",
-      "content_id": "xref:3"
+      "content_id": "xref:3",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 4,
@@ -43,7 +67,15 @@
       "target_chapter": 15,
       "target_verse": 13,
       "relation_type": "love",
-      "content_id": "xref:4"
+      "content_id": "xref:4",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 5,
@@ -54,7 +86,15 @@
       "target_chapter": 1,
       "target_verse": 14,
       "relation_type": "word",
-      "content_id": "xref:5"
+      "content_id": "xref:5",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 6,
@@ -65,7 +105,15 @@
       "target_chapter": 1,
       "target_verse": 1,
       "relation_type": "creation",
-      "content_id": "xref:6"
+      "content_id": "xref:6",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 7,
@@ -76,7 +124,15 @@
       "target_chapter": 1,
       "target_verse": 16,
       "relation_type": "creation",
-      "content_id": "xref:7"
+      "content_id": "xref:7",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 8,
@@ -87,7 +143,15 @@
       "target_chapter": 104,
       "target_verse": 24,
       "relation_type": "creation",
-      "content_id": "xref:8"
+      "content_id": "xref:8",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 9,
@@ -98,7 +162,15 @@
       "target_chapter": 11,
       "target_verse": 3,
       "relation_type": "creation",
-      "content_id": "xref:9"
+      "content_id": "xref:9",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 10,
@@ -109,7 +181,15 @@
       "target_chapter": 10,
       "target_verse": 11,
       "relation_type": "shepherd",
-      "content_id": "xref:10"
+      "content_id": "xref:10",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 11,
@@ -120,7 +200,15 @@
       "target_chapter": 5,
       "target_verse": 4,
       "relation_type": "shepherd",
-      "content_id": "xref:11"
+      "content_id": "xref:11",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 12,
@@ -131,7 +219,15 @@
       "target_chapter": 34,
       "target_verse": 11,
       "relation_type": "shepherd",
-      "content_id": "xref:12"
+      "content_id": "xref:12",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 13,
@@ -142,7 +238,15 @@
       "target_chapter": 100,
       "target_verse": 3,
       "relation_type": "shepherd",
-      "content_id": "xref:13"
+      "content_id": "xref:13",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 14,
@@ -153,7 +257,15 @@
       "target_chapter": 16,
       "target_verse": 16,
       "relation_type": "baptism",
-      "content_id": "xref:14"
+      "content_id": "xref:14",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 15,
@@ -164,7 +276,15 @@
       "target_chapter": 2,
       "target_verse": 38,
       "relation_type": "baptism",
-      "content_id": "xref:15"
+      "content_id": "xref:15",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 16,
@@ -175,7 +295,15 @@
       "target_chapter": 6,
       "target_verse": 3,
       "relation_type": "baptism",
-      "content_id": "xref:16"
+      "content_id": "xref:16",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 17,
@@ -186,7 +314,15 @@
       "target_chapter": 8,
       "target_verse": 29,
       "relation_type": "providence",
-      "content_id": "xref:17"
+      "content_id": "xref:17",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 18,
@@ -197,7 +333,15 @@
       "target_chapter": 1,
       "target_verse": 12,
       "relation_type": "providence",
-      "content_id": "xref:18"
+      "content_id": "xref:18",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 19,
@@ -208,7 +352,15 @@
       "target_chapter": 50,
       "target_verse": 20,
       "relation_type": "providence",
-      "content_id": "xref:19"
+      "content_id": "xref:19",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 20,
@@ -219,7 +371,15 @@
       "target_chapter": 2,
       "target_verse": 24,
       "relation_type": "redemption",
-      "content_id": "xref:20"
+      "content_id": "xref:20",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 21,
@@ -230,7 +390,15 @@
       "target_chapter": 5,
       "target_verse": 6,
       "relation_type": "redemption",
-      "content_id": "xref:21"
+      "content_id": "xref:21",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 22,
@@ -241,7 +409,15 @@
       "target_chapter": 1,
       "target_verse": 7,
       "relation_type": "redemption",
-      "content_id": "xref:22"
+      "content_id": "xref:22",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 23,
@@ -252,7 +428,15 @@
       "target_chapter": 51,
       "target_verse": 2,
       "relation_type": "repentance",
-      "content_id": "xref:23"
+      "content_id": "xref:23",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 24,
@@ -263,7 +447,15 @@
       "target_chapter": 1,
       "target_verse": 4,
       "relation_type": "repentance",
-      "content_id": "xref:24"
+      "content_id": "xref:24",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 25,
@@ -274,7 +466,15 @@
       "target_chapter": 3,
       "target_verse": 19,
       "relation_type": "repentance",
-      "content_id": "xref:25"
+      "content_id": "xref:25",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 26,
@@ -285,7 +485,15 @@
       "target_chapter": 13,
       "target_verse": 7,
       "relation_type": "love",
-      "content_id": "xref:26"
+      "content_id": "xref:26",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 27,
@@ -296,7 +504,15 @@
       "target_chapter": 13,
       "target_verse": 34,
       "relation_type": "love",
-      "content_id": "xref:27"
+      "content_id": "xref:27",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 28,
@@ -307,7 +523,15 @@
       "target_chapter": 4,
       "target_verse": 8,
       "relation_type": "love",
-      "content_id": "xref:28"
+      "content_id": "xref:28",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 29,
@@ -318,7 +542,15 @@
       "target_chapter": 28,
       "target_verse": 19,
       "relation_type": "witness",
-      "content_id": "xref:29"
+      "content_id": "xref:29",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 30,
@@ -329,7 +561,15 @@
       "target_chapter": 2,
       "target_verse": 32,
       "relation_type": "witness",
-      "content_id": "xref:30"
+      "content_id": "xref:30",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 31,
@@ -340,7 +580,15 @@
       "target_chapter": 10,
       "target_verse": 14,
       "relation_type": "witness",
-      "content_id": "xref:31"
+      "content_id": "xref:31",
+      "origin": "reference",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

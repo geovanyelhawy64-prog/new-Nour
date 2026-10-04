@@ -16,7 +16,15 @@
       "feast_day": "21 طوبة (نياحة العذراء) و16 مسرى (صعود جسد العذراء) و15 كيهك",
       "visiting_rules": "مفتوح للزوار طوال العام ما عدا أيام خلوات الصوم الكبير وأسبوع الآلام، ويُشترط الاحتشام والوقار الكنسي.",
       "sort_order": 1,
-      "content_id": "holy_place:1"
+      "content_id": "holy_place:1",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 2,
@@ -33,7 +41,15 @@
       "feast_day": "8 أبيب (تذكار نياحة الأنبا بيشوي) و4 كيهك (تذكار تقديم جسده)",
       "visiting_rules": "يستقبل الزوار والمجموعات الكنسية في الأيام المصرح بها طوال السنة.",
       "sort_order": 2,
-      "content_id": "holy_place:2"
+      "content_id": "holy_place:2",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 3,
@@ -50,7 +66,15 @@
       "feast_day": "27 برمهات و19 توت و24 بشنس",
       "visiting_rules": "دير هادئ النسك، يلزم التنسيق المسبق للزيارة والافتقاد.",
       "sort_order": 3,
-      "content_id": "holy_place:3"
+      "content_id": "holy_place:3",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 4,
@@ -67,7 +91,15 @@
       "feast_day": "17 طوبة (الروميان) و24 بؤونة (الأنبا موسى الأسود)",
       "visiting_rules": "مفتوح للزوار في الأوقات المحددة للرحلات الكنسية.",
       "sort_order": 4,
-      "content_id": "holy_place:4"
+      "content_id": "holy_place:4",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 5,
@@ -84,7 +116,15 @@
       "feast_day": "22 طوبة (تذكار نياحة القديس أنطونيوس)",
       "visiting_rules": "مفتوح للزيارة والتبرك ونيل البركة طوال العام، ومتاح صعود المغارة فجراً.",
       "sort_order": 5,
-      "content_id": "holy_place:5"
+      "content_id": "holy_place:5",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 6,
@@ -101,7 +141,15 @@
       "feast_day": "2 طوبة (نياحة الأنبا بولا)",
       "visiting_rules": "يستقبل الزوار والمؤمنين والرحلات المنسقة.",
       "sort_order": 6,
-      "content_id": "holy_place:6"
+      "content_id": "holy_place:6",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 7,
@@ -118,7 +166,15 @@
       "feast_day": "6 إلى 28 بشنس (عيد تكريس الكنيسة) وصوم السيدة العذراء (1-16 مسرى)",
       "visiting_rules": "يستقبل آلاف الزوار سنوياً لنيل بركة المكان المقدس.",
       "sort_order": 7,
-      "content_id": "holy_place:7"
+      "content_id": "holy_place:7",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 8,
@@ -135,7 +191,15 @@
       "feast_day": "1-16 مسرى (موسم نهضة صوم السيدة العذراء مريم)",
       "visiting_rules": "مفتوح للزيارة والتبرك على مدار العام مع استعدادات كبرى في شهر أغسطس.",
       "sort_order": 8,
-      "content_id": "holy_place:8"
+      "content_id": "holy_place:8",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 9,
@@ -152,7 +216,15 @@
       "feast_day": "15 هاتور (استشهاد مارمينا) و30 بؤونة (تكريس كنيسته) و30 أمشير (نياحة البابا كيرلس)",
       "visiting_rules": "مفتوح يومياً لجموع الزائرين للتبرك من أجساد القديسين.",
       "sort_order": 9,
-      "content_id": "holy_place:9"
+      "content_id": "holy_place:9",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 10,
@@ -169,7 +241,15 @@
       "feast_day": "23 برمودة (استشهاد مارجرجس) و7 هاتور (تكريس كنيسته)",
       "visiting_rules": "مفتوح يومياً للمصلين والزوار لنيل بركة حديد مارجرجس.",
       "sort_order": 10,
-      "content_id": "holy_place:10"
+      "content_id": "holy_place:10",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 11,
@@ -186,7 +266,15 @@
       "feast_day": "24 بشنس (دخول السيد المسيح أرض مصر)",
       "visiting_rules": "مفتوحة يومياً لاستقبال السياح والمصلين.",
       "sort_order": 11,
-      "content_id": "holy_place:11"
+      "content_id": "holy_place:11",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 12,
@@ -203,7 +291,15 @@
       "feast_day": "21 طوبة و16 مسرى و6 كيهك (معجزة نقل جبل المقطم)",
       "visiting_rules": "مفتوحة يومياً للزيارة والصلاة.",
       "sort_order": 12,
-      "content_id": "holy_place:12"
+      "content_id": "holy_place:12",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 13,
@@ -220,7 +316,15 @@
       "feast_day": "24 بشنس (دخول المسيح مصر) وصوم السيدة العذراء",
       "visiting_rules": "مفتوحة للزيارة والصلاة ومشاهدة السلم الأثري المؤدي لمرسى النيل والكتاب المقدس العائم.",
       "sort_order": 13,
-      "content_id": "holy_place:13"
+      "content_id": "holy_place:13",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 14,
@@ -237,7 +341,15 @@
       "feast_day": "24 بشنس و8 بؤونة (تكريس كنيستها) وموسم صوم العذراء",
       "visiting_rules": "مفتوحة يومياً للمصلين والزوار للتبرك من ماء البئر.",
       "sort_order": 14,
-      "content_id": "holy_place:14"
+      "content_id": "holy_place:14",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 15,
@@ -254,7 +366,15 @@
       "feast_day": "24 بشنس",
       "visiting_rules": "مزار أثري مفتوح للجمهور.",
       "sort_order": 15,
-      "content_id": "holy_place:15"
+      "content_id": "holy_place:15",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 16,
@@ -271,7 +391,15 @@
       "feast_day": "24 بشنس و24 أبيب (استشهاد مار أبانوب)",
       "visiting_rules": "مفتوحة طوال العام للتبرك ونيل شفاعة الشهيد أبانوب.",
       "sort_order": 16,
-      "content_id": "holy_place:16"
+      "content_id": "holy_place:16",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 17,
@@ -288,7 +416,15 @@
       "feast_day": "24 بشنس و3 بشنس (ظهور الحجر المبارك)",
       "visiting_rules": "مفتوحة للزيارة والتبرك من الحجر الأثري.",
       "sort_order": 17,
-      "content_id": "holy_place:17"
+      "content_id": "holy_place:17",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 18,
@@ -305,7 +441,15 @@
       "feast_day": "من 1 إلى 7 هاتور (10 إلى 16 نوفمبر سنوياً - موسم عيد الدير)",
       "visiting_rules": "مفتوح للزوار على مدار السنة مع احتفالات كبرى في شهر هاتور القبطي.",
       "sort_order": 18,
-      "content_id": "holy_place:18"
+      "content_id": "holy_place:18",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 19,
@@ -322,7 +466,15 @@
       "feast_day": "24 بشنس وصوم السيدة العذراء في مسرى",
       "visiting_rules": "مفتوح للمؤمنين ومسار سياحي رئيسي لمسار العائلة المقدسة.",
       "sort_order": 19,
-      "content_id": "holy_place:19"
+      "content_id": "holy_place:19",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 20,
@@ -339,7 +491,15 @@
       "feast_day": "30 برمودة (استشهاد مارمرقس) و30 بؤونة (عودة رفاته)",
       "visiting_rules": "مفتوحة يومياً للمصلين والزوار من كل أنحاء العالم.",
       "sort_order": 20,
-      "content_id": "holy_place:20"
+      "content_id": "holy_place:20",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

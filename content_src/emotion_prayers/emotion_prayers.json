@@ -13,7 +13,15 @@
       "agpeya_reference": "قطعة من صلاة باكر",
       "meditation": "تذكر دائماً أن المسيح شريك في آلامك، وأنه قد جرب كل ضيق وحزن لكي يعين المجربين.",
       "sort_order": 1,
-      "content_id": "emotion:1"
+      "content_id": "emotion:1",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 2,
@@ -27,7 +35,15 @@
       "agpeya_reference": "صلاة ختام كل ساعة",
       "meditation": "مهما شعرت بالوحدة أو الانكسار، تذكر أن الرب في هذه اللحظة بالذات أقرب إليك من نفسك.",
       "sort_order": 2,
-      "content_id": "emotion:2"
+      "content_id": "emotion:2",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 3,
@@ -41,7 +57,15 @@
       "agpeya_reference": "من ذكصولوجية باكر",
       "meditation": "الخوف عدو السلام، فسلّم كل مخاوفك لمن بيده مفاتيح الحياة وضابط كل الأشياء.",
       "sort_order": 3,
-      "content_id": "emotion:3"
+      "content_id": "emotion:3",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 4,
@@ -55,7 +79,15 @@
       "agpeya_reference": "صلاة النوم",
       "meditation": "الله لا ينسى عصفوراً صغيراً، فكيف ينسى ابنه المفدي بدمه الزكي؟",
       "sort_order": 4,
-      "content_id": "emotion:4"
+      "content_id": "emotion:4",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 5,
@@ -69,7 +101,15 @@
       "agpeya_reference": "لحن وختام صلوات الكنيسة",
       "meditation": "السلام ليس غياب المشاكل، بل هو حضور المسيح الحي وسط العاصفة.",
       "sort_order": 5,
-      "content_id": "emotion:5"
+      "content_id": "emotion:5",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 6,
@@ -83,7 +123,15 @@
       "agpeya_reference": "قطعة توبة من صلاة نصف الليل",
       "meditation": "باب التوبة مفتوح دائماً، وذراعا الآب ممدودتان لاستقبال الابن الراجع بكل محبة وغفران.",
       "sort_order": 6,
-      "content_id": "emotion:6"
+      "content_id": "emotion:6",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 7,
@@ -97,7 +145,15 @@
       "agpeya_reference": "صلاة الشكر الكنسية الجامعة",
       "meditation": "الشكر مفتاح البركة، وحين نشكر الله على القليل يفيض علينا بالكثير من مراحمه.",
       "sort_order": 7,
-      "content_id": "emotion:7"
+      "content_id": "emotion:7",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 8,
@@ -111,7 +167,15 @@
       "agpeya_reference": "إنجيل صلاة باكر",
       "meditation": "حينما تحتار في قرار، اصمت أمام الرب واطلب نوره ليرشد خطواتك ويسدد سبلك.",
       "sort_order": 8,
-      "content_id": "emotion:8"
+      "content_id": "emotion:8",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 9,
@@ -125,7 +189,15 @@
       "agpeya_reference": "أوشية المرضى بالقداس الإلهي",
       "meditation": "الرب لم يعدنا بعدم المرض، لكنه وعد أن يكون معنا على فراش المرض ويحوله إلى بركة ونقاوة.",
       "sort_order": 9,
-      "content_id": "emotion:9"
+      "content_id": "emotion:9",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 10,
@@ -139,7 +211,15 @@
       "agpeya_reference": "الصلاة الربانية",
       "meditation": "أنت لست وحدك في المعركة، رئيس جند الرب قائم بسيفه المسلول ليدافع عنك وينصرك.",
       "sort_order": 10,
-      "content_id": "emotion:10"
+      "content_id": "emotion:10",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 11,
@@ -153,7 +233,15 @@
       "agpeya_reference": "من صلوات التجنيز الكنسية",
       "meditation": "الموت للمؤمن ليس نهاية بل هو انتقال من عالم الأتعاب إلى حضن الآباء القديسين إبراهيم وإسحق ويعقوب.",
       "sort_order": 11,
-      "content_id": "emotion:11"
+      "content_id": "emotion:11",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 12,
@@ -167,7 +255,15 @@
       "agpeya_reference": "من صلاة باكر بالأجبية",
       "meditation": "لا تصدق الأفكار المظلمة؛ فمهما طال الليل لابد لشمس البر أن تشرق ومعها الشفاء في أجنحتها.",
       "sort_order": 12,
-      "content_id": "emotion:12"
+      "content_id": "emotion:12",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 13,
@@ -181,7 +277,15 @@
       "agpeya_reference": "من أوشية المرضى بالقداس",
       "meditation": "سلم جسدك ليد الله قبل يد الطبيب، فهو ضابط الكل الذي يعرف كل عظم في جسدك وخلقه بحكمته.",
       "sort_order": 13,
-      "content_id": "emotion:13"
+      "content_id": "emotion:13",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 14,
@@ -195,7 +299,15 @@
       "agpeya_reference": "من صلاة الغروب بالأجبية",
       "meditation": "مستقبلك في يد الله التي سمرت على الصليب لأجلك، فكيف يخذلك بعد أن بذل نفسه عنك؟",
       "sort_order": 14,
-      "content_id": "emotion:14"
+      "content_id": "emotion:14",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 15,
@@ -209,7 +321,15 @@
       "agpeya_reference": "من صلاة التوبة ومزمور الخمسين",
       "meditation": "السقوط ضعف بشري، لكن البقاء ساقطاً هزيمة شيطانية. انهض فوراً واغسل ثوبك في دم الحمل بالتوبة والاعتراف.",
       "sort_order": 15,
-      "content_id": "emotion:15"
+      "content_id": "emotion:15",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 16,
@@ -223,7 +343,15 @@
       "agpeya_reference": "من صلاة الساعة الثالثة بالأجبية",
       "meditation": "لا تحاور الفكر الشرير، بل اقطع الحوار فوراً بصرخة واحدة: \"يا ربي يسوع المسيح ارحمني وأعني\".",
       "sort_order": 16,
-      "content_id": "emotion:16"
+      "content_id": "emotion:16",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 17,
@@ -237,7 +365,15 @@
       "agpeya_reference": "صلاة الطلبة والدارسين",
       "meditation": "أنت بذلت ما عليك من الجهد والمذاكرة، والآن اترك النتيجة لترتيب الله الصالح وتذكر أنه معك داخل قاعة الامتحان.",
       "sort_order": 17,
-      "content_id": "emotion:17"
+      "content_id": "emotion:17",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 18,
@@ -251,7 +387,15 @@
       "agpeya_reference": "من صلوات البركة الكنسية",
       "meditation": "الله لا يغلق باباً إلا ليفتح باباً أعظم وأصلح لأبديتك. ادخل المقابلة وأنت تعلم أن ملك الملوك يسبقك إليها.",
       "sort_order": 18,
-      "content_id": "emotion:18"
+      "content_id": "emotion:18",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 19,
@@ -265,7 +409,15 @@
       "agpeya_reference": "من صلوات سر مسحة المرضى (القنديل)",
       "meditation": "احسب كل دقيقة ألم شركة حب مع المسيح المتألم، فآلام الزمان الحاضر لا تقاس بالمجد العتيد أن يستعلن فينا.",
       "sort_order": 19,
-      "content_id": "emotion:19"
+      "content_id": "emotion:19",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 20,
@@ -279,7 +431,15 @@
       "agpeya_reference": "صلاة الشكر الكنسية",
       "meditation": "الشكر يفتح أبواب مراحم جديدة، فلنجعل تسبيح الشكر دائم التسرب في قلوبنا وبيوتنا.",
       "sort_order": 20,
-      "content_id": "emotion:20"
+      "content_id": "emotion:20",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 21,
@@ -293,7 +453,15 @@
       "agpeya_reference": "صلاة الغرباء والمسافرين",
       "meditation": "أنت لست وحدك أبداً؛ معك الروح القدس الساكن فيك، وسحابة من القديسين والملائكة تحيط بك وتصلي لأجلك.",
       "sort_order": 21,
-      "content_id": "emotion:21"
+      "content_id": "emotion:21",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 22,
@@ -307,7 +475,15 @@
       "agpeya_reference": "صلاة تبريك المنازل وسر الزيجة",
       "meditation": "الكلمة اللينة تصرف الغضب؛ ابدأ أنت بالصلح واغفر كما غفر لك المسيح لتملك نعمته على بيتك.",
       "sort_order": 22,
-      "content_id": "emotion:22"
+      "content_id": "emotion:22",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

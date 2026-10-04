@@ -12,7 +12,15 @@
       "rite": "festive",
       "description": "بشارة الملاك غبريال لرئيسة الآباء القديسة مريم العذراء بتجسد الكلمة الإلهي لخلاص جنس البشر.",
       "duration_days": 1,
-      "content_id": "feasts:annunciation"
+      "content_id": "feasts:annunciation",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "nativity",
@@ -25,7 +33,15 @@
       "rite": "festive",
       "description": "ميلاد ربنا ومخلصنا يسوع المسيح بالجسد في بيت لحم اليهودية في ملء الزمان لتحقيق النبوات.",
       "duration_days": 1,
-      "content_id": "feasts:nativity"
+      "content_id": "feasts:nativity",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "theophany",
@@ -38,7 +54,15 @@
       "rite": "festive",
       "description": "عماد ربنا يسوع المسيح في نهر الأردن بيد يوحنا المعمدان، وظهور الثالوث الأقدس عياناً: الآب ينادي والابن يعتمد والروح القدس في هيئة حمامة.",
       "duration_days": 1,
-      "content_id": "feasts:theophany"
+      "content_id": "feasts:theophany",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "palm_sunday",
@@ -51,7 +75,15 @@
       "rite": "festive",
       "description": "دخول ملك الملوك ربنا يسوع المسيح إلى أورشليم بوداعة راكباً على جحش ابن أتان، وهتاف الأطفال: أوصنا في الأعالي مبارك الآتي باسم الرب.",
       "duration_days": 1,
-      "content_id": "feasts:palm_sunday"
+      "content_id": "feasts:palm_sunday",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "easter",
@@ -64,7 +96,15 @@
       "rite": "festive",
       "description": "عيد الأعياد وموسم المواسم، قيامة ربنا ومخلصنا يسوع المسيح منتصراً على الموت وقاهراً الجحيم وواهِباً الحياة والخلود للبشرية.",
       "duration_days": 50,
-      "content_id": "feasts:easter"
+      "content_id": "feasts:easter",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "ascension",
@@ -77,7 +117,15 @@
       "rite": "festive",
       "description": "صعود الرب يسوع المسيح بمجده إلى السماوات بعد أربعين يوماً من قيامته المجيدة، وجلوسه عن يمين الآب في الأعالي.",
       "duration_days": 1,
-      "content_id": "feasts:ascension"
+      "content_id": "feasts:ascension",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "pentecost",
@@ -90,7 +138,15 @@
       "rite": "festive",
       "description": "حلول الروح القدس المعزي على التلاميذ الرسل القديسين في علية صهيون بألسنة نارية منقسمة، وتأسيس كنيسة العهد الجديد المباركة.",
       "duration_days": 1,
-      "content_id": "feasts:pentecost"
+      "content_id": "feasts:pentecost",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "circumcision",
@@ -103,7 +159,15 @@
       "rite": "festive",
       "description": "ختان الطفل يسوع في اليوم الثامن وتسميته يسوع كما سُمي من الملاك قبل أن يُحبل به في البطن، متمماً الناموس لأجلنا.",
       "duration_days": 1,
-      "content_id": "feasts:circumcision"
+      "content_id": "feasts:circumcision",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "wedding_cana",
@@ -116,7 +180,15 @@
       "rite": "festive",
       "description": "أولى معجزات وآيات المخلص حيث حوّل الماء إلى خمر جيد مباركاً سر الزيجة وحضور أمه العذراء مريم وتلاميذه.",
       "duration_days": 1,
-      "content_id": "feasts:wedding_cana"
+      "content_id": "feasts:wedding_cana",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "presentation_temple",
@@ -129,7 +201,15 @@
       "rite": "festive",
       "description": "دخول الرب يسوع الطفل إلى الهيكل بعد أربعين يوماً من ولادته، وحمله سمعان الشيخ على ذراعيه مسبحاً: الآن تطلق عبدك يا سيد بسلام.",
       "duration_days": 1,
-      "content_id": "feasts:presentation_temple"
+      "content_id": "feasts:presentation_temple",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "entry_to_egypt",
@@ -142,7 +222,15 @@
       "rite": "festive",
       "description": "مجيء العائلة المقدسة إلى أرض مصر هرباً من وجه هيرودس الملك، وتحقيق النبوة القائلة: من مصر دعوت ابني، وبركة مذابح مصر ودياراتها.",
       "duration_days": 1,
-      "content_id": "feasts:entry_to_egypt"
+      "content_id": "feasts:entry_to_egypt",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "transfiguration",
@@ -155,7 +243,15 @@
       "rite": "festive",
       "description": "تجلي ربنا يسوع المسيح على جبل طابور بمجد لاهوته الفائق أمام تلاميذه بطرس ويعقوب ويوحنا، وظهور موسى وإيليا معه يكلماه.",
       "duration_days": 1,
-      "content_id": "feasts:transfiguration"
+      "content_id": "feasts:transfiguration",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "covenant_thursday_feast",
@@ -168,7 +264,15 @@
       "rite": "festive",
       "description": "غسل أرجل التلاميذ بيد السيد الرب وتأسيس سر الإفخارستيا الأقدس وعهد المحبة الخالدة: هذا هو جسدي وهذا هو دمي المسفوك عنكم.",
       "duration_days": 1,
-      "content_id": "feasts:covenant_thursday_feast"
+      "content_id": "feasts:covenant_thursday_feast",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "thomas_sunday",
@@ -181,7 +285,15 @@
       "rite": "festive",
       "description": "ظهور الرب يسوع لتلاميذه في الأحد التالي للقيامة ودعوته لتوما للمس يديه وجنبه، وإعلان توما الإيماني الراسخ: ربي وإلهي.",
       "duration_days": 1,
-      "content_id": "feasts:thomas_sunday"
+      "content_id": "feasts:thomas_sunday",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "nayrouz",
@@ -194,7 +306,15 @@
       "rite": "festive",
       "description": "فاتحة السنة التوتية القبطية وتذكار قوافل الشهداء الأبرار الذين رووا بذار الإيمان بدمائهم الطاهرة إبان عصر دقلديانوس وغيره.",
       "duration_days": 1,
-      "content_id": "feasts:nayrouz"
+      "content_id": "feasts:nayrouz",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "cross_feast_tout",
@@ -207,7 +327,15 @@
       "rite": "festive",
       "description": "تذكار ظهور الصليب المجيد للملك قسطنطين الكبير واكتشاف الملكة هيلانة لخشبة الصليب المحيية بأورشليم (يستمر الاحتفال ثلاثة أيام حتى ١٩ توت).",
       "duration_days": 3,
-      "content_id": "feasts:cross_feast_tout"
+      "content_id": "feasts:cross_feast_tout",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "cross_feast_paramhat",
@@ -220,7 +348,15 @@
       "rite": "festive",
       "description": "تذكار ظهور الصليب المجيد ومنائر مجده للملك إمبراطور الروم هرقل وتكريس كنيسته القيامة العظيمة.",
       "duration_days": 1,
-      "content_id": "feasts:cross_feast_paramhat"
+      "content_id": "feasts:cross_feast_paramhat",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "assumption_st_mary",
@@ -233,7 +369,15 @@
       "rite": "festive",
       "description": "صعود جسد القديسة الطاهرة مريم العذراء والدة الإله إلى الفردوس السماوي بعد أن رآه القديس توما محمولاً من الملائكة الأطهار.",
       "duration_days": 1,
-      "content_id": "feasts:assumption_st_mary"
+      "content_id": "feasts:assumption_st_mary",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "apostles_feast",
@@ -246,7 +390,15 @@
       "rite": "festive",
       "description": "تذكار استشهاد هامتَي الرسل القديس بطرس الرسول والقديس بولس الرسول كاروز الأمم في مدينة رومية نوالهما إكليل الشهادة الأبدي.",
       "duration_days": 1,
-      "content_id": "feasts:apostles_feast"
+      "content_id": "feasts:apostles_feast",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_mark_martyrdom",
@@ -259,7 +411,15 @@
       "rite": "festive",
       "description": "تذكار استشهاد ناظر الإله الإنجيلي مارمرقس الرسول كاروز الديار المصرية ومؤسس الكرسي المرقسي الإسكندري وأول بطاركة الإسكندرية.",
       "duration_days": 1,
-      "content_id": "feasts:st_mark_martyrdom"
+      "content_id": "feasts:st_mark_martyrdom",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_george_martyrdom",
@@ -272,7 +432,15 @@
       "rite": "festive",
       "description": "استشهاد القديس العظيم مارجرجس الروماني البطل بعد سبع سنوات من العذابات المجيدة تمسكاً بالمسيح ونواله ثلاثة أكاليل سماوية.",
       "duration_days": 1,
-      "content_id": "feasts:st_george_martyrdom"
+      "content_id": "feasts:st_george_martyrdom",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_athanasius",
@@ -285,7 +453,15 @@
       "rite": "festive",
       "description": "نياحة حامي الإيمان الأرثوذكسي البابا أثناسيوس الرسولي العشرين، بطل مجمع نيقية المسكوني وكاتب قانون الإيمان المسيحي.",
       "duration_days": 1,
-      "content_id": "feasts:st_athanasius"
+      "content_id": "feasts:st_athanasius",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_anthony",
@@ -298,7 +474,15 @@
       "rite": "festive",
       "description": "نياحة كوكب البرية ومؤسس الرهبنة العالمية القديس أنبا أنطونيوس الكبير بعد جهاد نسكي باهر في جبل القلزم بالبحر الأحمر.",
       "duration_days": 1,
-      "content_id": "feasts:st_anthony"
+      "content_id": "feasts:st_anthony",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "great_lent",
@@ -311,7 +495,15 @@
       "rite": "lenten",
       "description": "أقدس أصوام السنة الكنسية (صوم من الدرجة الأولى): يتألف من أسبوع الاستعداد والأربعين المقدسة وأسبوع الآلام، يمتنع فيه تماماً عن أكل الأسماك.",
       "duration_days": 55,
-      "content_id": "feasts:great_lent"
+      "content_id": "feasts:great_lent",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "jonah_fast",
@@ -324,7 +516,15 @@
       "rite": "lenten",
       "description": "ثلاثة أيام من التذلل والتوبة الصادقة والانقطاع تسبق الصوم الكبير بأسبوعين تمثلاً بتوبة أهل نينوى وخروج يونان من جوف الحوت.",
       "duration_days": 3,
-      "content_id": "feasts:jonah_fast"
+      "content_id": "feasts:jonah_fast",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "nativity_fast",
@@ -337,7 +537,15 @@
       "rite": "kiahki",
       "description": "يبدأ في ١٦ هاتور ويستمر ٤٣ يوماً حتى ٢٨/٢٩ كيهك (صوم درجة ثانية يسمح فيه بالسمك عدا الأربعاء والجمعة)، تشبيهاً بصوم موسى النبي واستعداداً لاستقبال الكلمة المتجسد.",
       "duration_days": 43,
-      "content_id": "feasts:nativity_fast"
+      "content_id": "feasts:nativity_fast",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "apostles_fast",
@@ -350,7 +558,15 @@
       "rite": "annual",
       "description": "يبدأ في اليوم التالي لعيد العنصرة حتى عشية عيد الرسل ٤ أبيب (صوم درجة ثانية)، وهو أول صوم صامته الكنيسة بعد صعود الرب وحلول الروح القدس.",
       "duration_days": null,
-      "content_id": "feasts:apostles_fast"
+      "content_id": "feasts:apostles_fast",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "st_mary_fast",
@@ -363,7 +579,15 @@
       "rite": "annual",
       "description": "خمسة عشر يوماً تبدأ من أول مسرى حتى ١٥ مسرى احتفالاً بعيد صعود جسد العذراء مريم (صوم درجة ثانية)، وهو صوم محبوب يحرص عليه الشعب بالنسك.",
       "duration_days": 15,
-      "content_id": "feasts:st_mary_fast"
+      "content_id": "feasts:st_mary_fast",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "paramoun_nativity",
@@ -376,7 +600,15 @@
       "rite": "lenten",
       "description": "يوم أو أيام استعداد تسبق عيد الميلاد مباشرة بالصوم الانقطاعي التام والنسك دون أكل السمك، تهيئةً للقداس الإلهي الليلي.",
       "duration_days": 1,
-      "content_id": "feasts:paramoun_nativity"
+      "content_id": "feasts:paramoun_nativity",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "paramoun_theophany",
@@ -389,7 +621,15 @@
       "rite": "lenten",
       "description": "يوم الاستعداد بالانقطاع التام السابق لعيد الغطاس المجيد وصلوات لقان تبريك المياه.",
       "duration_days": 1,
-      "content_id": "feasts:paramoun_theophany"
+      "content_id": "feasts:paramoun_theophany",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "wednesday_friday_fast",
@@ -402,7 +642,15 @@
       "rite": "annual",
       "description": "صوم أسبوعي يصومه الأرثوذكس على مدار السنة: الأربعاء تذكاراً لمؤامرة ومشاورة خيانة يهوذا، والجمعة تذكاراً لصلب مخلصنا وفدائه للبشرية (يُعفى منه فقط في أيام الخماسين المقدسة).",
       "duration_days": null,
-      "content_id": "feasts:wednesday_friday_fast"
+      "content_id": "feasts:wednesday_friday_fast",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

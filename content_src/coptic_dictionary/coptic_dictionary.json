@@ -10,7 +10,15 @@
       "part_of_speech": "adjective",
       "usage": "أغيوس أغيوس أغيوس = قدوس قدوس قدوس",
       "hymn_reference": "التريساجيون، الهوس الرابع",
-      "content_id": "dictionary:1"
+      "content_id": "dictionary:1",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 2,
@@ -21,7 +29,15 @@
       "part_of_speech": "noun",
       "usage": "بنومى إف نوتى = باسم الإله",
       "hymn_reference": "كل الصلوات",
-      "content_id": "dictionary:2"
+      "content_id": "dictionary:2",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 3,
@@ -32,7 +48,15 @@
       "part_of_speech": "adjective",
       "usage": "أغيوس إسخيروس = قدوس قوي",
       "hymn_reference": "التريساجيون",
-      "content_id": "dictionary:3"
+      "content_id": "dictionary:3",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 4,
@@ -43,7 +67,15 @@
       "part_of_speech": "adjective",
       "usage": "أغيوس أثاناتوس = قدوس غير مائت",
       "hymn_reference": "التريساجيون",
-      "content_id": "dictionary:4"
+      "content_id": "dictionary:4",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 5,
@@ -54,7 +86,15 @@
       "part_of_speech": "noun",
       "usage": "بي بانتوكراتور = ضابط الكل",
       "hymn_reference": "القداس الإلهي",
-      "content_id": "dictionary:5"
+      "content_id": "dictionary:5",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 6,
@@ -65,7 +105,15 @@
       "part_of_speech": "noun",
       "usage": "رب الصباؤوت = رب الجنود السماوية",
       "hymn_reference": "التريساجيون",
-      "content_id": "dictionary:6"
+      "content_id": "dictionary:6",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 7,
@@ -76,7 +124,15 @@
       "part_of_speech": "noun",
       "usage": "إف نوتي إن تي ترياس = الإله الثالوث",
       "hymn_reference": "العقيدة",
-      "content_id": "dictionary:7"
+      "content_id": "dictionary:7",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 8,
@@ -87,7 +143,15 @@
       "part_of_speech": "noun",
       "usage": "إيسوس بي خريستوس = يسوع المسيح",
       "hymn_reference": "كل الصلوات",
-      "content_id": "dictionary:8"
+      "content_id": "dictionary:8",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 9,
@@ -98,7 +162,15 @@
       "part_of_speech": "noun",
       "usage": "بي خريستوس = بالمسيح",
       "hymn_reference": "الأعياد السيدية",
-      "content_id": "dictionary:9"
+      "content_id": "dictionary:9",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 10,
@@ -109,7 +181,15 @@
       "part_of_speech": "noun",
       "usage": "بي خويس إن ساباؤوث = رب الصباؤوت",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:10"
+      "content_id": "dictionary:10",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 11,
@@ -120,7 +200,15 @@
       "part_of_speech": "noun",
       "usage": "كيرياليسون = يا رب ارحم",
       "hymn_reference": "كل الصلوات",
-      "content_id": "dictionary:11"
+      "content_id": "dictionary:11",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 12,
@@ -131,7 +219,15 @@
       "part_of_speech": "verb",
       "usage": "كيرياليسون = يا رب ارحم",
       "hymn_reference": "كل الصلوات",
-      "content_id": "dictionary:12"
+      "content_id": "dictionary:12",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 13,
@@ -142,7 +238,15 @@
       "part_of_speech": "noun",
       "usage": "بي سوتير = المخلص",
       "hymn_reference": "الأعياد",
-      "content_id": "dictionary:13"
+      "content_id": "dictionary:13",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 14,
@@ -153,7 +257,15 @@
       "part_of_speech": "noun",
       "usage": "إيمانوئيل = الله معنا",
       "hymn_reference": "عيد الميلاد",
-      "content_id": "dictionary:14"
+      "content_id": "dictionary:14",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 15,
@@ -164,7 +276,15 @@
       "part_of_speech": "noun",
       "usage": "بي لوغوس = الكلمة المتجسد",
       "hymn_reference": "العقيدة",
-      "content_id": "dictionary:15"
+      "content_id": "dictionary:15",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 16,
@@ -175,7 +295,15 @@
       "part_of_speech": "adjective",
       "usage": "بي مونوغينيس = الابن الوحيد",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:16"
+      "content_id": "dictionary:16",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 17,
@@ -186,7 +314,15 @@
       "part_of_speech": "noun",
       "usage": "هيتين إن تي ثيئوتوكوس = بشفاعات والدة الإله",
       "hymn_reference": "التئوطوكيات",
-      "content_id": "dictionary:17"
+      "content_id": "dictionary:17",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 18,
@@ -197,7 +333,15 @@
       "part_of_speech": "noun",
       "usage": "تي أغيا ماريا = القديسة مريم",
       "hymn_reference": "التئوطوكيات",
-      "content_id": "dictionary:18"
+      "content_id": "dictionary:18",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 19,
@@ -208,7 +352,15 @@
       "part_of_speech": "noun",
       "usage": "تي بارثينوس = العذراء",
       "hymn_reference": "أعياد العذراء",
-      "content_id": "dictionary:19"
+      "content_id": "dictionary:19",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 20,
@@ -219,7 +371,15 @@
       "part_of_speech": "noun",
       "usage": "إف أنغيلوس = الملاك",
       "hymn_reference": "أعياد الملائكة",
-      "content_id": "dictionary:20"
+      "content_id": "dictionary:20",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 21,
@@ -230,7 +390,15 @@
       "part_of_speech": "noun",
       "usage": "ميخائيل أرخانغيلوس = رئيس الملائكة ميخائيل",
       "hymn_reference": "عيد ميخائيل",
-      "content_id": "dictionary:21"
+      "content_id": "dictionary:21",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 22,
@@ -241,7 +409,15 @@
       "part_of_speech": "noun",
       "usage": "بي أرخانغيلوس ميخائيل",
       "hymn_reference": "عيد ميخائيل",
-      "content_id": "dictionary:22"
+      "content_id": "dictionary:22",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 23,
@@ -252,7 +428,15 @@
       "part_of_speech": "noun",
       "usage": "بي أرخانغيلوس غبريال",
       "hymn_reference": "عيد البشارة",
-      "content_id": "dictionary:23"
+      "content_id": "dictionary:23",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 24,
@@ -263,7 +447,15 @@
       "part_of_speech": "noun",
       "usage": "تي إكليسيا = الكنيسة",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:24"
+      "content_id": "dictionary:24",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 25,
@@ -274,7 +466,15 @@
       "part_of_speech": "noun",
       "usage": "تا ميستيريا = الأسرار",
       "hymn_reference": "الأسرار",
-      "content_id": "dictionary:25"
+      "content_id": "dictionary:25",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 26,
@@ -285,7 +485,15 @@
       "part_of_speech": "noun",
       "usage": "بي موؤتي = المعمودية",
       "hymn_reference": "سر المعمودية",
-      "content_id": "dictionary:26"
+      "content_id": "dictionary:26",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 27,
@@ -296,7 +504,15 @@
       "part_of_speech": "noun",
       "usage": "ميتانيا = توبة",
       "hymn_reference": "سر الاعتراف",
-      "content_id": "dictionary:27"
+      "content_id": "dictionary:27",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 28,
@@ -307,7 +523,15 @@
       "part_of_speech": "noun",
       "usage": "بي إفخارستيا = سر التناول",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:28"
+      "content_id": "dictionary:28",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 29,
@@ -318,7 +542,15 @@
       "part_of_speech": "noun",
       "usage": "تي بروسفورا = التقدمة",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:29"
+      "content_id": "dictionary:29",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 30,
@@ -329,7 +561,15 @@
       "part_of_speech": "interjection",
       "usage": "أمين = حقاً",
       "hymn_reference": "كل الصلوات",
-      "content_id": "dictionary:30"
+      "content_id": "dictionary:30",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 31,
@@ -338,9 +578,17 @@
       "arabic": "و، وأيضاً",
       "english": "and",
       "part_of_speech": "conjunction",
-      "usage": "",
+      "usage": null,
       "hymn_reference": "كل النصوص",
-      "content_id": "dictionary:31"
+      "content_id": "dictionary:31",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 32,
@@ -351,7 +599,15 @@
       "part_of_speech": "preposition",
       "usage": "هيتين إن تي ثيئوتوكوس = بشفاعات والدة الإله",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:32"
+      "content_id": "dictionary:32",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 33,
@@ -360,9 +616,17 @@
       "arabic": "هؤلاء، هذه",
       "english": "these",
       "part_of_speech": "pronoun",
-      "usage": "",
+      "usage": null,
       "hymn_reference": "الإنجيل",
-      "content_id": "dictionary:33"
+      "content_id": "dictionary:33",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 34,
@@ -373,7 +637,15 @@
       "part_of_speech": "particle",
       "usage": "تينو تينو = الآن الآن",
       "hymn_reference": "القطمارس",
-      "content_id": "dictionary:34"
+      "content_id": "dictionary:34",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 35,
@@ -384,7 +656,15 @@
       "part_of_speech": "adverb",
       "usage": "آدام إتينو = آدام الآن",
       "hymn_reference": "الدفنار",
-      "content_id": "dictionary:35"
+      "content_id": "dictionary:35",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 36,
@@ -395,7 +675,15 @@
       "part_of_speech": "noun",
       "usage": "إبينيوت إن إن تي في نيفي = أبونا الذي في السماوات",
       "hymn_reference": "الصلاة الربانية",
-      "content_id": "dictionary:36"
+      "content_id": "dictionary:36",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 37,
@@ -406,7 +694,15 @@
       "part_of_speech": "adjective",
       "usage": "نوفي نيم نوفي = صالح مع صالح",
       "hymn_reference": "الإنجيل",
-      "content_id": "dictionary:37"
+      "content_id": "dictionary:37",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 38,
@@ -415,9 +711,17 @@
       "arabic": "إنسان، رجل",
       "english": "man, person",
       "part_of_speech": "noun",
-      "usage": "",
+      "usage": null,
       "hymn_reference": "الإنجيل",
-      "content_id": "dictionary:38"
+      "content_id": "dictionary:38",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 39,
@@ -428,7 +732,15 @@
       "part_of_speech": "noun",
       "usage": "بي سوما = الجسد",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:39"
+      "content_id": "dictionary:39",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 40,
@@ -439,7 +751,15 @@
       "part_of_speech": "noun",
       "usage": "بي سنوف = الدم",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:40"
+      "content_id": "dictionary:40",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 41,
@@ -450,7 +770,15 @@
       "part_of_speech": "noun",
       "usage": "تي بسيخي = النفس",
       "hymn_reference": "الصلوات",
-      "content_id": "dictionary:41"
+      "content_id": "dictionary:41",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 42,
@@ -461,7 +789,15 @@
       "part_of_speech": "noun",
       "usage": "إف بينيفما إثواب = الروح القدس",
       "hymn_reference": "العقيدة",
-      "content_id": "dictionary:42"
+      "content_id": "dictionary:42",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 43,
@@ -472,7 +808,15 @@
       "part_of_speech": "adjective",
       "usage": "إف بينيفما إثواب = الروح القدس",
       "hymn_reference": "كل الصلوات",
-      "content_id": "dictionary:43"
+      "content_id": "dictionary:43",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 44,
@@ -483,7 +827,15 @@
       "part_of_speech": "noun",
       "usage": "بي أوؤنه = الحياة",
       "hymn_reference": "الإنجيل",
-      "content_id": "dictionary:44"
+      "content_id": "dictionary:44",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 45,
@@ -494,7 +846,15 @@
       "part_of_speech": "noun",
       "usage": "بي مو = الموت",
       "hymn_reference": "البصخة",
-      "content_id": "dictionary:45"
+      "content_id": "dictionary:45",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 46,
@@ -505,7 +865,15 @@
       "part_of_speech": "noun",
       "usage": "تي أناستاسيس = القيامة",
       "hymn_reference": "عيد القيامة",
-      "content_id": "dictionary:46"
+      "content_id": "dictionary:46",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 47,
@@ -516,7 +884,15 @@
       "part_of_speech": "noun",
       "usage": "إن تي في = السماء",
       "hymn_reference": "الصلاة الربانية",
-      "content_id": "dictionary:47"
+      "content_id": "dictionary:47",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 48,
@@ -527,7 +903,15 @@
       "part_of_speech": "noun",
       "usage": "بي كاه = الأرض",
       "hymn_reference": "التكوين",
-      "content_id": "dictionary:48"
+      "content_id": "dictionary:48",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 49,
@@ -538,7 +922,15 @@
       "part_of_speech": "noun",
       "usage": "بي موؤ = الماء",
       "hymn_reference": "الإنجيل",
-      "content_id": "dictionary:49"
+      "content_id": "dictionary:49",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 50,
@@ -549,7 +941,15 @@
       "part_of_speech": "noun",
       "usage": "بي أوؤيني = النور",
       "hymn_reference": "الإنجيل",
-      "content_id": "dictionary:50"
+      "content_id": "dictionary:50",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 51,
@@ -560,7 +960,15 @@
       "part_of_speech": "noun",
       "usage": "بي خاكي = الظلمة",
       "hymn_reference": "الإنجيل",
-      "content_id": "dictionary:51"
+      "content_id": "dictionary:51",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 52,
@@ -569,9 +977,17 @@
       "arabic": "خارج، من",
       "english": "out, from",
       "part_of_speech": "preposition",
-      "usage": "",
+      "usage": null,
       "hymn_reference": "الإنجيل",
-      "content_id": "dictionary:52"
+      "content_id": "dictionary:52",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 53,
@@ -582,7 +998,15 @@
       "part_of_speech": "verb",
       "usage": "سمو إبين = بارك يا رب",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:53"
+      "content_id": "dictionary:53",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 54,
@@ -593,7 +1017,15 @@
       "part_of_speech": "verb",
       "usage": "أوشا إبين = صلى يا رب",
       "hymn_reference": "الصلوات",
-      "content_id": "dictionary:54"
+      "content_id": "dictionary:54",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 55,
@@ -604,7 +1036,15 @@
       "part_of_speech": "verb",
       "usage": "سوب إبين = اسمع يا رب",
       "hymn_reference": "الصلوات",
-      "content_id": "dictionary:55"
+      "content_id": "dictionary:55",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 56,
@@ -613,9 +1053,17 @@
       "arabic": "نظر، يرى",
       "english": "to see",
       "part_of_speech": "verb",
-      "usage": "",
+      "usage": null,
       "hymn_reference": "الإنجيل",
-      "content_id": "dictionary:56"
+      "content_id": "dictionary:56",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 57,
@@ -626,7 +1074,15 @@
       "part_of_speech": "verb",
       "usage": "إي إم بيخويس = تعال يا رب",
       "hymn_reference": "الصلوات",
-      "content_id": "dictionary:57"
+      "content_id": "dictionary:57",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 58,
@@ -637,7 +1093,15 @@
       "part_of_speech": "verb",
       "usage": "جو غار = لأنه قال",
       "hymn_reference": "الإنجيل",
-      "content_id": "dictionary:58"
+      "content_id": "dictionary:58",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 59,
@@ -648,7 +1112,15 @@
       "part_of_speech": "verb",
       "usage": "خو نين إيفول = اغفر لنا",
       "hymn_reference": "الصلاة الربانية",
-      "content_id": "dictionary:59"
+      "content_id": "dictionary:59",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 60,
@@ -659,7 +1131,15 @@
       "part_of_speech": "noun",
       "usage": "بي بنفما إثؤواب = الروح القدس",
       "hymn_reference": "كل الصلوات",
-      "content_id": "dictionary:60"
+      "content_id": "dictionary:60",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 61,
@@ -670,7 +1150,15 @@
       "part_of_speech": "adjective",
       "usage": "بي بنفما إثؤواب = الروح القدس",
       "hymn_reference": "كل الصلوات",
-      "content_id": "dictionary:61"
+      "content_id": "dictionary:61",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 62,
@@ -681,7 +1169,15 @@
       "part_of_speech": "noun",
       "usage": "خين إفران إم إفيوت = باسم الآب",
       "hymn_reference": "قانون الإيمان",
-      "content_id": "dictionary:62"
+      "content_id": "dictionary:62",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 63,
@@ -692,7 +1188,15 @@
       "part_of_speech": "noun",
       "usage": "نيم إبشيري = والابن",
       "hymn_reference": "قانون الإيمان",
-      "content_id": "dictionary:63"
+      "content_id": "dictionary:63",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 64,
@@ -703,7 +1207,15 @@
       "part_of_speech": "noun",
       "usage": "أواي بي إف نوتي = إله واحد",
       "hymn_reference": "قانون الإيمان",
-      "content_id": "dictionary:64"
+      "content_id": "dictionary:64",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 65,
@@ -714,7 +1226,15 @@
       "part_of_speech": "interjection",
       "usage": "آمين أليلويا = آمين هللويا",
       "hymn_reference": "كل الصلوات",
-      "content_id": "dictionary:65"
+      "content_id": "dictionary:65",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 66,
@@ -725,7 +1245,15 @@
       "part_of_speech": "interjection",
       "usage": "أليلويا بي إخريستوس آفتونف = هللويا المسيح قام",
       "hymn_reference": "القيامة",
-      "content_id": "dictionary:66"
+      "content_id": "dictionary:66",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 67,
@@ -736,7 +1264,15 @@
       "part_of_speech": "noun",
       "usage": "تي أغابي إنتي إف نوتي = محبة الله",
       "hymn_reference": "البركة الختامية",
-      "content_id": "dictionary:67"
+      "content_id": "dictionary:67",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 68,
@@ -747,7 +1283,15 @@
       "part_of_speech": "noun",
       "usage": "إيريني باسي = السلام لجميعكم",
       "hymn_reference": "القداس الإلهي",
-      "content_id": "dictionary:68"
+      "content_id": "dictionary:68",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 69,
@@ -758,7 +1302,15 @@
       "part_of_speech": "noun",
       "usage": "تي خاريس إم بين شويس = نعمة ربنا",
       "hymn_reference": "البركة الختامية",
-      "content_id": "dictionary:69"
+      "content_id": "dictionary:69",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 70,
@@ -769,7 +1321,15 @@
       "part_of_speech": "noun",
       "usage": "تي كينونيا إنتي بي بنفما = شركة الروح القدس",
       "hymn_reference": "البركة الختامية",
-      "content_id": "dictionary:70"
+      "content_id": "dictionary:70",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 71,
@@ -780,7 +1340,15 @@
       "part_of_speech": "noun",
       "usage": "ذوكصا باتري = المجد للآب",
       "hymn_reference": "الأجبية والتسبحة",
-      "content_id": "dictionary:71"
+      "content_id": "dictionary:71",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 72,
@@ -791,7 +1359,15 @@
       "part_of_speech": "noun",
       "usage": "ذوكصا باتري كيه إيو = المجد للآب والابن",
       "hymn_reference": "الأجبية",
-      "content_id": "dictionary:72"
+      "content_id": "dictionary:72",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 73,
@@ -802,7 +1378,15 @@
       "part_of_speech": "noun",
       "usage": "كيه إيو كيه آجيو بنفماتي",
       "hymn_reference": "الأجبية",
-      "content_id": "dictionary:73"
+      "content_id": "dictionary:73",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 74,
@@ -813,7 +1397,15 @@
       "part_of_speech": "adjective",
       "usage": "آكسيوس آكسيوس = مستحق مستحق",
       "hymn_reference": "الرسامات والأعياد",
-      "content_id": "dictionary:74"
+      "content_id": "dictionary:74",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 75,
@@ -824,7 +1416,15 @@
       "part_of_speech": "noun",
       "usage": "تي بيستيس إثؤواب = الإيمان الأقدس",
       "hymn_reference": "العقيدة",
-      "content_id": "dictionary:75"
+      "content_id": "dictionary:75",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 76,
@@ -835,7 +1435,15 @@
       "part_of_speech": "noun",
       "usage": "بين إلبيس = رجاؤنا",
       "hymn_reference": "الصلوات",
-      "content_id": "dictionary:76"
+      "content_id": "dictionary:76",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 77,
@@ -846,7 +1454,15 @@
       "part_of_speech": "noun",
       "usage": "بي مارتيروس = الشهيد",
       "hymn_reference": "السنكسار والذكصولوجيات",
-      "content_id": "dictionary:77"
+      "content_id": "dictionary:77",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 78,
@@ -857,7 +1473,15 @@
       "part_of_speech": "noun",
       "usage": "بي إستافروس إثؤواب = الصليب المقدس",
       "hymn_reference": "أعياد الصليب",
-      "content_id": "dictionary:78"
+      "content_id": "dictionary:78",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 79,
@@ -868,7 +1492,15 @@
       "part_of_speech": "noun",
       "usage": "تي أناستاسيس = القيامة",
       "hymn_reference": "عيد القيامة",
-      "content_id": "dictionary:79"
+      "content_id": "dictionary:79",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 80,
@@ -879,7 +1511,15 @@
       "part_of_speech": "preposition",
       "usage": "كاطا ني خوروس = بحسب الترتيب",
       "hymn_reference": "الألحان",
-      "content_id": "dictionary:80"
+      "content_id": "dictionary:80",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 81,
@@ -890,7 +1530,15 @@
       "part_of_speech": "noun",
       "usage": "بي خوروس = الخورس",
       "hymn_reference": "الألحان",
-      "content_id": "dictionary:81"
+      "content_id": "dictionary:81",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 82,
@@ -901,7 +1549,15 @@
       "part_of_speech": "noun",
       "usage": "بي بصالموس = المزمور",
       "hymn_reference": "القراءات",
-      "content_id": "dictionary:82"
+      "content_id": "dictionary:82",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 83,
@@ -912,7 +1568,15 @@
       "part_of_speech": "noun",
       "usage": "بي إيفانجيليون إثؤواب = الإنجيل المقدس",
       "hymn_reference": "القراءات",
-      "content_id": "dictionary:83"
+      "content_id": "dictionary:83",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 84,
@@ -923,7 +1587,15 @@
       "part_of_speech": "noun",
       "usage": "بي أبوستولوس بولس = الرسول بولس",
       "hymn_reference": "رسائل بولس",
-      "content_id": "dictionary:84"
+      "content_id": "dictionary:84",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 85,
@@ -934,7 +1606,15 @@
       "part_of_speech": "adjective",
       "usage": "بي كاثوليكون = الرسالة الجامعة",
       "hymn_reference": "القراءات",
-      "content_id": "dictionary:85"
+      "content_id": "dictionary:85",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 86,
@@ -945,7 +1625,15 @@
       "part_of_speech": "noun",
       "usage": "بي إبركسيس = أعمال الرسل",
       "hymn_reference": "القراءات",
-      "content_id": "dictionary:86"
+      "content_id": "dictionary:86",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 87,
@@ -956,7 +1644,15 @@
       "part_of_speech": "noun",
       "usage": "بي سنكساريون = السنكسار",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:87"
+      "content_id": "dictionary:87",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 88,
@@ -967,7 +1663,15 @@
       "part_of_speech": "noun",
       "usage": "بي قطمارس = كتاب القراءات",
       "hymn_reference": "الطقوس",
-      "content_id": "dictionary:88"
+      "content_id": "dictionary:88",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 89,
@@ -978,7 +1682,15 @@
       "part_of_speech": "noun",
       "usage": "تي أجبية = كتاب صلوات السواعي",
       "hymn_reference": "الصلوات",
-      "content_id": "dictionary:89"
+      "content_id": "dictionary:89",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 90,
@@ -989,7 +1701,15 @@
       "part_of_speech": "noun",
       "usage": "تي أبوكاليبسيس = سفر الرؤيا",
       "hymn_reference": "سبت الفرح",
-      "content_id": "dictionary:90"
+      "content_id": "dictionary:90",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 91,
@@ -1000,7 +1720,15 @@
       "part_of_speech": "noun",
       "usage": "تي ثيسيا إم بنفماتيكى = الذبيحة الروحية",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:91"
+      "content_id": "dictionary:91",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 92,
@@ -1011,7 +1739,15 @@
       "part_of_speech": "noun",
       "usage": "بي ثيسياستيريون = المذبح",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:92"
+      "content_id": "dictionary:92",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 93,
@@ -1022,7 +1758,15 @@
       "part_of_speech": "noun",
       "usage": "بي كوليكس = الكأس المقدس",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:93"
+      "content_id": "dictionary:93",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 94,
@@ -1033,7 +1777,15 @@
       "part_of_speech": "noun",
       "usage": "بي ديسكوس = الصينية المقدسة",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:94"
+      "content_id": "dictionary:94",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 95,
@@ -1044,7 +1796,15 @@
       "part_of_speech": "noun",
       "usage": "بي أستير = النجم",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:95"
+      "content_id": "dictionary:95",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 96,
@@ -1055,7 +1815,15 @@
       "part_of_speech": "noun",
       "usage": "تي لابيس = المستير",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:96"
+      "content_id": "dictionary:96",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 97,
@@ -1066,7 +1834,15 @@
       "part_of_speech": "noun",
       "usage": "بي بروسفيرين = الابروسفارين",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:97"
+      "content_id": "dictionary:97",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 98,
@@ -1077,7 +1853,15 @@
       "part_of_speech": "noun",
       "usage": "تي لوخنيا إن نوب = المنارة الذهب",
       "hymn_reference": "التئوطوكيات",
-      "content_id": "dictionary:98"
+      "content_id": "dictionary:98",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 99,
@@ -1088,7 +1872,15 @@
       "part_of_speech": "noun",
       "usage": "تي كيبوتوس = تابوت العهد",
       "hymn_reference": "التئوطوكيات",
-      "content_id": "dictionary:99"
+      "content_id": "dictionary:99",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 100,
@@ -1099,7 +1891,15 @@
       "part_of_speech": "noun",
       "usage": "تي شوري إن نوب = الشورية الذهب",
       "hymn_reference": "ألحان باكر والقداس",
-      "content_id": "dictionary:100"
+      "content_id": "dictionary:100",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 101,
@@ -1110,7 +1910,15 @@
       "part_of_speech": "noun",
       "usage": "بي ليبانوس = البخور",
       "hymn_reference": "رفع البخور",
-      "content_id": "dictionary:101"
+      "content_id": "dictionary:101",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 102,
@@ -1121,7 +1929,15 @@
       "part_of_speech": "noun",
       "usage": "بي أوويب = الكاهن",
       "hymn_reference": "الرتب الكنسية",
-      "content_id": "dictionary:102"
+      "content_id": "dictionary:102",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 103,
@@ -1132,7 +1948,15 @@
       "part_of_speech": "noun",
       "usage": "بي أرخي إيريفس = رئيس الكهنة",
       "hymn_reference": "الرتب الكنسية",
-      "content_id": "dictionary:103"
+      "content_id": "dictionary:103",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 104,
@@ -1143,7 +1967,15 @@
       "part_of_speech": "noun",
       "usage": "بي إبيسكوبوس = الأسقف",
       "hymn_reference": "الرتب الكنسية",
-      "content_id": "dictionary:104"
+      "content_id": "dictionary:104",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 105,
@@ -1154,7 +1986,15 @@
       "part_of_speech": "noun",
       "usage": "بي باتريارشيس = البطريرك البابا",
       "hymn_reference": "الرتب الكنسية",
-      "content_id": "dictionary:105"
+      "content_id": "dictionary:105",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 106,
@@ -1165,7 +2005,15 @@
       "part_of_speech": "noun",
       "usage": "بي دياكون = الشماس",
       "hymn_reference": "الرتب الكنسية",
-      "content_id": "dictionary:106"
+      "content_id": "dictionary:106",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 107,
@@ -1176,7 +2024,15 @@
       "part_of_speech": "noun",
       "usage": "بي أنغنوستيس = الأغنسطس",
       "hymn_reference": "الرتب الكنسية",
-      "content_id": "dictionary:107"
+      "content_id": "dictionary:107",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 108,
@@ -1187,7 +2043,15 @@
       "part_of_speech": "noun",
       "usage": "بي إيبودياكون = مساعد الشماس",
       "hymn_reference": "الرتب الكنسية",
-      "content_id": "dictionary:108"
+      "content_id": "dictionary:108",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 109,
@@ -1198,7 +2062,15 @@
       "part_of_speech": "noun",
       "usage": "بي بصالتيس = المرتل",
       "hymn_reference": "الرتب الكنسية",
-      "content_id": "dictionary:109"
+      "content_id": "dictionary:109",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 110,
@@ -1209,7 +2081,15 @@
       "part_of_speech": "noun",
       "usage": "بي لاؤس = الشعب",
       "hymn_reference": "القداس",
-      "content_id": "dictionary:110"
+      "content_id": "dictionary:110",
+      "origin": "printed",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

@@ -1,0 +1,750 @@
+﻿content_id,origin,source_id,source_page,review_status,critical,decision,notes,key_fields
+saints:archangel_gabriel,reference,,,draft,0,,,رئيس الملائكة الجليل غبريال (جبرائيل)
+saints:archangel_michael,reference,,,draft,0,,,رئيس الملائكة الجليل ميخائيل
+saints:archangel_raphael,reference,,,draft,0,,,رئيس الملائكة الجليل رافائيل
+saints:archangel_sedakiel,reference,,,draft,0,,,رئيس الملائكة سداكيئيل وسراثيئيل وأنانيئيل
+saints:archangel_suriel,reference,,,draft,0,,,رئيس الملائكة الجليل سوريال
+saints:saint_01_01_03,reference,,,draft,0,,,برثولماوس الرسول
+saints:saint_01_01_04,reference,,,draft,0,,,ميليوس البطريرك الثالث من بطاركة الكرازة المرقسية
+saints:saint_01_01_05,reference,,,draft,0,,,مرقس الخامس البطريرك الثامن والتسعين من بطاركة الكرازة المرقسية
+saints:saint_01_02_01,reference,,,draft,0,,,يوحنا المعمدان
+saints:saint_01_02_02,reference,,,draft,0,,,داسيه الجُندي
+saints:saint_01_03_01,reference,,,draft,0,,,اجتماع مجمع بمدينة الإسكندرية في عهد البابا ديونيسيوس بشأن خلود النفس
+saints:saint_01_03_02,reference,,,draft,0,,,ثيئودورة التائبة
+saints:saint_01_04_02,reference,,,draft,0,,,مكاريوس الثاني البطريرك التاسع والستون من بطاركة الكرازة المرقسية
+saints:saint_01_04_03,reference,,,draft,0,,,فيرينا
+saints:saint_01_05_01,reference,,,draft,0,,,صوفيا
+saints:saint_01_06_01,reference,,,draft,0,,,إشعياء النبي بن آموص
+saints:saint_01_06_02,reference,,,draft,0,,,باشيلية أو باسيليا
+saints:saint_01_07_01,reference,,,draft,0,,,ديوسقوروس البطريرك الخامس والعشرين من بطاركة الكرازة المرقسية
+saints:saint_01_07_02,reference,,,draft,0,,,يوأنس الثاني عشر البطريرك الثالث والتسعين من بطاركة الكرازة المرقسية
+saints:saint_01_07_03,reference,,,draft,0,,,رفقة وأولادها الخمسة أغاثون وبطرس ويوحنا وآمون وآمونة
+saints:saint_01_07_04,reference,,,draft,0,,,سوريانوس أسقف جبلة
+saints:saint_01_08_01,reference,,,draft,0,,,موسى النبي
+saints:saint_01_08_02,reference,,,draft,0,,,زكريا الكاهن
+saints:saint_01_08_03,reference,,,draft,0,,,ديميدس القس
+saints:saint_01_09_01,reference,,,draft,0,,,القديس الأنبا بيسورة الأسقف
+saints:saint_01_09_02,reference,,,draft,0,,,الأسقفين الجليلين بيلوس ونيليوس
+saints:saint_01_10_01,reference,,,draft,0,,,القديسين يوأنس المصري وزملائه
+saints:saint_01_10_02,reference,,,draft,0,,,مطرونة
+saints:saint_01_10_03,reference,,,draft,0,,,باسين وأولادها الثلاثة
+saints:saint_01_11_01,reference,,,draft,0,,,واسيليدس الوزير
+saints:saint_01_11_02,reference,,,draft,0,,,الثلاثة فلاحين بإسنا
+saints:saint_01_13_01,reference,,,draft,0,,,تذكار الأعجوبة التي صنعها القديس باسيليوس الكبير أسقف قيصارية الكبادوك
+saints:saint_01_13_02,reference,,,draft,0,,,متاؤس الثاني البطريرك التسعين من بطاركة الكرازة المرقسية
+saints:saint_01_14_01,reference,,,draft,0,,,أغاثون العمودي
+saints:saint_01_14_02,reference,,,draft,0,,,فيلكس وريجولا أخته والقديس أكسيوبرانتيوس
+saints:saint_01_15_02,reference,,,draft,0,,,أثناسيوس القوصي
+saints:saint_01_17_02,reference,,,draft,0,,,قسطور القس
+saints:saint_01_17_03,reference,,,draft,0,,,ثاؤغنسطا
+saints:saint_01_17_04,reference,,,draft,0,,,المعلم جرجس الجوهري
+saints:saint_01_18_02,reference,,,draft,0,,,بروفوريوس
+saints:saint_01_18_03,reference,,,draft,0,,,إسطفانوس القس والقديسة نيكيتي
+saints:saint_01_20_01,reference,,,draft,0,,,ثاؤبستى
+saints:saint_01_20_02,reference,,,draft,0,,,أثناسيوس الثاني البطريرك الثامن والعشرين من بطاركة الكرازة المرقسية
+saints:saint_01_20_03,reference,,,draft,0,,,ملاتينى العذراء
+saints:saint_01_21_02,reference,,,draft,0,,,كبريانوس الأسقف والقديسة يوستينة
+saints:saint_01_22_01,reference,,,draft,0,,,القديسين كوتلاس وأكسوا أخته وتاتاس صديقه
+saints:saint_01_22_02,reference,,,draft,0,,,يوليوس الأقفهصى كاتب سِيَر الشهداء ومن معه
+saints:saint_01_23_01,reference,,,draft,0,,,القديسين أونانيوس وأندراوس أخيه
+saints:saint_01_23_02,reference,,,draft,0,,,تذكار القديسة الشهيدة تكلا
+saints:saint_01_24_01,reference,,,draft,0,,,كودارتوس أحد السبعين رسولاً وتلميذاً
+saints:saint_01_24_02,reference,,,draft,0,,,غريغوريوس الثيئولوغوس
+saints:saint_01_24_03,reference,,,draft,0,,,غريغوريوس الراهب
+saints:saint_01_25_02,reference,,,draft,0,,,موريس قائد الفرقة الطيبية
+saints:saint_01_27_01,reference,,,draft,0,,,أسطاثيوس وولديه وزوجته
+saints:saint_01_28_01,reference,,,draft,0,,,القديسين أبادير وإيرائى ( بعض المصادر تذكر اسم إيرينى بدلاً من إيرائى) أخته
+saints:saint_01_29_02,reference,,,draft,0,,,أربسيما ومن معها
+saints:saint_01_29_03,reference,,,draft,0,,,فبرونيا
+saints:saint_02_01_01,reference,,,draft,0,,,أنسطاسيه
+saints:saint_02_02_01,reference,,,draft,0,,,تذكار مجيء القديس ساويرس بطريرك أنطاكية إلى مصر
+saints:saint_02_03_01,reference,,,draft,0,,,سيمون الثاني البطريرك الحادي والخمسون من بطاركة الكرازة المرقسية
+saints:saint_02_03_02,reference,,,draft,0,,,القديسين أورسوس وبقطر من الفرقة الطيبية
+saints:saint_02_03_03,reference,,,draft,0,,,يوحنا الجُندي الأشروبي
+saints:saint_02_03_04,reference,,,draft,0,,,ثيئودورا الملكة
+saints:saint_02_04_01,reference,,,draft,0,,,واخس رفيق القديس سرجيوس
+saints:saint_02_05_01,reference,,,draft,0,,,بولس بطريرك القسطنطينية
+saints:saint_02_05_02,reference,,,draft,0,,,بطرس أسقف البهنسا
+saints:saint_02_06_01,reference,,,draft,0,,,الصديقة حَنَّة أم صموئيل النبي
+saints:saint_02_07_01,reference,,,draft,0,,,الأنبا بولا الطموهي
+saints:saint_02_08_01,reference,,,draft,0,,,مطرا
+saints:saint_02_08_02,reference,,,draft,0,,,القديسين أباهور وطوسيا وأولادهما
+saints:saint_02_08_03,reference,,,draft,0,,,الأنبا أغاثون المتوحد
+saints:saint_02_09_01,reference,,,draft,0,,,أومانيوس البطريرك السابع من بطاركة الكرازة المرقسية
+saints:saint_02_09_02,reference,,,draft,0,,,سمعان الأسقف ورفقائه
+saints:saint_02_10_01,reference,,,draft,0,,,سرجيوس رفيق واخس
+saints:saint_02_11_01,reference,,,draft,0,,,يعقوب بطريرك أنطاكية
+saints:saint_02_11_02,reference,,,draft,0,,,بيلاجية التائبة
+saints:saint_02_12_02,reference,,,draft,0,,,متى الإنجيلي المبشر
+saints:saint_02_12_03,reference,,,draft,0,,,القديس ديمتريوس الكرام البطريرك الثاني عشر من بطاركة الكرازة المرقسية
+saints:saint_02_13_01,reference,,,draft,0,,,زكريا الراهب
+saints:saint_02_14_01,reference,,,draft,0,,,فيلبس أحد الشمامسة السبعة
+saints:saint_02_15_01,reference,,,draft,0,,,بندلائيمون الطبيب
+saints:saint_02_16_01,reference,,,draft,0,,,البابا الأنبا أغاثون، البطريرك التاسع والثلاثون من بطاركة الكرازة المرقسية
+saints:saint_02_16_02,reference,,,draft,0,,,تذكار القديسين كاربوس وأبولوس وبطرس
+saints:saint_02_17_01,reference,,,draft,0,,,الأنبا ديوسقوروس الثاني البطريرك الحادي والثلاثين من بطاركة الكرازة المرقسية
+saints:saint_02_18_01,reference,,,draft,0,,,القديس ثاؤفيلس البطريرك الثالث والعشرين من بطاركة الكرازة المرقسية
+saints:saint_02_19_01,reference,,,draft,0,,,ثاؤفيلس وزوجته بالفيوم
+saints:saint_02_19_02,reference,,,draft,0,,,عقد مجمع بأنطاكية لمحاكمة بولس الساموساطي
+saints:saint_02_20_01,reference,,,draft,0,,,يوحنا القصير
+saints:saint_02_21_02,reference,,,draft,0,,,يوئيل النبي
+saints:saint_02_21_04,reference,,,draft,0,,,الأنبا رويس
+saints:saint_02_22_01,reference,,,draft,0,,,لوقا الإنجيلي
+saints:saint_02_23_01,reference,,,draft,0,,,ديونيسيوس أسقف كورنثوس
+saints:saint_02_23_02,reference,,,draft,0,,,يوساب الأول البطريرك الثاني والخمسين من بطاركة الكرازة المرقسية
+saints:saint_02_24_01,reference,,,draft,0,,,إيلاريون الكبير الراهب
+saints:saint_02_24_02,reference,,,draft,0,,,القديسين بولس ولُونجينوس ودينة
+saints:saint_02_25_01,reference,,,draft,0,,,أبيب صديق القديس أبوللو
+saints:saint_02_25_02,reference,,,draft,0,,,تكريس كنيسة الشهيد يوليوس الأقفهصي كاتب سير الشهداء
+saints:saint_02_26_01,reference,,,draft,0,,,تيمون الرسول، أحد السبعين، وأحد الشمامسة السبعة
+saints:saint_02_26_02,reference,,,draft,0,,,تذكار السبعة الشهداء بجبل أنطونيوس
+saints:saint_02_27_01,reference,,,draft,0,,,مكاريوس أسقف قاو
+saints:saint_02_28_01,reference,,,draft,0,,,القديسين مركيانوس ومركوريوس
+saints:saint_02_29_02,reference,,,draft,0,,,ديمتريوس التسالونيكي
+saints:saint_02_29_03,reference,,,draft,0,,,القديس غبريال السابع البطريرك الخامس والتسعين من بطاركة الكرازة المرقسية
+saints:saint_02_30_02,reference,,,draft,0,,,إبراهيم المنوفي المتوحد
+saints:saint_03_01_01,reference,,,draft,0,,,كليوباس الرسول أحد تلميذي عمواس
+saints:saint_03_01_02,reference,,,draft,0,,,كيرياكوس أسقف أورشليم ووالدته
+saints:saint_03_01_03,reference,,,draft,0,,,القديسين مكسيموس ونوميتيوس وبقطر وفيلبس
+saints:saint_03_01_04,reference,,,draft,0,,,أنسطاسية الكبيرة، والقديس كيرلس
+saints:saint_03_02_01,reference,,,draft,0,,,بطرس الثالث البطريرك السابع والعشرين من بطاركة الكرازة المرقسية
+saints:saint_03_02_02,reference,,,draft,0,,,مقار الليبي
+saints:saint_03_02_03,reference,,,draft,0,,,أفراميوس الرهاوى
+saints:saint_03_03_01,reference,,,draft,0,,,أثناسيوس وأخته إيرينى
+saints:saint_03_03_02,reference,,,draft,0,,,أغاثون
+saints:saint_03_03_03,reference,,,draft,0,,,كيرياكوس من أهل كورنثوس
+saints:saint_03_04_01,reference,,,draft,0,,,القديسين يوحنا ويعقوب أسقفيّ فارس
+saints:saint_03_04_02,reference,,,draft,0,,,توماس الأسقف
+saints:saint_03_04_03,reference,,,draft,0,,,القديسَيْن أبيماخوس وعزاريانوس
+saints:saint_03_05_01,reference,,,draft,0,,,ظهور رأس القديس لُونجينوس الجُندي
+saints:saint_03_05_02,reference,,,draft,0,,,تيموثاوس وزوجته مورا
+saints:saint_03_05_04,reference,,,draft,0,,,يوساب بجبل شامة
+saints:saint_03_06_01,reference,,,draft,0,,,تذكار تكريس كنيسة القديسة العذراء – الأثرية – بدير المحرق العامر بجبل قسقام
+saints:saint_03_06_02,reference,,,draft,0,,,فيلكس بابا رومية
+saints:saint_03_07_01,reference,,,draft,0,,,تكريس كنيسة الشهيد العظيم مار جرجس الروماني باللدّ
+saints:saint_03_07_02,reference,,,draft,0,,,مار جرجس الإسكندري
+saints:saint_03_07_03,reference,,,draft,0,,,نهروه
+saints:saint_03_07_04,reference,,,draft,0,,,القديسين أكبسيما وإيتالا ويوسف
+saints:saint_03_07_05,reference,,,draft,0,,,الأنبا مينا أسقف تمي الأمديد
+saints:saint_03_08_02,reference,,,draft,0,,,نيكاندروس كاهن ميرا
+saints:saint_03_08_03,reference,,,draft,0,,,بيريّوس مدير مدرسة الإسكندرية اللاهوتية
+saints:saint_03_09_01,reference,,,draft,0,,,اجتماع مجمع نيقية المسكونى الأول
+saints:saint_03_09_02,reference,,,draft,0,,,إسحاق البطريرك الحادي والأربعين من بطاركة الكرازة المرقسية
+saints:saint_03_10_01,reference,,,draft,0,,,العذارى الخمسين وأمهن
+saints:saint_03_11_01,reference,,,draft,0,,,حَنّة والدة القديسة العذراء مريم
+saints:saint_03_11_02,reference,,,draft,0,,,ميخائيل الراهب
+saints:saint_03_11_03,reference,,,draft,0,,,القديسَيْن أرشيلاؤس وأليشع القمص
+saints:saint_03_12_02,reference,,,draft,0,,,يوحنا السرياني
+saints:saint_03_13_02,reference,,,draft,0,,,الأنبا زخارياس البطريرك الرابع والستين من بطاركة الكرازة المرقسية
+saints:saint_03_13_03,reference,,,draft,0,,,تادرس تيرو
+saints:saint_03_13_04,reference,,,draft,0,,,تيموثاوس أسقف أنصنا
+saints:saint_03_13_05,reference,,,draft,0,,,يوساب بجبل الأساس
+saints:saint_03_14_01,reference,,,draft,0,,,مرتينوس أسقف ثراكي
+saints:saint_03_14_02,reference,,,draft,0,,,الضابط فاروس ومعلّميه
+saints:saint_03_15_01,reference,,,draft,0,,,مار مينا العجائبى
+saints:saint_03_15_02,reference,,,draft,0,,,يوحنا الربان
+saints:saint_03_16_02,reference,,,draft,0,,,وفيه أيضاً تم تكريس كنيسة القديس أبى نُفر السائح، التي كانت بالقاهرة، وقد عاش القديس أبو نُفر في الب
+saints:saint_03_16_03,reference,,,draft,0,,,وفيه أيضاً استشهد القديس يسطس الأسقف، الذي نال إكليل الشهادة، على يد مكسيموس الأمير، بعد أن عذَّبه ع
+saints:saint_03_16_04,reference,,,draft,0,,,وفيه أيضاً من سنة 691 للشهداء ( 974م ) تنيَّح الأب القديس البابا مينا الثاني، البطريرك الحادي والستو
+saints:saint_03_17_01,reference,,,draft,0,,,يوحنا ذهبي الفم
+saints:saint_03_17_02,reference,,,draft,0,,,بولس بجبل دنفيق
+saints:saint_03_18_01,reference,,,draft,0,,,فيلبس الرسول
+saints:saint_03_18_02,reference,,,draft,0,,,القديستين أدروسيس ويوأنا
+saints:saint_03_19_02,reference,,,draft,0,,,أبيبوس
+saints:saint_03_20_01,reference,,,draft,0,,,إنيانوس البطريرك الثاني من بطاركة الكرازة المرقسية
+saints:saint_03_21_02,reference,,,draft,0,,,غريغوريوس العجائبى
+saints:saint_03_21_03,reference,,,draft,0,,,قسما الثاني البطريرك الرابع والخمسين من بطاركة الكرازة المرقسية
+saints:saint_03_21_04,reference,,,draft,0,,,يوحنا التبايسي بجبل أسيوط
+saints:saint_03_21_05,reference,,,draft,0,,,تذكار القديسين حلفا وزكا ورومانوس ويوحنا الشهداء. وتذكار القديسين توما وبقطر وإسحاق من الأشمونين
+saints:saint_03_21_06,reference,,,draft,0,,,نقل جسد القديس الأنبا يحنس كاما من ديره إلى دير السريان
+saints:saint_03_22_01,reference,,,draft,0,,,القديسين قزمان ودميان وإخوتهما وأمهما
+saints:saint_03_23_01,reference,,,draft,0,,,كرنيليوس قائد المائة
+saints:saint_03_23_02,reference,,,draft,0,,,تذكار تكريس كنيسة القديسة مارينا الشهيدة
+saints:saint_03_24_02,reference,,,draft,0,,,الأسقف نارسيس والقديسة تكلا
+saints:saint_03_24_03,reference,,,draft,0,,,بروكلس بطريرك القسطنطينية
+saints:saint_03_25_01,reference,,,draft,0,,,مرقوريوس الشهير بأبي سيفين
+saints:saint_03_26_01,reference,,,draft,0,,,بالاريانوس وأخيه تيبورينوس
+saints:saint_03_26_02,reference,,,draft,0,,,غريغوريوس النيصي أسقف نيصص
+saints:saint_03_27_01,reference,,,draft,0,,,يعقوب الفارسي المقطع
+saints:saint_03_27_02,reference,,,draft,0,,,تكريس كنيسة الشهيد بقطر بن رومانوس
+saints:saint_03_28_01,reference,,,draft,0,,,صرابامون أسقف نيقيوس
+saints:saint_03_29_02,reference,,,draft,0,,,"البابا بطرس "" خاتم الشهداء "" البطريرك السابع عشر من بطاركة الكرسي المرقسي"
+saints:saint_03_29_03,reference,,,draft,0,,,إكليمنضس الأول بابا روما
+saints:saint_03_29_04,reference,,,draft,0,,,كاترين الإسكندرانية
+saints:saint_03_30_01,reference,,,draft,0,,,مكاريوس
+saints:saint_03_30_02,reference,,,draft,0,,,الراهب القديس يوحنا القليوبي
+saints:saint_03_30_03,reference,,,draft,0,,,أكاكيوس بطريرك القسطنطينية
+saints:saint_04_01_01,reference,,,draft,0,,,يوأنس الثالث البطريرك الأربعين من بطاركة الكرازة المرقسية
+saints:saint_04_01_02,reference,,,draft,0,,,أثناسيوس الثالث البطريرك السادس والسبعين من بطاركة الكرازة المرقسية
+saints:saint_04_01_03,reference,,,draft,0,,,بطرس الرهاوي ( أسقف غزة )
+saints:saint_04_01_04,reference,,,draft,0,,,تكريس كنيسة الشهيد أبى فام الجُندي الطحاوي ببلدة أبنوب
+saints:saint_04_01_05,reference,,,draft,0,,,تكريس كنيسة القديس العظيم الأنبا شنودة رئيس المتوحدين
+saints:saint_04_02_01,reference,,,draft,0,,,أباهور الراهب
+saints:saint_04_02_02,reference,,,draft,0,,,الأنبا هورمينا السائح
+saints:saint_04_03_02,reference,,,draft,0,,,بسطفروس ( صليب الجديد )
+saints:saint_04_04_01,reference,,,draft,0,,,أندراوس أحد الاثنى عشر رسولاً
+saints:saint_04_04_03,reference,,,draft,0,,,تذكار نقل جسديّ القديسين الأنبا بيشوي والأنبا بولا
+saints:saint_04_05_01,reference,,,draft,0,,,ناحوم النبي
+saints:saint_04_05_02,reference,,,draft,0,,,بقطر الذي من أسيوط
+saints:saint_04_05_03,reference,,,draft,0,,,إيسوذوروس
+saints:saint_04_06_01,reference,,,draft,0,,,أبرآم بن زرعة البطريرك الثاني والستين من بطاركة الكرازة المرقسية
+saints:saint_04_06_02,reference,,,draft,0,,,باطلس القس
+saints:saint_04_07_01,reference,,,draft,0,,,متاؤس الفاخوري بجبل أصفون بإسنا
+saints:saint_04_07_02,reference,,,draft,0,,,القديسين بانينا وباناوا
+saints:saint_04_07_03,reference,,,draft,0,,,تذكار تكريس كنيسة الشهيد أبسخيرون القليني
+saints:saint_04_07_04,reference,,,draft,0,,,يوحنا أسقف أرمنت
+saints:saint_04_08_01,reference,,,draft,0,,,إيسي وتكلا أخته
+saints:saint_04_08_02,reference,,,draft,0,,,القديستين بربارة ويوليانة
+saints:saint_04_08_03,reference,,,draft,0,,,الأنبا صموئيل المعترف
+saints:saint_04_08_04,reference,,,draft,0,,,ياروكلاس البطريرك الثالث عشر من بطاركة الكرازة المرقسية
+saints:saint_04_09_01,reference,,,draft,0,,,بيمن المعترف
+saints:saint_04_10_01,reference,,,draft,0,,,نيقولاوس أسقف مورا
+saints:saint_04_10_02,reference,,,draft,0,,,شورة من أهل أخميم
+saints:saint_04_10_03,reference,,,draft,0,,,تذكار نقل جسد القديس ساويرس بطريرك أنطاكية
+saints:saint_04_11_01,reference,,,draft,0,,,الأنبا بيجيمي السائح
+saints:saint_04_11_02,reference,,,draft,0,,,أبطلماوس من أهل دندرة
+saints:saint_04_11_03,reference,,,draft,0,,,تذكار تكريس كنيسة القديس إقلاديوس بناحية باقور أبو تيج
+saints:saint_04_12_02,reference,,,draft,0,,,الأنبا هدرا الأسواني
+saints:saint_04_12_03,reference,,,draft,0,,,يوحنا المعترف
+saints:saint_04_12_04,reference,,,draft,0,,,انعقاد مجمع برومية على نوباطس القس
+saints:saint_04_13_02,reference,,,draft,0,,,برشنوفيوس الراهب
+saints:saint_04_13_03,reference,,,draft,0,,,مرقس الثامن البطريرك المائة وثمانية من بطاركة الكرسي المرقسي
+saints:saint_04_13_04,reference,,,draft,0,,,إبراكيوس
+saints:saint_04_13_05,reference,,,draft,0,,,إيليا السائح
+saints:saint_04_14_01,reference,,,draft,0,,,بهنام وسارة أخته
+saints:saint_04_14_02,reference,,,draft,0,,,الأنبا أمونيوس أسقف إسنا
+saints:saint_04_14_03,reference,,,draft,0,,,القديسين سمعان المنوفي وأباهور وأبا مينا الشيخ
+saints:saint_04_14_04,reference,,,draft,0,,,خرستوذولوس البطريرك السادس والستين من بطاركة الكرازة المرقسية
+saints:saint_04_14_05,reference,,,draft,0,,,خرستوذولوس السائح
+saints:saint_04_15_01,reference,,,draft,0,,,غريغوريوس بطريرك الأرمن
+saints:saint_04_15_02,reference,,,draft,0,,,لوكاس العمودي
+saints:saint_04_15_03,reference,,,draft,0,,,الأنبا حزقيال من أرمنت
+saints:saint_04_16_01,reference,,,draft,0,,,البار جدعون أحد قضاة بنى إسرائيل
+saints:saint_04_16_02,reference,,,draft,0,,,القديسين هرواج وحنانيا وخوزى الذين من أخميم
+saints:saint_04_16_03,reference,,,draft,0,,,القديسين أولوجيوس وأرسانيوس صاحبيّ دير الحديد بأخميم
+saints:saint_04_16_04,reference,,,draft,0,,,إمساح القفطي
+saints:saint_04_17_02,reference,,,draft,0,,,إيلياس بجبل بِشْوَاو ( جبل بشْوَاو قريب من جبل الأساس الذي من نقادة حتى الجبل الغربي تجاه القصر، بمحافظة قنا)
+saints:saint_04_18_01,reference,,,draft,0,,,نقل جسد القديس تيطس أسقف كريت إلى القسطنطينية
+saints:saint_04_18_02,reference,,,draft,0,,,القديسين ياروكلاس وفليمون
+saints:saint_04_19_01,reference,,,draft,0,,,غبريال السادس البطريرك الحادي والتسعين من بطاركة الكرازة المرقسية
+saints:saint_04_19_02,reference,,,draft,0,,,يوحنا أسقف البُرلُّس – جامع السنكسار
+saints:saint_04_20_01,reference,,,draft,0,,,حَجِّي النبي
+saints:saint_04_20_02,reference,,,draft,0,,,إيلياس أسقف دير المحرق والقوصية
+saints:saint_04_21_02,reference,,,draft,0,,,برنابا أحد السبعين رسولاً
+saints:saint_04_22_02,reference,,,draft,0,,,باخوم وضالوشام أخته
+saints:saint_04_22_03,reference,,,draft,0,,,أنسطاسيوس البطريرك السادس والثلاثين من بطاركة الكرازة المرقسية
+saints:saint_04_23_01,reference,,,draft,0,,,داود النبي والملك
+saints:saint_04_23_02,reference,,,draft,0,,,تيموثاوس السائح
+saints:saint_04_24_01,reference,,,draft,0,,,أغناطيوس الثيئوفوروس ( ثيئوفوروس: كلمة تعنى حامل الإله أو المتوشح بالإله) أسقف أنطاكية
+saints:saint_04_25_01,reference,,,draft,0,,,الأنبا يحنس كاما القس
+saints:saint_04_25_02,reference,,,draft,0,,,الأنبا بشاي بجبل الطود
+saints:saint_04_26_01,reference,,,draft,0,,,أنسطاسيه
+saints:saint_04_26_02,reference,,,draft,0,,,تكريس كنيسة الشهيدين أنبا بشاي وأنبا بطرس
+saints:saint_04_27_01,reference,,,draft,0,,,الأنبا بساده أسقف أبصاي
+saints:saint_04_28_02,reference,,,draft,0,,,وفيه أيضاً من سنة 20 للشهداء ( 304م ) استشهد مائة وخمسون رجلاً وأربعة وعشرون امرأة، كان هؤلاء من مدي
+saints:saint_04_29_02,reference,,,draft,0,,,تذكار شهداء أخميم
+saints:saint_04_30_01,reference,,,draft,0,,,يوأنس قمص شيهيت
+saints:saint_04_30_02,reference,,,draft,0,,,سجود المجوس للمخلص
+saints:saint_04_30_03,reference,,,draft,0,,,القمص ميخائيل الطوخي
+saints:saint_04_30_04,reference,,,draft,0,,,الطفل زكريا ومن معه بأخميم
+saints:saint_05_01_01,reference,,,draft,0,,,إسطفانوس رئيس الشمامسة
+saints:saint_05_01_02,reference,,,draft,0,,,لاونديانوس
+saints:saint_05_01_03,reference,,,draft,0,,,القديسين ديوسقوروس وأخيه سكلابيوس
+saints:saint_05_02_01,reference,,,draft,0,,,ثاؤناس البطريرك السادس عشر من بطاركة الكرازة المرقسية
+saints:saint_05_02_02,reference,,,draft,0,,,غللينيكوس أسقف أوسيم
+saints:saint_05_02_03,reference,,,draft,0,,,الأنبا يونا
+saints:saint_05_03_01,reference,,,draft,0,,,أطفال بيت لحم
+saints:saint_05_04_01,reference,,,draft,0,,,يوحنا الإنجيلي
+saints:saint_05_05_01,reference,,,draft,0,,,أوساغنيوس الجُندي
+saints:saint_05_05_02,reference,,,draft,0,,,بانيكاروس
+saints:saint_05_05_03,reference,,,draft,0,,,ثيئودوسيوس الثاني البطريرك التاسع والسبعين من بطاركة الكرازة المرقسية
+saints:saint_05_05_04,reference,,,draft,0,,,متاؤس الأول البطريرك السابع والثمانين من بطاركة الكرازة المرقسية
+saints:saint_05_06_03,reference,,,draft,0,,,الأربعة أراخنة بإسنا
+saints:saint_05_06_04,reference,,,draft,0,,,مركيانوس البطريرك الثامن من بطاركة الكرازة المرقسية
+saints:saint_05_06_05,reference,,,draft,0,,,مرقس البطريرك الثالث والسبعين من بطاركة الكرازة المرقسية
+saints:saint_05_06_06,reference,,,draft,0,,,غبريال الثالث البطريرك السابع والسبعين من بطاركة الكرازة المرقسية
+saints:saint_05_06_07,reference,,,draft,0,,,باسيليوس الكبير رئيس أساقفة قيصرية الكبادوك
+saints:saint_05_06_08,reference,,,draft,0,,,تكريس كنيسة الشهيد إسحاق الدفراوي
+saints:saint_05_07_01,reference,,,draft,0,,,سلفستروس بابا روما
+saints:saint_05_08_01,reference,,,draft,0,,,عودة رأس القديس مار مرقس الرسول
+saints:saint_05_08_02,reference,,,draft,0,,,أندرونيقوس البطريرك السابع والثلاثين من بطاركة الكرازة المرقسية
+saints:saint_05_08_03,reference,,,draft,0,,,بنيامين الأول البطريرك الثامن والثلاثين من بطاركة الكرازة المرقسية
+saints:saint_05_08_04,reference,,,draft,0,,,غبريال الخامس البطريرك الثامن والثمانين من بطاركة الكرازة المرقسية
+saints:saint_05_09_01,reference,,,draft,0,,,أبرآم رفيق الأنبا جاورجي
+saints:saint_05_09_02,reference,,,draft,0,,,أنبا فيس
+saints:saint_05_10_02,reference,,,draft,0,,,يسطس تلميذ الأنبا صموئيل المعترف
+saints:saint_05_11_02,reference,,,draft,0,,,يوأنس السادس البطريرك الرابع والسبعين من بطاركة الكرازة المرقسية
+saints:saint_05_11_03,reference,,,draft,0,,,بنيامين الثاني البطريرك الثاني والثمانين من بطاركة الكرازة المرقسية
+saints:saint_05_12_03,reference,,,draft,0,,,تادرس المشرقي
+saints:saint_05_12_04,reference,,,draft,0,,,أناطوليوس
+saints:saint_05_13_02,reference,,,draft,0,,,دميانة
+saints:saint_05_13_03,reference,,,draft,0,,,ثاؤفيلس الراهب
+saints:saint_05_14_01,reference,,,draft,0,,,أرشليدس الراهب
+saints:saint_05_14_02,reference,,,draft,0,,,مُهْراتي ( مُهْراتي: كان للقديسة مهراتي اسم آخر هو مُهْرابيل)
+saints:saint_05_14_03,reference,,,draft,0,,,مكسيموس أخى دوماديوس
+saints:saint_05_15_01,reference,,,draft,0,,,عوبديا النبي
+saints:saint_05_16_01,reference,,,draft,0,,,فيلوثيئوس
+saints:saint_05_16_02,reference,,,draft,0,,,يوأنس الرابع البطريرك الثامن والأربعين من بطاركة الكرازة المرقسية
+saints:saint_05_17_01,reference,,,draft,0,,,دوماديوس أخي القديس مكسيموس
+saints:saint_05_17_02,reference,,,draft,0,,,الأنبا يوساب الأبحّ أسقف جرجا
+saints:saint_05_18_01,reference,,,draft,0,,,يعقوب أسقف نصيبين
+saints:saint_05_18_03,reference,,,draft,0,,,أندراس الشهير بـ ( أبو الليف )
+saints:saint_05_19_01,reference,,,draft,0,,,اكتشاف أعضاء القديسين أباهور وبيسوري وأمبيرة أمهما
+saints:saint_05_20_01,reference,,,draft,0,,,بروخورس أحد السبعين رسولاً
+saints:saint_05_20_02,reference,,,draft,0,,,أبا كلوج القس
+saints:saint_05_20_03,reference,,,draft,0,,,بهناو
+saints:saint_05_21_01,reference,,,draft,0,,,والدة الإله القديسة مريم العذراء
+saints:saint_05_21_02,reference,,,draft,0,,,إيلارية ابنة الملك زينون
+saints:saint_05_22_01,reference,,,draft,0,,,العظيم الأنبا أنطونيوس أب جميع الرهبان
+saints:saint_05_23_01,reference,,,draft,0,,,تيموثاوس تلميذ القديس بولس الرسول وأسقف أفسس
+saints:saint_05_23_02,reference,,,draft,0,,,كيرلس الرابع أبى الإصلاح البطريرك المائة والعاشر من بطاركة الكرازة المرقسية
+saints:saint_05_24_01,reference,,,draft,0,,,مريم الحبيسة الناسكة
+saints:saint_05_24_02,reference,,,draft,0,,,بساده القس
+saints:saint_05_25_01,reference,,,draft,0,,,بطرس العابد
+saints:saint_05_25_02,reference,,,draft,0,,,أسكلاس
+saints:saint_05_26_01,reference,,,draft,0,,,التسعة والأربعين شهيداً شيوخ شيهيت
+saints:saint_05_26_02,reference,,,draft,0,,,بجوش
+saints:saint_05_26_03,reference,,,draft,0,,,أنسطاسية
+saints:saint_05_27_02,reference,,,draft,0,,,أبى فام الجُندي الأوسيمي
+saints:saint_05_27_03,reference,,,draft,0,,,سيرابيون
+saints:saint_05_28_01,reference,,,draft,0,,,الأنبا كاؤو
+saints:saint_05_28_02,reference,,,draft,0,,,إكليمنضس أسقف أنقرة
+saints:saint_05_28_03,reference,,,draft,0,,,فيلياس أسقف تمي الأمديد
+saints:saint_05_29_01,reference,,,draft,0,,,أكساني
+saints:saint_05_29_02,reference,,,draft,0,,,سرياكوس المجاهد
+saints:saint_05_30_01,reference,,,draft,0,,,العذارى القديسات بيستيس وهلبيس وأغابى ونياحة أمهن صوفية
+saints:saint_05_30_02,reference,,,draft,0,,,مينا الأول البطريرك السابع والأربعين من بطاركة الكرازة المرقسية
+saints:saint_05_30_03,reference,,,draft,0,,,إبراهيم الرهاوي المتوحد
+saints:saint_06_01_02,reference,,,draft,0,,,أباديون أسقف أنصنا
+saints:saint_06_01_03,reference,,,draft,0,,,تكريس كنيسة القديس بطرس خاتم الشهداء بمدينة الإسكندرية
+saints:saint_06_02_01,reference,,,draft,0,,,العظيم الأنبا بولا أول السواح
+saints:saint_06_02_02,reference,,,draft,0,,,لُونجينوس رئيس دير الزجاج
+saints:saint_06_03_01,reference,,,draft,0,,,يعقوب الراهب
+saints:saint_06_03_02,reference,,,draft,0,,,هدرا بحاجر بنهدب
+saints:saint_06_04_01,reference,,,draft,0,,,أغابوس أحد السبعين رسولاً
+saints:saint_06_05_01,reference,,,draft,0,,,تذكار نقل أعضاء التسعة والأربعين شهيداً شيوخ شيهيت
+saints:saint_06_05_02,reference,,,draft,0,,,أغريبينوس البطريرك العاشر من بطاركة الكرازة المرقسية
+saints:saint_06_05_03,reference,,,draft,0,,,الأنبا بشاي صاحب الدير الأحمر
+saints:saint_06_05_05,reference,,,draft,0,,,أبوليدس بابا روما
+saints:saint_06_05_06,reference,,,draft,0,,,أبانوب صاحب المروحة الذهب
+saints:saint_06_06_01,reference,,,draft,0,,,القديسين أباكير ويوحنا والثلاث عذارى وأمهن
+saints:saint_06_06_02,reference,,,draft,0,,,مرقس الرابع البطريرك الرابع والثمانين من بطاركة الكرازة المرقسية
+saints:saint_06_06_03,reference,,,draft,0,,,زانوفيوس
+saints:saint_06_07_01,reference,,,draft,0,,,القديس ألكسندروس الثاني البطريرك الثالث والأربعين من بطاركة الكرازة المرقسية
+saints:saint_06_07_02,reference,,,draft,0,,,القديس ثيئودوروس الأول البطريرك الخامس والأربعين من بطاركة الكرازة المرقسية
+saints:saint_06_08_02,reference,,,draft,0,,,سمعان الشيخ
+saints:saint_06_09_01,reference,,,draft,0,,,برسوما أب رهبان السريان
+saints:saint_06_09_02,reference,,,draft,0,,,بولس السرياني
+saints:saint_06_09_03,reference,,,draft,0,,,سمعان
+saints:saint_06_09_04,reference,,,draft,0,,,إفروسينا
+saints:saint_06_10_01,reference,,,draft,0,,,فيلو أسقف فارس
+saints:saint_06_10_02,reference,,,draft,0,,,يسطس ابن الملك نوماريوس
+saints:saint_06_10_03,reference,,,draft,0,,,إيسوذوروس الفَرمِي
+saints:saint_06_11_01,reference,,,draft,0,,,القديس يوأنس الثالث عشر البطريرك الرابع والتسعين من بطاركة الكرازة المرقسية
+saints:saint_06_11_02,reference,,,draft,0,,,فابيانوس بابا روما
+saints:saint_06_12_02,reference,,,draft,0,,,جلاسيوس الناسك
+saints:saint_06_13_01,reference,,,draft,0,,,سرجيوس الأتريبي وأبيه وأمه وأخته وكثيرين معهم
+saints:saint_06_13_02,reference,,,draft,0,,,القديس تيموثاوس الثالث البطريرك الثاني والثلاثين من بطاركة الكرازة المرقسية
+saints:saint_06_14_01,reference,,,draft,0,,,ساويرس بطريرك أنطاكية
+saints:saint_06_14_02,reference,,,draft,0,,,القديس يعقوب البطريرك الخمسين من بطاركة الكرازة المرقسية
+saints:saint_06_15_01,reference,,,draft,0,,,بفنوتيوس الراهب
+saints:saint_06_15_02,reference,,,draft,0,,,الصديق زكريا النبي بن بَرَخِيَّا بن عِدُّو
+saints:saint_06_15_03,reference,,,draft,0,,,أنبا بيجول القس
+saints:saint_06_15_04,reference,,,draft,0,,,تكريس أول كنيسة للأربعين شهيداً الذين استشهدوا في سبسطية
+saints:saint_06_16_01,reference,,,draft,0,,,أليصابات أم القديس يوحنا المعمدان
+saints:saint_06_16_02,reference,,,draft,0,,,القديس ميخائيل الرابع البطريرك الثاني والتسعين من بطاركة الكرازة المرقسية
+saints:saint_06_16_03,reference,,,draft,0,,,القمص ميخائيل البحيري المحرقي
+saints:saint_06_17_01,reference,,,draft,0,,,مينا الراهب
+saints:saint_06_18_01,reference,,,draft,0,,,ملاتيوس المعترف بطريرك أنطاكية
+saints:saint_06_18_02,reference,,,draft,0,,,تدشين كنيسة القديس بولس البسيط
+saints:saint_06_19_01,reference,,,draft,0,,,تذكار نقل أعضاء القديس مرتيانوس الراهب إلى أنطاكية
+saints:saint_06_20_01,reference,,,draft,0,,,القديس بطرس الثاني البطريرك الحادي والعشرين من بطاركة الكرازة المرقسية
+saints:saint_06_20_02,reference,,,draft,0,,,القديسين باسيليوس وثاؤدروس وتيموثاوس بالإسكندرية
+saints:saint_06_21_02,reference,,,draft,0,,,أُنسيموس تلميذ القديس بولس الرسول
+saints:saint_06_21_03,reference,,,draft,0,,,القديس غبريال الأول البطريرك السابع والخمسين من بطاركة الكرازة المرقسية
+saints:saint_06_21_04,reference,,,draft,0,,,زخارياس أسقف سخا
+saints:saint_06_22_01,reference,,,draft,0,,,ماروتا أسقف ميافرقين ( ميافرقين:من بلاد ما بين النهرين شمالي نصيبين)
+saints:saint_06_23_01,reference,,,draft,0,,,أوسابيوس ابن القديس واسيليدس الوزير
+saints:saint_06_24_01,reference,,,draft,0,,,أغابيطوس الأسقف
+saints:saint_06_24_02,reference,,,draft,0,,,القديسين تيموثاوس بمدينة غزة ومتياس بمدينة قوص
+saints:saint_06_25_01,reference,,,draft,0,,,القديسين فليمون وأبفية وأرخِبُّس ابنهما
+saints:saint_06_25_02,reference,,,draft,0,,,قونا بمدينة روما. ( أو الشماس قزماس بروما )
+saints:saint_06_25_03,reference,,,draft,0,,,مينا بمدينة قوص
+saints:saint_06_25_04,reference,,,draft,0,,,أبو فانا بجبل دلجا
+saints:saint_06_26_01,reference,,,draft,0,,,الصِّدِّيق هوشع النبي
+saints:saint_06_26_02,reference,,,draft,0,,,صادوق والمائة والثمانية والعشرين الذين معه
+saints:saint_06_26_03,reference,,,draft,0,,,الأسقفين تيرانيوس وسلوانس والكاهن زينوبيوس ورفاقهم في مدينة صور
+saints:saint_06_27_01,reference,,,draft,0,,,أوسطاسيوس بطريرك أنطاكية
+saints:saint_06_27_02,reference,,,draft,0,,,بِرْبِتْوَا ومَنْ معها
+saints:saint_06_28_01,reference,,,draft,0,,,نقل أعضاء القديس تاوضروس ( تادرس ) المشرقي الشهيد
+saints:saint_06_29_01,reference,,,draft,0,,,بوليكاربوس أسقف سميرنا
+saints:saint_06_30_01,reference,,,draft,0,,,وجود رأس القديس يوحنا المعمدان
+saints:saint_06_30_02,reference,,,draft,0,,,البابا كيرلس السادس البطريرك المائة والسادس عشر من بطاركة الكرازة المرقسية
+saints:saint_07_01_01,reference,,,draft,0,,,في مثل هذا اليوم استشهد القديسان مقرونيوس وتكلا. بركة صلواتهما فلتكن معنا. آمين.
+saints:saint_07_01_02,reference,,,draft,0,,,وفيه أيضاً من سنة 13 للشهداء ( 297م )، استشهد القديس ألكسندروس الجندي. وُلِدَ هذا القديس بمدينة روما
+saints:saint_07_01_03,reference,,,draft,0,,,وفيه أيضاً من سنة 222م تنيَّح الأب القديس نركيسوس أسقف بيت المقدس، وكان قديساً كاملاً فأقاموه أسقفاً
+saints:saint_07_01_04,reference,,,draft,0,,,وفي هذا اليوم تُعيِّد الكنيسة بنياحة القديس الأنبا مرقورة أسقف تلبانة (إحدى قرى مركز الباجور محافظة
+saints:saint_07_01_05,reference,,,draft,0,,,وفيه أيضاً تنيَّح الراهب جرجس بن العميد الشهير بابن المكين. تعلَّم منذ صباه علوم الكنيسة ونبغ فيها.
+saints:saint_07_02_01,reference,,,draft,0,,,الأنبا مكراوى الأسقف
+saints:saint_07_03_01,reference,,,draft,0,,,الأنبا قسما البطريرك الثامن والخمسين من بطاركة الكرازة المرقسية
+saints:saint_07_03_02,reference,,,draft,0,,,برفونيوس
+saints:saint_07_03_03,reference,,,draft,0,,,برفوريوس أسقف غزة
+saints:saint_07_03_04,reference,,,draft,0,,,الأنبا حديد القس
+saints:saint_07_04_02,reference,,,draft,0,,,هانوليوس الأمير
+saints:saint_07_05_01,reference,,,draft,0,,,الأنبا صرابامون قمص دير القديس الأنبا يحنس القصير (أحد الأديرة المندثرة ببرية شيهيت)
+saints:saint_07_05_02,reference,,,draft,0,,,أوذوكسية
+saints:saint_07_06_01,reference,,,draft,0,,,ديوسقوروس في زمان العرب
+saints:saint_07_06_02,reference,,,draft,0,,,ثاؤدوطس الأسقف المعترف
+saints:saint_07_07_01,reference,,,draft,0,,,القديسين فليمون وأبلانيوس
+saints:saint_07_07_02,reference,,,draft,0,,,مريم الإسرائيلية
+saints:saint_07_08_01,reference,,,draft,0,,,متياس الرسول
+saints:saint_07_08_02,reference,,,draft,0,,,البابا يوليانوس البطريرك الحادي عشر من بطاركة الكرازة المرقسية
+saints:saint_07_08_03,reference,,,draft,0,,,أريانوس والي أنصنا
+saints:saint_07_09_01,reference,,,draft,0,,,كونن المعترف
+saints:saint_07_09_02,reference,,,draft,0,,,القديسين أندريانوس ومرثا زوجته وأوسابيوس وأرما وأربعين شهيداً
+saints:saint_07_11_01,reference,,,draft,0,,,( باسيلاوس ) باسيليوس أسقف أورشليم
+saints:saint_07_11_02,reference,,,draft,0,,,نرسيس أسقف أورشليم
+saints:saint_07_12_02,reference,,,draft,0,,,ظهور بتولية البابا ديمتريوس الكرَّام البطريرك الثاني عشر من بطاركة الكرازة المرقسية
+saints:saint_07_12_03,reference,,,draft,0,,,ملاخي بأرض فلسطين
+saints:saint_07_12_04,reference,,,draft,0,,,جلاذينوس في دمشق
+saints:saint_07_13_01,reference,,,draft,0,,,الأربعين شهيداً بسبسطية
+saints:saint_07_13_02,reference,,,draft,0,,,البابا ديونيسيوس البطريرك الرابع عشر من بطاركة الكرازة المرقسية
+saints:saint_07_14_01,reference,,,draft,0,,,الأساقفة أوجانيوس وأغانورس ووالنديوس
+saints:saint_07_14_02,reference,,,draft,0,,,شنوده البهنساوي
+saints:saint_07_15_01,reference,,,draft,0,,,سارة الراهبة
+saints:saint_07_15_02,reference,,,draft,0,,,إيلياس الإهناسى
+saints:saint_07_16_01,reference,,,draft,0,,,ظهور القديسة العذراء مريم بكنيسة الشهيدة دميانة بحي بابا دوبلو بشبرا – القاهرة
+saints:saint_07_16_02,reference,,,draft,0,,,البابا خائيل الأول البطريرك السادس والأربعين من بطاركة الكرازة المرقسية
+saints:saint_07_17_01,reference,,,draft,0,,,لعازر حبيب الرب
+saints:saint_07_17_02,reference,,,draft,0,,,سيدهم بشاي بدمياط
+saints:saint_07_17_03,reference,,,draft,0,,,الأنبا باسيليوس مطران القدس
+saints:saint_07_17_04,reference,,,draft,0,,,تذكار القديسين جرجس العابد وبلاسيوس الشهيد والأنبا يوسف الأسقف
+saints:saint_07_18_01,reference,,,draft,0,,,إيسوذوروس رفيق سنا الجندي
+saints:saint_07_19_01,reference,,,draft,0,,,أرسطوبولس الرسول أحد السبعين رسولاً
+saints:saint_07_19_02,reference,,,draft,0,,,القديسين ألكسندروس وأغابيوس ومن معهما
+saints:saint_07_20_01,reference,,,draft,0,,,البابا خائيل الثالث البطريرك السادس والخمسين من بطاركة الكرازة المرقسية
+saints:saint_07_21_03,reference,,,draft,0,,,القديسين تاؤدوروس وتيموثاوس
+saints:saint_07_22_01,reference,,,draft,0,,,كيرلس أسقف أورشليم
+saints:saint_07_22_02,reference,,,draft,0,,,البار يوسف الرامي
+saints:saint_07_22_03,reference,,,draft,0,,,ميخائيل أسقف نقادة
+saints:saint_07_23_01,reference,,,draft,0,,,الصديق العظيم دانيال النبي
+saints:saint_07_24_02,reference,,,draft,0,,,البابا مكاريوس الأول البطريرك التاسع والخمسين من بطاركة الكرازة المرقسية
+saints:saint_07_25_01,reference,,,draft,0,,,فريسكا أحد السبعين رسولاً
+saints:saint_07_25_02,reference,,,draft,0,,,أنيسيفورس أحد السبعين رسولاً
+saints:saint_07_25_03,reference,,,draft,0,,,البابا متاؤس الثالث البطريرك المائة من بطاركة الكرازة المرقسية
+saints:saint_07_26_01,reference,,,draft,0,,,براكسيا العذراء
+saints:saint_07_26_02,reference,,,draft,0,,,البابا بطرس السادس البطريرك المائة والرابع من بطاركة الكرازة المرقسية
+saints:saint_07_27_01,reference,,,draft,0,,,صلب ربنا يسوع المسيح بالجسد من أجل خلاص العالم
+saints:saint_07_27_02,reference,,,draft,0,,,مكاريوس الكبير أب رهبان برية شيهيت
+saints:saint_07_27_03,reference,,,draft,0,,,دوميكيوس
+saints:saint_07_28_01,reference,,,draft,0,,,الإمبراطور قسطنطين الكبير
+saints:saint_07_28_02,reference,,,draft,0,,,البابا بطرس السابع البطريرك المائة والتاسع من بطاركة الكرازة المرقسية
+saints:saint_07_28_03,reference,,,draft,0,,,الأنبا صرابامون الشهير بأبي طرحة
+saints:saint_07_30_02,reference,,,draft,0,,,شمشون، أحد قضاة بني إسرائيل
+saints:saint_08_01_01,reference,,,draft,0,,,في مثل هذا اليوم تنيَّح الأب القديس سلوانس الراهب. ترَّهب هذا القديس منذ صغره على يد القديس الأنبا م
+saints:saint_08_01_02,reference,,,draft,0,,,وفيه أيضاً تنيَّح البار هارون الكاهن بن عمرام من سبط لاوي، شقيق موسى رئيس الأنبياء. عندما بلغ الثالث
+saints:saint_08_02_01,reference,,,draft,0,,,خرستوفورس
+saints:saint_08_02_02,reference,,,draft,0,,,البابا يوأنس التاسع البطريرك الحادي والثمانين من بطاركة الكرازة المرقسية
+saints:saint_08_03_01,reference,,,draft,0,,,البابا ميخائيل الثاني البطريرك الحادي والسبعين من بطاركة الكرازة المرقسية
+saints:saint_08_03_02,reference,,,draft,0,,,يوحنا أسقف أورشليم
+saints:saint_08_04_01,reference,,,draft,0,,,شهادة القديسين بقطر وأكاكيوس وداكيوس وإيريني العذراء ومن معهم من رجال ونساء وعذارى
+saints:saint_08_04_02,reference,,,draft,0,,,أوكين
+saints:saint_08_05_01,reference,,,draft,0,,,النبي حزقيال بن بوزي
+saints:saint_08_05_02,reference,,,draft,0,,,هيباتيوس أسقف غنغرة
+saints:saint_08_07_01,reference,,,draft,0,,,الصديق يواقيم والد القديسة العذراء مريم
+saints:saint_08_07_02,reference,,,draft,0,,,مقروفيوس
+saints:saint_08_07_03,reference,,,draft,0,,,القديسين أغابيوس وثيئودورة
+saints:saint_08_08_01,reference,,,draft,0,,,العذارى القديسات أغابي وإيريني وشيونيه
+saints:saint_08_08_02,reference,,,draft,0,,,المائة والخمسين مؤمناً على يد ملك الفرس
+saints:saint_08_09_01,reference,,,draft,0,,,الأنبا زوسيما القس
+saints:saint_08_09_02,reference,,,draft,0,,,تذكار الأعجوبة التي صُنعَت على يد القديس البابا شنوده الأول البطريرك الخامس والخمسين
+saints:saint_08_10_01,reference,,,draft,0,,,إيساك تلميذ الأنبا أبُلوس
+saints:saint_08_10_02,reference,,,draft,0,,,البابا غبريال الثاني البطريرك السبعين الشهير بابن تريك
+saints:saint_08_11_01,reference,,,draft,0,,,ثيئودورا
+saints:saint_08_11_02,reference,,,draft,0,,,يوحنا أسقف غزة
+saints:saint_08_12_02,reference,,,draft,0,,,ألكسندروس المعترف أسقف أورشليم
+saints:saint_08_12_03,reference,,,draft,0,,,أنطونيوس أسقف طمويه
+saints:saint_08_13_01,reference,,,draft,0,,,القديسين يشوع ويوسف
+saints:saint_08_13_02,reference,,,draft,0,,,البابا يوأنس السابع عشر البطريرك الخامس بعد المائة من بطاركة الكرازة المرقسية
+saints:saint_08_13_03,reference,,,draft,0,,,ديونيسة
+saints:saint_08_13_04,reference,,,draft,0,,,ميديوس الشهيد
+saints:saint_08_14_01,reference,,,draft,0,,,البابا مكسيموس البطريرك الخامس عشر من بطاركة الكرازة المرقسية
+saints:saint_08_14_02,reference,,,draft,0,,,إهرون السرياني
+saints:saint_08_15_02,reference,,,draft,0,,,ألكسندرة الملكة
+saints:saint_08_15_03,reference,,,draft,0,,,البابا مرقس السادس البطريرك الأول بعد المائة من بطاركة الكرازة المرقسية
+saints:saint_08_16_01,reference,,,draft,0,,,أنتيباس أسقف برغامس تلميذ القديس يوحنا الرسول
+saints:saint_08_17_01,reference,,,draft,0,,,يعقوب الكبير أحد الاثني عشر رسولاً وشقيق يوحنا الحبيب
+saints:saint_08_17_02,reference,,,draft,0,,,نيقوديموس
+saints:saint_08_18_01,reference,,,draft,0,,,أرسانيوس تلميذ القديس سوسنيوس
+saints:saint_08_18_02,reference,,,draft,0,,,أبوللو تلميذ القديس الأنبا صموئيل المعترف
+saints:saint_08_19_01,reference,,,draft,0,,,سمعان الأرمني أسقف بلاد فارس
+saints:saint_08_19_02,reference,,,draft,0,,,الشهداء يوحنا أبو نجاح الكبير والرئيس أبو العلا فهد بن إبراهيم وزملائهما
+saints:saint_08_19_03,reference,,,draft,0,,,الراهب داود بن غبريال البرجي
+saints:saint_08_20_01,reference,,,draft,0,,,ببنوده الذي من دندرة (دندرة: قرية كبيرة تقع غرب مدينة قنا)
+saints:saint_08_21_02,reference,,,draft,0,,,بروتاؤس أسقف أثينا
+saints:saint_08_22_01,reference,,,draft,0,,,البابا ألكسندروس الأول البطريرك التاسع عشر من بطاركة الكرازة المرقسية
+saints:saint_08_22_02,reference,,,draft,0,,,البابا مرقس الثاني البطريرك التاسع والأربعين من بطاركة الكرازة المرقسية
+saints:saint_08_22_03,reference,,,draft,0,,,البابا خائيل الثاني البطريرك الثالث والخمسين من بطاركة الكرازة المرقسية
+saints:saint_08_22_04,reference,,,draft,0,,,إسحاق الهوريني
+saints:saint_08_23_01,reference,,,draft,0,,,شهادة القديس جورجيوس العظيم في الشهداء
+saints:saint_08_24_01,reference,,,draft,0,,,سنا الجندي رفيق القديس إيسوذوروس
+saints:saint_08_24_02,reference,,,draft,0,,,البابا شنوده الأول البطريرك الخامس والخمسين من بطاركة الكرازة المرقسية
+saints:saint_08_25_01,reference,,,draft,0,,,سارة وولديها
+saints:saint_08_25_02,reference,,,draft,0,,,تاوضروس العابد والمائة والعشرين شهيداً
+saints:saint_08_26_01,reference,,,draft,0,,,شهادة القديس سوسنيوس ومعه 1100 شخصاً
+saints:saint_08_26_02,reference,,,draft,0,,,البابا يوأنس السابع البطريرك الثامن والسبعين من بطاركة الكرازة المرقسية
+saints:saint_08_27_01,reference,,,draft,0,,,شهادة القديس بقطر بن رومانوس
+saints:saint_08_28_01,reference,,,draft,0,,,ميليوس الناسك
+saints:saint_08_29_02,reference,,,draft,0,,,أرسطوس أحد السبعين
+saints:saint_08_29_03,reference,,,draft,0,,,أكاكيوس أسقف أورشليم
+saints:saint_08_30_01,reference,,,draft,0,,,مار مرقس الرسول الإنجيلي كاروز الديار المصرية
+saints:saint_09_02_01,reference,,,draft,0,,,أيوب الصديق
+saints:saint_09_02_02,reference,,,draft,0,,,تادرس الطبانيسي تلميذ القديس باخوميوس أب الشركة
+saints:saint_09_02_03,reference,,,draft,0,,,فيلوثاوس من درنكة
+saints:saint_09_03_01,reference,,,draft,0,,,ياسون أحد السبعين رسولاً
+saints:saint_09_03_02,reference,,,draft,0,,,أوتيموس القس من فوه
+saints:saint_09_03_03,reference,,,draft,0,,,البابا غبريال الرابع البطريرك السادس والثمانين من بطاركة الكرازة المرقسية
+saints:saint_09_04_01,reference,,,draft,0,,,البابا يوأنس الأول البطريرك التاسع والعشرين من بطاركة الكرازة المرقسية
+saints:saint_09_04_02,reference,,,draft,0,,,البابا يوأنس الخامس البطريرك الثاني والسبعين من بطاركة الكرازة المرقسية
+saints:saint_09_05_01,reference,,,draft,0,,,إرميا النبي
+saints:saint_09_06_01,reference,,,draft,0,,,إسحاق الدفراوي
+saints:saint_09_06_02,reference,,,draft,0,,,الأم دولاجي وأولادها الأربعة
+saints:saint_09_06_03,reference,,,draft,0,,,ببنوده من البندارة
+saints:saint_09_06_04,reference,,,draft,0,,,مكاريوس الإسكندري
+saints:saint_09_07_01,reference,,,draft,0,,,العظيم البابا أثناسيوس الرسولي البطريرك العشرين من بطاركة الكرازة المرقسية
+saints:saint_09_08_02,reference,,,draft,0,,,يحنس السنهوتي
+saints:saint_09_08_03,reference,,,draft,0,,,الأنبا دانيال قمص برية شيهيت
+saints:saint_09_09_01,reference,,,draft,0,,,هيلانة الملكة
+saints:saint_09_09_02,reference,,,draft,0,,,البابا يوأنس الحادي عشر البطريرك التاسع والثمانين من بطاركة الكرازة المرقسية
+saints:saint_09_09_03,reference,,,draft,0,,,البابا غبريال الثامن البطريرك السابع والتسعين من بطاركة الكرازة المرقسية
+saints:saint_09_10_01,reference,,,draft,0,,,إلقاء الثلاثة فتية القديسين حنانيا وعزاريا وميصائيل في أتون النار.(مخطوط 295 ميامر دير السريان وتذكر المصادر أن تاريخ ن…
+saints:saint_09_11_01,reference,,,draft,0,,,الأنبا بفنوتيوس الأسقف
+saints:saint_09_11_02,reference,,,draft,0,,,ثاؤكليا زوجة القديس يسطس ابن الملك نوماريوس
+saints:saint_09_12_04,reference,,,draft,0,,,البابا مرقس السابع البطريرك السادس بعد المائة من بطاركة الكرازة المرقسية
+saints:saint_09_12_05,reference,,,draft,0,,,الْمُعَلِّم ملطي
+saints:saint_09_12_06,reference,,,draft,0,,,تذكار تكريس كنيسة الشهيدة دميانة
+saints:saint_09_13_01,reference,,,draft,0,,,أرسانيوس معلم أولاد الملوك
+saints:saint_09_13_02,reference,,,draft,0,,,أبا بيجول الجندي
+saints:saint_09_14_01,reference,,,draft,0,,,الأنبا باخوميوس أب الشركة الرهبانية
+saints:saint_09_14_02,reference,,,draft,0,,,أبيماخوس الفرمي
+saints:saint_09_15_01,reference,,,draft,0,,,سمعان الغيور القانوي أحد الاثنى عشر
+saints:saint_09_15_02,reference,,,draft,0,,,أربعمائة شهيد بدندرة على اسم السيد المسيح
+saints:saint_09_15_03,reference,,,draft,0,,,تذكار الشماس مينا المتوحد
+saints:saint_09_15_04,reference,,,draft,0,,,الشيخ شمس الرئاسة أبي البركات الشهير بابن كبر
+saints:saint_09_17_01,reference,,,draft,0,,,إبيفانيوس أسقف قبرص
+saints:saint_09_18_02,reference,,,draft,0,,,جورجى رفيق القديس أبرآم
+saints:saint_09_19_01,reference,,,draft,0,,,إسحاق قس القلالى
+saints:saint_09_19_02,reference,,,draft,0,,,إيسوذوروس الأنطاكي
+saints:saint_09_20_01,reference,,,draft,0,,,الجنود الستة الذين رافقوا الأمير إقلاديوس الشهيد
+saints:saint_09_20_02,reference,,,draft,0,,,الأنبا أمونيوس المتوحد بجبل تونة
+saints:saint_09_21_02,reference,,,draft,0,,,مارتينيانوس
+saints:saint_09_22_01,reference,,,draft,0,,,أندرونيقوس أحد السبعين
+saints:saint_09_22_02,reference,,,draft,0,,,142 صبياً، 28 سيدة
+saints:saint_09_22_03,reference,,,draft,0,,,آمون مؤسس برية نتريا
+saints:saint_09_23_01,reference,,,draft,0,,,يونياس أحد السبعين
+saints:saint_09_23_02,reference,,,draft,0,,,شهادة القديسة تكلا أثناء محاكمة الأمير إقلاديوس
+saints:saint_09_23_03,reference,,,draft,0,,,بوتامون المعترف
+saints:saint_09_23_04,reference,,,draft,0,,,شهادة القديس يوليانوس وأمه بالإسكندرية
+saints:saint_09_24_02,reference,,,draft,0,,,حبقوق النبي
+saints:saint_09_24_03,reference,,,draft,0,,,الراهب القديس شتوفا المقاري ( بشنونة )
+saints:saint_09_25_01,reference,,,draft,0,,,قلتة الأنصناوي الطبيب
+saints:saint_09_25_02,reference,,,draft,0,,,الأرخن الكريم المعلم إبراهيم الجوهري
+saints:saint_09_26_01,reference,,,draft,0,,,توما أحد الاثني عشر رسولاً
+saints:saint_09_27_01,reference,,,draft,0,,,لعازر حبيب الرب
+saints:saint_09_27_02,reference,,,draft,0,,,الأنبا توماس السائح بجبل شنشيف
+saints:saint_09_27_03,reference,,,draft,0,,,البابا يوأنس الثاني البطريرك الثلاثين من بطاركة الكرازة المرقسية
+saints:saint_09_28_01,reference,,,draft,0,,,تذكار نقل جسد القديس إبيفانيوس أسقف قبرص
+saints:saint_09_29_02,reference,,,draft,0,,,سمعان العمودي
+saints:saint_09_30_01,reference,,,draft,0,,,فورس الرسول أحد السبعين
+saints:saint_09_30_02,reference,,,draft,0,,,البابا ميخائيل الأول البطريرك الثامن والستين من بطاركة الكرازة المرقسية
+saints:saint_10_01_01,reference,,,draft,0,,,في مثل هذا اليوم تنيَّح القديس كاربوس أحد السبعين الذين انتخبهم السيد المسيح للتبشير والكرازة. فخدم
+saints:saint_10_01_02,reference,,,draft,0,,,وفيه أيضاً من سنة 21 للشهداء ( 305م )، استشهد القديس أبو فام الجُندي. وُلِدَ هذا القديس في بلدة طحا
+saints:saint_10_01_03,reference,,,draft,0,,,وفيه أيضاً استشهد القديس قزمان الطحاوي ورفقاؤه.
+saints:saint_10_01_04,reference,,,draft,0,,,وفيه أيضاً تم تكريس كنيسة الشهيد لاونديوس الشامي. وذلك أنه بعد أن استشهد القديس في مدينة طرابلس (طرا
+saints:saint_10_02_01,reference,,,draft,0,,,ظهور جسديّ القديس يوحنا المعمدان وأليشع النبي
+saints:saint_10_02_02,reference,,,draft,0,,,البابا يوأنس الثامن عشر البطريرك السابع بعد المائة من بطاركة الكرازة المرقسية
+saints:saint_10_03_01,reference,,,draft,0,,,اللاديوس الأسقف
+saints:saint_10_03_02,reference,,,draft,0,,,الأنبا أبرآم أسقف الفيوم والجيزة
+saints:saint_10_03_03,reference,,,draft,0,,,مرثا المصرية الناسكة
+saints:saint_10_04_01,reference,,,draft,0,,,سينوسيوس
+saints:saint_10_04_02,reference,,,draft,0,,,يوحنا الهرقلي
+saints:saint_10_04_03,reference,,,draft,0,,,الأنبا آمون والبارة صوفية
+saints:saint_10_04_04,reference,,,draft,0,,,أباهور
+saints:saint_10_04_05,reference,,,draft,0,,,البابا يوأنس الثامن البطريرك الثمانين من بطاركة الكرازة المرقسية
+saints:saint_10_05_01,reference,,,draft,0,,,يعقوب المشرقي المعترف
+saints:saint_10_05_02,reference,,,draft,0,,,بيفام
+saints:saint_10_05_03,reference,,,draft,0,,,بشاي وبطرس
+saints:saint_10_06_01,reference,,,draft,0,,,ثيئودوروس الراهب
+saints:saint_10_06_02,reference,,,draft,0,,,ديديموس الضرير
+saints:saint_10_07_01,reference,,,draft,0,,,أبسخيرون الجندي القلينى
+saints:saint_10_07_02,reference,,,draft,0,,,مويسيس بجبل أخميم
+saints:saint_10_07_03,reference,,,draft,0,,,تكريس كنيسة الأنبا متاؤس الفاخورى بجبل إسنا
+saints:saint_10_08_02,reference,,,draft,0,,,جرجس الجديد
+saints:saint_10_09_01,reference,,,draft,0,,,صموئيل النبي
+saints:saint_10_09_02,reference,,,draft,0,,,لوكيليانوس وأربعة آخرين معه
+saints:saint_10_09_03,reference,,,draft,0,,,القديسين أبامون وسرنا
+saints:saint_10_09_04,reference,,,draft,0,,,نقل أعضاء الشهيد مرقوريوس أبى سيفين إلى مصر
+saints:saint_10_10_01,reference,,,draft,0,,,القس مكسي الشنراوي
+saints:saint_10_10_02,reference,,,draft,0,,,دابامون وأختها بصطامون وأمهما صوفية
+saints:saint_10_10_04,reference,,,draft,0,,,البابا يوأنس السادس عشر البطريرك 103 من بطاركة الكرازة المرقسية
+saints:saint_10_11_01,reference,,,draft,0,,,إقلاديوس
+saints:saint_10_11_02,reference,,,draft,0,,,تذكار تكريس هيكل الأربعين شهيداً بكنيسة إبسوتير ( المخلص ) بالإسكندرية
+saints:saint_10_12_02,reference,,,draft,0,,,أوفيمية
+saints:saint_10_12_03,reference,,,draft,0,,,البابا يسطس البطريرك السادس من بطاركة الكرازة المرقسية
+saints:saint_10_12_04,reference,,,draft,0,,,البابا كيرلس الثاني البطريرك السابع والستين من بطاركة الكرازة المرقسية
+saints:saint_10_13_02,reference,,,draft,0,,,يوحنا أسقف أورشليم
+saints:saint_10_14_01,reference,,,draft,0,,,القديسين أباكير وفيلبس ويوحنا وأبطلماوس
+saints:saint_10_14_02,reference,,,draft,0,,,البابا يوأنس التاسع عشر البطريرك الثالث عشر بعد المائة من بطاركة الكرازة المرقسية
+saints:saint_10_15_01,reference,,,draft,0,,,تكريس كنيسة الشهيد مار مينا العجائبي بمريوط
+saints:saint_10_15_02,reference,,,draft,0,,,استلام جسد مار مرقس
+saints:saint_10_16_01,reference,,,draft,0,,,أبى نوفر السائح
+saints:saint_10_17_01,reference,,,draft,0,,,لاتصون البهنساوي
+saints:saint_10_17_02,reference,,,draft,0,,,عودة رفات القديس مار مرقس إلى الكاتدرائية المرقسية الجديدة
+saints:saint_10_18_01,reference,,,draft,0,,,البابا داميانوس البطريرك الخامس والثلاثين من بطاركة الكرازة المرقسية
+saints:saint_10_18_02,reference,,,draft,0,,,افتتاح الكاتدرائية الجديدة بدير الأنبا رويس بالقاهرة
+saints:saint_10_19_01,reference,,,draft,0,,,جرجس المزاحم
+saints:saint_10_19_02,reference,,,draft,0,,,بشاي أنوب
+saints:saint_10_19_03,reference,,,draft,0,,,أرشيلاؤس البطريرك الثامن عشر من بطاركة الكرازة المرقسية
+saints:saint_10_19_04,reference,,,draft,0,,,وضع جسد القديس مار مرقس الرسول بالمزار المخصص له بكنيسته بدير الأنبا رويس
+saints:saint_10_20_01,reference,,,draft,0,,,أليشع النبي
+saints:saint_10_20_02,reference,,,draft,0,,,تكريس كنيسة القديس أباكلوج القس
+saints:saint_10_21_03,reference,,,draft,0,,,تيموثاوس المصري
+saints:saint_10_21_04,reference,,,draft,0,,,البابا كردونوس البطريرك الرابع من بطاركة الكرازة المرقسية
+saints:saint_10_22_01,reference,,,draft,0,,,تكريس كنيسة الشهيدين قزمان ودميان وإخوتهما وأمهما
+saints:saint_10_23_01,reference,,,draft,0,,,أبانوب المعترف
+saints:saint_10_24_01,reference,,,draft,0,,,الأنبا موسى الأسود
+saints:saint_10_24_02,reference,,,draft,0,,,إيسوذوروس قس الإسقيط
+saints:saint_10_25_01,reference,,,draft,0,,,البابا بطرس الرابع البطريرك الرابع والثلاثين من بطاركة الكرازة المرقسية
+saints:saint_10_27_01,reference,,,draft,0,,,حنانيا الرسول
+saints:saint_10_27_02,reference,,,draft,0,,,توماس الذي من شندلات
+saints:saint_10_27_03,reference,,,draft,0,,,يوحنا بن الأبح
+saints:saint_10_28_01,reference,,,draft,0,,,البابا ثاؤدوسيوس البطريرك الثالث والثلاثين من بطاركة الكرازة المرقسية
+saints:saint_10_28_02,reference,,,draft,0,,,تذكار تكريس كنيسة الأنبا صرابامون أسقف نيقيوس
+saints:saint_10_29_02,reference,,,draft,0,,,السبعة نساك بجبل تونة
+saints:saint_10_29_03,reference,,,draft,0,,,القديسين أباهور وديودورة أمه
+saints:saint_10_30_02,reference,,,draft,0,,,البابا قسما الأول البطريرك الرابع والأربعين من بطاركة الكرازة المرقسية
+saints:saint_11_01_01,reference,,,draft,0,,,في مثل هذا اليوم من سنة 21 للشهداء ( 305م ) استشهدت القديسة الناسكة العذراء أفرونيا. عاشت هذه القديس
+saints:saint_11_01_02,reference,,,draft,0,,,وفيه أيضاً تنيَّح القديسان بيوخا وتيابان. كان هذان القديسان كاهنين على كنيسة تونة بناحية تندا (تونة
+saints:saint_11_01_03,reference,,,draft,0,,,وفيه أيضاً تُعيِّد الكنيسة بتذكار تكريس كنيسة الشهيد العظيم مار مينا العجايبي الكائنة بديره بجبل أبن
+saints:saint_11_02_01,reference,,,draft,0,,,يهوذا الرسول ( لباوس الملقب تداوس )
+saints:saint_11_03_01,reference,,,draft,0,,,البابا كيرلس الأول البطريرك الرابع والعشرين من بطاركة الكرازة المرقسية
+saints:saint_11_03_02,reference,,,draft,0,,,كلستينوس بابا روما
+saints:saint_11_04_01,reference,,,draft,0,,,تذكار نقل أعضاء الشهيدين أباكير ويوجنا
+saints:saint_11_05_01,reference,,,draft,0,,,القديسين بطرس وبولس
+saints:saint_11_05_02,reference,,,draft,0,,,مرقس والي البرلس، والد القديسة دميانة
+saints:saint_11_06_01,reference,,,draft,0,,,أولمباس أحد السبعين تلميذاً
+saints:saint_11_06_02,reference,,,draft,0,,,ثاؤدوسية ومن معها
+saints:saint_11_07_01,reference,,,draft,0,,,العظيم الأنبا شنوده رئيس المتوحدين
+saints:saint_11_08_01,reference,,,draft,0,,,الأنبا بيشوي
+saints:saint_11_08_02,reference,,,draft,0,,,القديسين أبيرؤوه وأثوم
+saints:saint_11_08_03,reference,,,draft,0,,,بلانا القس
+saints:saint_11_08_04,reference,,,draft,0,,,بيمانون
+saints:saint_11_08_05,reference,,,draft,0,,,الأنبا كاراس السائح
+saints:saint_11_08_06,reference,,,draft,0,,,مرقس الأنطوني
+saints:saint_11_09_01,reference,,,draft,0,,,سمعان بن حلفي أسقف أورشليم
+saints:saint_11_09_02,reference,,,draft,0,,,البابا كلاوديانوس البطريرك التاسع من بطاركة الكرازة المرقسية
+saints:saint_11_10_01,reference,,,draft,0,,,ثاؤدوروس أسقف الخمس مدن الغربية
+saints:saint_11_10_02,reference,,,draft,0,,,ثاؤدوروس أسقف كورنثوس ومن معه
+saints:saint_11_11_01,reference,,,draft,0,,,القديسين يوحنا وسمعان ابن عمه
+saints:saint_11_11_02,reference,,,draft,0,,,العظيم الأنبا إشعياء الإسقيطى
+saints:saint_11_12_02,reference,,,draft,0,,,أباهور السرياقوسي
+saints:saint_11_12_03,reference,,,draft,0,,,الأنبا شيشوي الكبير
+saints:saint_11_13_01,reference,,,draft,0,,,بسنتاؤس أسقف قفط
+saints:saint_11_13_02,reference,,,draft,0,,,أبامون الطوخى
+saints:saint_11_13_03,reference,,,draft,0,,,شنوده في أوائل حكم العرب
+saints:saint_11_14_01,reference,,,draft,0,,,بروكونيوس
+saints:saint_11_14_02,reference,,,draft,0,,,البابا بطرس الخامس البطريرك الثالث والثمانين من بطاركة الكرازة المرقسية
+saints:saint_11_15_01,reference,,,draft,0,,,مار أفرام السرياني
+saints:saint_11_15_02,reference,,,draft,0,,,القديسين كيرياكوس ويوليطة أمه
+saints:saint_11_15_03,reference,,,draft,0,,,أوروسيوس
+saints:saint_11_16_01,reference,,,draft,0,,,يوحنا صاحب الإنجيل الذهب
+saints:saint_11_16_02,reference,,,draft,0,,,وضع جسد الشهيد مار جرجس الروماني بكنيسته بمصر القديمة
+saints:saint_11_16_03,reference,,,draft,0,,,تكريس بيعة الشهيد فيلوثيئوس
+saints:saint_11_17_01,reference,,,draft,0,,,أوفيمية
+saints:saint_11_17_02,reference,,,draft,0,,,القديستين تكلا ومرثا من إسنا
+saints:saint_11_18_01,reference,,,draft,0,,,يعقوب الرسول أخي الرب
+saints:saint_11_19_01,reference,,,draft,0,,,القديسين الأنبا بضابا أسقف قفط وأنبا أندراوس وأنبا خرستوذولوس
+saints:saint_11_19_02,reference,,,draft,0,,,شهداء مذبحة إسنا
+saints:saint_11_19_03,reference,,,draft,0,,,بطلون الطبيب
+saints:saint_11_19_04,reference,,,draft,0,,,البابا يوأنس العاشر البطريرك الخامس والثمانين من بطاركة الكرازة المرقسية
+saints:saint_11_20_01,reference,,,draft,0,,,تادرس الشُطبي
+saints:saint_11_21_02,reference,,,draft,0,,,سوسنيوس الخصي
+saints:saint_11_22_01,reference,,,draft,0,,,مكاريوس بن واسيليدس الوزير
+saints:saint_11_22_02,reference,,,draft,0,,,لاونديوس
+saints:saint_11_23_01,reference,,,draft,0,,,لونجينوس القائد
+saints:saint_11_23_02,reference,,,draft,0,,,مارينا
+saints:saint_11_24_01,reference,,,draft,0,,,أبانوب النهيسي
+saints:saint_11_24_02,reference,,,draft,0,,,البابا سيماؤن الثاني البطريرك الثاني والأربعين من بطاركة الكرازة المرقسية
+saints:saint_11_25_01,reference,,,draft,0,,,تكريس كنيسة الشهيد مرقوريوس أبي سيفين
+saints:saint_11_25_02,reference,,,draft,0,,,إسحاق
+saints:saint_11_25_03,reference,,,draft,0,,,ليارية
+saints:saint_11_25_04,reference,,,draft,0,,,القديستين تكلة وموجي
+saints:saint_11_25_05,reference,,,draft,0,,,أنطونيوس البباوي
+saints:saint_11_25_06,reference,,,draft,0,,,أباكراجون
+saints:saint_11_25_07,reference,,,draft,0,,,دوماديوس السرياني
+saints:saint_11_25_08,reference,,,draft,0,,,بلامون
+saints:saint_11_26_01,reference,,,draft,0,,,يوسف البار خطيب القديسة مريم العذراء
+saints:saint_11_26_02,reference,,,draft,0,,,البابا تيموثاوس الأول البطريرك الثاني والعشرين من بطاركة الكرازة المرقسية
+saints:saint_11_27_01,reference,,,draft,0,,,أبامون
+saints:saint_11_27_02,reference,,,draft,0,,,تكريس كنيسة القديس أبي فام الجندي الأوسيمي
+saints:saint_11_28_01,reference,,,draft,0,,,مريم المجدلية
+saints:saint_11_29_03,reference,,,draft,0,,,ورشنوفيوس
+saints:saint_11_30_01,reference,,,draft,0,,,مرقوريوس وأفرام من أخميم
+saints:saint_12_01_01,reference,,,draft,0,,,في مثل هذا اليوم من سنة 20 للشهداء ( 304م ) استشهد القديس أبالي بن يسطس بن الملك نوماريوس، كان فارسا
+saints:saint_12_01_02,reference,,,draft,0,,,وفيه أيضاً من سنة 1643 للشهداء ( 1927م ) تنيَّح القديس البابا كيرلس الخامس البطريرك الثاني عشر بعد ا
+saints:saint_12_02_01,reference,,,draft,0,,,بائيسة
+saints:saint_12_03_02,reference,,,draft,0,,,البابا إبريموس البطريرك الخامس من بطاركة الكرازة المرقسية
+saints:saint_12_04_01,reference,,,draft,0,,,حزقيا الملك البار
+saints:saint_12_04_02,reference,,,draft,0,,,تكريس كنيسة القديس العظيم الأنبا أنطونيوس
+saints:saint_12_05_01,reference,,,draft,0,,,يوحنا الجُندي
+saints:saint_12_06_01,reference,,,draft,0,,,يوليطة المجاهدة
+saints:saint_12_06_02,reference,,,draft,0,,,يعقوب البرادعي
+saints:saint_12_06_03,reference,,,draft,0,,,الأنبا ويصا تلميذ الأنبا شنوده رئيس المتوحدين
+saints:saint_12_07_02,reference,,,draft,0,,,البابا تيموثاوس الثاني البطريرك السادس والعشرين من بطاركة الكرازة المرقسية
+saints:saint_12_07_03,reference,,,draft,0,,,بسنتاؤس الناسك بجبل الطود
+saints:saint_12_08_01,reference,,,draft,0,,,القديسين أليعازر وزوجته سالومى وأولادهما
+saints:saint_12_09_01,reference,,,draft,0,,,آري الشطانوفي القس
+saints:saint_12_10_01,reference,,,draft,0,,,بيخبيس
+saints:saint_12_10_02,reference,,,draft,0,,,مطرا
+saints:saint_12_11_01,reference,,,draft,0,,,مويسيس أسقف أوسيم
+saints:saint_12_14_01,reference,,,draft,0,,,تذكار الآية العظيمة التي صنعها الله في عهد البابا ثاؤفيلس البطريرك الثالث والعشرين
+saints:saint_12_15_01,reference,,,draft,0,,,مارينا الراهبة
+saints:saint_12_15_02,reference,,,draft,0,,,الأرشيدياكون حبيب جرجس (اعترف المجمع المقدس بقداسته في جلسة 20 يونيو 2013م)
+saints:saint_12_16_01,reference,,,draft,0,,,إعلان إصعاد جسد القديسة الطاهرة مريم إلى السماء
+saints:saint_12_16_02,reference,,,draft,0,,,البابا متاؤس الرابع البطريرك الثاني بعد المائة من بطاركة الكرازة المرقسية
+saints:saint_12_17_01,reference,,,draft,0,,,يعقوب الجُندي
+saints:saint_12_18_01,reference,,,draft,0,,,ألكسندروس بطريرك القسطنطينية
+saints:saint_12_18_02,reference,,,draft,0,,,وادامون الأرمنتي
+saints:saint_12_19_01,reference,,,draft,0,,,إعادة جسد القديس مكاريوس الكبير إلى ديره ببرية شيهيت
+saints:saint_12_20_01,reference,,,draft,0,,,الفتية السبعة الذين من أفسس
+saints:saint_12_21_02,reference,,,draft,0,,,إيريني
+saints:saint_12_22_01,reference,,,draft,0,,,ميخا النبي
+saints:saint_12_22_02,reference,,,draft,0,,,أوغسطينوس
+saints:saint_12_23_01,reference,,,draft,0,,,ثلاثين ألف مسيحي بمدينة الإسكندرية
+saints:saint_12_23_02,reference,,,draft,0,,,دميان بأنطاكية
+saints:saint_12_24_01,reference,,,draft,0,,,توما أسقف مرعش
+saints:saint_12_24_02,reference,,,draft,0,,,تكلاهيمانوت الحبشي
+saints:saint_12_25_01,reference,,,draft,0,,,بيساريون الكبير
+saints:saint_12_25_02,reference,,,draft,0,,,البابا مكاريوس الثالث البطريرك الرابع عشر بعد المائة من بطاركة الكرازة المرقسية
+saints:saint_12_26_01,reference,,,draft,0,,,مويسيس والبارة سارة أخته
+saints:saint_12_26_02,reference,,,draft,0,,,أغابيوس الجندي والبارة تكلة أخته
+saints:saint_12_27_01,reference,,,draft,0,,,بنيامين وأودكسية أخته
+saints:saint_12_27_02,reference,,,draft,0,,,مريم الأرمنية
+saints:saint_12_29_02,reference,,,draft,0,,,أثناسيوس الأسقف وغلاميه
+saints:saint_12_29_03,reference,,,draft,0,,,وصول جسد القديس يحنس القصير إلى برية شيهيت
+saints:saint_12_30_01,reference,,,draft,0,,,ملاخي النبي
+saints:saint_13_01_01,reference,,,draft,0,,,في مثل هذا اليوم تنيَّح القديس أفتيخوس، كان تلميذاً للقديس يوحنا الإنجيلي، وحضر حلول الروح القدس في
+saints:saint_13_01_02,reference,,,draft,0,,,وفيه أيضاً استشهد القديس بشاي أخو القديس أباهور. كان هذا القديس من أهل مدينة أنطاكية، ولكثرة عِلمه و
+saints:saint_13_02_01,reference,,,draft,0,,,تيطس الرسول
+saints:saint_13_03_02,reference,,,draft,0,,,القديسين أندريانوس ومن معه
+saints:saint_13_03_03,reference,,,draft,0,,,البابا يوأنس الرابع عشر البطريرك السادس والتسعين من بطاركة الكرازة المرقسية
+saints:saint_13_04_01,reference,,,draft,0,,,بيمن المتوحد
+saints:saint_13_05_01,reference,,,draft,0,,,عاموس النبي
+saints:saint_13_05_02,reference,,,draft,0,,,يعقوب أسقف مصر
+saints:saint_13_05_03,reference,,,draft,0,,,البابا يوأنس الخامس عشر البطريرك التاسع والتسعين من بطاركة الكرازة المرقسية
+saints:saint_13_05_04,reference,,,draft,0,,,برسوم العريان
+saints:saint_13_06_01,reference,,,draft,0,,,شكر إلى الله
+saints:virgin_arpsima,reference,,,draft,0,,,القديسة العذراء أربسيما والراهبات الشهيدات
+saints:virgin_demiana,reference,,,draft,0,,,الشهيدة العفيفة دميانة والأربعين عذراء
+saints:virgin_marina,reference,,,draft,0,,,الشهيدة مارينا قاهرة الشياطين
+saints:virgin_verena,reference,,,draft,0,,,القديسة فيرينا العذراء سفيرة الصعيد وسويسرا

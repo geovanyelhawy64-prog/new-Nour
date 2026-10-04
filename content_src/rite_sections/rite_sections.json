@@ -11,7 +11,15 @@
       "rubric": "يقف الكاهن أمام باب الكنيسة ويصلي على الأم والطفل",
       "response": "آمين.",
       "sort_order": 1,
-      "content_id": "rite:section:1"
+      "content_id": "rite:section:1",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 2,
@@ -23,7 +31,15 @@
       "rubric": "ينفخ الكاهن في الماء ثلاث مرات على شكل صليب",
       "response": "آمين.",
       "sort_order": 2,
-      "content_id": "rite:section:2"
+      "content_id": "rite:section:2",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 3,
@@ -35,7 +51,15 @@
       "rubric": "يتوجه المعمد (أو عرابه) نحو الغرب وينفخ ويبصق ثلاث مرات",
       "response": "أنا أنكرك يا شيطان.",
       "sort_order": 3,
-      "content_id": "rite:section:3"
+      "content_id": "rite:section:3",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 4,
@@ -47,7 +71,15 @@
       "rubric": "يتلو المعمد أو عرابه قانون الإيمان",
       "response": "آمين.",
       "sort_order": 4,
-      "content_id": "rite:section:4"
+      "content_id": "rite:section:4",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 5,
@@ -59,7 +91,15 @@
       "rubric": "يمسح الكاهن أعضاء الجسد بالزيت: الجبهة، الصدر، الظهر، اليدين، الرجلين",
       "response": "آمين.",
       "sort_order": 5,
-      "content_id": "rite:section:5"
+      "content_id": "rite:section:5",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 6,
@@ -71,7 +111,15 @@
       "rubric": "يغطس الكاهن المعمد في الماء ثلاث مرات كاملة",
       "response": "آمين.",
       "sort_order": 6,
-      "content_id": "rite:section:6"
+      "content_id": "rite:section:6",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 7,
@@ -83,7 +131,15 @@
       "rubric": "يمسح الكاهن المعمد بالميرون 36 مسحة على أعضاء الجسد",
       "response": "آمين.",
       "sort_order": 7,
-      "content_id": "rite:section:7"
+      "content_id": "rite:section:7",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 8,
@@ -95,7 +151,15 @@
       "rubric": "يقدم الكاهن الأسرار المقدسة للمعمد",
       "response": "آمين.",
       "sort_order": 8,
-      "content_id": "rite:section:8"
+      "content_id": "rite:section:8",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 9,
@@ -107,7 +171,15 @@
       "rubric": "يقرأ الأسقف صلاة التكريس على الميرون في قداس خاص",
       "response": "آمين.",
       "sort_order": 1,
-      "content_id": "rite:section:9"
+      "content_id": "rite:section:9",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 10,
@@ -119,7 +191,15 @@
       "rubric": "يمسح الكاهن أعضاء الجسد بالميرون على شكل صليب",
       "response": "آمين.",
       "sort_order": 2,
-      "content_id": "rite:section:10"
+      "content_id": "rite:section:10",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 11,
@@ -131,7 +211,15 @@
       "rubric": "يضع الكاهن يده على رأس التائب ويصلي",
       "response": "آمين.",
       "sort_order": 1,
-      "content_id": "rite:section:11"
+      "content_id": "rite:section:11",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 12,
@@ -143,7 +231,15 @@
       "rubric": "يحل الكاهن التائب بعد سماع اعترافه وتقديم الإرشاد الروحي",
       "response": "آمين.",
       "sort_order": 2,
-      "content_id": "rite:section:12"
+      "content_id": "rite:section:12",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 13,
@@ -155,7 +251,15 @@
       "rubric": "يتحدث الكاهن مع التائب برفق ومحبة",
       "response": null,
       "sort_order": 3,
-      "content_id": "rite:section:13"
+      "content_id": "rite:section:13",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 14,
@@ -167,7 +271,15 @@
       "rubric": "يصلي الكاهن على زيت الزيتون ويباركه",
       "response": "آمين.",
       "sort_order": 1,
-      "content_id": "rite:section:14"
+      "content_id": "rite:section:14",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 15,
@@ -179,7 +291,15 @@
       "rubric": "يمسح الكاهن المريض بالزيت على الجبهة والصدر واليدين والرجلين على شكل صليب",
       "response": "آمين.",
       "sort_order": 2,
-      "content_id": "rite:section:15"
+      "content_id": "rite:section:15",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 16,
@@ -191,7 +311,15 @@
       "rubric": "يُقرأ الإنجيل على المريض",
       "response": "المجد لك يا ربنا المجد لك.",
       "sort_order": 3,
-      "content_id": "rite:section:16"
+      "content_id": "rite:section:16",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 17,
@@ -203,7 +331,15 @@
       "rubric": "يصلي الكاهن صلاة الختام ويضع يده على المريض",
       "response": "آمين.",
       "sort_order": 4,
-      "content_id": "rite:section:17"
+      "content_id": "rite:section:17",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 18,
@@ -215,7 +351,15 @@
       "rubric": "يقف العروسان أمام المذبح ويصلي الكاهن صلاة الخطبة",
       "response": "آمين.",
       "sort_order": 1,
-      "content_id": "rite:section:18"
+      "content_id": "rite:section:18",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 19,
@@ -227,7 +371,15 @@
       "rubric": "يضع الكاهن الإكليلين على رأسي العروسين",
       "response": "آمين.",
       "sort_order": 2,
-      "content_id": "rite:section:19"
+      "content_id": "rite:section:19",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 20,
@@ -239,7 +391,15 @@
       "rubric": "يقرأ الشماس الرسالة",
       "response": "نعمة ربنا يسوع المسيح تكون معكم جميعاً. آمين.",
       "sort_order": 3,
-      "content_id": "rite:section:20"
+      "content_id": "rite:section:20",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 21,
@@ -251,7 +411,15 @@
       "rubric": "يقرأ الكاهن الإنجيل",
       "response": "المجد لك يا ربنا المجد لك.",
       "sort_order": 4,
-      "content_id": "rite:section:21"
+      "content_id": "rite:section:21",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 22,
@@ -263,7 +431,15 @@
       "rubric": "يحل الكاهن العروسين ويباركهما بالصليب",
       "response": "آمين.",
       "sort_order": 5,
-      "content_id": "rite:section:22"
+      "content_id": "rite:section:22",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 23,
@@ -275,7 +451,15 @@
       "rubric": "يقف المرشح أمام الأسقف مرتدياً ثياباً بيضاء",
       "response": "مستحق. أكسيوس.",
       "sort_order": 1,
-      "content_id": "rite:section:23"
+      "content_id": "rite:section:23",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 24,
@@ -287,7 +471,15 @@
       "rubric": "يصلي الأسقف أوشية السيامة",
       "response": "آمين.",
       "sort_order": 2,
-      "content_id": "rite:section:24"
+      "content_id": "rite:section:24",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 25,
@@ -299,7 +491,15 @@
       "rubric": "يضع الأسقف يده على رأس المرشح ويصلي صلاة السيامة",
       "response": "آمين.",
       "sort_order": 3,
-      "content_id": "rite:section:25"
+      "content_id": "rite:section:25",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 26,
@@ -311,7 +511,15 @@
       "rubric": "يتناول الشماس الجديد بعد الأسقف والكهنة",
       "response": "آمين.",
       "sort_order": 4,
-      "content_id": "rite:section:26"
+      "content_id": "rite:section:26",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 27,
@@ -323,7 +531,15 @@
       "rubric": "يُقاد المرشح حول المذبح ثلاث مرات",
       "response": "مستحق. أكسيوس.",
       "sort_order": 1,
-      "content_id": "rite:section:27"
+      "content_id": "rite:section:27",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 28,
@@ -335,7 +551,15 @@
       "rubric": "يضع الأسقف يده على رأس المرشح ويصلي صلاة السيامة",
       "response": "آمين.",
       "sort_order": 2,
-      "content_id": "rite:section:28"
+      "content_id": "rite:section:28",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 29,
@@ -347,7 +571,15 @@
       "rubric": "يلبس الكاهن الجديد ملابسه الكهنوتية وسط تهليل الشعب",
       "response": "مستحق. أكسيوس.",
       "sort_order": 3,
-      "content_id": "rite:section:29"
+      "content_id": "rite:section:29",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 30,
@@ -359,7 +591,15 @@
       "rubric": "يقدس الكاهن الجديد القداس الإلهي ويتناول أولاً",
       "response": "آمين.",
       "sort_order": 4,
-      "content_id": "rite:section:30"
+      "content_id": "rite:section:30",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 31,
@@ -371,7 +611,15 @@
       "rubric": "يُقام طقس اللقان في خميس العهد وأول طوبة وعيد الرسل",
       "response": "آمين.",
       "sort_order": 1,
-      "content_id": "rite:section:31"
+      "content_id": "rite:section:31",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 32,
@@ -383,7 +631,15 @@
       "rubric": "يغسل الأسقف أو الكاهن أرجل اثني عشر رجلاً تذكيراً بغسل المسيح أرجل تلاميذه",
       "response": "آمين.",
       "sort_order": 2,
-      "content_id": "rite:section:32"
+      "content_id": "rite:section:32",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 33,
@@ -395,7 +651,15 @@
       "rubric": "يختم الكاهن الطقوس بصلاة الشكر",
       "response": "آمين.",
       "sort_order": 3,
-      "content_id": "rite:section:33"
+      "content_id": "rite:section:33",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 34,
@@ -407,7 +671,15 @@
       "rubric": "يُصلى على الجثمان في الكنيسة أو في بيت المتوفى",
       "response": "آمين.",
       "sort_order": 1,
-      "content_id": "rite:section:34"
+      "content_id": "rite:section:34",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 35,
@@ -419,7 +691,15 @@
       "rubric": "يُرتل المزمور بلحن جنائزي",
       "response": "هللويا.",
       "sort_order": 2,
-      "content_id": "rite:section:35"
+      "content_id": "rite:section:35",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 36,
@@ -431,7 +711,15 @@
       "rubric": "يقرأ الكاهن الإنجيل على الجثمان",
       "response": "المجد لك يا ربنا المجد لك.",
       "sort_order": 3,
-      "content_id": "rite:section:36"
+      "content_id": "rite:section:36",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 37,
@@ -443,7 +731,15 @@
       "rubric": "يصلي الكاهن الأوشية والشعب يستجيب",
       "response": "يا رب ارحم.",
       "sort_order": 4,
-      "content_id": "rite:section:37"
+      "content_id": "rite:section:37",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 38,
@@ -455,7 +751,15 @@
       "rubric": "يحل الكاهن الجثمان ويُدلى في القبر مع صلاة التراب",
       "response": "الراحة الأبدية أعطه يا رب ونورك الدائم فليُضئ له.",
       "sort_order": 5,
-      "content_id": "rite:section:38"
+      "content_id": "rite:section:38",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 39,
@@ -467,7 +771,15 @@
       "rubric": "يدخل الأسقف الكنيسة الجديدة حاملاً الصليب والميرون",
       "response": "آمين.",
       "sort_order": 1,
-      "content_id": "rite:section:39"
+      "content_id": "rite:section:39",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 40,
@@ -479,7 +791,15 @@
       "rubric": "يمسح الأسقف المذبح بالميرون المقدس على شكل صليب في أركانه الأربعة ووسطه",
       "response": "آمين.",
       "sort_order": 2,
-      "content_id": "rite:section:40"
+      "content_id": "rite:section:40",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": 41,
@@ -491,7 +811,15 @@
       "rubric": "يُقام القداس الباسيلي أو الغريغوري حسب المناسبة",
       "response": "آمين.",
       "sort_order": 3,
-      "content_id": "rite:section:41"
+      "content_id": "rite:section:41",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }

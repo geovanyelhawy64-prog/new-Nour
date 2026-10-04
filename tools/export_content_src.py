@@ -45,7 +45,40 @@ SECTION_IDS = {
 
 
 def normalize_row(row):
-    return {k: (unicodedata.normalize('NFC', v) if isinstance(v, str) else v) for k, v in row.items()}
+    out = {}
+    for k, v in row.items():
+        if isinstance(v, str):
+            v = unicodedata.normalize('NFC', v)
+            v = ''.join(ch for ch in v if unicodedata.category(ch)[0] != 'C' or ch in '\n\r\t')
+            if not v.strip():
+                v = None
+        out[k] = v
+    return out
+
+
+def load_origins(csv_path='docs/provenance_audit.csv'):
+    import csv
+    origins = {}
+    try:
+        with open(csv_path, encoding='utf-8-sig', newline='') as fh:
+            for r in csv.DictReader(fh):
+                origins[r['table']] = r.get('origin', 'unknown')
+    except FileNotFoundError:
+        pass
+    return origins
+
+
+def legal_fields(table, origins):
+    return {
+        'origin': origins.get(table, 'unknown'),
+        'source_id': None,
+        'source_page': None,
+        'review_status': 'draft',
+        'verified_by': None,
+        'verified_at': None,
+        'critical': 0,
+        'content_version': 1,
+    }
 
 
 def main():
@@ -61,6 +94,7 @@ def main():
     con.row_factory = sqlite3.Row
     cur = con.cursor()
     tables = [r[0] for r in cur.execute("SELECT name FROM sqlite_master WHERE type='table' ORDER BY name").fetchall()]
+    origins = load_origins()
     skipped = set()
     for t in tables:
         if t in SKIP_TABLES:
@@ -70,6 +104,7 @@ def main():
         for row in cur.execute(f'SELECT * FROM {t}'):
             d = normalize_row(dict(row))
             d['content_id'] = SECTION_IDS.get(t, lambda r: f'{t}:{r.get("id")}')(d)
+            d.update(legal_fields(t, origins))
             rows.append(d)
         out_dir = os.path.join(args.out, t)
         os.makedirs(out_dir, exist_ok=True)

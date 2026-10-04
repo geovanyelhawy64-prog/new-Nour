@@ -5,43 +5,99 @@
       "id": "baptism",
       "name_ar": "سِرُّ الْمَعْمُودِيَّةِ الْمُقَدَّسُ",
       "sacrament_order": 1,
-      "content_id": "sacrament:baptism"
+      "content_id": "sacrament:baptism",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "chrismation",
       "name_ar": "سِرُّ الْمَيْرُونِ الْمُقَدَّسُ (التَّثْبِيتُ)",
       "sacrament_order": 2,
-      "content_id": "sacrament:chrismation"
+      "content_id": "sacrament:chrismation",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "repentance",
       "name_ar": "سِرُّ التَّوْبَةِ وَالاعْتِرَافِ",
       "sacrament_order": 3,
-      "content_id": "sacrament:repentance"
+      "content_id": "sacrament:repentance",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "eucharist",
       "name_ar": "سِرُّ الإِفْخَارِسْتِيَا (التَّنَاوُلُ الأَقْدَسُ)",
       "sacrament_order": 4,
-      "content_id": "sacrament:eucharist"
+      "content_id": "sacrament:eucharist",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "unction",
       "name_ar": "سِرُّ مَسْحَةِ الْمَرْضَى (الْقِنْدِيلُ)",
       "sacrament_order": 5,
-      "content_id": "sacrament:unction"
+      "content_id": "sacrament:unction",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "matrimony",
       "name_ar": "سِرُّ الزِّيجَةِ الْمُقَدَّسُ (الإِكْلِيلُ)",
       "sacrament_order": 6,
-      "content_id": "sacrament:matrimony"
+      "content_id": "sacrament:matrimony",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     },
     {
       "id": "priesthood",
       "name_ar": "سِرُّ الْكَهَنُوتِ الْمُقَدَّسُ",
       "sacrament_order": 7,
-      "content_id": "sacrament:priesthood"
+      "content_id": "sacrament:priesthood",
+      "origin": "authored",
+      "source_id": null,
+      "source_page": null,
+      "review_status": "draft",
+      "verified_by": null,
+      "verified_at": null,
+      "critical": 0,
+      "content_version": 1
     }
   ]
 }
