@@ -1,0 +1,182 @@
+import 'dart:io';
+
+import 'package:flutter_test/flutter_test.dart';
+import 'package:noor_app/data/database/user_data_migrator.dart';
+import 'package:sqlite3/sqlite3.dart';
+
+void main() {
+  late Directory temp;
+  late File legacy;
+  late File userFile;
+
+  setUp(() {
+    temp = Directory.systemTemp.createTempSync('noor_migration_test_');
+    legacy = File('${temp.path}/noor.db');
+    userFile = File('${temp.path}/user.db');
+  });
+
+  tearDown(() => temp.deleteSync(recursive: true));
+
+  test('ينقل المحفوظات والتظليل ويكتب علامة الإتمام', () {
+    final old = sqlite3.open(legacy.path);
+    old.execute('''CREATE TABLE bookmarks (
+      id INTEGER PRIMARY KEY, content_type TEXT NOT NULL,
+      content_id TEXT NOT NULL, display_title TEXT NOT NULL,
+      note TEXT, created_at INTEGER NOT NULL)''');
+    old.execute(
+      'INSERT INTO bookmarks VALUES (1, ?, ?, ?, ?, ?)',
+      ['bible', '43:3:16', 'يوحنا ٣: ١٦', 'ملاحظة', 1234],
+    );
+    old.execute('''CREATE TABLE verse_highlights (
+      id TEXT PRIMARY KEY, book_id INTEGER NOT NULL, chapter INTEGER NOT NULL,
+      verse_number INTEGER NOT NULL, color TEXT NOT NULL, created_at TEXT NOT NULL)''');
+    old.execute(
+      'INSERT INTO verse_highlights VALUES (?, ?, ?, ?, ?, ?)',
+      ['43:3:16', 43, 3, 16, 'gold', '2026-10-03T00:00:00Z'],
+    );
+    old.close();
+
+    final result = const UserDataMigrator().migrate(
+      legacyDatabase: legacy,
+      userDatabase: userFile,
+    );
+
+    expect(result.alreadyCompleted, isFalse);
+    expect(result.bookmarksCopied, 1);
+    expect(result.highlightsCopied, 1);
+    final user = sqlite3.open(userFile.path);
+    expect(user.select('SELECT * FROM bookmarks'), hasLength(1));
+    expect(user.select('SELECT * FROM verse_highlights'), hasLength(1));
+    expect(
+      user.select(
+        'SELECT * FROM migration_metadata WHERE migration_key = ?',
+        [UserDataMigrator.migrationKey],
+      ),
+      hasLength(1),
+    );
+    user.close();
+  });
+
+  test('إعادة التشغيل بعد النجاح لا تكرر البيانات', () {
+    final old = sqlite3.open(legacy.path);
+    old.execute('''CREATE TABLE bookmarks (
+      id INTEGER PRIMARY KEY, content_type TEXT, content_id TEXT,
+      display_title TEXT, note TEXT, created_at INTEGER)''');
+    old.execute("INSERT INTO bookmarks VALUES (1, 'bible', '1:1:1', 'تك ١:١', NULL, 1)");
+    old.close();
+
+    const migrator = UserDataMigrator();
+    migrator.migrate(legacyDatabase: legacy, userDatabase: userFile);
+    final second = migrator.migrate(legacyDatabase: legacy, userDatabase: userFile);
+
+    expect(second.alreadyCompleted, isTrue);
+    final user = sqlite3.open(userFile.path);
+    expect(user.select('SELECT * FROM bookmarks'), hasLength(1));
+    user.close();
+  });
+
+  test('أي مخطط غير معروف يتراجع بالكامل ولا يكتب علامة نجاح', () {
+    final old = sqlite3.open(legacy.path);
+    old.execute('CREATE TABLE bookmarks (id INTEGER PRIMARY KEY, mystery TEXT)');
+    old.execute("INSERT INTO bookmarks VALUES (1, 'do not lose me')");
+    old.close();
+
+    expect(
+      () => const UserDataMigrator().migrate(
+        legacyDatabase: legacy,
+        userDatabase: userFile,
+      ),
+      throwsStateError,
+    );
+
+    final user = sqlite3.open(userFile.path);
+    expect(user.select('SELECT * FROM bookmarks'), isEmpty);
+    expect(user.select('SELECT * FROM migration_metadata'), isEmpty);
+    user.close();
+  });
+
+  test('يتراجع عن كل النسخ إذا فشل جزء من الترحيل', () {
+    final old = sqlite3.open(legacy.path);
+    old.execute('''CREATE TABLE bookmarks (
+      id INTEGER PRIMARY KEY, content_type TEXT, content_id TEXT,
+      display_title TEXT, note TEXT, created_at INTEGER)''');
+    old.execute(
+      "INSERT INTO bookmarks VALUES (1, 'bible', '43:3:16', 'يوحنا', NULL, 1)",
+    );
+    old.execute('''CREATE TABLE verse_highlights (
+      id TEXT PRIMARY KEY, book_id INTEGER NOT NULL, chapter INTEGER NOT NULL,
+      verse_number INTEGER NOT NULL, color TEXT NOT NULL, created_at TEXT NOT NULL,
+      UNIQUE(book_id, chapter, verse_number))''');
+    old.execute(
+      "INSERT INTO verse_highlights VALUES ('first', 43, 3, 16, 'gold', 'now')",
+    );
+    old.execute(
+      "INSERT INTO verse_highlights VALUES ('second', 43, 3, 17, 'blue', 'now')",
+    );
+    old.close();
+
+    // قاعدة المستخدم تحتوي مسبقاً على الموضع نفسه بمعرّف مختلف؛ هذا
+    // يسبب تعارضاً مقصوداً في القيد الفريد ويجب أن يلغي المعاملة كلها.
+    final existing = sqlite3.open(userFile.path);
+    existing.execute('''CREATE TABLE verse_highlights (
+      id TEXT PRIMARY KEY, book_id INTEGER NOT NULL, chapter INTEGER NOT NULL,
+      verse_number INTEGER NOT NULL, color TEXT NOT NULL, created_at TEXT NOT NULL,
+      UNIQUE(book_id, chapter, verse_number))''');
+    existing.execute(
+      "INSERT INTO verse_highlights VALUES ('existing', 43, 3, 17, 'red', 'now')",
+    );
+    existing.close();
+
+    expect(
+      () => const UserDataMigrator().migrate(
+        legacyDatabase: legacy,
+        userDatabase: userFile,
+      ),
+      throwsStateError,
+    );
+
+    final user = sqlite3.open(userFile.path);
+    expect(user.select('SELECT * FROM bookmarks'), isEmpty);
+    expect(user.select('SELECT * FROM migration_metadata'), isEmpty);
+    expect(user.select('SELECT * FROM verse_highlights'), hasLength(1));
+    expect(user.select('SELECT color FROM verse_highlights').single['color'], 'red');
+    user.close();
+  });
+
+  test('يدعم المعرف الرقمي في مخطط قديم', () {
+    final old = sqlite3.open(legacy.path);
+    old.execute('''CREATE TABLE bookmarks (
+      id INTEGER PRIMARY KEY, content_type TEXT, content_id INTEGER,
+      display_title TEXT, note TEXT, created_at INTEGER)''');
+    old.execute("INSERT INTO bookmarks VALUES (1, 'agpeya', 42, 'باكر', NULL, 5)");
+    old.close();
+
+    const UserDataMigrator().migrate(
+      legacyDatabase: legacy,
+      userDatabase: userFile,
+    );
+    final user = sqlite3.open(userFile.path);
+    expect(user.select('SELECT content_id FROM bookmarks').single['content_id'], '42');
+    user.close();
+  });
+
+  test('يدعم مخطط المحفوظات الأقدم', () {
+    final old = sqlite3.open(legacy.path);
+    old.execute('''CREATE TABLE bookmarks (
+      id INTEGER PRIMARY KEY, item_type TEXT, item_id TEXT,
+      title TEXT, subtitle TEXT, created_at INTEGER)''');
+    old.execute("INSERT INTO bookmarks VALUES (1, 'agpeya', 'prime', 'باكر', 'مزمور', 5)");
+    old.close();
+
+    const UserDataMigrator().migrate(
+      legacyDatabase: legacy,
+      userDatabase: userFile,
+    );
+    final user = sqlite3.open(userFile.path);
+    final row = user.select('SELECT * FROM bookmarks').single;
+    expect(row['content_type'], 'agpeya');
+    expect(row['content_id'], 'prime');
+    expect(row['display_title'], 'باكر');
+    user.close();
+  });
+}
