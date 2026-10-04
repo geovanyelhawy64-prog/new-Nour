@@ -1,34 +1,33 @@
-table,origin,source_script,source_detail,publishable,notes
-bible_books,reference,tools/db_builder/build_database.py,"seed_bible(): extracted from Katamars Orsozoxi 13.7.0 APK (assets/mybible/old|new), Katamars+++Orsozoxi_13.7.0_APKPure.zip",yes,Digital reference extracted from third-party APK; awaiting printed Bible verification. name_coptic later patched by upgrade_coptic_and_hymns.py
-bible_verses,reference,tools/db_builder/build_database.py,seed_bible(): extracted from Katamars Orsozoxi APK (assets/mybible),yes,Digital reference extracted from third-party APK; awaiting printed Bible verification
-agpeya_hours,reference,tools/db_builder/importers/agpeya_importer.py,"Decrypted assets/agypa.orso inside Katamars Orsozoxi APK (AES-CBC, orso key)",yes,Digital reference from APK; hour names/titles later mapped by upgrade_coptic_and_hymns.py
-agpeya_sections,reference,tools/db_builder/importers/agpeya_importer.py,Decrypted assets/agypa.orso inside Katamars Orsozoxi APK,yes,Digital reference from APK; text_coptic/text_phonetic later populated by upgrade_coptic_and_hymns.py
-liturgies,reference,tools/db_builder/importers/liturgy_importer.py,Encrypted xlrd spreadsheets inside Katamars Orsozoxi APK,yes,Digital reference extracted from third-party APK
-liturgy_sections,reference,tools/db_builder/importers/liturgy_importer.py,Encrypted xlrd spreadsheets inside Katamars Orsozoxi APK,yes,Digital reference extracted from third-party APK
-liturgy_parts,reference,tools/db_builder/importers/liturgy_importer.py,Encrypted xlrd spreadsheets inside Katamars Orsozoxi APK; text_coptic later converted by upgrade_coptic_and_hymns.py,yes,Digital reference extracted from third-party APK
-hymn_books,printed,tools/db_builder/importers/hymns_importer.py + tools/restructure_hymns_and_indexes.py,Deacon Osama Lotfy 11-volume hymn curriculum; books remapped to 4 canonical parts per Moallim Osama Lotfy's encyclopedia reference,yes,Tied to printed curriculum/encyclopedia but edition/page not recorded in repo; treat as printed-awaiting-citation
-hymns,printed,tools/db_builder/importers/hymns_importer.py,Deacon Osama Lotfy 11-volume hymn curriculum (Deacon's curriculum manuscripts),yes,Printed curriculum source; edition/pages not recorded
-hymn_segments,printed,tools/db_builder/importers/hymns_importer.py + tools/upgrade_coptic_and_hymns.py,Deacon Osama Lotfy curriculum; segments backfilled by upgrade_coptic_and_hymns.py,yes,Printed curriculum source with script backfill; syllables_json generated
-synaxarium_entries,reference,tools/db_builder/importers/synaxarium_importer.py + tools/clean_synaxarium.py,Decrypted assets/sanksar2/*.orso inside Katamars Orsozoxi APK; trimmed by clean_synaxarium.py,yes,Digital reference from APK; Nasie days cleaned
-katameros_readings,reference,tools/db_builder/importers/katameros_importer.py,Encrypted xlrd spreadsheets inside Katamars Orsozoxi APK,yes,Digital reference extracted from third-party APK
-saints,reference,tools/db_builder/importers/saints_importer.py,Derived from synaxarium_entries (which came from Katamars Orsozoxi APK sanksar2 .orso files),yes,Inherits APK reference provenance
-difnar_entries,reference,tools/db_builder/importers/difnar_importer.py,assets/mdaya7/*.html inside Katamars Orsozoxi APK,yes,Digital reference from APK
-pascha_readings,reference,tools/db_builder/importers/pascha_importer.py,Decrypted assets/dallal/*.orso inside Katamars Orsozoxi APK,yes,Digital reference from APK
-feasts_and_fasts,authored,tools/db_builder/importers/feasts_importer.py,Embedded static canonical list authored in script (no external file/URL cited),no,No printed source cited; needs priest review
-occasional_prayers,authored,tools/db_builder/importers/prayers_importer.py + tools/migrate_occasional_prayers.py,Embedded prayers authored in script; fully replaced by migrate_occasional_prayers.py,no,No printed source cited; needs priest review
-theology_articles,authored,tools/db_builder/importers/theology_importer.py + tools/migrate_theology_articles.py + tools/db_builder/importers/populate_history_rites_books.py + tools/db_builder/importers/expand_theology_and_rites.py,Embedded articles authored in scripts,no,No printed source cited; needs priest review
-daily_verses,authored,tools/db_builder/build_database.py,seed_daily_verses(): 7-verse sample list cycled over 366 days,no,Mostly placeholder/cyclic sample data; needs curation
-bookmarks,authored,runtime user data,User-generated bookmarks,no,User-generated; not publishable content
-verse_highlights,authored,runtime user data,User-generated highlights,no,User-generated; not publishable content
-sacraments,authored,tools/db_builder/importers/sacraments_importer.py,Embedded sacraments data authored in script,no,No printed source cited; needs priest review
-sacrament_sections,authored,tools/db_builder/importers/sacraments_importer.py,Embedded section text authored in script,no,No printed source cited; needs priest review
-monasteries,authored,tools/migrate_monasteries.py,Embedded monastery rows authored in script (history text),no,No printed source cited; needs priest review
-bible_commentaries,reference,tools/import_commentaries.py,تفسير القمص أنطونيوس فكري via https://st-takla.org/pub_Bible-Interpretations/; later expanded by tools/enrich_massive_data.py (authored additions),yes,Core rows reference digital publication; enrich_massive_data additions are authored/AI-style
-coptic_dictionary,printed,tools/import_dictionary.py,قاموس القمص أثناسيوس المقاري + Crum dictionary; later expanded by tools/enrich_massive_data.py,yes,Printed dictionaries cited by name; editions/pages not recorded; enrich additions authored
-bible_cross_references,reference,tools/import_cross_references.py,Treasury of Scripture Knowledge + manual reconciliation; one row patched by tools/fix_xref.py,yes,Digital reference + manual; awaiting printed verification
-psalis,authored,tools/import_psali.py,Embedded hos/theotokia/kiahki/psalmody rows authored in script,no,No printed source cited; needs priest review
-psali_sections,authored,tools/import_psali.py,Embedded section rows authored in script,no,No printed source cited; needs priest review
-rites,authored,tools/import_rites.py,Embedded rite definitions authored in script; expanded by tools/db_builder/importers/expand_theology_and_rites.py,no,No printed source cited; needs priest review
-rite_sections,authored,tools/import_rites.py,Embedded rite section text authored in script,no,No printed source cited; needs priest review
-holy_places,authored,tools/import_holy_places.py,Embedded holy places authored in script,no,No printed source cited; needs priest review
-emotion_prayers,authored,tools/import_emotion_prayers.py + tools/enrich_massive_data.py,Embedded verse/psalm/agpeya references and meditations authored in scripts,no,No printed source cited; needs priest review
+table_name,row_count,builder_script,inferred_origin,publishable_v1,notes
+agpeya_hours,8,tools/analyze_agpeya_structure.py (legacy),printed,YES,
+agpeya_sections,323,tools/analyze_agpeya_structure.py (legacy),printed,YES,
+bible_books,73,tools/ingest_bible_usfm.py / tools/apply_bible_van_dyke.py,printed,YES,
+bible_commentaries,0,tools/import_commentaries.py,printed,YES,
+bible_cross_references,0,tools/import_cross_references.py,printed,YES,
+bible_verses,35761,tools/ingest_bible_usfm.py / tools/apply_bible_van_dyke.py,printed,YES,
+bookmarks,0,user data (runtime),user_data,NO,
+coptic_dictionary,0,tools/import_dictionary.py,authored,NO,Generated by deprecated script; quarantine in dev only
+daily_verses,366,tools/enrich_massive_data.py (deprecated) / manual,authored,NO,Generated by deprecated script; quarantine in dev only
+difnar_entries,279,clean_synaxarium.py (partial) / manual,reference,YES,Needs printed source verification
+emotion_prayers,0,tools/import_emotion_prayers.py / tools/migrate_occasional_prayers.py (deprecated),authored,NO,Generated by deprecated script; quarantine in dev only
+feasts_and_fasts,31,tools/import_holy_places.py (partial) / manual,printed,YES,
+holy_places,0,tools/import_holy_places.py,unknown,NO,Empty table; no source identified
+hymn_books,11,tools/import_psali.py / tools/restructure_hymns_and_indexes.py,printed,YES,
+hymn_segments,21,tools/import_psali.py / tools/upgrade_coptic_and_hymns.py (deprecated),printed,YES,
+hymns,63,tools/import_psali.py / tools/restructure_hymns_and_indexes.py,printed,YES,
+katameros_readings,4748,tools/import_holy_places.py (partial) / manual,printed,YES,
+liturgies,4,tools/import_rites.py / manual,printed,YES,
+liturgy_parts,1062,tools/import_rites.py / manual,printed,YES,
+liturgy_sections,125,tools/import_rites.py / manual,printed,YES,
+monasteries,0,tools/import_holy_places.py / tools/migrate_monasteries.py (deprecated),unknown,NO,Empty table; no source identified
+occasional_prayers,26,tools/migrate_occasional_prayers.py (deprecated),authored,NO,Generated by deprecated script; quarantine in dev only
+pascha_readings,615,tools/import_holy_places.py (partial) / manual,printed,YES,
+psali_sections,0,tools/import_psali.py,unknown,NO,Empty table; no source identified
+psalis,0,tools/import_psali.py,unknown,NO,Empty table; no source identified
+rite_sections,0,tools/import_rites.py,unknown,NO,Empty table; no source identified
+rites,0,tools/import_rites.py,unknown,NO,Empty table; no source identified
+sacrament_sections,23,unknown,printed,YES,
+sacraments,7,unknown,printed,YES,
+saints,740,tools/import_holy_places.py (partial) / tools/migrate_monasteries.py (deprecated),reference,YES,Needs printed source verification
+synaxarium_entries,881,clean_synaxarium.py,printed,YES,
+theology_articles,12,tools/migrate_theology_articles.py (deprecated),authored,NO,Generated by deprecated script; quarantine in dev only

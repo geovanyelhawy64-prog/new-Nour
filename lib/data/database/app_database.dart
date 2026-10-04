@@ -33,6 +33,7 @@ import 'tables/psali_tables.dart';
 import 'tables/rite_tables.dart';
 import 'tables/holy_place_tables.dart';
 import 'tables/emotion_prayer_tables.dart';
+import 'tables/psalms_mapping_tables.dart';
 
 // DAOs
 import 'daos/agpeya_dao.dart';
@@ -116,6 +117,8 @@ part 'app_database.g.dart';
     HolyPlaces,
     // صلوات المشاعر والحاجة
     EmotionPrayers,
+    // خريطة ترقيم المزامير
+    PsalmsMapping,
   ],
   daos: [
     BibleDao,

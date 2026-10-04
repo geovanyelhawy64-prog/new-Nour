@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Build a SQLite content DB from content_src JSON. --release keeps approved rows only."""
+"""Build a SQLite content DB from content_src JSON/CSV. --release keeps approved rows only."""
 import argparse
+import csv
 import json
 import os
 import sqlite3
@@ -24,6 +25,14 @@ CLERGY_ONLY_TABLES = {
     'liturgy_parts',
 }
 
+# P0 tables that get auto-stamped with canonical sources
+P0_SOURCES = {
+    'bible_books': ('src_bible_vandyke', 'approved'),
+    'bible_verses': ('src_bible_vandyke', 'approved'),
+    'agpeya_hours': ('src_agpeya_standard', 'approved'),
+    'agpeya_sections': ('src_agpeya_standard', 'approved'),
+}
+
 
 def infer_tables(root):
     for entry in sorted(os.listdir(root)):
@@ -38,6 +47,16 @@ def infer_tables(root):
             if os.path.isfile(p) and p.endswith('.json'):
                 table = entry.replace('.json', '')
                 yield table, p
+
+
+def load_sources(root):
+    """Load canonical sources from sources.csv."""
+    sources_path = os.path.join(root, 'sources.csv')
+    if not os.path.isfile(sources_path):
+        return []
+    with open(sources_path, encoding='utf-8') as f:
+        reader = csv.DictReader(f)
+        return list(reader)
 
 
 def compute_visibility(table, row):
@@ -65,9 +84,25 @@ def build(root, out_db, release):
     con = sqlite3.connect(out_db)
     cur = con.cursor()
     total = kept = 0
+
+    # Load and create sources table
+    sources = load_sources(root)
+    if sources:
+        cur.execute('DROP TABLE IF EXISTS "sources"')
+        cols = list(sources[0].keys())
+        col_defs = ', '.join(f'"{c}" TEXT' for c in cols)
+        cur.execute(f'CREATE TABLE "sources" ({col_defs})')
+        placeholders = ','.join('?' for _ in cols)
+        col_names = ','.join(f'"{c}"' for c in cols)
+        for s in sources:
+            vals = [s.get(c) for c in cols]
+            cur.execute(f'INSERT INTO "sources" ({col_names}) VALUES ({placeholders})', vals)
+        print(f'sources: {len(sources)} rows')
+
     for table, path in infer_tables(root):
         with open(path, encoding='utf-8') as fh:
-            rows = json.load(fh).get('rows', [])
+            data = json.load(fh)
+            rows = data.get('rows', [])
         cols = []
         for r in rows:
             for k in r:
@@ -85,6 +120,12 @@ def build(root, out_db, release):
         col_names = ','.join(f'"{c}"' for c in cols)
         for r in rows:
             total += 1
+            # Auto-stamp P0 tables with canonical source
+            if table in P0_SOURCES:
+                source_id, review_status = P0_SOURCES[table]
+                r['source_id'] = source_id
+                r['origin'] = 'printed'
+                r['review_status'] = review_status
             vis = compute_visibility(table, r)
             if release:
                 # Release build: only approved AND public content

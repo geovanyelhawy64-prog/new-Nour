@@ -13332,6 +13332,270 @@ class EmotionPrayersCompanion extends UpdateCompanion<EmotionPrayer> {
   }
 }
 
+class $PsalmsMappingTable extends PsalmsMapping
+    with TableInfo<$PsalmsMappingTable, PsalmsMappingEntry> {
+  @override
+  final GeneratedDatabase attachedDatabase;
+  final String? _alias;
+  $PsalmsMappingTable(this.attachedDatabase, [this._alias]);
+  static const VerificationMeta _lxxMeta = const VerificationMeta('lxx');
+  @override
+  late final GeneratedColumn<int> lxx = GeneratedColumn<int>(
+      'lxx', aliasedName, false,
+      type: DriftSqlType.int, requiredDuringInsert: false);
+  static const VerificationMeta _masoreticMeta =
+      const VerificationMeta('masoretic');
+  @override
+  late final GeneratedColumn<int> masoretic = GeneratedColumn<int>(
+      'masoretic', aliasedName, false,
+      type: DriftSqlType.int, requiredDuringInsert: true);
+  static const VerificationMeta _titleArMeta =
+      const VerificationMeta('titleAr');
+  @override
+  late final GeneratedColumn<String> titleAr = GeneratedColumn<String>(
+      'title_ar', aliasedName, false,
+      type: DriftSqlType.string, requiredDuringInsert: true);
+  static const VerificationMeta _noteMeta = const VerificationMeta('note');
+  @override
+  late final GeneratedColumn<String> note = GeneratedColumn<String>(
+      'note', aliasedName, true,
+      type: DriftSqlType.string, requiredDuringInsert: false);
+  @override
+  List<GeneratedColumn> get $columns => [lxx, masoretic, titleAr, note];
+  @override
+  String get aliasedName => _alias ?? actualTableName;
+  @override
+  String get actualTableName => $name;
+  static const String $name = 'psalms_mapping';
+  @override
+  VerificationContext validateIntegrity(Insertable<PsalmsMappingEntry> instance,
+      {bool isInserting = false}) {
+    final context = VerificationContext();
+    final data = instance.toColumns(true);
+    if (data.containsKey('lxx')) {
+      context.handle(
+          _lxxMeta, lxx.isAcceptableOrUnknown(data['lxx']!, _lxxMeta));
+    }
+    if (data.containsKey('masoretic')) {
+      context.handle(_masoreticMeta,
+          masoretic.isAcceptableOrUnknown(data['masoretic']!, _masoreticMeta));
+    } else if (isInserting) {
+      context.missing(_masoreticMeta);
+    }
+    if (data.containsKey('title_ar')) {
+      context.handle(_titleArMeta,
+          titleAr.isAcceptableOrUnknown(data['title_ar']!, _titleArMeta));
+    } else if (isInserting) {
+      context.missing(_titleArMeta);
+    }
+    if (data.containsKey('note')) {
+      context.handle(
+          _noteMeta, note.isAcceptableOrUnknown(data['note']!, _noteMeta));
+    }
+    return context;
+  }
+
+  @override
+  Set<GeneratedColumn> get $primaryKey => {lxx};
+  @override
+  PsalmsMappingEntry map(Map<String, dynamic> data, {String? tablePrefix}) {
+    final effectivePrefix = tablePrefix != null ? '$tablePrefix.' : '';
+    return PsalmsMappingEntry(
+      lxx: attachedDatabase.typeMapping
+          .read(DriftSqlType.int, data['${effectivePrefix}lxx'])!,
+      masoretic: attachedDatabase.typeMapping
+          .read(DriftSqlType.int, data['${effectivePrefix}masoretic'])!,
+      titleAr: attachedDatabase.typeMapping
+          .read(DriftSqlType.string, data['${effectivePrefix}title_ar'])!,
+      note: attachedDatabase.typeMapping
+          .read(DriftSqlType.string, data['${effectivePrefix}note']),
+    );
+  }
+
+  @override
+  $PsalmsMappingTable createAlias(String alias) {
+    return $PsalmsMappingTable(attachedDatabase, alias);
+  }
+}
+
+class PsalmsMappingEntry extends DataClass
+    implements Insertable<PsalmsMappingEntry> {
+  /// رقم المزمور في الترجمة السبعينية (LXX) - المستخدم في الأجبية والطقوس
+  final int lxx;
+
+  /// رقم المزمور في النص الماسوريتي (MT) - المستخدم في ترجمة فاندايك
+  final int masoretic;
+
+  /// العنوان العربي للمزمور
+  final String titleAr;
+
+  /// ملاحظة حول الفرق في الترقيم
+  final String? note;
+  const PsalmsMappingEntry(
+      {required this.lxx,
+      required this.masoretic,
+      required this.titleAr,
+      this.note});
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    map['lxx'] = Variable<int>(lxx);
+    map['masoretic'] = Variable<int>(masoretic);
+    map['title_ar'] = Variable<String>(titleAr);
+    if (!nullToAbsent || note != null) {
+      map['note'] = Variable<String>(note);
+    }
+    return map;
+  }
+
+  PsalmsMappingCompanion toCompanion(bool nullToAbsent) {
+    return PsalmsMappingCompanion(
+      lxx: Value(lxx),
+      masoretic: Value(masoretic),
+      titleAr: Value(titleAr),
+      note: note == null && nullToAbsent ? const Value.absent() : Value(note),
+    );
+  }
+
+  factory PsalmsMappingEntry.fromJson(Map<String, dynamic> json,
+      {ValueSerializer? serializer}) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return PsalmsMappingEntry(
+      lxx: serializer.fromJson<int>(json['lxx']),
+      masoretic: serializer.fromJson<int>(json['masoretic']),
+      titleAr: serializer.fromJson<String>(json['titleAr']),
+      note: serializer.fromJson<String?>(json['note']),
+    );
+  }
+  @override
+  Map<String, dynamic> toJson({ValueSerializer? serializer}) {
+    serializer ??= driftRuntimeOptions.defaultSerializer;
+    return <String, dynamic>{
+      'lxx': serializer.toJson<int>(lxx),
+      'masoretic': serializer.toJson<int>(masoretic),
+      'titleAr': serializer.toJson<String>(titleAr),
+      'note': serializer.toJson<String?>(note),
+    };
+  }
+
+  PsalmsMappingEntry copyWith(
+          {int? lxx,
+          int? masoretic,
+          String? titleAr,
+          Value<String?> note = const Value.absent()}) =>
+      PsalmsMappingEntry(
+        lxx: lxx ?? this.lxx,
+        masoretic: masoretic ?? this.masoretic,
+        titleAr: titleAr ?? this.titleAr,
+        note: note.present ? note.value : this.note,
+      );
+  PsalmsMappingEntry copyWithCompanion(PsalmsMappingCompanion data) {
+    return PsalmsMappingEntry(
+      lxx: data.lxx.present ? data.lxx.value : this.lxx,
+      masoretic: data.masoretic.present ? data.masoretic.value : this.masoretic,
+      titleAr: data.titleAr.present ? data.titleAr.value : this.titleAr,
+      note: data.note.present ? data.note.value : this.note,
+    );
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('PsalmsMappingEntry(')
+          ..write('lxx: $lxx, ')
+          ..write('masoretic: $masoretic, ')
+          ..write('titleAr: $titleAr, ')
+          ..write('note: $note')
+          ..write(')'))
+        .toString();
+  }
+
+  @override
+  int get hashCode => Object.hash(lxx, masoretic, titleAr, note);
+  @override
+  bool operator ==(Object other) =>
+      identical(this, other) ||
+      (other is PsalmsMappingEntry &&
+          other.lxx == this.lxx &&
+          other.masoretic == this.masoretic &&
+          other.titleAr == this.titleAr &&
+          other.note == this.note);
+}
+
+class PsalmsMappingCompanion extends UpdateCompanion<PsalmsMappingEntry> {
+  final Value<int> lxx;
+  final Value<int> masoretic;
+  final Value<String> titleAr;
+  final Value<String?> note;
+  const PsalmsMappingCompanion({
+    this.lxx = const Value.absent(),
+    this.masoretic = const Value.absent(),
+    this.titleAr = const Value.absent(),
+    this.note = const Value.absent(),
+  });
+  PsalmsMappingCompanion.insert({
+    this.lxx = const Value.absent(),
+    required int masoretic,
+    required String titleAr,
+    this.note = const Value.absent(),
+  })  : masoretic = Value(masoretic),
+        titleAr = Value(titleAr);
+  static Insertable<PsalmsMappingEntry> custom({
+    Expression<int>? lxx,
+    Expression<int>? masoretic,
+    Expression<String>? titleAr,
+    Expression<String>? note,
+  }) {
+    return RawValuesInsertable({
+      if (lxx != null) 'lxx': lxx,
+      if (masoretic != null) 'masoretic': masoretic,
+      if (titleAr != null) 'title_ar': titleAr,
+      if (note != null) 'note': note,
+    });
+  }
+
+  PsalmsMappingCompanion copyWith(
+      {Value<int>? lxx,
+      Value<int>? masoretic,
+      Value<String>? titleAr,
+      Value<String?>? note}) {
+    return PsalmsMappingCompanion(
+      lxx: lxx ?? this.lxx,
+      masoretic: masoretic ?? this.masoretic,
+      titleAr: titleAr ?? this.titleAr,
+      note: note ?? this.note,
+    );
+  }
+
+  @override
+  Map<String, Expression> toColumns(bool nullToAbsent) {
+    final map = <String, Expression>{};
+    if (lxx.present) {
+      map['lxx'] = Variable<int>(lxx.value);
+    }
+    if (masoretic.present) {
+      map['masoretic'] = Variable<int>(masoretic.value);
+    }
+    if (titleAr.present) {
+      map['title_ar'] = Variable<String>(titleAr.value);
+    }
+    if (note.present) {
+      map['note'] = Variable<String>(note.value);
+    }
+    return map;
+  }
+
+  @override
+  String toString() {
+    return (StringBuffer('PsalmsMappingCompanion(')
+          ..write('lxx: $lxx, ')
+          ..write('masoretic: $masoretic, ')
+          ..write('titleAr: $titleAr, ')
+          ..write('note: $note')
+          ..write(')'))
+        .toString();
+  }
+}
+
 abstract class _$AppDatabase extends GeneratedDatabase {
   _$AppDatabase(QueryExecutor e) : super(e);
   $AppDatabaseManager get managers => $AppDatabaseManager(this);
@@ -13375,6 +13639,7 @@ abstract class _$AppDatabase extends GeneratedDatabase {
   late final $RiteSectionsTable riteSections = $RiteSectionsTable(this);
   late final $HolyPlacesTable holyPlaces = $HolyPlacesTable(this);
   late final $EmotionPrayersTable emotionPrayers = $EmotionPrayersTable(this);
+  late final $PsalmsMappingTable psalmsMapping = $PsalmsMappingTable(this);
   late final BibleDao bibleDao = BibleDao(this as AppDatabase);
   late final CommentaryDao commentaryDao = CommentaryDao(this as AppDatabase);
   late final DictionaryDao dictionaryDao = DictionaryDao(this as AppDatabase);
@@ -13436,7 +13701,8 @@ abstract class _$AppDatabase extends GeneratedDatabase {
         rites,
         riteSections,
         holyPlaces,
-        emotionPrayers
+        emotionPrayers,
+        psalmsMapping
       ];
 }
 
@@ -21609,6 +21875,162 @@ typedef $$EmotionPrayersTableProcessedTableManager = ProcessedTableManager<
     ),
     EmotionPrayer,
     PrefetchHooks Function()>;
+typedef $$PsalmsMappingTableCreateCompanionBuilder = PsalmsMappingCompanion
+    Function({
+  Value<int> lxx,
+  required int masoretic,
+  required String titleAr,
+  Value<String?> note,
+});
+typedef $$PsalmsMappingTableUpdateCompanionBuilder = PsalmsMappingCompanion
+    Function({
+  Value<int> lxx,
+  Value<int> masoretic,
+  Value<String> titleAr,
+  Value<String?> note,
+});
+
+class $$PsalmsMappingTableFilterComposer
+    extends Composer<_$AppDatabase, $PsalmsMappingTable> {
+  $$PsalmsMappingTableFilterComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnFilters<int> get lxx => $composableBuilder(
+      column: $table.lxx, builder: (column) => ColumnFilters(column));
+
+  ColumnFilters<int> get masoretic => $composableBuilder(
+      column: $table.masoretic, builder: (column) => ColumnFilters(column));
+
+  ColumnFilters<String> get titleAr => $composableBuilder(
+      column: $table.titleAr, builder: (column) => ColumnFilters(column));
+
+  ColumnFilters<String> get note => $composableBuilder(
+      column: $table.note, builder: (column) => ColumnFilters(column));
+}
+
+class $$PsalmsMappingTableOrderingComposer
+    extends Composer<_$AppDatabase, $PsalmsMappingTable> {
+  $$PsalmsMappingTableOrderingComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  ColumnOrderings<int> get lxx => $composableBuilder(
+      column: $table.lxx, builder: (column) => ColumnOrderings(column));
+
+  ColumnOrderings<int> get masoretic => $composableBuilder(
+      column: $table.masoretic, builder: (column) => ColumnOrderings(column));
+
+  ColumnOrderings<String> get titleAr => $composableBuilder(
+      column: $table.titleAr, builder: (column) => ColumnOrderings(column));
+
+  ColumnOrderings<String> get note => $composableBuilder(
+      column: $table.note, builder: (column) => ColumnOrderings(column));
+}
+
+class $$PsalmsMappingTableAnnotationComposer
+    extends Composer<_$AppDatabase, $PsalmsMappingTable> {
+  $$PsalmsMappingTableAnnotationComposer({
+    required super.$db,
+    required super.$table,
+    super.joinBuilder,
+    super.$addJoinBuilderToRootComposer,
+    super.$removeJoinBuilderFromRootComposer,
+  });
+  GeneratedColumn<int> get lxx =>
+      $composableBuilder(column: $table.lxx, builder: (column) => column);
+
+  GeneratedColumn<int> get masoretic =>
+      $composableBuilder(column: $table.masoretic, builder: (column) => column);
+
+  GeneratedColumn<String> get titleAr =>
+      $composableBuilder(column: $table.titleAr, builder: (column) => column);
+
+  GeneratedColumn<String> get note =>
+      $composableBuilder(column: $table.note, builder: (column) => column);
+}
+
+class $$PsalmsMappingTableTableManager extends RootTableManager<
+    _$AppDatabase,
+    $PsalmsMappingTable,
+    PsalmsMappingEntry,
+    $$PsalmsMappingTableFilterComposer,
+    $$PsalmsMappingTableOrderingComposer,
+    $$PsalmsMappingTableAnnotationComposer,
+    $$PsalmsMappingTableCreateCompanionBuilder,
+    $$PsalmsMappingTableUpdateCompanionBuilder,
+    (
+      PsalmsMappingEntry,
+      BaseReferences<_$AppDatabase, $PsalmsMappingTable, PsalmsMappingEntry>
+    ),
+    PsalmsMappingEntry,
+    PrefetchHooks Function()> {
+  $$PsalmsMappingTableTableManager(_$AppDatabase db, $PsalmsMappingTable table)
+      : super(TableManagerState(
+          db: db,
+          table: table,
+          createFilteringComposer: () =>
+              $$PsalmsMappingTableFilterComposer($db: db, $table: table),
+          createOrderingComposer: () =>
+              $$PsalmsMappingTableOrderingComposer($db: db, $table: table),
+          createComputedFieldComposer: () =>
+              $$PsalmsMappingTableAnnotationComposer($db: db, $table: table),
+          updateCompanionCallback: ({
+            Value<int> lxx = const Value.absent(),
+            Value<int> masoretic = const Value.absent(),
+            Value<String> titleAr = const Value.absent(),
+            Value<String?> note = const Value.absent(),
+          }) =>
+              PsalmsMappingCompanion(
+            lxx: lxx,
+            masoretic: masoretic,
+            titleAr: titleAr,
+            note: note,
+          ),
+          createCompanionCallback: ({
+            Value<int> lxx = const Value.absent(),
+            required int masoretic,
+            required String titleAr,
+            Value<String?> note = const Value.absent(),
+          }) =>
+              PsalmsMappingCompanion.insert(
+            lxx: lxx,
+            masoretic: masoretic,
+            titleAr: titleAr,
+            note: note,
+          ),
+          withReferenceMapper: (p0) => p0
+              .map((e) => (
+                    e.readTable<$PsalmsMappingTable, PsalmsMappingEntry>(table),
+                    BaseReferences<_$AppDatabase, $PsalmsMappingTable,
+                        PsalmsMappingEntry>(db, table, e)
+                  ))
+              .toList(),
+          prefetchHooksCallback: null,
+        ));
+}
+
+typedef $$PsalmsMappingTableProcessedTableManager = ProcessedTableManager<
+    _$AppDatabase,
+    $PsalmsMappingTable,
+    PsalmsMappingEntry,
+    $$PsalmsMappingTableFilterComposer,
+    $$PsalmsMappingTableOrderingComposer,
+    $$PsalmsMappingTableAnnotationComposer,
+    $$PsalmsMappingTableCreateCompanionBuilder,
+    $$PsalmsMappingTableUpdateCompanionBuilder,
+    (
+      PsalmsMappingEntry,
+      BaseReferences<_$AppDatabase, $PsalmsMappingTable, PsalmsMappingEntry>
+    ),
+    PsalmsMappingEntry,
+    PrefetchHooks Function()>;
 
 class $AppDatabaseManager {
   final _$AppDatabase _db;
@@ -21675,4 +22097,6 @@ class $AppDatabaseManager {
       $$HolyPlacesTableTableManager(_db, _db.holyPlaces);
   $$EmotionPrayersTableTableManager get emotionPrayers =>
       $$EmotionPrayersTableTableManager(_db, _db.emotionPrayers);
+  $$PsalmsMappingTableTableManager get psalmsMapping =>
+      $$PsalmsMappingTableTableManager(_db, _db.psalmsMapping);
 }

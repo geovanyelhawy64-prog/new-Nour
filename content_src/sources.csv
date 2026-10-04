@@ -1,0 +1,9 @@
+id,title_ar,title_en,publisher,edition,year,license_status,permission_ref,notes
+src_bible_vandyke,"الكتاب المقدس - ترجمة فاندايك","Van Dyck Arabic Bible","دار الكتاب المقدس في مصر","الطبعة الثالثة المنقحة",1865,"public_domain","","النص الرسمي المعتمد في الكنيسة القبطية الأرثوذكسية"
+src_agpeya_standard,"الأجبية - السبع صلوات النهارية والليلية","The Agpeya - Seven Daily Prayers","مطبعة دير السريان / دير المحرق","طبعة لجنة الطقوس البطريركية",1992,"church_copyright","permission_agpeya_1992","النص الطقسي الرسمي لصلاة الأجبية"
+src_katameros_surian,"القطمارس السنوي - دير السريان","Annual Katameros - Surian Monastery","مطبعة دير السريان","طبعة لجنة الطقوس البطريركية",1996,"church_copyright","permission_katameros_1996","جدول القراءات اليومية والأعياد والمواسم"
+src_synaxarium,"السنكسار القبطي - سيرة القديسين","Coptic Synaxarium","مطبعة دير السريان / الأنبا كيرلس السادس","الطبعة المحدثة",2003,"church_copyright","permission_synaxarium_2003","سير القديسين مرتبة بالتقويم القبطي"
+src_liturgies,"الخولاجي المقدس - القداسات الثلاث","The Divine Liturgies (Basil, Gregory, Cyril)","مطبعة دير السريان","طبعة لجنة الطقوس البطريركية",1998,"church_copyright","permission_liturgies_1998","نصوص القداسات الباسيلية والغريغورية والكيرلسية"
+src_pascha,"كتاب دلال البصخة المقدسة","Holy Pascha Week Book","مطبعة دير السريان","طبعة لجنة الطقوس البطريركية",2000,"church_copyright","permission_pascha_2000","قراءات وصلوات أسبوع الآلام والبصخة"
+src_hymns,"كتاب الإبصلمودية السنوية والكيهكية","Annual & Kiahk Psalmody","مطبعة دير السريان / الشماس أسامة لطفى","11 مجلد (أوسامة لطفى)",2010,"church_copyright","permission_hymns_2010","الألحان القبطية مع الترميز المقطعي (syllables notation)"
+src_psalms_mapping,"خريطة ترقيم المزامير (سبعينية ↔ ماسوريتي)","Psalms LXX-MT Cross-Reference","فريق نور التقني","داخلية",2026,"internal","","خريطة تقنية لحل ترقيم المزامير بين الأجبية (LXX) والكتاب المقدس (MT)"
