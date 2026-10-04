@@ -1,0 +1,64 @@
+name: noor_app
+description: Noor - التطبيق المسيحي الأرثوذكسي الشامل
+version: 2.4.0+10
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # قاعدة البيانات
+  drift: ^2.34.0
+  sqlite3: ^3.5.2
+  sqlite3_flutter_libs: ^0.5.42
+  path_provider: ^2.1.5
+  path: ^1.9.1
+
+  # إدارة الحالة
+  flutter_riverpod: ^2.6.1
+
+  # التنقل
+  go_router: ^14.8.1
+
+  # الخطوط والتصميم
+  google_fonts: ^6.3.3
+  cupertino_icons: ^1.0.8
+
+  # الإشعارات
+  flutter_local_notifications: ^19.5.0
+  timezone: ^0.10.1
+
+  # تخزين محلي للإعدادات
+  shared_preferences: ^2.5.5
+
+  # أدوات مساعدة
+  intl: ^0.20.2
+  collection: ^1.19.1
+  audioplayers: ^6.8.1
+  permission_handler: ^13.0.2
+  share_plus: '>=10.0.0 <=13.3.0'
+  flutter_timezone: ^5.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  drift_dev: ^2.34.0
+  build_runner: ^2.4.13
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/databases/
+    - assets/images/
+    - assets/images/icons/
+    - assets/fonts/
+
+  fonts:
+    - family: Antinoou
+      fonts:
+        - asset: assets/fonts/coptic.ttf
+

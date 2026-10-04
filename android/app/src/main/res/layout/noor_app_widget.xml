@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/widget_background"
+    android:padding="12dp">
+
+    <!-- شريط العنوان العلوي -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="6dp">
+
+        <TextView
+            android:id="@+id/widget_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="✝️ آية اليوم"
+            android:textColor="#D4AF37"
+            android:textSize="13sp"
+            android:textStyle="bold"
+            android:gravity="right" />
+
+        <TextView
+            android:id="@+id/widget_app_tag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="نور"
+            android:textColor="#88D4AF37"
+            android:textSize="11sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <!-- نص الآية اليومية -->
+    <TextView
+        android:id="@+id/widget_verse_text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="«أَنَا هُوَ نُورُ الْعَالَمِ. مَنْ يَتْبَعْنِي فَلاَ يَمْشِي فِي الظُّلْمَةِ»"
+        android:textColor="#FFFFFF"
+        android:textSize="13sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:maxLines="4"
+        android:ellipsize="end" />
+
+    <!-- شاهد الآية -->
+    <TextView
+        android:id="@+id/widget_verse_ref"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="(إنجيل يوحنا ٨ : ١٢)"
+        android:textColor="#D4AF37"
+        android:textSize="11sp"
+        android:gravity="center"
+        android:layout_marginTop="2dp"
+        android:layout_marginBottom="4dp" />
+
+    <!-- التاريخ القبطي في الأسفل -->
+    <TextView
+        android:id="@+id/widget_coptic_date"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="١٥ توت ١٧٤٢ ش"
+        android:textColor="#9E9E9E"
+        android:textSize="10sp"
+        android:gravity="center" />
+
+</LinearLayout>
